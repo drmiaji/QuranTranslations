@@ -1,7 +1,7 @@
 {
-  "urlsVersion": 1,
-  "translationsVersion": 1,
-  "recitationsVersion": 1,
-  "recitationTranslationsVersion": 1,
-  "tafsirsVersion": 1
+  "urls": 4,
+  "translations": 16,  
+  "recitations": 2,
+  "recitationTranslations": 5,
+  "tafsirs": 1
 }
