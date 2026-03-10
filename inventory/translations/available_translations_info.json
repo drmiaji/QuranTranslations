@@ -1,7 +1,25 @@
 {
   "translations": {
     "en": {
-      "en_hilali-khan": {
+      "en_irfan_ul_quran": {
+        "book": "Irfan-ul-Quran",
+        "author": "Professor Dr Muhammad Tahir-ul-Qadri",
+        "displayName": "Irfan-ul-Quran",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_irfan_ul_quran.json"
+      },
+	  "en_kanzul_imaan": {
+        "book": "Kanzul Imaan (English)",
+        "author": "Imam Ahmad Reza Khan",
+        "displayName": "Kanzul Imaan (English)",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_kanzul_imaan.json"
+      },
+	  "en_hilali-khan": {
         "book": "Hilali & Khan",
         "author": "Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan",
         "displayName": "Hilali & Khan",
@@ -84,7 +102,34 @@
       }
     },
     "bn": {
-      "bn_mujibur-rahman": {
+      "bn_irfan_ul_quran": {
+        "book": "Irfan-ul-Quran (Bengali)",
+        "author": "Professor Dr Muhammad Tahir-ul-Qadri",
+        "displayName": "ইরফান-উল-কুরআন",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/bn/bn_irfan_ul_quran.json"
+      },
+	  "bn_kanzul_imaan": {
+        "book": "Kanzul Imaan (Bengali)",
+        "author": "Imam Ahmad Reza Khan",
+        "displayName": "কানযুল ঈমান",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/bn/bn_kanzul_imaan.json"
+      },
+	  "bn_transliteration": {
+        "book": "Transliteration",
+        "author": "Transliteration",
+        "displayName": "----------",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/bn/bn_transliteration.json"
+      },
+	  "bn_mujibur-rahman": {
         "book": "বাংলা তাফসীর কুরআনুল কারীম",
         "author": "শেখ মুজিবুর রহমান",
         "displayName": "বাংলা তাফসীর কুরআনুল কারীম",
@@ -186,7 +231,16 @@
       }
     },
     "hi": {
-      "hi_azizul-haque": {
+      "hi_kanzul_imaan": {
+        "book": "कलामुर रहमान",
+        "author": "इमाम अहमद रज़ा ख़ान",
+        "displayName": "कलामुर रहमान",
+        "langCode": "hi",
+        "langName": "हिंदी",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/hi/hi_kanzul_imaan.json"
+      },
+	  "hi_azizul-haque": {
         "book": "मौलाना अज़ीज़ुल हक़ अल-उमरी",
         "author": "मौलाना अज़ीज़ुल हक़ अल-उमरी",
         "displayName": "अज़ीज़ुल हक़",
@@ -359,6 +413,26 @@
       }
     },
     "ur": {
+		"ur_irfan_ul_quran": {
+        "book": "عرفان القرآن",
+        "author": "شیخ الاسلام ڈاکٹر محمد طاہرالقادری",
+        "displayName": "عرفان القرآن",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_irfan_ul_quran.json",
+        "hasAudio": false
+      },
+	  "ur_kanzul_imaan": {
+        "book": "کنزالایمان",
+        "author": "امام احمد رضا خان",
+        "displayName": "کنزالایمان",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_kanzul_imaan.json",
+        "hasAudio": false
+      },
       "ur_israr-ahmad": {
         "book": "بیان القرآن",
         "author": "ڈاکٹر اسرار احمد",
