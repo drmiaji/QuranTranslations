@@ -121,9 +121,9 @@
         "downloadPath": "inventory/translations/bn/bn_kanzul_imaan.json"
       },
 	  "bn_transliteration": {
-        "book": "Transliteration",
+        "book": "বাংলা উচ্চারণ",
         "author": "Transliteration",
-        "displayName": "----------",
+        "displayName": "বাংলা উচ্চারণ",
         "langCode": "bn",
         "langName": "বাংলা",
         "lastUpdated": 1658517131580,
