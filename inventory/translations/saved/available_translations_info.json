@@ -1,0 +1,488 @@
+{
+  "translations": {
+    "en": {
+      "en_irfan_ul_quran": {
+        "book": "Irfan-ul-Quran",
+        "author": "Professor Dr Muhammad Tahir-ul-Qadri",
+        "displayName": "Irfan-ul-Quran",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_irfan_ul_quran.json"
+      },
+	  "en_kanzul_imaan": {
+        "book": "Kanzul Imaan (English)",
+        "author": "Imam Ahmad Reza Khan",
+        "displayName": "Kanzul Imaan (English)",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_kanzul_imaan.json"
+      },
+	  "en_hilali-khan": {
+        "book": "Hilali & Khan",
+        "author": "Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan",
+        "displayName": "Hilali & Khan",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_hilali-khan.json"
+      },
+      "en_pickthall": {
+        "book": "English Translation (Pickthall)",
+        "author": "Mohammed Marmaduke William Pickthall",
+        "displayName": "Pickthall",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_pickthall.json"
+      },
+      "en_yusuf-ali": {
+        "book": "English Translation (Yusuf Ali)",
+        "author": "Yusuf Ali",
+        "displayName": "Yusuf Ali",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_yusuf-ali.json"
+      },
+      "en_irving": {
+        "book": "Dr. T.B. Irving [Muhammad Hijab]",
+        "author": "Dr. T.B. Irving",
+        "displayName": "T.B. Irving",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_irving.json"
+      },
+      "en_taqi-usmani": {
+        "book": "Mufti Taqi Usmani",
+        "author": "Mufti Taqi Usmani",
+        "displayName": "Taqi Usmani",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_taqi-usmani.json"
+      },
+      "en_mahmoud-ghali": {
+        "book": "Dr. Mahmoud Ghali",
+        "author": "Dr. Mahmoud Ghali",
+        "displayName": "Mahmoud Ghali",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_mahmoud-ghali.json"
+      },
+      "en_transliteration": {
+        "book": "Transliteration",
+        "author": "",
+        "displayName": "Transliteration",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_transliteration.json"
+      },
+      "en_maududi": {
+        "book": "Tafhim-ul-Quran",
+        "author": "Syed Abul Ala Maududi",
+        "displayName": "Tafhim-ul-Quran",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/en/en_maududi.json"
+      },
+      "en_abdul-haleem": {
+        "book": "Abdul Haleem",
+        "author": "Abdul Haleem",
+        "displayName": "Abdul Haleem",
+        "langCode": "en",
+        "langName": "English",
+        "lastUpdated": 1681409892464,
+        "downloadPath": "inventory/translations/en/en_abdul-haleem.json"
+      }
+    },
+    "bn": {
+      "bn_irfan_ul_quran": {
+        "book": "Irfan-ul-Quran (Bengali)",
+        "author": "Professor Dr Muhammad Tahir-ul-Qadri",
+        "displayName": "ইরফান-উল-কুরআন",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/bn/bn_irfan_ul_quran.json"
+      },
+	  "bn_kanzul_imaan": {
+        "book": "Kanzul Imaan (Bengali)",
+        "author": "Imam Ahmad Reza Khan",
+        "displayName": "কানযুল ঈমান",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/bn/bn_kanzul_imaan.json"
+      },
+	  "bn_transliteration": {
+        "book": "বাংলা উচ্চারণ",
+        "author": "Transliteration",
+        "displayName": "বাংলা উচ্চারণ",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/bn/bn_transliteration.json"
+      },
+	  "bn_mujibur-rahman": {
+        "book": "বাংলা তাফসীর কুরআনুল কারীম",
+        "author": "শেখ মুজিবুর রহমান",
+        "displayName": "বাংলা তাফসীর কুরআনুল কারীম",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/bn/bn_mujibur-rahman.json"
+      }
+    },
+    "de": {
+      "de_abu-reda-muhammad": {
+        "book": "Abu Reda Muhammad ibn Ahmad",
+        "author": "Abu Reda Muhammad ibn Ahmad",
+        "displayName": "Abu Reda Muhammad",
+        "langCode": "de",
+        "langName": "Deutsch",
+        "lastUpdated": 1760753887374,
+        "downloadPath": "inventory/translations/de/de_abu-reda-muhammad.json"
+      },
+      "de_bubenheim": {
+        "book": "Frank Bubenheim and Dr. Nadeem Elyas",
+        "author": "Frank Bubenheim and Dr. Nadeem Elyas",
+        "displayName": "Bubenheim and Nadeem",
+        "langCode": "de",
+        "langName": "Deutsch",
+        "lastUpdated": 1680108109569,
+        "downloadPath": "inventory/translations/de/de_bubenheim.json"
+      }
+    },
+    "es": {
+      "es_isa_garcia": {
+        "book": "Sheikh Isa Garcia",
+        "author": "Sheikh Isa Garcia",
+        "displayName": "Sheikh Isa Garcia",
+        "langCode": "es",
+        "langName": "Español",
+        "lastUpdated": 1683443732091,
+        "downloadPath": "inventory/translations/es/es_isa_garcia.json"
+      },
+      "es_noor_international": {
+        "book": "Noor International Center",
+        "author": "Noor International Center",
+        "displayName": "Noor International Center",
+        "langCode": "es",
+        "langName": "Español",
+        "lastUpdated": 1683443732091,
+        "downloadPath": "inventory/translations/es/es_noor_international.json"
+      }
+    },
+    "fa": {
+      "fa_islamhouse": {
+        "book": "تفسیر راستین ترجمه تیسیر کریم الرحمن",
+        "author": "محمدگل گمشادزهی",
+        "displayName": "تفسیر راستین ترجمه تیسیر کریم الرحمن",
+        "langCode": "fa",
+        "langName": "فارسی",
+        "lastUpdated": 1678915800000,
+        "downloadPath": "inventory/translations/fa/fa_islamhouse.json"
+      },
+      "fa_taji-kal-dari": {
+        "book": "حسين تاجي كله داري",
+        "author": "حسين تاجي كله داري",
+        "displayName": "حسين تاجي كله داري",
+        "langCode": "fa",
+        "langName": "فارسی",
+        "lastUpdated": 1729081462836,
+        "downloadPath": "inventory/translations/fa/fa_taji-kal-dari.json"
+      }
+    },
+    "fr": {
+      "fr_hamidullah": {
+        "book": "Muhammad Hamidullah",
+        "author": "Muhammad Hamidullah",
+        "displayName": "Hamidullah",
+        "langCode": "fr",
+        "langName": "Français",
+        "lastUpdated": 1680108109569,
+        "downloadPath": "inventory/translations/fr/fr_hamidullah.json"
+      },
+      "fr_rashid": {
+        "book": "Rashid Maash",
+        "author": "Rashid Maash",
+        "displayName": "Rashid Maash",
+        "langCode": "fr",
+        "langName": "Français",
+        "lastUpdated": 1680108109569,
+        "downloadPath": "inventory/translations/fr/fr_rashid.json"
+      }
+    },
+    "gu": {
+      "gu_omari": {
+        "book": "રબીલા અલ-ઉમરી",
+        "author": "રબીલા અલ-ઉમરી",
+        "displayName": "રબીલા અલ-ઉમરી",
+        "langCode": "gu",
+        "langName": "ગુજરાતી",
+        "lastUpdated": 1681979248037,
+        "downloadPath": "inventory/translations/gu/gu_omari.json"
+      }
+    },
+    "hi": {
+      "hi_kanzul_imaan": {
+        "book": "कलामुर रहमान",
+        "author": "इमाम अहमद रज़ा ख़ान",
+        "displayName": "कलामुर रहमान",
+        "langCode": "hi",
+        "langName": "हिंदी",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/hi/hi_kanzul_imaan.json"
+      },
+	  "hi_azizul-haque": {
+        "book": "मौलाना अज़ीज़ुल हक़ अल-उमरी",
+        "author": "मौलाना अज़ीज़ुल हक़ अल-उमरी",
+        "displayName": "अज़ीज़ुल हक़",
+        "langCode": "hi",
+        "langName": "हिंदी",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/hi/hi_azizul-haque.json"
+      }
+    },
+    "in": {
+      "in_quran-complex": {
+        "book": "Kompleks Al Quran Raja Fahd",
+        "author": "Kompleks Al Quran Raja Fahd",
+        "displayName": "Kompleks Al Quran",
+        "langCode": "in",
+        "langName": "Bahasa Indonesia",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/in/in_quran-complex.json"
+      },
+      "in_ministry": {
+        "book": "Indonesian Islamic affairs ministry",
+        "author": "Indonesian Islamic affairs ministry",
+        "displayName": "Islamic affairs ministry",
+        "langCode": "in",
+        "langName": "Bahasa Indonesia",
+        "lastUpdated": 1681409892464,
+        "downloadPath": "inventory/translations/in/in_ministry.json"
+      }
+    },
+    "it": {
+      "it_rowwad": {
+        "book": "Rowwad Translation Center",
+        "author": "Rowwad Translation Center",
+        "displayName": "Rowwad Translation Center",
+        "langCode": "it",
+        "langName": "Italiano",
+        "lastUpdated": 1763890370852,
+        "downloadPath": "inventory/translations/it/it_rowwad.json"
+      },
+      "it_piccardo": {
+        "book": "Hamza Roberto Piccardo",
+        "author": "Hamza Roberto Piccardo",
+        "displayName": "Hamza Roberto Piccardo",
+        "langCode": "it",
+        "langName": "Italiano",
+        "lastUpdated": 1763890370852,
+        "downloadPath": "inventory/translations/it/it_piccardo.json"
+      }
+    },
+    "ku": {
+      "ku_bamoki": {
+        "book": "پوختەی قورئان",
+        "author": "محمد ساڵح بامۆکی",
+        "displayName": "پوختەی قورئان",
+        "langCode": "ku",
+        "langName": "کوردی",
+        "lastUpdated": 1679333216943,
+        "downloadPath": "inventory/translations/ku/ku_bamoki.json"
+      }
+    },
+    "ml": {
+      "ml_hamid-kanhi": {
+        "book": "അബ്ദുൽ ഹമീദ് & പറപ്പൂർ",
+        "author": "ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദ് മദനി, കുഞ്ഞിമുഹമ്മദ് പറപ്പൂർ",
+        "displayName": "അബ്ദുൽ ഹമീദ് & പറപ്പൂർ",
+        "langCode": "ml",
+        "langName": "മലയാളം",
+        "lastUpdated": 1681416922025,
+        "downloadPath": "inventory/translations/ml/ml_hamid-kanhi.json"
+      },
+      "ml_karakunnu": {
+        "book": "മുഹമ്മദ് കാരക്കുന്ന്, വാണിദാസ് എളയാവൂർ",
+        "author": "കാരക്കുന്ന്, എളയാവൂർ",
+        "displayName": "മുഹമ്മദ് കാരക്കുന്ന്, വാണിദാസ് എളയാവൂർ",
+        "langCode": "ml",
+        "langName": "മലയാളം",
+        "lastUpdated": 1681416922025,
+        "downloadPath": "inventory/translations/ml/ml_karakunnu.json"
+      }
+    },
+    "pl": {
+      "pl_bielawski": {
+        "book": "Józef Bielawski",
+        "author": "Józef Bielawski",
+        "displayName": "Józef Bielawski",
+        "langCode": "pl",
+        "langName": "polski",
+        "lastUpdated": 1729081462836,
+        "downloadPath": "inventory/translations/pl/pl_bielawski.json"
+      }
+    },
+    "ru": {
+      "ru_abu-adel": {
+        "book": "Abu Adel",
+        "author": "Abu Adel",
+        "displayName": "Abu Adel",
+        "langCode": "ru",
+        "langName": "русский",
+        "lastUpdated": 1760753887374,
+        "downloadPath": "inventory/translations/ru/ru_abu-adel.json"
+      },
+      "ru_ministry-of-awqaf": {
+        "book": "Ministry of Awqaf, Egypt",
+        "author": "Ministry of Awqaf, Egypt",
+        "displayName": "Ministry of Awqaf",
+        "langCode": "ru",
+        "langName": "русский",
+        "lastUpdated": 1680596959732,
+        "downloadPath": "inventory/translations/ru/ru_ministry-of-awqaf.json"
+      },
+      "ru_elmir-kuliev": {
+        "book": "Russian Translation (Elmir Kuliev)",
+        "author": "Elmir Kuliev",
+        "displayName": "Elmir Kuliev",
+        "langCode": "ru",
+        "langName": "русский",
+        "lastUpdated": 1680596959732,
+        "downloadPath": "inventory/translations/ru/ru_elmir-kuliev.json"
+      }
+    },
+    "sd": {
+      "sd_taj-mehmood-amroti": {
+        "book": "Taj Mehmood Amroti",
+        "author": "Taj Mehmood Amroti",
+        "displayName": "Taj Mehmood Amroti",
+        "langCode": "sd",
+        "langName": "سِنڌِي",
+        "lastUpdated": 1760753887374,
+        "downloadPath": "inventory/translations/sd/sd_taj-mehmood-amroti.json"
+      }
+    },
+    "tg": {
+      "tg_khawaja": {
+        "book": "Khoja Mirov Khoja Mir",
+        "author": "Khawaja Mirof and Khawaja Mir",
+        "displayName": "Khoja Mirov & Khoja Mir",
+        "langCode": "tg",
+        "langName": "Тоҷикӣ",
+        "lastUpdated": 1767970786093,
+        "downloadPath": "inventory/translations/tg/tg_khawaja.json"
+      },
+      "tg_rowwad": {
+        "book": "Rowwad Translation Center",
+        "author": "Rowwad Translation Center",
+        "displayName": "Rowwad Translation Center",
+        "langCode": "tg",
+        "langName": "Тоҷикӣ",
+        "lastUpdated": 1767970786093,
+        "downloadPath": "inventory/translations/tg/tg_rowwad.json"
+      }
+    },
+    "tr": {
+      "tr_diyanet": {
+        "book": "Turkish Translation (Diyanet)",
+        "author": "Diyanet Isleri",
+        "displayName": "Diyanet",
+        "langCode": "tr",
+        "langName": "Türkçe",
+        "lastUpdated": 1680342202171,
+        "downloadPath": "inventory/translations/tr/tr_diyanet.json"
+      },
+      "tr_elmalili": {
+        "book": "Elmalili Hamdi Yazir",
+        "author": "Elmalili Hamdi Yazir",
+        "displayName": "Elmalili Hamdi Yazir",
+        "langCode": "tr",
+        "langName": "Türkçe",
+        "lastUpdated": 1680342202171,
+        "downloadPath": "inventory/translations/tr/tr_elmalili.json"
+      }
+    },
+    "ur": {
+		"ur_irfan_ul_quran": {
+        "book": "عرفان القرآن",
+        "author": "شیخ الاسلام ڈاکٹر محمد طاہرالقادری",
+        "displayName": "عرفان القرآن",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_irfan_ul_quran.json",
+        "hasAudio": false
+      },
+	  "ur_kanzul_imaan": {
+        "book": "کنزالایمان",
+        "author": "امام احمد رضا خان",
+        "displayName": "کنزالایمان",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_kanzul_imaan.json",
+        "hasAudio": false
+      },
+      "ur_israr-ahmad": {
+        "book": "بیان القرآن",
+        "author": "ڈاکٹر اسرار احمد",
+        "displayName": "بیان القرآن",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_israr-ahmad.json"
+      },
+      "ur_jalandhari": {
+        "book": "فتح محمد جالندھری",
+        "author": "فتح محمد جالندھری",
+        "displayName": "جالندھری",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_jalandhari.json",
+        "hasAudio": true
+      },
+      "ur_maududi": {
+        "book": "تفہيم القرآن",
+        "author": "سید ابو الاعلیٰ مودودی",
+        "displayName": "تفہيم القرآن",
+        "langCode": "ur",
+        "langName": "اردو",
+        "lastUpdated": 1658517131580,
+        "downloadPath": "inventory/translations/ur/ur_maududi.json"
+      }
+    },
+    "uk": {
+      "uk_mikhailo": {
+        "book": "Dr. Mikhailo Yaqubovic",
+        "author": "Dr. Mikhailo Yaqubovic",
+        "displayName": "Dr. Mikhailo Yaqubovic",
+        "langCode": "uk",
+        "langName": "українська",
+        "lastUpdated": 1707048963878,
+        "downloadPath": "inventory/translations/uk/uk_mikhailo.json"
+      }
+    },
+    "zh": {
+      "zh_majian": {
+        "book": "马坚译本",
+        "author": "马坚",
+        "displayName": "马坚译本",
+        "langCode": "zh",
+        "langName": "简体中文",
+        "lastUpdated": 1762959566114,
+        "downloadPath": "inventory/translations/zh/zh_majian.json"
+      }
+    }
+  }
+}
