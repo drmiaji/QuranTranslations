@@ -108,7 +108,7 @@
         "author": "Professor Dr Muhammad Tahir-ul-Qadri",
         "displayName": "ইরফান-উল-কুরআন",
         "langCode": "bn",
-        "langName": "বাংলা",
+        "langName": "Bengali",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/bn/bn_irfan_ul_quran.json"
       },
@@ -117,25 +117,25 @@
         "author": "Imam Ahmad Reza Khan",
         "displayName": "কানযুল ঈমান",
         "langCode": "bn",
-        "langName": "বাংলা",
+        "langName": "Bengali",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/bn/bn_kanzul_imaan.json"
       },
       "bn_transliteration": {
-        "book": "বাংলা উচ্চারণ",
+        "book": "Bengali উচ্চারণ",
         "author": "Transliteration",
-        "displayName": "বাংলা উচ্চারণ",
+        "displayName": "Bengali উচ্চারণ",
         "langCode": "bn",
-        "langName": "বাংলা",
+        "langName": "Bengali",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/bn/bn_transliteration.json"
       },
       "bn_mujibur-rahman": {
-        "book": "বাংলা তাফসীর কুরআনুল কারীম",
+        "book": "Bengali তাফসীর কুরআনুল কারীম",
         "author": "শেখ মুজিবুর রহমান",
-        "displayName": "বাংলা তাফসীর কুরআনুল কারীম",
+        "displayName": "Bengali তাফসীর কুরআনুল কারীম",
         "langCode": "bn",
-        "langName": "বাংলা",
+        "langName": "Bengali",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/bn/bn_mujibur-rahman.json"
       },
@@ -144,7 +144,7 @@
         "author": "Muhiuddin Khan",
         "displayName": "Muhiuddin Khan",
         "langCode": "bn",
-        "langName": "বাংলা",
+        "langName": "Bengali",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/bn/bn_muhiuddinkhan.json"
       },
@@ -153,7 +153,7 @@
         "author": "Zohurul Hoque",
         "displayName": "Zohurul Hoque",
         "langCode": "bn",
-        "langName": "বাংলা",
+        "langName": "Bengali",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/bn/bn_zohurulhoque.json"
       }
@@ -1111,7 +1111,7 @@
         "author": "इमाम अहमद रज़ा ख़ान",
         "displayName": "कलामुर रहमान",
         "langCode": "hi",
-        "langName": "हिंदी",
+        "langName": "Hindi",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/hi/hi_kanzul_imaan.json"
       },
@@ -1120,7 +1120,7 @@
         "author": "Maulana Azizul Haque Al Umari",
         "displayName": "Maulana Azizul Haque Al Umari",
         "langCode": "hi",
-        "langName": "हिंदी",
+        "langName": "Hindi",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/hi/hi_maulanaazizulha.json"
       },
@@ -1129,7 +1129,7 @@
         "author": "Muhammad Farooq Khan And Muhammad Ahmed",
         "displayName": "Muhammad Farooq Khan And Muhammad Ahmed",
         "langCode": "hi",
-        "langName": "हिंदी",
+        "langName": "Hindi",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/hi/hi_muhammadfarooqk.json"
       },
@@ -1138,7 +1138,7 @@
         "author": "Suhel Farooq Khan And Saifur Rahman Nadwi",
         "displayName": "Khan And Nadwi",
         "langCode": "hi",
-        "langName": "हिंदी",
+        "langName": "Hindi",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/hi/hi_suhelfarooqkhan.json"
       }
@@ -1650,7 +1650,7 @@
         "author": "Józef Bielawski",
         "displayName": "Józef Bielawski",
         "langCode": "pl",
-        "langName": "polski",
+        "langName": "Polish",
         "lastUpdated": 1729081462836,
         "downloadPath": "inventory/translations/pl/pl_bielawski.json"
       }
@@ -1919,7 +1919,7 @@
         "author": "Sheikh Isa Garcia",
         "displayName": "Sheikh Isa Garcia",
         "langCode": "es",
-        "langName": "Español",
+        "langName": "Spanish",
         "lastUpdated": 1683443732091,
         "downloadPath": "inventory/translations/es/es_isa_garcia.json"
       },
@@ -1973,7 +1973,7 @@
         "author": "Noor International Center",
         "displayName": "Noor International Center",
         "langCode": "es",
-        "langName": "Español",
+        "langName": "Spanish",
         "lastUpdated": 1683443732091,
         "downloadPath": "inventory/translations/es/es_noor_international.json"
       },
@@ -2505,7 +2505,7 @@
         "author": "شیخ الاسلام ڈاکٹر محمد طاہرالقادری",
         "displayName": "عرفان القرآن",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_irfan_ul_quran.json",
         "hasAudio": false
@@ -2515,7 +2515,7 @@
         "author": "امام احمد رضا خان",
         "displayName": "کنزالایمان",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_kanzul_imaan.json",
         "hasAudio": false
@@ -2525,7 +2525,7 @@
         "author": "ڈاکٹر اسرار احمد",
         "displayName": "بیان القرآن",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_israr-ahmad.json"
       },
@@ -2534,7 +2534,7 @@
         "author": "فتح محمد جالندھری",
         "displayName": "جالندھری",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_jalandhari.json",
         "hasAudio": true
