@@ -2,7 +2,7 @@
   "translations": {
     "aa": {
       "aa_sheikhmahmoudab": {
-        "book": "aar-sheikhmahmoudab",
+        "book": "Tarjamatul Qur'an Al-Karim",
         "author": "Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars",
         "displayName": "Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars",
         "langCode": "aa",
@@ -13,7 +13,7 @@
     },
     "ac": {
       "ac_tgkhmahjiddinju": {
-        "book": "ace-tgkhmahjiddinju",
+        "book": "Tafsir Pase",
         "author": "Tgk. H. Mahjiddin Jusuf",
         "displayName": "Tgk. H. Mahjiddin Jusuf",
         "langCode": "ac",
@@ -24,7 +24,7 @@
     },
     "af": {
       "af_imammabaker": {
-        "book": "afr-imammabaker",
+        "book": "Die Heilige Qur'an",
         "author": "Imam M. A. Baker",
         "displayName": "Imam M. A. Baker",
         "langCode": "af",
@@ -33,9 +33,9 @@
         "downloadPath": "inventory/translations/af/af_imammabaker.json"
       }
     },
-	"am": {
+    "am": {
       "am_muhammedsadiqan": {
-        "book": "am-muhammedsadiqan",
+        "book": "የቅዱስ ቁርዓን ትርጉም",
         "author": "Muhammed Sadiq And Muhammed Sani Habib",
         "displayName": "Muhammed Sadiq And Muhammed Sani Habib",
         "langCode": "am",
@@ -43,10 +43,10 @@
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/am/am_muhammedsadiqan.json"
       }
-    },    
+    },
     "az": {
       "az_alikhanmusayev": {
-        "book": "aze-alikhanmusayev",
+        "book": "Quranın Azerbaycanca Tərcüməsi (Əli Xan Musayev)",
         "author": "Alikhan Musayev",
         "displayName": "Alikhan Musayev",
         "langCode": "az",
@@ -55,7 +55,7 @@
         "downloadPath": "inventory/translations/az/az_alikhanmusayev.json"
       },
       "az_khanmusayev": {
-        "book": "aze-khanmusayev",
+        "book": "Quranın Azerbaycanca Tərcüməsi (Xan Musayev)",
         "author": "Khan Musayev",
         "displayName": "Khan Musayev",
         "langCode": "az",
@@ -64,7 +64,7 @@
         "downloadPath": "inventory/translations/az/az_khanmusayev.json"
       },
       "az_vasimmammadaliy": {
-        "book": "aze-vasimmammadaliy",
+        "book": "Quranın Azerbaycanca Tərcüməsi (Vasim Məmmədəliyev)",
         "author": "Vasim Mammadaliyev And Ziya Bunyadov",
         "displayName": "Vasim Mammadaliyev And Ziya Bunyadov",
         "langCode": "az",
@@ -75,7 +75,7 @@
     },
     "ba": {
       "ba_deenmuhammad": {
-        "book": "bam-deenmuhammad",
+        "book": "Tarjamatu Al-Qur'an (Deen Muhammad)",
         "author": "Deen Muhammad",
         "displayName": "Deen Muhammad",
         "langCode": "ba",
@@ -84,7 +84,7 @@
         "downloadPath": "inventory/translations/ba/ba_deenmuhammad.json"
       },
       "ba_fodisulimankant": {
-        "book": "bam-fodisulimankant",
+        "book": "Tarjamatu Al-Qur'an (Fodi Suliman Kanti)",
         "author": "Fodi Suliman Kanti",
         "displayName": "Fodi Suliman Kanti",
         "langCode": "ba",
@@ -93,7 +93,7 @@
         "downloadPath": "inventory/translations/ba/ba_fodisulimankant.json"
       },
       "ba_karamobabamamad": {
-        "book": "bam-karamobabamamad",
+        "book": "Tarjamatu Al-Qur'an (Karamo Baba Mamadi Jani)",
         "author": "Karamo Baba Mamadi Jani",
         "displayName": "Karamo Baba Mamadi Jani",
         "langCode": "ba",
@@ -122,7 +122,7 @@
         "downloadPath": "inventory/translations/bn/bn_kanzul_imaan.json"
       },
       "bn_transliteration": {
-        "book": "Bengali উচ্চারণ",
+        "book": "বাংলা উচ্চারণ",
         "author": "Transliteration",
         "displayName": "Bengali উচ্চারণ",
         "langCode": "bn",
@@ -131,7 +131,7 @@
         "downloadPath": "inventory/translations/bn/bn_transliteration.json"
       },
       "bn_mujibur-rahman": {
-        "book": "Bengali তাফসীর কুরআনুল কারীম",
+        "book": "বাংলা তাফসীর কুরআনুল কারীম",
         "author": "শেখ মুজিবুর রহমান",
         "displayName": "Bengali তাফসীর কুরআনুল কারীম",
         "langCode": "bn",
@@ -140,7 +140,7 @@
         "downloadPath": "inventory/translations/bn/bn_mujibur-rahman.json"
       },
       "bn_muhiuddinkhan": {
-        "book": "ben-muhiuddinkhan",
+        "book": "Al-Quranul Karim (Muhiuddin Khan)",
         "author": "Muhiuddin Khan",
         "displayName": "Muhiuddin Khan",
         "langCode": "bn",
@@ -149,7 +149,7 @@
         "downloadPath": "inventory/translations/bn/bn_muhiuddinkhan.json"
       },
       "bn_zohurulhoque": {
-        "book": "ben-zohurulhoque",
+        "book": "The Quran (Zohurul Hoque)",
         "author": "Zohurul Hoque",
         "displayName": "Zohurul Hoque",
         "langCode": "bn",
@@ -160,7 +160,7 @@
     },
     "be": {
       "be_ramdaneatmansou": {
-        "book": "ber-ramdaneatmansou",
+        "book": "Asefru n Lqur'an Amaziɣ",
         "author": "Ramdane At Mansour",
         "displayName": "Ramdane At Mansour",
         "langCode": "be",
@@ -171,7 +171,7 @@
     },
     "bs": {
       "bs_besimkorkut": {
-        "book": "bos-besimkorkut",
+        "book": "Kur'an s prevodom (Besim Korkut)",
         "author": "Besim Korkut",
         "displayName": "Besim Korkut",
         "langCode": "bs",
@@ -180,7 +180,7 @@
         "downloadPath": "inventory/translations/bs/bs_besimkorkut.json"
       },
       "bs_korkut": {
-        "book": "bos-korkut",
+        "book": "Kur'an s prevodom (Korkut)",
         "author": "Korkut",
         "displayName": "Korkut",
         "langCode": "bs",
@@ -189,7 +189,7 @@
         "downloadPath": "inventory/translations/bs/bs_korkut.json"
       },
       "bs_muhamedmehanovi": {
-        "book": "bos-muhamedmehanovi",
+        "book": "Kur'an s prijevodom (Muhamed Mehanovic)",
         "author": "Muhamed Mehanovic",
         "displayName": "Muhamed Mehanovic",
         "langCode": "bs",
@@ -198,7 +198,7 @@
         "downloadPath": "inventory/translations/bs/bs_muhamedmehanovi.json"
       },
       "bs_mustafamlivo": {
-        "book": "bos-mustafamlivo",
+        "book": "Kur'an s prijevodom (Mustafa Mlivo)",
         "author": "Mustafa Mlivo",
         "displayName": "Mustafa Mlivo",
         "langCode": "bs",
@@ -207,7 +207,7 @@
         "downloadPath": "inventory/translations/bs/bs_mustafamlivo.json"
       },
       "bs_transliterim": {
-        "book": "bos-transliterim",
+        "book": "Kur'an Transliteracija",
         "author": "Transliterim",
         "displayName": "Transliterim",
         "langCode": "bs",
@@ -216,7 +216,7 @@
         "downloadPath": "inventory/translations/bs/bs_transliterim.json"
       },
       "bs_wwwislamhouseco": {
-        "book": "bos-wwwislamhouseco",
+        "book": "Kur'an s prijevodom (Islamhouse)",
         "author": "Www.islamhouse.com",
         "displayName": "Www.islamhouse.com",
         "langCode": "bs",
@@ -227,7 +227,7 @@
     },
     "bu": {
       "bu_tzvetantheophan": {
-        "book": "bul-tzvetantheophan",
+        "book": "Светият Коран (Tzvetan Theophanov)",
         "author": "Tzvetan Theophanov",
         "displayName": "Tzvetan Theophanov",
         "langCode": "bu",
@@ -238,7 +238,7 @@
     },
     "ca": {
       "ca_yousseflyoussi": {
-        "book": "cat-yousseflyoussi",
+        "book": "L'Alcorà (Youssef Lyoussi)",
         "author": "Youssef Lyoussi",
         "displayName": "Youssef Lyoussi",
         "langCode": "ca",
@@ -249,7 +249,7 @@
     },
     "ce": {
       "ce_arnykl": {
-        "book": "ces-arnykl",
+        "book": "Korán (A. R. Nykl)",
         "author": "A. R. Nykl",
         "displayName": "A. R. Nykl",
         "langCode": "ce",
@@ -258,7 +258,7 @@
         "downloadPath": "inventory/translations/ce/ce_arnykl.json"
       },
       "ce_hadiabdollahian": {
-        "book": "ces-hadiabdollahian",
+        "book": "Korán (Hadi Abdollahian)",
         "author": "Hadi Abdollahian",
         "displayName": "Hadi Abdollahian",
         "langCode": "ce",
@@ -267,7 +267,7 @@
         "downloadPath": "inventory/translations/ce/ce_hadiabdollahian.json"
       },
       "ce_prekladihrbek": {
-        "book": "ces-prekladihrbek",
+        "book": "Korán (I. Hrbek)",
         "author": "Preklad I. Hrbek",
         "displayName": "Preklad I. Hrbek",
         "langCode": "ce",
@@ -278,7 +278,7 @@
     },
     "da": {
       "da_muhammadbabaght": {
-        "book": "dag-muhammadbabaght",
+        "book": "Al-Qur'an Dagbani Translation",
         "author": "Muhammad Baba Ghtobo",
         "displayName": "Muhammad Baba Ghtobo",
         "langCode": "da",
@@ -289,7 +289,7 @@
     },
     "dk": {
       "dk_hadiabdollahian": {
-        "book": "dan-hadiabdollahian",
+        "book": "Koranen (Hadi Abdollahian)",
         "author": "Hadi Abdollahian",
         "displayName": "Hadi Abdollahian",
         "langCode": "dk",
@@ -298,7 +298,7 @@
         "downloadPath": "inventory/translations/dk/dk_hadiabdollahian.json"
       },
       "dk_vandetaal": {
-        "book": "dan-vandetaal",
+        "book": "Koranen (Van De Taal)",
         "author": "Van De Taal",
         "displayName": "Van De Taal",
         "langCode": "dk",
@@ -309,7 +309,7 @@
     },
     "de": {
       "de_aburidamuhammad": {
-        "book": "deu-aburidamuhammad",
+        "book": "Der edle Qur'an (Abu Rida Muhammad)",
         "author": "Abu Rida Muhammad Ibn Ahmad Ibn Rassoul",
         "displayName": "Abu Rida Muhammad",
         "langCode": "de",
@@ -318,7 +318,7 @@
         "downloadPath": "inventory/translations/de/de_aburidamuhammad.json"
       },
       "de_adeltheodorkhou": {
-        "book": "deu-adeltheodorkhou",
+        "book": "Der Koran (Adel Theodor Khoury)",
         "author": "Adel Theodor Khoury",
         "displayName": "Adel Theodor Khoury",
         "langCode": "de",
@@ -327,7 +327,7 @@
         "downloadPath": "inventory/translations/de/de_adeltheodorkhou.json"
       },
       "de_amirzaidan": {
-        "book": "deu-amirzaidan",
+        "book": "Der Heilige Qur'an (Amir Zaidan)",
         "author": "Amir Zaidan",
         "displayName": "Amir Zaidan",
         "langCode": "de",
@@ -336,7 +336,7 @@
         "downloadPath": "inventory/translations/de/de_amirzaidan.json"
       },
       "de_asfbubenheimand": {
-        "book": "deu-asfbubenheimand",
+        "book": "Interpretation der Bedeutungen des Noblen Qur'an (Bubenheim & Elyas)",
         "author": "A. S. F. Bubenheim And N. Elyas",
         "displayName": "A. S. F. Bubenheim And N. Elyas",
         "langCode": "de",
@@ -345,7 +345,7 @@
         "downloadPath": "inventory/translations/de/de_asfbubenheimand.json"
       },
       "de_bubenheim": {
-        "book": "Frank Bubenheim and Dr. Nadeem Elyas",
+        "book": "Interpretation der Bedeutungen des Noblen Qur'an (Bubenheim & Nadeem)",
         "author": "Frank Bubenheim and Dr. Nadeem Elyas",
         "displayName": "Bubenheim and Nadeem",
         "langCode": "de",
@@ -354,7 +354,7 @@
         "downloadPath": "inventory/translations/de/de_bubenheim.json"
       },
       "de_frankbubenheima": {
-        "book": "deu-frankbubenheima",
+        "book": "Interpretation der Bedeutungen des Noblen Qur'an (Frank Bubenheim)",
         "author": "Frank Bubenheim And Nadeem Elyas",
         "displayName": "Frank Bubenheim And Nadeem Elyas",
         "langCode": "de",
@@ -365,7 +365,7 @@
     },
     "di": {
       "di_officeofthepres": {
-        "book": "div-officeofthepres",
+        "book": "ކީރިތި ޤުރުއާނުގެ މާނައިގެ ތަރުޖަމާ",
         "author": "Office Of The President Of Maldives",
         "displayName": "Office Of The President Of Maldives",
         "langCode": "di",
@@ -394,7 +394,7 @@
         "downloadPath": "inventory/translations/en/en_kanzul_imaan.json"
       },
       "en_abdelhaleem": {
-        "book": "eng-abdelhaleem",
+        "book": "The Qur'an (Abdel Haleem)",
         "author": "Abdel Haleem",
         "displayName": "Abdel Haleem",
         "langCode": "en",
@@ -403,7 +403,7 @@
         "downloadPath": "inventory/translations/en/en_abdelhaleem.json"
       },
       "en_abdulhye": {
-        "book": "eng-abdulhye",
+        "book": "The Holy Quran (Abdul Hye)",
         "author": "Abdul Hye",
         "displayName": "Abdul Hye",
         "langCode": "en",
@@ -412,7 +412,7 @@
         "downloadPath": "inventory/translations/en/en_abdulhye.json"
       },
       "en_abdullahyusufal": {
-        "book": "eng-abdullahyusufal",
+        "book": "The Holy Quran (Abdullah Yusuf Ali)",
         "author": "Abdullah Yusuf Ali",
         "displayName": "Abdullah Yusuf Ali",
         "langCode": "en",
@@ -421,7 +421,7 @@
         "downloadPath": "inventory/translations/en/en_abdullahyusufal.json"
       },
       "en_abdulmajiddarya": {
-        "book": "eng-abdulmajiddarya",
+        "book": "The Holy Quran (Abdul Majid Daryabadi)",
         "author": "Abdul Majid Daryabadi",
         "displayName": "Abdul Majid Daryabadi",
         "langCode": "en",
@@ -430,7 +430,7 @@
         "downloadPath": "inventory/translations/en/en_abdulmajiddarya.json"
       },
       "en_abulalamaududi": {
-        "book": "eng-abulalamaududi",
+        "book": "The Meaning of the Quran (Abul Ala Maududi)",
         "author": "Abul Ala Maududi",
         "displayName": "Abul Ala Maududi",
         "langCode": "en",
@@ -439,7 +439,7 @@
         "downloadPath": "inventory/translations/en/en_abulalamaududi.json"
       },
       "en_ahmedali": {
-        "book": "eng-ahmedali",
+        "book": "Al-Quran: A Contemporary Translation (Ahmed Ali)",
         "author": "Ahmed Ali",
         "displayName": "Ahmed Ali",
         "langCode": "en",
@@ -448,7 +448,7 @@
         "downloadPath": "inventory/translations/en/en_ahmedali.json"
       },
       "en_aishabewley": {
-        "book": "eng-aishabewley",
+        "book": "The Noble Quran (Aisha Bewley)",
         "author": "Aisha Bewley",
         "displayName": "Aisha Bewley",
         "langCode": "en",
@@ -457,7 +457,7 @@
         "downloadPath": "inventory/translations/en/en_aishabewley.json"
       },
       "en_ajarberry": {
-        "book": "eng-ajarberry",
+        "book": "The Koran Interpreted (A. J. Arberry)",
         "author": "A. J. Arberry",
         "displayName": "A. J. Arberry",
         "langCode": "en",
@@ -466,7 +466,7 @@
         "downloadPath": "inventory/translations/en/en_ajarberry.json"
       },
       "en_albilalmuhammad": {
-        "book": "eng-albilalmuhammad",
+        "book": "The Holy Quran (Al Bilal Muhammad)",
         "author": "Al Bilal Muhammad Et Al",
         "displayName": "Al Bilal Muhammad Et Al",
         "langCode": "en",
@@ -475,7 +475,7 @@
         "downloadPath": "inventory/translations/en/en_albilalmuhammad.json"
       },
       "en_alibakhtiarinej": {
-        "book": "eng-alibakhtiarinej",
+        "book": "Quran: A Reformist Translation (Ali Bakhtiari Nejad)",
         "author": "Ali Bakhtiari Nejad",
         "displayName": "Ali Bakhtiari Nejad",
         "langCode": "en",
@@ -484,7 +484,7 @@
         "downloadPath": "inventory/translations/en/en_alibakhtiarinej.json"
       },
       "en_aliquliqarai": {
-        "book": "eng-aliquliqarai",
+        "book": "The Quran with a Phrase-by-Phrase English Translation (Ali Quli Qarai)",
         "author": "Ali Quli Qarai",
         "displayName": "Ali Quli Qarai",
         "langCode": "en",
@@ -493,7 +493,7 @@
         "downloadPath": "inventory/translations/en/en_aliquliqarai.json"
       },
       "en_aliunal": {
-        "book": "eng-aliunal",
+        "book": "The Quran with Annotated Interpretation (Ali Unal)",
         "author": "Ali Unal",
         "displayName": "Ali Unal",
         "langCode": "en",
@@ -502,7 +502,7 @@
         "downloadPath": "inventory/translations/en/en_aliunal.json"
       },
       "en_almuntakhabfita": {
-        "book": "eng-almuntakhabfita",
+        "book": "Al-Muntakhab Fi Tafsir Al-Quran Al-Karim",
         "author": "Almuntakhab Fi Tafsir Alquran Alkarim",
         "displayName": "Almuntakhab Fi Tafsir Alquran Alkarim",
         "langCode": "en",
@@ -511,7 +511,7 @@
         "downloadPath": "inventory/translations/en/en_almuntakhabfita.json"
       },
       "en_drkamalomar": {
-        "book": "eng-drkamalomar",
+        "book": "The Book (Dr Kamal Omar)",
         "author": "Dr Kamal Omar",
         "displayName": "Dr Kamal Omar",
         "langCode": "en",
@@ -520,7 +520,7 @@
         "downloadPath": "inventory/translations/en/en_drkamalomar.json"
       },
       "en_drlalehbakhtiar": {
-        "book": "eng-drlalehbakhtiar",
+        "book": "The Sublime Quran (Dr Laleh Bakhtiar)",
         "author": "Dr Laleh Bakhtiar",
         "displayName": "Dr Laleh Bakhtiar",
         "langCode": "en",
@@ -529,7 +529,7 @@
         "downloadPath": "inventory/translations/en/en_drlalehbakhtiar.json"
       },
       "en_drmunirmunshey": {
-        "book": "eng-drmunirmunshey",
+        "book": "Glorious Quran (Dr Munir Munshey)",
         "author": "Dr Munir Munshey",
         "displayName": "Dr Munir Munshey",
         "langCode": "en",
@@ -538,7 +538,7 @@
         "downloadPath": "inventory/translations/en/en_drmunirmunshey.json"
       },
       "en_edwardhenrypalm": {
-        "book": "eng-edwardhenrypalm",
+        "book": "The Qur'an (Edward Henry Palmer)",
         "author": "Edward Henry Palmer",
         "displayName": "Edward Henry Palmer",
         "langCode": "en",
@@ -547,7 +547,7 @@
         "downloadPath": "inventory/translations/en/en_edwardhenrypalm.json"
       },
       "en_farookmalik": {
-        "book": "eng-farookmalik",
+        "book": "Al-Quran: Guidance for Mankind (Farook Malik)",
         "author": "Farook Malik",
         "displayName": "Farook Malik",
         "langCode": "en",
@@ -556,7 +556,7 @@
         "downloadPath": "inventory/translations/en/en_farookmalik.json"
       },
       "en_georgesale": {
-        "book": "eng-georgesale",
+        "book": "The Koran (George Sale)",
         "author": "George Sale",
         "displayName": "George Sale",
         "langCode": "en",
@@ -565,7 +565,7 @@
         "downloadPath": "inventory/translations/en/en_georgesale.json"
       },
       "en_hamidsaziz": {
-        "book": "eng-hamidsaziz",
+        "book": "The Quran (Hamid S Aziz)",
         "author": "Hamid S Aziz",
         "displayName": "Hamid S Aziz",
         "langCode": "en",
@@ -574,7 +574,7 @@
         "downloadPath": "inventory/translations/en/en_hamidsaziz.json"
       },
       "en_hilali-khan": {
-        "book": "Hilali & Khan",
+        "book": "The Noble Quran (Hilali & Khan)",
         "author": "Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan",
         "displayName": "Hilali & Khan",
         "langCode": "en",
@@ -583,7 +583,7 @@
         "downloadPath": "inventory/translations/en/en_hilali-khan.json"
       },
       "en_johnmedowsrodwe": {
-        "book": "eng-johnmedowsrodwe",
+        "book": "The Koran (John Medows Rodwell)",
         "author": "John Medows Rodwell",
         "displayName": "John Medows Rodwell",
         "langCode": "en",
@@ -592,7 +592,7 @@
         "downloadPath": "inventory/translations/en/en_johnmedowsrodwe.json"
       },
       "en_literal": {
-        "book": "eng-literal",
+        "book": "Quran: A Literal Translation",
         "author": "Literal",
         "displayName": "Literal",
         "langCode": "en",
@@ -601,7 +601,7 @@
         "downloadPath": "inventory/translations/en/en_literal.json"
       },
       "en_miraneesorigina": {
-        "book": "eng-miraneesorigina",
+        "book": "The Quran (Mir Anees Original)",
         "author": "Mir Anees Original",
         "displayName": "Mir Anees Original",
         "langCode": "en",
@@ -610,7 +610,7 @@
         "downloadPath": "inventory/translations/en/en_miraneesorigina.json"
       },
       "en_miraneesuddin": {
-        "book": "eng-miraneesuddin",
+        "book": "The Quran: Guidance for Mankind (Mir Aneesuddin)",
         "author": "Mir Aneesuddin",
         "displayName": "Mir Aneesuddin",
         "langCode": "en",
@@ -619,7 +619,7 @@
         "downloadPath": "inventory/translations/en/en_miraneesuddin.json"
       },
       "en_mohammadhabibsh": {
-        "book": "eng-mohammadhabibsh",
+        "book": "The Holy Quran (Mohammad Habib Shakir)",
         "author": "Mohammad Habib Shakir",
         "displayName": "Mohammad Habib Shakir",
         "langCode": "en",
@@ -628,7 +628,7 @@
         "downloadPath": "inventory/translations/en/en_mohammadhabibsh.json"
       },
       "en_mohammadshafi": {
-        "book": "eng-mohammadshafi",
+        "book": "The Noble Quran (Mohammad Shafi)",
         "author": "Mohammad Shafi",
         "displayName": "Mohammad Shafi",
         "langCode": "en",
@@ -637,7 +637,7 @@
         "downloadPath": "inventory/translations/en/en_mohammadshafi.json"
       },
       "en_mohammedmarmadu": {
-        "book": "eng-mohammedmarmadu",
+        "book": "The Meaning of the Glorious Quran (Pickthall)",
         "author": "Mohammed Marmaduke William Pickthall",
         "displayName": "Pickthall",
         "langCode": "en",
@@ -646,7 +646,7 @@
         "downloadPath": "inventory/translations/en/en_mohammedmarmadu.json"
       },
       "en_muftitaqiusmani": {
-        "book": "eng-muftitaqiusmani",
+        "book": "The Noble Quran (Mufti Taqi Usmani)",
         "author": "Mufti Taqi Usmani",
         "displayName": "Mufti Taqi Usmani",
         "langCode": "en",
@@ -655,7 +655,7 @@
         "downloadPath": "inventory/translations/en/en_muftitaqiusmani.json"
       },
       "en_muhammadasad": {
-        "book": "eng-muhammadasad",
+        "book": "The Message of the Quran (Muhammad Asad)",
         "author": "Muhammad Asad",
         "displayName": "Muhammad Asad",
         "langCode": "en",
@@ -664,7 +664,7 @@
         "downloadPath": "inventory/translations/en/en_muhammadasad.json"
       },
       "en_muhammadmahmoud": {
-        "book": "eng-muhammadmahmoud",
+        "book": "Towards Understanding the Ever-Glorious Quran (Muhammad Mahmoud Ghali)",
         "author": "Muhammad Mahmoud Ghali",
         "displayName": "Muhammad Mahmoud Ghali",
         "langCode": "en",
@@ -673,7 +673,7 @@
         "downloadPath": "inventory/translations/en/en_muhammadmahmoud.json"
       },
       "en_muhammadsarwar": {
-        "book": "eng-muhammadsarwar",
+        "book": "The Quran (Muhammad Sarwar)",
         "author": "Muhammad Sarwar",
         "displayName": "Muhammad Sarwar",
         "langCode": "en",
@@ -682,7 +682,7 @@
         "downloadPath": "inventory/translations/en/en_muhammadsarwar.json"
       },
       "en_muhammadtaqiudd": {
-        "book": "eng-muhammadtaqiudd",
+        "book": "The Noble Quran (Al-Hilali & Muhsin Khan)",
         "author": "Muhammad Taqi Ud Din Al Hilali And Muhammad Muhsin Khan",
         "displayName": "Muhammad Taqi Ud Din Al Hilali And Muhammad Muhsin Khan",
         "langCode": "en",
@@ -691,7 +691,7 @@
         "downloadPath": "inventory/translations/en/en_muhammadtaqiudd.json"
       },
       "en_muhammadtaqiusm": {
-        "book": "eng-muhammadtaqiusm",
+        "book": "The Noble Quran (Muhammad Taqi Usmani)",
         "author": "Muhammad Taqi Usmani",
         "displayName": "Muhammad Taqi Usmani",
         "langCode": "en",
@@ -700,7 +700,7 @@
         "downloadPath": "inventory/translations/en/en_muhammadtaqiusm.json"
       },
       "en_mustafakhattaba": {
-        "book": "eng-mustafakhattaba",
+        "book": "The Clear Quran (Mustafa Khattab)",
         "author": "Mustafa Khattab-Allah Edition",
         "displayName": "Mustafa Khattab-Allah Edition",
         "langCode": "en",
@@ -709,7 +709,7 @@
         "downloadPath": "inventory/translations/en/en_mustafakhattaba.json"
       },
       "en_njdawood": {
-        "book": "eng-njdawood",
+        "book": "The Koran (N J Dawood)",
         "author": "N J Dawood",
         "displayName": "N J Dawood",
         "langCode": "en",
@@ -718,7 +718,7 @@
         "downloadPath": "inventory/translations/en/en_njdawood.json"
       },
       "en_rowwadtranslati": {
-        "book": "eng-rowwadtranslati",
+        "book": "The Noble Quran (Rowwad Translation Center)",
         "author": "Rowwad Translation Center",
         "displayName": "Rowwad Translation Center",
         "langCode": "en",
@@ -727,7 +727,7 @@
         "downloadPath": "inventory/translations/en/en_rowwadtranslati.json"
       },
       "en_safikaskas": {
-        "book": "eng-safikaskas",
+        "book": "The Quran with References to the Bible (Safi Kaskas)",
         "author": "Safi Kaskas",
         "displayName": "Safi Kaskas",
         "langCode": "en",
@@ -736,7 +736,7 @@
         "downloadPath": "inventory/translations/en/en_safikaskas.json"
       },
       "en_sahih-international": {
-        "book": "eng-sahih-international",
+        "book": "Sahih International",
         "author": "Sahih International",
         "displayName": "Sahih International",
         "langCode": "en",
@@ -745,7 +745,7 @@
         "downloadPath": "inventory/translations/en/en_sahih-international.json"
       },
       "en_safiurrahmanalm": {
-        "book": "eng-safiurrahmanalm",
+        "book": "The Noble Quran (Safi Ur Rahman Al Mubarakpuri)",
         "author": "Safi Ur Rahman Al Mubarakpuri",
         "displayName": "Safi Ur Rahman Al Mubarakpuri",
         "langCode": "en",
@@ -754,7 +754,7 @@
         "downloadPath": "inventory/translations/en/en_safiurrahmanalm.json"
       },
       "en_shabbirahmed": {
-        "book": "eng-shabbirahmed",
+        "book": "Quran As It Explains Itself (Shabbir Ahmed)",
         "author": "Shabbir Ahmed",
         "displayName": "Shabbir Ahmed",
         "langCode": "en",
@@ -763,7 +763,7 @@
         "downloadPath": "inventory/translations/en/en_shabbirahmed.json"
       },
       "en_syedvickarahame": {
-        "book": "eng-syedvickarahame",
+        "book": "The Quran (Syed Vickar Ahamed)",
         "author": "Syed Vickar Ahamed",
         "displayName": "Syed Vickar Ahamed",
         "langCode": "en",
@@ -772,7 +772,7 @@
         "downloadPath": "inventory/translations/en/en_syedvickarahame.json"
       },
       "en_talalaitaninewt": {
-        "book": "eng-talalaitaninewt",
+        "book": "Easy Quran (Talal A Itani)",
         "author": "Talal A Itani New Translation",
         "displayName": "Talal A Itani New Translation",
         "langCode": "en",
@@ -781,7 +781,7 @@
         "downloadPath": "inventory/translations/en/en_talalaitaninewt.json"
       },
       "en_tbirving": {
-        "book": "eng-tbirving",
+        "book": "The Quran (T. B. Irving)",
         "author": "Tbirving",
         "displayName": "Tbirving",
         "langCode": "en",
@@ -790,7 +790,7 @@
         "downloadPath": "inventory/translations/en/en_tbirving.json"
       },
       "en_themonotheistgr": {
-        "book": "eng-themonotheistgr",
+        "book": "The Quran: A Monotheist Translation",
         "author": "The Monotheist Group Edition",
         "displayName": "The Monotheist Group Edition",
         "langCode": "en",
@@ -799,7 +799,7 @@
         "downloadPath": "inventory/translations/en/en_themonotheistgr.json"
       },
       "en_thestudyquran": {
-        "book": "eng-thestudyquran",
+        "book": "The Study Quran (Seyyed Hossein Nasr et al.)",
         "author": "The Study Quran",
         "displayName": "The Study Quran",
         "langCode": "en",
@@ -808,8 +808,8 @@
         "downloadPath": "inventory/translations/en/en_thestudyquran.json"
       },
       "en_transliteration": {
-        "book": "Transliteration",
-        "author": "",
+        "book": "Quran Transliteration",
+        "author": "English Transliteration",
         "displayName": "Transliteration",
         "langCode": "en",
         "langName": "English",
@@ -817,7 +817,7 @@
         "downloadPath": "inventory/translations/en/en_transliteration.json"
       },
       "en_ummmuhammad": {
-        "book": "eng-ummmuhammad",
+        "book": "Saheeh International (Umm Muhammad)",
         "author": "Umm Muhammad",
         "displayName": "Umm Muhammad",
         "langCode": "en",
@@ -826,7 +826,7 @@
         "downloadPath": "inventory/translations/en/en_ummmuhammad.json"
       },
       "en_wahiduddinkhan": {
-        "book": "eng-wahiduddinkhan",
+        "book": "The Quran (Wahiduddin Khan)",
         "author": "Wahiduddin Khan",
         "displayName": "Wahiduddin Khan",
         "langCode": "en",
@@ -837,7 +837,7 @@
     },
     "ep": {
       "ep_hadiabdollahian": {
-        "book": "epo-hadiabdollahian",
+        "book": "La Korano (Hadi Abdollahian)",
         "author": "Hadi Abdollahian",
         "displayName": "Hadi Abdollahian",
         "langCode": "ep",
@@ -848,7 +848,7 @@
     },
     "fa": {
       "fa_abdolmohammaday": {
-        "book": "fas-abdolmohammaday",
+        "book": "ترجمه قرآن (آیتی)",
         "author": "Abdolmohammad Ayati",
         "displayName": "Abdolmohammad Ayati",
         "langCode": "fa",
@@ -857,7 +857,7 @@
         "downloadPath": "inventory/translations/fa/fa_abdolmohammaday.json"
       },
       "fa_abolfazlbahramp": {
-        "book": "fas-abolfazlbahramp",
+        "book": "ترجمه قرآن (بهرام‌پور)",
         "author": "Abolfazl Bahrampour",
         "displayName": "Abolfazl Bahrampour",
         "langCode": "fa",
@@ -866,7 +866,7 @@
         "downloadPath": "inventory/translations/fa/fa_abolfazlbahramp.json"
       },
       "fa_bahaoddinkhorra": {
-        "book": "fas-bahaoddinkhorra",
+        "book": "ترجمه قرآن (خرمشاهی)",
         "author": "Baha Oddin Khorramshahi",
         "displayName": "Baha Oddin Khorramshahi",
         "langCode": "fa",
@@ -875,7 +875,7 @@
         "downloadPath": "inventory/translations/fa/fa_bahaoddinkhorra.json"
       },
       "fa_drhussientagi": {
-        "book": "fas-drhussientagi",
+        "book": "ترجمه قرآن (دکتر تقی)",
         "author": "Dr. Hussien Tagi",
         "displayName": "Dr. Hussien Tagi",
         "langCode": "fa",
@@ -884,7 +884,7 @@
         "downloadPath": "inventory/translations/fa/fa_drhussientagi.json"
       },
       "fa_hussainansarian": {
-        "book": "fas-hussainansarian",
+        "book": "ترجمه قرآن (انصاریان)",
         "author": "Hussain Ansarian",
         "displayName": "Hussain Ansarian",
         "langCode": "fa",
@@ -893,7 +893,7 @@
         "downloadPath": "inventory/translations/fa/fa_hussainansarian.json"
       },
       "fa_islamhousecompe": {
-        "book": "fas-islamhousecompe",
+        "book": "ترجمه قرآن (اسلام‌هاوس)",
         "author": "Islamhouse.com Persian Team",
         "displayName": "Islamhouse.com Persian Team",
         "langCode": "fa",
@@ -911,7 +911,7 @@
         "downloadPath": "inventory/translations/fa/fa_taji-kal-dari.json"
       },
       "fa_mahdielahighoms": {
-        "book": "fas-mahdielahighoms",
+        "book": "ترجمه قرآن (الهی قمشه‌ای)",
         "author": "Mahdi Elahi Ghomshei",
         "displayName": "Mahdi Elahi Ghomshei",
         "langCode": "fa",
@@ -920,7 +920,7 @@
         "downloadPath": "inventory/translations/fa/fa_mahdielahighoms.json"
       },
       "fa_mohammadkazemmo": {
-        "book": "fas-mohammadkazemmo",
+        "book": "ترجمه قرآن (معزی)",
         "author": "Mohammad Kazem Moezzi",
         "displayName": "Mohammad Kazem Moezzi",
         "langCode": "fa",
@@ -929,7 +929,7 @@
         "downloadPath": "inventory/translations/fa/fa_mohammadkazemmo.json"
       },
       "fa_mohammadmahdifo": {
-        "book": "fas-mohammadmahdifo",
+        "book": "ترجمه قرآن (فولادوند)",
         "author": "Mohammad Mahdi Fooladvand",
         "displayName": "Mohammad Mahdi Fooladvand",
         "langCode": "fa",
@@ -938,7 +938,7 @@
         "downloadPath": "inventory/translations/fa/fa_mohammadmahdifo.json"
       },
       "fa_mohammadsadeqit": {
-        "book": "fas-mohammadsadeqit",
+        "book": "ترجمه قرآن (صادقی تهرانی)",
         "author": "Mohammad Sadeqi Tehrani",
         "displayName": "Mohammad Sadeqi Tehrani",
         "langCode": "fa",
@@ -947,7 +947,7 @@
         "downloadPath": "inventory/translations/fa/fa_mohammadsadeqit.json"
       },
       "fa_mohsengharaati": {
-        "book": "fas-mohsengharaati",
+        "book": "تفسیر نور (غراتی)",
         "author": "Mohsen Gharaati",
         "displayName": "Mohsen Gharaati",
         "langCode": "fa",
@@ -956,7 +956,7 @@
         "downloadPath": "inventory/translations/fa/fa_mohsengharaati.json"
       },
       "fa_mostafakhorramd": {
-        "book": "fas-mostafakhorramd",
+        "book": "ترجمه قرآن (خرمدل)",
         "author": "Mostafa Khorramdel",
         "displayName": "Mostafa Khorramdel",
         "langCode": "fa",
@@ -965,7 +965,7 @@
         "downloadPath": "inventory/translations/fa/fa_mostafakhorramd.json"
       },
       "fa_nasermakaremshi": {
-        "book": "fas-nasermakaremshi",
+        "book": "ترجمه قرآن (مکارم شیرازی)",
         "author": "Naser Makarem Shirazi",
         "displayName": "Naser Makarem Shirazi",
         "langCode": "fa",
@@ -974,7 +974,7 @@
         "downloadPath": "inventory/translations/fa/fa_nasermakaremshi.json"
       },
       "fa_sayyedjalaloddi": {
-        "book": "fas-sayyedjalaloddi",
+        "book": "ترجمه قرآن (مجتبوی)",
         "author": "Sayyed Jalaloddin Mojtabavi",
         "displayName": "Sayyed Jalaloddin Mojtabavi",
         "langCode": "fa",
@@ -983,7 +983,7 @@
         "downloadPath": "inventory/translations/fa/fa_sayyedjalaloddi.json"
       },
       "fa_unknown": {
-        "book": "fas-unknown",
+        "book": "ترجمه قرآن (ناشناس)",
         "author": "Unknown",
         "displayName": "Unknown",
         "langCode": "fa",
@@ -993,8 +993,8 @@
       }
     },
     "tl": {
-      "fil_abdullatifeduar": {
-        "book": "tl-abdullatifeduar",
+      "tl_abdullatifeduar": {
+        "book": "Ang Banal na Quran (Abdullatif Eduardo M. Arceo)",
         "author": "Abdullatif Eduardo M. Arceo",
         "displayName": "Abdullatif Eduardo M. Arceo",
         "langCode": "tl",
@@ -1003,7 +1003,7 @@
         "downloadPath": "inventory/translations/tl/tl_abdullatifeduar.json"
       },
       "tl_wwwislamhouseco": {
-        "book": "tl-wwwislamhouseco",
+        "book": "Ang Banal na Quran (Islamhouse)",
         "author": "Www.islamhouse.com",
         "displayName": "Www.islamhouse.com",
         "langCode": "tl",
@@ -1012,9 +1012,9 @@
         "downloadPath": "inventory/translations/tl/tl_wwwislamhouseco.json"
       }
     },
-    "fi": {      
+    "fi": {
       "fi_unknown": {
-        "book": "fi-unknown",
+        "book": "Koraani (Suomennos)",
         "author": "Unknown",
         "displayName": "Unknown",
         "langCode": "fi",
@@ -1025,7 +1025,7 @@
     },
     "fr": {
       "fr_islamicfoundati": {
-        "book": "fr-islamicfoundati",
+        "book": "Le Saint Coran (Islamic Foundation)",
         "author": "Islamic Foundation",
         "displayName": "Islamic Foundation",
         "langCode": "fr",
@@ -1034,7 +1034,7 @@
         "downloadPath": "inventory/translations/fr/fr_islamicfoundati.json"
       },
       "fr_muhammadhameedu": {
-        "book": "fr-muhammadhameedu",
+        "book": "Le Saint Coran (Muhammad Hameedullah)",
         "author": "Muhammad Hameedullah",
         "displayName": "Muhammad Hameedullah",
         "langCode": "fr",
@@ -1043,7 +1043,7 @@
         "downloadPath": "inventory/translations/fr/fr_muhammadhameedu.json"
       },
       "fr_rashidmaash": {
-        "book": "fra-rashidmaash",
+        "book": "Le Saint Coran (Rashid Maash)",
         "author": "Rashid Maash",
         "displayName": "Rashid Maash",
         "langCode": "fr",
@@ -1052,7 +1052,7 @@
         "downloadPath": "inventory/translations/fr/fr_rashidmaash.json"
       },
       "fr_shahnazsaidiben": {
-        "book": "fra-shahnazsaidiben",
+        "book": "Le Saint Coran (Shahnaz Saidi Benbetka)",
         "author": "Shahnaz Saidi Benbetka",
         "displayName": "Shahnaz Saidi Benbetka",
         "langCode": "fr",
@@ -1063,7 +1063,7 @@
     },
     "fu": {
       "fu_rowadtranslatio": {
-        "book": "ful-rowadtranslatio",
+        "book": "Al-Qur'an (Rowad Translation Center)",
         "author": "Rowad Translation Center And Islamhouse",
         "displayName": "Rowad Translation Center And Islamhouse",
         "langCode": "fu",
@@ -1072,9 +1072,9 @@
         "downloadPath": "inventory/translations/fu/fu_rowadtranslatio.json"
       }
     },
-    "gu": {      
+    "gu": {
       "gu_rabilaalomari": {
-        "book": "guj-rabilaalomari",
+        "book": "કુરઆન શરીફ (Rabila Al Omari)",
         "author": "Rabila Al Omari",
         "displayName": "Rabila Al Omari",
         "langCode": "gu",
@@ -1085,7 +1085,7 @@
     },
     "ha": {
       "ha_abubakarmahmoud": {
-        "book": "hau-abubakarmahmoud",
+        "book": "Alqur'ani Mai Girma (Abubakar Mahmoud Gumi)",
         "author": "Abubakar Mahmoud Gumi",
         "displayName": "Abubakar Mahmoud Gumi",
         "langCode": "ha",
@@ -1096,7 +1096,7 @@
     },
     "he": {
       "he_darusalamhousei": {
-        "book": "heb-darusalamhousei",
+        "book": "הקוראן הקדוש (Darusalam House)",
         "author": "Darusalam House In Jerusalem",
         "displayName": "Darusalam House In Jerusalem",
         "langCode": "he",
@@ -1116,7 +1116,7 @@
         "downloadPath": "inventory/translations/hi/hi_kanzul_imaan.json"
       },
       "hi_maulanaazizulha": {
-        "book": "hin-maulanaazizulha",
+        "book": "क़ुरआन मजीद (मौलाना अज़ीज़ुल हक़)",
         "author": "Maulana Azizul Haque Al Umari",
         "displayName": "Maulana Azizul Haque Al Umari",
         "langCode": "hi",
@@ -1125,7 +1125,7 @@
         "downloadPath": "inventory/translations/hi/hi_maulanaazizulha.json"
       },
       "hi_muhammadfarooqk": {
-        "book": "hin-muhammadfarooqk",
+        "book": "क़ुरआन मजीद (मुहम्मद फ़ारूक़ खान)",
         "author": "Muhammad Farooq Khan And Muhammad Ahmed",
         "displayName": "Muhammad Farooq Khan And Muhammad Ahmed",
         "langCode": "hi",
@@ -1134,7 +1134,7 @@
         "downloadPath": "inventory/translations/hi/hi_muhammadfarooqk.json"
       },
       "hi_suhelfarooqkhan": {
-        "book": "hin-suhelfarooqkhan",
+        "book": "क़ुरआन मजीद (सुहेल फ़ारूक़ खान)",
         "author": "Suhel Farooq Khan And Saifur Rahman Nadwi",
         "displayName": "Khan And Nadwi",
         "langCode": "hi",
@@ -1145,7 +1145,7 @@
     },
     "hr": {
       "hr_unknown": {
-        "book": "hrv-unknown",
+        "book": "Časni Kur'an (Prijevod)",
         "author": "Unknown",
         "displayName": "Unknown",
         "langCode": "hr",
@@ -1156,7 +1156,7 @@
     },
     "hu": {
       "hu_drahmedabdelrah": {
-        "book": "hun-drahmedabdelrah",
+        "book": "A Szent Korán (Dr. Ahmed Abdel Rahman)",
         "author": "Dr. Ahmed Abdel Rahman Okfat Tashaab",
         "displayName": "Rahman & Tashaab",
         "langCode": "hu",
@@ -1167,7 +1167,7 @@
     },
     "il": {
       "il_abdulazizgroaal": {
-        "book": "ilp-abdulazizgroaal",
+        "book": "Al-Qur'an (Abdul Aziz Gro Aalem Saromintang)",
         "author": "Abdul Aziz Gro Aalem Saromintang",
         "displayName": "Abdul Aziz Gro Aalem Saromintang",
         "langCode": "il",
@@ -1178,7 +1178,7 @@
     },
     "in": {
       "in_indonesianislam": {
-        "book": "ind-indonesianislam",
+        "book": "Al-Qur'an dan Terjemahnya (Kemenag RI)",
         "author": "Indonesian Islamic Affairs Ministry",
         "displayName": "Indonesian Islamic Affairs Ministry",
         "langCode": "in",
@@ -1187,7 +1187,7 @@
         "downloadPath": "inventory/translations/in/in_indonesianislam.json"
       },
       "in_jalaladdinalmah": {
-        "book": "ind-jalaladdinalmah",
+        "book": "Tafsir Al-Jalalain (Al-Mahalli & As-Suyuti)",
         "author": "Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti",
         "displayName": "Al-Mahalli And As-Suyuti",
         "langCode": "in",
@@ -1196,7 +1196,7 @@
         "downloadPath": "inventory/translations/in/in_jalaladdinalmah.json"
       },
       "in_kingfahdcomplex": {
-        "book": "ind-kingfahdcomplex",
+        "book": "Al-Qur'an dan Terjemahnya (King Fahd Complex)",
         "author": "King Fahd Complex",
         "displayName": "King Fahd Complex",
         "langCode": "in",
@@ -1205,7 +1205,7 @@
         "downloadPath": "inventory/translations/in/in_kingfahdcomplex.json"
       },
       "in_muhammadquraish": {
-        "book": "ind-muhammadquraish",
+        "book": "Al-Mishbah (Muhammad Quraish Shihab)",
         "author": "Muhammad Quraish Shihab Et Al.",
         "displayName": "Muhammad Quraish Shihab Et Al.",
         "langCode": "in",
@@ -1214,7 +1214,7 @@
         "downloadPath": "inventory/translations/in/in_muhammadquraish.json"
       },
       "in_thesabiqcompany": {
-        "book": "ind-thesabiqcompany",
+        "book": "Al-Qur'an dan Terjemahnya (Sabiq)",
         "author": "The Sabiq Company",
         "displayName": "The Sabiq Company",
         "langCode": "in",
@@ -1225,7 +1225,7 @@
     },
     "it": {
       "it_hamzarobertopic": {
-        "book": "ita-hamzarobertopic",
+        "book": "Il Corano (Hamza Roberto Piccardo)",
         "author": "Hamza Roberto Piccardo",
         "displayName": "Hamza Roberto Piccardo",
         "langCode": "it",
@@ -1234,7 +1234,7 @@
         "downloadPath": "inventory/translations/it/it_hamzarobertopic.json"
       },
       "it_rowwad": {
-        "book": "Rowwad Translation Center",
+        "book": "Il Corano (Rowwad Translation Center)",
         "author": "Rowwad Translation Center",
         "displayName": "Rowwad Translation Center",
         "langCode": "it",
@@ -1243,7 +1243,7 @@
         "downloadPath": "inventory/translations/it/it_rowwad.json"
       },
       "it_piccardo": {
-        "book": "Hamza Roberto Piccardo",
+        "book": "Il Corano (Piccardo)",
         "author": "Hamza Roberto Piccardo",
         "displayName": "Hamza Roberto Piccardo",
         "langCode": "it",
@@ -1254,7 +1254,7 @@
     },
     "ja": {
       "ja_unknown": {
-        "book": "jav-unknown",
+        "book": "Al-Qur'an Basa Jawa",
         "author": "Unknown",
         "displayName": "Unknown",
         "langCode": "ja",
@@ -1265,7 +1265,7 @@
     },
     "jp": {
       "jp_ryoichimita": {
-        "book": "jp-ryoichimita",
+        "book": "コーラン (三田了一)",
         "author": "Ryoichi Mita",
         "displayName": "Ryoichi Mita",
         "langCode": "jp",
@@ -1276,7 +1276,7 @@
     },
     "ka": {
       "ka_khalifahaltaich": {
-        "book": "kaz-khalifahaltaich",
+        "book": "Құран Кәрім (Khalifah Altai)",
         "author": "Khalifah Altai Charity Foundation",
         "displayName": "Khalifah Altai Charity Foundation",
         "langCode": "ka",
@@ -1287,7 +1287,7 @@
     },
     "kh": {
       "kh_cambodianmuslim": {
-        "book": "kh_cambodianmuslim",
+        "book": "អាល់គុរអានដ៏ខ្ពង់ខ្ពស់",
         "author": "Cambodian Muslim Community Development",
         "displayName": "Cambodian Muslim Community Development",
         "langCode": "kh",
@@ -1298,7 +1298,7 @@
     },
     "ki": {
       "ki_shamsaldinhakim": {
-        "book": "ki_shamsaldinhakim",
+        "book": "Куран Керим (Shams Al Din Hakimov)",
         "author": "Shams Al Din Hakimov",
         "displayName": "Shams Al Din Hakimov",
         "langCode": "ki",
@@ -1309,7 +1309,7 @@
     },
     "km": {
       "km_unknown": {
-        "book": "kmr-unknown",
+        "book": "Qur'ana Pîroz (Kurmanji)",
         "author": "Unknown",
         "displayName": "Unknown",
         "langCode": "km",
@@ -1320,7 +1320,7 @@
     },
     "kn": {
       "kn_abdussalamputhi": {
-        "book": "kn_abdussalamputhi",
+        "book": "Al-Qur'an (Abdus Salam Puthi)",
         "author": "Abdus Salam Puthi",
         "displayName": "Abdus Salam Puthi",
         "langCode": "kn",
@@ -1331,7 +1331,7 @@
     },
     "ko": {
       "ko_hamidchoi": {
-        "book": "kor-hamidchoi",
+        "book": "성 꾸란 (Hamid Choi)",
         "author": "Hamid Choi",
         "displayName": "Hamid Choi",
         "langCode": "ko",
@@ -1340,7 +1340,7 @@
         "downloadPath": "inventory/translations/ko/ko_hamidchoi.json"
       },
       "ko_unknown": {
-        "book": "kor-unknown",
+        "book": "성 꾸란 (번역)",
         "author": "Unknown",
         "displayName": "Unknown",
         "langCode": "ko",
@@ -1360,7 +1360,7 @@
         "downloadPath": "inventory/translations/ku/ku_bamoki.json"
       },
       "ku_burhanmuhammada": {
-        "book": "kur-burhanmuhammada",
+        "book": "وەرگێڕانی قورئانی پیرۆز (Burhan Muhammad Amin)",
         "author": "Burhan Muhammad Amin",
         "displayName": "Burhan Muhammad Amin",
         "langCode": "ku",
@@ -1369,7 +1369,7 @@
         "downloadPath": "inventory/translations/ku/ku_burhanmuhammada.json"
       },
       "ku_muhammadsalehba": {
-        "book": "kur-muhammadsalehba",
+        "book": "وەرگێڕانی قورئانی پیرۆز (Muhammad Saleh Bamoki)",
         "author": "Muhammad Saleh Bamoki",
         "displayName": "Muhammad Saleh Bamoki",
         "langCode": "ku",
@@ -1380,7 +1380,7 @@
     },
     "la": {
       "la_hadiabdollahian": {
-        "book": "lat-hadiabdollahian",
+        "book": "Quran Latine (Hadi Abdollahian)",
         "author": "Hadi Abdollahian",
         "displayName": "Hadi Abdollahian",
         "langCode": "la",
@@ -1391,7 +1391,7 @@
     },
     "li": {
       "li_zakariyamuhamme": {
-        "book": "lin-zakariyamuhamme",
+        "book": "Alkoran Mosantu (Zakariya Muhammed Balingongo)",
         "author": "Zakariya Muhammed Balingongo",
         "displayName": "Zakariya Muhammed Balingongo",
         "langCode": "li",
@@ -1402,7 +1402,7 @@
     },
     "lu": {
       "lu_mohammadramadha": {
-        "book": "lu-mohammadramadha",
+        "book": "Al-Qur'an (Mohammad Ramadhan Sebwa et al.)",
         "author": "Mohammad Ramadhan Sebwa, Ramadhan Hajj Ndeka, Ismail Were, Musa Murasi Salim Kukuya, Yusuf Shiundu Malala, Yahya Wafula Ojwang, Haroon Albert Msah",
         "displayName": "mohammadramadha",
         "langCode": "lu",
@@ -1410,8 +1410,8 @@
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/lu/lu_mohammadramadha.json"
       }
-    }, 
-	"ml": {
+    },
+    "ml": {
       "ml_hamid-kanhi": {
         "book": "അബ്ദുൽ ഹമീദ് & പറപ്പൂർ",
         "author": "ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദ് മദനി, കുഞ്ഞിമുഹമ്മദ് പറപ്പൂർ",
@@ -1433,7 +1433,7 @@
     },
     "mt": {
       "mt_martinrzammitmu": {
-        "book": "mt_martinrzammitmu",
+        "book": "Il-Qur'an il-Qaddis (Zammit & El Sadi)",
         "author": "Martin R. Zammit, Muhammad El Sadi",
         "displayName": "Martin R. Zammit, Muhammad El Sadi",
         "langCode": "mt",
@@ -1444,7 +1444,7 @@
     },
     "mr": {
       "mr_muhammadshafiia": {
-        "book": "mar-muhammadshafiia",
+        "book": "कुरआण शरीफ (Muhammad Shafi I Ansari)",
         "author": "Muhammad Shafi I Ansari",
         "displayName": "Muhammad Shafi I Ansari",
         "langCode": "mr",
@@ -1455,7 +1455,7 @@
     },
     "mk": {
       "mk_macedonianschol": {
-        "book": "mkd-macedonianschol",
+        "book": "Свети Куран (Македонски Научници)",
         "author": "Macedonian Scholars",
         "displayName": "Macedonian Scholars",
         "langCode": "mk",
@@ -1464,7 +1464,7 @@
         "downloadPath": "inventory/translations/mk/mk_macedonianschol.json"
       },
       "mk_sheikhhassangil": {
-        "book": "mkd-sheikhhassangil",
+        "book": "Свети Куран (Sheikh Hassan Gilo)",
         "author": "Sheikh Hassan Gilo",
         "displayName": "Sheikh Hassan Gilo",
         "langCode": "mk",
@@ -1475,7 +1475,7 @@
     },
     "mrw": {
       "mrw_guroalimsaroman": {
-        "book": "mrw-guroalimsaroman",
+        "book": "Al-Qur'an (Guro Alim Saromantang)",
         "author": "Guro Alim Saromantang",
         "displayName": "Guro Alim Saromantang",
         "langCode": "mrw",
@@ -1485,8 +1485,8 @@
       }
     },
     "ms": {
-      "msa_abdullahmuhamma": {
-        "book": "ms-abdullahmuhamma",
+      "ms_abdullahmuhamma": {
+        "book": "Tafsir Pimpinan Al-Rahman (Abdullah Muhammad Basmeih)",
         "author": "Abdullah Muhammad Basmeih",
         "displayName": "Abdullah Muhammad Basmeih",
         "langCode": "ms",
@@ -1497,7 +1497,7 @@
     },
     "my": {
       "my_alinuyin": {
-        "book": "mya-alinuyin",
+        "book": "သန့်ရှင်းသောကုရ်အာန် (Alin U Yin)",
         "author": "Alin U Yin",
         "displayName": "Alin U Yin",
         "langCode": "my",
@@ -1506,7 +1506,7 @@
         "downloadPath": "inventory/translations/my/my_alinuyin.json"
       },
       "my_basein": {
-        "book": "mya-basein",
+        "book": "သန့်ရှင်းသောကုရ်အာန် (Ba Sein)",
         "author": "Ba Sein",
         "displayName": "Ba Sein",
         "langCode": "my",
@@ -1515,7 +1515,7 @@
         "downloadPath": "inventory/translations/my/my_basein.json"
       },
       "my_ghazimohammadha": {
-        "book": "mya-ghazimohammadha",
+        "book": "သန့်ရှင်းသောကုရ်အာန် (Ghazi Mohammad Hashim)",
         "author": "Ghazi Mohammad Hashim",
         "displayName": "Ghazi Mohammad Hashim",
         "langCode": "my",
@@ -1524,7 +1524,7 @@
         "downloadPath": "inventory/translations/my/my_ghazimohammadha.json"
       },
       "my_hashimtinmyint": {
-        "book": "mya-hashimtinmyint",
+        "book": "သန့်ရှင်းသောကုရ်အာန် (Hashim Tin Myint)",
         "author": "Hashim Tin Myint",
         "displayName": "Hashim Tin Myint",
         "langCode": "my",
@@ -1535,7 +1535,7 @@
     },
     "ne": {
       "ne_ahlalhadithcent": {
-        "book": "ne-ahlalhadithcent",
+        "book": "पवित्र कुरान (Ahl Al Hadith Central Society)",
         "author": "Ahl Al Hadith Central Society Of Nepal",
         "displayName": "Ahl Al Hadith Central Society Of Nepal",
         "langCode": "ne",
@@ -1546,7 +1546,7 @@
     },
     "nl": {
       "nl_fredleemhuis": {
-        "book": "nl-fredleemhuis",
+        "book": "De Koran (Fred Leemhuis)",
         "author": "Fred Leemhuis",
         "displayName": "Fred Leemhuis",
         "langCode": "nl",
@@ -1555,7 +1555,7 @@
         "downloadPath": "inventory/translations/nl/nl_fredleemhuis.json"
       },
       "nl_salomokeyzer": {
-        "book": "nl-salomokeyzer",
+        "book": "De Koran (Salomo Keyzer)",
         "author": "Salomo Keyzer",
         "displayName": "Salomo Keyzer",
         "langCode": "nl",
@@ -1564,7 +1564,7 @@
         "downloadPath": "inventory/translations/nl/nl_salomokeyzer.json"
       },
       "nl_sofianssiregar": {
-        "book": "nl-sofianssiregar",
+        "book": "De Koran (Sofian S. Siregar)",
         "author": "Sofian S. Siregar",
         "displayName": "Sofian S. Siregar",
         "langCode": "nl",
@@ -1573,7 +1573,7 @@
         "downloadPath": "inventory/translations/nl/nl_sofianssiregar.json"
       },
       "nl_unknown": {
-        "book": "nl-unknown",
+        "book": "De Koran (Van De Taal)",
         "author": "Van De Taal",
         "displayName": "Van De Taal",
         "langCode": "nl",
@@ -1584,7 +1584,7 @@
     },
     "no": {
       "no_einarberg": {
-        "book": "no-einarberg",
+        "book": "Koranen (Einar Berg)",
         "author": "Einar Berg",
         "displayName": "Einar Berg",
         "langCode": "no",
@@ -1595,7 +1595,7 @@
     },
     "ny": {
       "ny_alhajiyusufmuha": {
-        "book": "ny-alhajiyusufmuha",
+        "book": "Al-Qur'an (Al Haji Yusuf Muhammad Kanyamula)",
         "author": "Al Haji Yusuf Muhammad Kanyamula",
         "displayName": "Al Haji Yusuf Muhammad Kanyamula",
         "langCode": "ny",
@@ -1604,7 +1604,7 @@
         "downloadPath": "inventory/translations/ny/ny_alhajiyusufmuha.json"
       },
       "ny_khaledibrahimbe": {
-        "book": "ny-khaledibrahimbe",
+        "book": "Al-Qur'an (Khaled Ibrahim Betala)",
         "author": "Khaled Ibrahim Betala",
         "displayName": "Khaled Ibrahim Betala",
         "langCode": "ny",
@@ -1615,7 +1615,7 @@
     },
     "or": {
       "or_ghaliapapurapag": {
-        "book": "or-ghaliapapurapag",
+        "book": "Qur'aana Qulqulluu (Ghali Apapur Apaghuna)",
         "author": "Ghali Apapur Apaghuna",
         "displayName": "Ghali Apapur Apaghuna",
         "langCode": "or",
@@ -1626,7 +1626,7 @@
     },
     "pa": {
       "pa_drmuhamadhabibb": {
-        "book": "pa-drmuhamadhabibb",
+        "book": "ਪਵਿੱਤਰ ਕੁਰਾਨ (Dr. Habib, Singh & Khan)",
         "author": "Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan",
         "displayName": "Dr. Habib, Singh & Khan",
         "langCode": "pa",
@@ -1637,7 +1637,7 @@
     },
     "pl": {
       "pl_jozefabielawski": {
-        "book": "po-jozefabielawski",
+        "book": "Koran (Józefa Bielawskiego)",
         "author": "Jozefa Bielawskiego",
         "displayName": "Jozefa Bielawskiego",
         "langCode": "pl",
@@ -1645,8 +1645,8 @@
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/pl/pl_jozefabielawski.json"
       },
-	  "pl_bielawski": {
-        "book": "Józef Bielawski",
+      "pl_bielawski": {
+        "book": "Koran (Józef Bielawski)",
         "author": "Józef Bielawski",
         "displayName": "Józef Bielawski",
         "langCode": "pl",
@@ -1657,7 +1657,7 @@
     },
     "pt": {
       "pt_helminasr": {
-        "book": "pt-helminasr",
+        "book": "O Sagrado Alcorão (Helmi Nasr)",
         "author": "Helmi Nasr",
         "displayName": "Helmi Nasr",
         "langCode": "pt",
@@ -1666,7 +1666,7 @@
         "downloadPath": "inventory/translations/pt/pt_helminasr.json"
       },
       "pt_samirelhayek": {
-        "book": "pt-samirelhayek",
+        "book": "O Alcorão Sagrado (Samir El Hayek)",
         "author": "Samir El Hayek",
         "displayName": "Samir El Hayek",
         "langCode": "pt",
@@ -1676,8 +1676,8 @@
       }
     },
     "pr": {
-      "prs_mawlawimuhammad": {
-        "book": "pr-mawlawimuhammad",
+      "pr_mawlawimuhammad": {
+        "book": "ترجمه قرآن به دری (مولوی محمد انور بدخشانی)",
         "author": "Mawlawi Muhammad Anwar Badkhashani",
         "displayName": "Mawlawi Muhammad Anwar Badkhashani",
         "langCode": "pr",
@@ -1688,7 +1688,7 @@
     },
     "pu": {
       "pu_abdulwalikhan": {
-        "book": "pu-abdulwalikhan",
+        "book": "د قرآن کریم ژباړه (Abdulwali Khan)",
         "author": "Abdulwali Khan",
         "displayName": "Abdulwali Khan",
         "langCode": "pu",
@@ -1697,7 +1697,7 @@
         "downloadPath": "inventory/translations/pu/pu_abdulwalikhan.json"
       },
       "pu_zakariaabulsala": {
-        "book": "pu-zakariaabulsala",
+        "book": "د قرآن کریم ژباړه (Zakaria Abulsalam)",
         "author": "Zakaria Abulsalam",
         "displayName": "Zakaria Abulsalam",
         "langCode": "pu",
@@ -1705,21 +1705,21 @@
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/pu/pu_zakariaabulsala.json"
       }
-    },	
+    },
     "rn": {
       "rn_sheikhamissirad": {
-        "book": "rn_sheikhamissirad",
+        "book": "Impwemu Ntagatifu (Sheikh Amis Sirad)",
         "author": "Sheikh Amis Sirad",
         "displayName": "Sheikh Amis Sirad",
         "langCode": "rn",
         "langName": "Kirundi",
         "lastUpdated": 1773175641383,
-        "downloadPath": "inventory/translations/ro/rn_sheikhamissirad.json"
+        "downloadPath": "inventory/translations/rn/rn_sheikhamissirad.json"
       }
     },
     "ro": {
       "ro_georgegrigore": {
-        "book": "ro-georgegrigore",
+        "book": "Coranul cel Sfânt (George Grigore)",
         "author": "George Grigore",
         "displayName": "George Grigore",
         "langCode": "ro",
@@ -1728,7 +1728,7 @@
         "downloadPath": "inventory/translations/ro/ro_georgegrigore.json"
       },
       "ro_hadiabdollahian": {
-        "book": "ro-hadiabdollahian",
+        "book": "Coranul cel Sfânt (Hadi Abdollahian)",
         "author": "Hadi Abdollahian",
         "displayName": "Hadi Abdollahian",
         "langCode": "ro",
@@ -1737,7 +1737,7 @@
         "downloadPath": "inventory/translations/ro/ro_hadiabdollahian.json"
       },
       "ro_unknown": {
-        "book": "ro-unknown",
+        "book": "Coranul cel Sfânt",
         "author": "Unknown",
         "displayName": "Unknown",
         "langCode": "ro",
@@ -1748,7 +1748,7 @@
     },
     "ru": {
       "ru_abuadel": {
-        "book": "ru-abuadel",
+        "book": "Священный Коран (Abu Adel)",
         "author": "Abu Adel",
         "displayName": "Abu Adel",
         "langCode": "ru",
@@ -1757,7 +1757,7 @@
         "downloadPath": "inventory/translations/ru/ru_abuadel.json"
       },
       "ru_elmirkuliev": {
-        "book": "ru-elmirkuliev",
+        "book": "Коран (Эльмир Кулиев)",
         "author": "Elmir Kuliev",
         "displayName": "Elmir Kuliev",
         "langCode": "ru",
@@ -1766,7 +1766,7 @@
         "downloadPath": "inventory/translations/ru/ru_elmirkuliev.json"
       },
       "ru_gordysemyonovic": {
-        "book": "ru-gordysemyonovic",
+        "book": "Коран (Гордий Саблуков)",
         "author": "Gordy Semyonovich Sablukov",
         "displayName": "Gordy Semyonovich Sablukov",
         "langCode": "ru",
@@ -1775,7 +1775,7 @@
         "downloadPath": "inventory/translations/ru/ru_gordysemyonovic.json"
       },
       "ru_ignatyyulianovi": {
-        "book": "ru-ignatyyulianovi",
+        "book": "Коран (Игнатий Крачковский)",
         "author": "Ignaty Yulianovich Krachkovsky",
         "displayName": "Ignaty Yulianovich Krachkovsky",
         "langCode": "ru",
@@ -1784,7 +1784,7 @@
         "downloadPath": "inventory/translations/ru/ru_ignatyyulianovi.json"
       },
       "ru_magomednuriosma": {
-        "book": "ru-magomednuriosma",
+        "book": "Коран (Магомед-Нури Османов)",
         "author": "Magomed Nuri Osmanovich Osmanov",
         "displayName": "Magomed Nuri Osmanovich Osmanov",
         "langCode": "ru",
@@ -1793,7 +1793,7 @@
         "downloadPath": "inventory/translations/ru/ru_magomednuriosma.json"
       },
       "ru_ministryofawqaf": {
-        "book": "ru-ministryofawqaf",
+        "book": "Священный Коран (Министерство вакфов Египта)",
         "author": "Ministry Of Awqaf, Egypt",
         "displayName": "Ministry Of Awqaf, Egypt",
         "langCode": "ru",
@@ -1802,7 +1802,7 @@
         "downloadPath": "inventory/translations/ru/ru_ministryofawqaf.json"
       },
       "ru_vporokhova": {
-        "book": "ru-vporokhova",
+        "book": "Коран (В. Порохова)",
         "author": "V. Porokhova",
         "displayName": "V. Porokhova",
         "langCode": "ru",
@@ -1813,7 +1813,7 @@
     },
     "si": {
       "si_naseemismailand": {
-        "book": "si-naseemismailand",
+        "book": "මහා අල් කුර්ආනය (Naseem Ismail & Kaleel)",
         "author": "Naseem Ismail And Masoor Maulana, Kaleel",
         "displayName": "Naseem Ismail And Masoor Maulana, Kaleel",
         "langCode": "si",
@@ -1822,7 +1822,7 @@
         "downloadPath": "inventory/translations/si/si_naseemismailand.json"
       },
       "si_wwwislamhouseco": {
-        "book": "si-wwwislamhouseco",
+        "book": "මහා අල් කුර්ආනය (Islamhouse)",
         "author": "Www.islamhouse.com",
         "displayName": "Www.islamhouse.com",
         "langCode": "si",
@@ -1832,8 +1832,8 @@
       }
     },
     "sk": {
-      "slk_hadiabdollahian": {
-        "book": "sk-hadiabdollahian",
+      "sk_hadiabdollahian": {
+        "book": "Korán (Hadi Abdollahian)",
         "author": "Hadi Abdollahian",
         "displayName": "Hadi Abdollahian",
         "langCode": "sk",
@@ -1844,7 +1844,7 @@
     },
     "sn": {
       "sn_abdullahjmadini": {
-        "book": "sn-abdullahjmadini",
+        "book": "Al-Qur'an (Abdullah J. M. Adini)",
         "author": "Abdullah J. M. Adini And Students",
         "displayName": "Abdullah J. M. Adini And Students",
         "langCode": "sn",
@@ -1855,7 +1855,7 @@
     },
     "sd": {
       "sd_tajmehmoodamrot": {
-        "book": "sd-tajmehmoodamrot",
+        "book": "قرآن پاڪ (Taj Mehmood Amroti)",
         "author": "Taj Mehmood Amroti",
         "displayName": "Taj Mehmood Amroti",
         "langCode": "sd",
@@ -1866,7 +1866,7 @@
     },
     "so": {
       "so_abdullahhasanja": {
-        "book": "so-abdullahhasanja",
+        "book": "Quraanka Kariimka (Abdullah Hasan Jacob)",
         "author": "Abdullah Hasan Jacob",
         "displayName": "Abdullah Hasan Jacob",
         "langCode": "so",
@@ -1875,7 +1875,7 @@
         "downloadPath": "inventory/translations/so/so_abdullahhasanja.json"
       },
       "so_mahmudmuhammada": {
-        "book": "so-mahmudmuhammada",
+        "book": "Quraanka Kariimka (Mahmud Muhammad Abduh)",
         "author": "Mahmud Muhammad Abduh",
         "displayName": "Mahmud Muhammad Abduh",
         "langCode": "so",
@@ -1884,7 +1884,7 @@
         "downloadPath": "inventory/translations/so/so_mahmudmuhammada.json"
       },
       "so_shaykhmahmoodmu": {
-        "book": "so-shaykhmahmoodmu",
+        "book": "Quraanka Kariimka (Shaykh Mahmood Muhammad Abdu)",
         "author": "Shaykh Mahmood Muhammad Abdu",
         "displayName": "Shaykh Mahmood Muhammad Abdu",
         "langCode": "so",
@@ -1895,7 +1895,7 @@
     },
     "st": {
       "st_sheikheliaskeke": {
-        "book": "st-sheikheliaskeke",
+        "book": "Qur'an e Halalelang (Sheikh Elias Keketso Lelia)",
         "author": "Sheikh Elias Keketso Lelia",
         "displayName": "Sheikh Elias Keketso Lelia",
         "langCode": "st",
@@ -1906,7 +1906,7 @@
     },
     "es": {
       "es_abdulqadermouhe": {
-        "book": "es_abdulqadermouhe",
+        "book": "El Noble Corán (Abdul Qader Mouheddine)",
         "author": "Abdul Qader Mouheddine, Sirhan Ali Sanchez.",
         "displayName": "Abdul Qader Mouheddine, Sirhan Ali Sanchez.",
         "langCode": "es",
@@ -1915,7 +1915,7 @@
         "downloadPath": "inventory/translations/es/es_abdulqadermouhe.json"
       },
       "es_isa_garcia": {
-        "book": "Sheikh Isa Garcia",
+        "book": "El Noble Corán (Sheikh Isa Garcia)",
         "author": "Sheikh Isa Garcia",
         "displayName": "Sheikh Isa Garcia",
         "langCode": "es",
@@ -1924,7 +1924,7 @@
         "downloadPath": "inventory/translations/es/es_isa_garcia.json"
       },
       "es_islamicfoundati": {
-        "book": "es_islamicfoundati",
+        "book": "El Noble Corán (Islamic Foundation)",
         "author": "Islamic Foundation",
         "displayName": "Islamic Foundation",
         "langCode": "es",
@@ -1933,7 +1933,7 @@
         "downloadPath": "inventory/translations/es/es_islamicfoundati.json"
       },
       "es_islamicfoundati1": {
-        "book": "es_islamicfoundati1",
+        "book": "El Noble Corán (Islamic Foundation, Ed. 2)",
         "author": "Islamic Foundation",
         "displayName": "Islamic Foundation",
         "langCode": "es",
@@ -1942,7 +1942,7 @@
         "downloadPath": "inventory/translations/es/es_islamicfoundati1.json"
       },
       "es_juliocortes": {
-        "book": "es_juliocortes",
+        "book": "El Corán (Julio Cortes)",
         "author": "Julio Cortes",
         "displayName": "Julio Cortes",
         "langCode": "es",
@@ -1951,7 +1951,7 @@
         "downloadPath": "inventory/translations/es/es_juliocortes.json"
       },
       "es_muhammadasadabd": {
-        "book": "es_muhammadasadabd",
+        "book": "El Noble Corán (Muhammad Asad Abdurrasak Perez)",
         "author": "Muhammad Asad Abdurrasak Perez",
         "displayName": "Muhammad Asad Abdurrasak Perez",
         "langCode": "es",
@@ -1960,7 +1960,7 @@
         "downloadPath": "inventory/translations/es/es_muhammadasadabd.json"
       },
       "es_muhammadisagarc": {
-        "book": "es_muhammadisagarc",
+        "book": "El Noble Corán (Muhammad Isa Garcia)",
         "author": "Muhammad Isa Garcia",
         "displayName": "Muhammad Isa Garcia",
         "langCode": "es",
@@ -1969,7 +1969,7 @@
         "downloadPath": "inventory/translations/es/es_muhammadisagarc.json"
       },
       "es_noor_international": {
-        "book": "Noor International Center",
+        "book": "El Noble Corán (Noor International Center)",
         "author": "Noor International Center",
         "displayName": "Noor International Center",
         "langCode": "es",
@@ -1978,7 +1978,7 @@
         "downloadPath": "inventory/translations/es/es_noor_international.json"
       },
       "es_raulgonzalezbor": {
-        "book": "es_raulgonzalezbor",
+        "book": "El Noble Corán (Raul Gonzalez Bornez)",
         "author": "Raul Gonzalez Bornez",
         "displayName": "Raul Gonzalez Bornez",
         "langCode": "es",
@@ -1989,7 +1989,7 @@
     },
     "sq": {
       "sq_fetimehdiu": {
-        "book": "sq-fetimehdiu",
+        "book": "Kur'ani Famëlartë (Feti Mehdiu)",
         "author": "Feti Mehdiu",
         "displayName": "Feti Mehdiu",
         "langCode": "sq",
@@ -1998,7 +1998,7 @@
         "downloadPath": "inventory/translations/sq/sq_fetimehdiu.json"
       },
       "sq_hasanefendinahi": {
-        "book": "sq-hasanefendinahi",
+        "book": "Kur'ani Famëlartë (Hasan Efendi Nahi)",
         "author": "Hasan Efendi Nahi",
         "displayName": "Hasan Efendi Nahi",
         "langCode": "sq",
@@ -2007,7 +2007,7 @@
         "downloadPath": "inventory/translations/sq/sq_hasanefendinahi.json"
       },
       "sq_hassannahi": {
-        "book": "sq-hassannahi",
+        "book": "Kur'ani Famëlartë (Hassan Nahi)",
         "author": "Hassan Nahi",
         "displayName": "Hassan Nahi",
         "langCode": "sq",
@@ -2016,7 +2016,7 @@
         "downloadPath": "inventory/translations/sq/sq_hassannahi.json"
       },
       "sq_sherifahmeti": {
-        "book": "sq-sherifahmeti",
+        "book": "Kur'ani Famëlartë (Sherif Ahmeti)",
         "author": "Sherif Ahmeti",
         "displayName": "Sherif Ahmeti",
         "langCode": "sq",
@@ -2025,7 +2025,7 @@
         "downloadPath": "inventory/translations/sq/sq_sherifahmeti.json"
       },
       "sq_unknown": {
-        "book": "sq-unknown",
+        "book": "Kur'ani Famëlartë",
         "author": "Unknown",
         "displayName": "Unknown",
         "langCode": "sq",
@@ -2036,7 +2036,7 @@
     },
     "sr": {
       "sr_rowwadtranslati": {
-        "book": "sr-rowwadtranslati",
+        "book": "Časni Kuran (Rowwad Translation Center)",
         "author": "Rowwad Translation Center Islamhouse",
         "displayName": "Rowwad Translation Center Islamhouse",
         "langCode": "sr",
@@ -2047,7 +2047,7 @@
     },
     "sw": {
       "sw_abdullahmuhamma": {
-        "book": "sw-abdullahmuhamma",
+        "book": "Tafsiri ya Qur'an Tukufu (Abdullah Muhammad Abu Bakr)",
         "author": "Abdullah Muhammad Abu Bakr",
         "displayName": "Abdullah Muhammad Abu Bakr",
         "langCode": "sw",
@@ -2056,7 +2056,7 @@
         "downloadPath": "inventory/translations/sw/sw_abdullahmuhamma.json"
       },
       "sw_alimuhsinalbarw": {
-        "book": "sw-alimuhsinalbarw",
+        "book": "Tafsiri ya Qur'an Tukufu (Ali Muhsin Al Barwani)",
         "author": "Ali Muhsin Al Barwani",
         "displayName": "Ali Muhsin Al Barwani",
         "langCode": "sw",
@@ -2067,7 +2067,7 @@
     },
     "sv": {
       "sv_knutbernstrom": {
-        "book": "swe-knutbernstrom",
+        "book": "Koranens budskap (Knut Bernström)",
         "author": "Knut Bernstrom",
         "displayName": "Knut Bernstrom",
         "langCode": "sv",
@@ -2078,7 +2078,7 @@
     },
     "ta": {
       "ta_abdulhameedbaqa": {
-        "book": "ta-abdulhameedbaqa",
+        "book": "திருக்குர்ஆன் (Abdulhameed Baqavi)",
         "author": "Abdulhameed Baqavi",
         "displayName": "Abdulhameed Baqavi",
         "langCode": "ta",
@@ -2087,7 +2087,7 @@
         "downloadPath": "inventory/translations/ta/ta_abdulhameedbaqa.json"
       },
       "ta_janturstfoundat": {
-        "book": "ta-janturstfoundat",
+        "book": "திருக்குர்ஆன் (Jan Turst Foundation)",
         "author": "Jan Turst Foundation",
         "displayName": "Jan Turst Foundation",
         "langCode": "ta",
@@ -2098,7 +2098,7 @@
     },
     "tt": {
       "tt_yakubibnnugman": {
-        "book": "tt-yakubibnnugman",
+        "book": "Изге Коръән (Yakub Ibn Nugman)",
         "author": "Yakub Ibn Nugman",
         "displayName": "Yakub Ibn Nugman",
         "langCode": "tt",
@@ -2109,7 +2109,7 @@
     },
     "te": {
       "te_abdulraheemmoha": {
-        "book": "te-abdulraheemmoha",
+        "book": "పవిత్ర ఖురాన్ (Abdul Raheem Mohammad Moulana)",
         "author": "Abdul Raheem Mohammad Moulana",
         "displayName": "Abdul Raheem Mohammad Moulana",
         "langCode": "te",
@@ -2118,7 +2118,7 @@
         "downloadPath": "inventory/translations/te/te_abdulraheemmoha.json"
       },
       "te_muhammadazizurr": {
-        "book": "te-muhammadazizurr",
+        "book": "పవిత్ర ఖురాన్ (Muhammad Aziz Ur Rehman)",
         "author": "Muhammad Aziz Ur Rehman",
         "displayName": "Muhammad Aziz Ur Rehman",
         "langCode": "te",
@@ -2129,7 +2129,7 @@
     },
     "tg": {
       "tg_abdolmohammaday": {
-        "book": "tg-abdolmohammaday",
+        "book": "Қуръони Карим (Abdolmohammad Ayati)",
         "author": "Abdolmohammad Ayati",
         "displayName": "Abdolmohammad Ayati",
         "langCode": "tg",
@@ -2138,7 +2138,7 @@
         "downloadPath": "inventory/translations/tg/tg_abdolmohammaday.json"
       },
       "tg_khojamirov": {
-        "book": "tg-khojamirov",
+        "book": "Қуръони Карим (Khoja Mirov)",
         "author": "Khoja Mirov",
         "displayName": "Khoja Mirov",
         "langCode": "tg",
@@ -2147,7 +2147,7 @@
         "downloadPath": "inventory/translations/tg/tg_khojamirov.json"
       },
       "tg_wwwislamhouseco": {
-        "book": "tg-wwwislamhouseco",
+        "book": "Қуръони Карим (Islamhouse)",
         "author": "Www.islamhouse.com",
         "displayName": "Www.islamhouse.com",
         "langCode": "tg",
@@ -2157,8 +2157,8 @@
       }
     },
     "th": {
-      "tha_groupfromthesoc": {
-        "book": "th-groupfromthesoc",
+      "th_groupfromthesoc": {
+        "book": "พระมหาคัมภีร์อัลกุรอาน (คณะนักวิชาการ)",
         "author": "Group From The Society Of Graduates Of Thai Universities And Institutes",
         "displayName": "Group From The Society Of Graduates Of Thai Universities And Institutes",
         "langCode": "th",
@@ -2167,7 +2167,7 @@
         "downloadPath": "inventory/translations/th/th_groupfromthesoc.json"
       },
       "th_kingfahadquranc": {
-        "book": "th-kingfahadquranc",
+        "book": "พระมหาคัมภีร์อัลกุรอาน (King Fahad Quran Complex)",
         "author": "King Fahad Quran Complex",
         "displayName": "King Fahad Quran Complex",
         "langCode": "th",
@@ -2177,8 +2177,8 @@
       }
     },
     "tr": {
-      "tur_abdulbakigolpin": {
-        "book": "tr-abdulbakigolpin",
+      "tr_abdulbakigolpin": {
+        "book": "Kur'an-ı Kerim (Abdulbaki Gölpınarlı)",
         "author": "Abdulbaki Golpinarli",
         "displayName": "Abdulbaki Golpinarli",
         "langCode": "tr",
@@ -2187,7 +2187,7 @@
         "downloadPath": "inventory/translations/tr/tr_abdulbakigolpin.json"
       },
       "tr_ademugur": {
-        "book": "tr-ademugur",
+        "book": "Kur'an-ı Kerim (Adem Uğur)",
         "author": "Adem Ugur",
         "displayName": "Adem Ugur",
         "langCode": "tr",
@@ -2196,7 +2196,7 @@
         "downloadPath": "inventory/translations/tr/tr_ademugur.json"
       },
       "tr_alibulac": {
-        "book": "tr-alibulac",
+        "book": "Kur'an-ı Kerim (Ali Bulaç)",
         "author": "Ali Bulac",
         "displayName": "Ali Bulac",
         "langCode": "tr",
@@ -2205,7 +2205,7 @@
         "downloadPath": "inventory/translations/tr/tr_alibulac.json"
       },
       "tr_alifikriyavuz": {
-        "book": "tr-alifikriyavuz",
+        "book": "Kur'an-ı Kerim (Ali Fikri Yavuz)",
         "author": "Ali Fikri Yavuz",
         "displayName": "Ali Fikri Yavuz",
         "langCode": "tr",
@@ -2214,7 +2214,7 @@
         "downloadPath": "inventory/translations/tr/tr_alifikriyavuz.json"
       },
       "tr_celalyldrm": {
-        "book": "tr-celalyldrm",
+        "book": "Kur'an-ı Kerim (Celal Yıldırım)",
         "author": "Celal Y Ld R M",
         "displayName": "Celal Y Ld R M",
         "langCode": "tr",
@@ -2223,7 +2223,7 @@
         "downloadPath": "inventory/translations/tr/tr_celalyldrm.json"
       },
       "tr_diyanetisleri": {
-        "book": "tr-diyanetisleri",
+        "book": "Kur'an-ı Kerim (Diyanet İşleri)",
         "author": "Diyanet Isleri",
         "displayName": "Diyanet Isleri",
         "langCode": "tr",
@@ -2232,7 +2232,7 @@
         "downloadPath": "inventory/translations/tr/tr_diyanetisleri.json"
       },
       "tr_diyanetvakfi": {
-        "book": "tr-diyanetvakfi",
+        "book": "Kur'an-ı Kerim (Diyanet Vakfı)",
         "author": "Diyanet Vakfi",
         "displayName": "Diyanet Vakfi",
         "langCode": "tr",
@@ -2241,7 +2241,7 @@
         "downloadPath": "inventory/translations/tr/tr_diyanetvakfi.json"
       },
       "tr_edipyuksel": {
-        "book": "tr-edipyuksel",
+        "book": "Kuran: Mesajı (Edip Yüksel)",
         "author": "Edip Yuksel",
         "displayName": "Edip Yuksel",
         "langCode": "tr",
@@ -2250,7 +2250,7 @@
         "downloadPath": "inventory/translations/tr/tr_edipyuksel.json"
       },
       "tr_elmalilihamdiya": {
-        "book": "tr-elmalilihamdiya",
+        "book": "Hak Dini Kuran Dili (Elmalılı Hamdi Yazır)",
         "author": "Elmalili Hamdi Yazir",
         "displayName": "Elmalili Hamdi Yazir",
         "langCode": "tr",
@@ -2259,7 +2259,7 @@
         "downloadPath": "inventory/translations/tr/tr_elmalilihamdiya.json"
       },
       "tr_elmallsadelesti": {
-        "book": "tr-elmallsadelesti",
+        "book": "Hak Dini Kuran Dili Sadeleştirilmiş",
         "author": "Elmal L Sadelestirilmis",
         "displayName": "Elmal L Sadelestirilmis",
         "langCode": "tr",
@@ -2268,7 +2268,7 @@
         "downloadPath": "inventory/translations/tr/tr_elmallsadelesti.json"
       },
       "tr_fizilalilkuran": {
-        "book": "tr-fizilalilkuran",
+        "book": "Fi Zilal il-Kuran (Seyyid Kutub)",
         "author": "Fizilal Il Kuran",
         "displayName": "Fizilal Il Kuran",
         "langCode": "tr",
@@ -2277,7 +2277,7 @@
         "downloadPath": "inventory/translations/tr/tr_fizilalilkuran.json"
       },
       "tr_gultekinonan": {
-        "book": "tr-gultekinonan",
+        "book": "Kur'an-ı Kerim (Gültekin Onan)",
         "author": "Gultekin Onan",
         "displayName": "Gultekin Onan",
         "langCode": "tr",
@@ -2286,7 +2286,7 @@
         "downloadPath": "inventory/translations/tr/tr_gultekinonan.json"
       },
       "tr_hasanbasricanta": {
-        "book": "tr-hasanbasricanta",
+        "book": "Kur'an-ı Hakîm ve İzahlı Meâli (Hasan Basri Cantay)",
         "author": "Hasan Basri Cantay",
         "displayName": "Hasan Basri Cantay",
         "langCode": "tr",
@@ -2295,7 +2295,7 @@
         "downloadPath": "inventory/translations/tr/tr_hasanbasricanta.json"
       },
       "tr_ibnikesir": {
-        "book": "tr-ibnikesir",
+        "book": "Hadislerle Kuran-ı Kerim Tefsiri (İbn Kesir)",
         "author": "Ibni Kesir",
         "displayName": "Ibni Kesir",
         "langCode": "tr",
@@ -2304,7 +2304,7 @@
         "downloadPath": "inventory/translations/tr/tr_ibnikesir.json"
       },
       "tr_iskenderalimihr": {
-        "book": "tr-iskenderalimihr",
+        "book": "Kur'an-ı Kerim (İskender Ali Mihr)",
         "author": "Iskender Ali Mihr",
         "displayName": "Iskender Ali Mihr",
         "langCode": "tr",
@@ -2313,7 +2313,7 @@
         "downloadPath": "inventory/translations/tr/tr_iskenderalimihr.json"
       },
       "tr_latinalphabet": {
-        "book": "tr-latinalphabet",
+        "book": "Kur'an-ı Kerim Latin Alfabesi",
         "author": "Latin Alphabet",
         "displayName": "Latin Alphabet",
         "langCode": "tr",
@@ -2322,7 +2322,7 @@
         "downloadPath": "inventory/translations/tr/tr_latinalphabet.json"
       },
       "tr_muhammedesed": {
-        "book": "tr-muhammedesed",
+        "book": "Kur'an Mesajı (Muhammed Esed)",
         "author": "Muhammed Esed",
         "displayName": "Muhammed Esed",
         "langCode": "tr",
@@ -2331,7 +2331,7 @@
         "downloadPath": "inventory/translations/tr/tr_muhammedesed.json"
       },
       "tr_muhammetabay": {
-        "book": "tr-muhammetabay",
+        "book": "Kur'an-ı Kerim (Muhammet Abay)",
         "author": "Muhammet Abay",
         "displayName": "Muhammet Abay",
         "langCode": "tr",
@@ -2340,7 +2340,7 @@
         "downloadPath": "inventory/translations/tr/tr_muhammetabay.json"
       },
       "tr_muslimshahin": {
-        "book": "tr-muslimshahin",
+        "book": "Kur'an-ı Kerim (Muslim Shahin)",
         "author": "Muslim Shahin",
         "displayName": "Muslim Shahin",
         "langCode": "tr",
@@ -2349,7 +2349,7 @@
         "downloadPath": "inventory/translations/tr/tr_muslimshahin.json"
       },
       "tr_sabanpiris": {
-        "book": "tr-sabanpiris",
+        "book": "Kur'an-ı Kerim (Şaban Piriş)",
         "author": "Saban Piris",
         "displayName": "Saban Piris",
         "langCode": "tr",
@@ -2358,7 +2358,7 @@
         "downloadPath": "inventory/translations/tr/tr_sabanpiris.json"
       },
       "tr_shabanbritch": {
-        "book": "tr-shabanbritch",
+        "book": "Kur'an-ı Kerim (Shaban Britch)",
         "author": "Shaban Britch",
         "displayName": "Shaban Britch",
         "langCode": "tr",
@@ -2367,7 +2367,7 @@
         "downloadPath": "inventory/translations/tr/tr_shabanbritch.json"
       },
       "tr_suatyildirim": {
-        "book": "tr-suatyildirim",
+        "book": "Kur'an-ı Kerim (Suat Yıldırım)",
         "author": "Suat Yildirim",
         "displayName": "Suat Yildirim",
         "langCode": "tr",
@@ -2376,7 +2376,7 @@
         "downloadPath": "inventory/translations/tr/tr_suatyildirim.json"
       },
       "tr_suleymanates": {
-        "book": "tr-suleymanates",
+        "book": "Kur'an-ı Kerim (Süleyman Ateş)",
         "author": "Suleyman Ates",
         "displayName": "Suleyman Ates",
         "langCode": "tr",
@@ -2385,7 +2385,7 @@
         "downloadPath": "inventory/translations/tr/tr_suleymanates.json"
       },
       "tr_tefhimulkuran": {
-        "book": "tr-tefhimulkuran",
+        "book": "Tefhimü'l-Kur'an (Mevdudi)",
         "author": "Tefhim Ul Kuran",
         "displayName": "Tefhim Ul Kuran",
         "langCode": "tr",
@@ -2394,7 +2394,7 @@
         "downloadPath": "inventory/translations/tr/tr_tefhimulkuran.json"
       },
       "tr_wwwislamhouseco": {
-        "book": "tr-wwwislamhouseco",
+        "book": "Kur'an-ı Kerim (Islamhouse)",
         "author": "Www.islamhouse.com",
         "displayName": "Www.islamhouse.com",
         "langCode": "tr",
@@ -2403,7 +2403,7 @@
         "downloadPath": "inventory/translations/tr/tr_wwwislamhouseco.json"
       },
       "tr_yasarnuriozturk": {
-        "book": "tr-yasarnuriozturk",
+        "book": "Kur'an-ı Kerim (Yaşar Nuri Öztürk)",
         "author": "Yasar Nuri Ozturk",
         "displayName": "Yasar Nuri Ozturk",
         "langCode": "tr",
@@ -2412,7 +2412,7 @@
         "downloadPath": "inventory/translations/tr/tr_yasarnuriozturk.json"
       },
       "tr_yasarnuriozturk1": {
-        "book": "tr-yasarnuriozturk1",
+        "book": "Kur'an-ı Kerim (Yaşar Nuri Öztürk, Ed. 2)",
         "author": "Yasar Nuri Ozturk",
         "displayName": "Yasar Nuri Ozturk",
         "langCode": "tr",
@@ -2421,7 +2421,7 @@
         "downloadPath": "inventory/translations/tr/tr_yasarnuriozturk1.json"
       },
       "tr_ynozturk": {
-        "book": "tr-ynozturk",
+        "book": "Kur'an-ı Kerim (Y. N. Öztürk)",
         "author": "Y. N. Ozturk",
         "displayName": "Y. N. Ozturk",
         "langCode": "tr",
@@ -2432,7 +2432,7 @@
     },
     "ak": {
       "ak_sheikhharounism": {
-        "book": "ak-sheikhharounism",
+        "book": "Al-Qur'an (Sheikh Haroun Ismaeel)",
         "author": "Sheikh Haroun Ismaeel",
         "displayName": "Sheikh Haroun Ismaeel",
         "langCode": "ak",
@@ -2443,7 +2443,7 @@
     },
     "ug": {
       "ug_muhammadsaleh": {
-        "book": "ug-muhammadsaleh",
+        "book": "مۇقەددەس قۇرئان (Muhammad Saleh)",
         "author": "Muhammad Saleh",
         "displayName": "Muhammad Saleh",
         "langCode": "ug",
@@ -2452,7 +2452,7 @@
         "downloadPath": "inventory/translations/ug/ug_muhammadsaleh.json"
       },
       "ug_shaykhmuhammads": {
-        "book": "ug-shaykhmuhammads",
+        "book": "مۇقەددەس قۇرئان (Shaykh Muhammad Saleh)",
         "author": "Shaykh Muhammad Saleh",
         "displayName": "Shaykh Muhammad Saleh",
         "langCode": "ug",
@@ -2463,7 +2463,7 @@
     },
     "uk": {
       "uk_drmikhailoyaqub": {
-        "book": "uk-drmikhailoyaqub",
+        "book": "Коран (Михайло Якубович)",
         "author": "Dr. Mikhailo Yaqubovic",
         "displayName": "Dr. Mikhailo Yaqubovic",
         "langCode": "uk",
@@ -2472,7 +2472,7 @@
         "downloadPath": "inventory/translations/uk/uk_drmikhailoyaqub.json"
       },
       "uk_hadiabdollahian": {
-        "book": "uk-hadiabdollahian",
+        "book": "Коран (Hadi Abdollahian)",
         "author": "Hadi Abdollahian",
         "displayName": "Hadi Abdollahian",
         "langCode": "uk",
@@ -2481,7 +2481,7 @@
         "downloadPath": "inventory/translations/uk/uk_hadiabdollahian.json"
       },
       "uk_mykhayloyakubov": {
-        "book": "uk-mykhayloyakubov",
+        "book": "Коран (Михайло Якубович)",
         "author": "Mykhaylo Yakubovych",
         "displayName": "Mykhaylo Yakubovych",
         "langCode": "uk",
@@ -2490,7 +2490,7 @@
         "downloadPath": "inventory/translations/uk/uk_mykhayloyakubov.json"
       },
       "uk_yakubovych": {
-        "book": "uk-yakubovych",
+        "book": "Коран (Якубович)",
         "author": "Yakubovych",
         "displayName": "Yakubovych",
         "langCode": "uk",
@@ -2510,7 +2510,7 @@
         "downloadPath": "inventory/translations/ur/ur_irfan_ul_quran.json",
         "hasAudio": false
       },
-	  "ur_kanzul_imaan": {
+      "ur_kanzul_imaan": {
         "book": "کنزالایمان",
         "author": "امام احمد رضا خان",
         "displayName": "کنزالایمان",
@@ -2519,9 +2519,9 @@
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_kanzul_imaan.json",
         "hasAudio": false
-      },	  
+      },
       "ur_israr-ahmad": {
-        "book": "بیان القرآن",
+        "book": "بیان القرآن",
         "author": "ڈاکٹر اسرار احمد",
         "displayName": "بیان القرآن",
         "langCode": "ur",
@@ -2539,8 +2539,8 @@
         "downloadPath": "inventory/translations/ur/ur_jalandhari.json",
         "hasAudio": true
       },
-	  "ur_abulaalamaududi": {
-        "book": "ur-abulaalamaududi",
+      "ur_abulaalamaududi": {
+        "book": "تفہیم القرآن (ابوالاعلیٰ مودودی)",
         "author": "Abul A Ala Maududi",
         "displayName": "Abul A Ala Maududi",
         "langCode": "ur",
@@ -2549,7 +2549,7 @@
         "downloadPath": "inventory/translations/ur/ur_abulaalamaududi.json"
       },
       "ur_ahmedali": {
-        "book": "ur-ahmedali",
+        "book": "قرآن مجید (احمد علی)",
         "author": "Ahmed Ali",
         "displayName": "Ahmed Ali",
         "langCode": "ur",
@@ -2558,7 +2558,7 @@
         "downloadPath": "inventory/translations/ur/ur_ahmedali.json"
       },
       "ur_fatehmuhammadja": {
-        "book": "ur-fatehmuhammadja",
+        "book": "قرآن مجید (فتح محمد جالندھری)",
         "author": "Fateh Muhammad Jalandhry",
         "displayName": "Fateh Muhammad Jalandhry",
         "langCode": "ur",
@@ -2567,7 +2567,7 @@
         "downloadPath": "inventory/translations/ur/ur_fatehmuhammadja.json"
       },
       "ur_mahmoodulhassan": {
-        "book": "ur-mahmoodulhassan",
+        "book": "قرآن مجید (محمود الحسن)",
         "author": "Mahmood Ul Hassan",
         "displayName": "Mahmood Ul Hassan",
         "langCode": "ur",
@@ -2576,7 +2576,7 @@
         "downloadPath": "inventory/translations/ur/ur_mahmoodulhassan.json"
       },
       "ur_muhammadhussain": {
-        "book": "ur-muhammadhussain",
+        "book": "قرآن مجید (محمد حسین نجفی)",
         "author": "Muhammad Hussain Najafi",
         "displayName": "Muhammad Hussain Najafi",
         "langCode": "ur",
@@ -2585,7 +2585,7 @@
         "downloadPath": "inventory/translations/ur/ur_muhammadhussain.json"
       },
       "ur_muhammadjunagar": {
-        "book": "ur-muhammadjunagar",
+        "book": "قرآن مجید (محمد جوناگڑھی)",
         "author": "Muhammad Junagarhi",
         "displayName": "Muhammad Junagarhi",
         "langCode": "ur",
@@ -2594,7 +2594,7 @@
         "downloadPath": "inventory/translations/ur/ur_muhammadjunagar.json"
       },
       "ur_muhammadkaramsh": {
-        "book": "ur-muhammadkaramsh",
+        "book": "ضیاء القرآن (محمد کرم شاہ الازہری)",
         "author": "Muhammad Karam Shah Al Azhari",
         "displayName": "Muhammad Karam Shah Al Azhari",
         "langCode": "ur",
@@ -2603,7 +2603,7 @@
         "downloadPath": "inventory/translations/ur/ur_muhammadkaramsh.json"
       },
       "ur_muhammadtahirul": {
-        "book": "ur-muhammadtahirul",
+        "book": "عرفان القرآن (محمد طاہرالقادری)",
         "author": "Muhammad Tahir Ul Qadri",
         "displayName": "Muhammad Tahir Ul Qadri",
         "langCode": "ur",
@@ -2612,7 +2612,7 @@
         "downloadPath": "inventory/translations/ur/ur_muhammadtahirul.json"
       },
       "ur_muhammadtaqiusm": {
-        "book": "ur-muhammadtaqiusm",
+        "book": "آسان ترجمہ قرآن (محمد تقی عثمانی)",
         "author": "Muhammad Taqi Usmani",
         "displayName": "Muhammad Taqi Usmani",
         "langCode": "ur",
@@ -2621,7 +2621,7 @@
         "downloadPath": "inventory/translations/ur/ur_muhammadtaqiusm.json"
       },
       "ur_syedzeeshanhaid": {
-        "book": "ur-syedzeeshanhaid",
+        "book": "قرآن مجید (سید ذیشان حیدر جوادی)",
         "author": "Syed Zeeshan Haider Jawadi",
         "displayName": "Syed Zeeshan Haider Jawadi",
         "langCode": "ur",
@@ -2632,7 +2632,7 @@
     },
     "uz": {
       "uz_alaaudeenmansou": {
-        "book": "uz-alaaudeenmansou",
+        "book": "Muqaddas Qur'on (Alaaudeen Mansour)",
         "author": "Alaaudeen Mansour",
         "displayName": "Alaaudeen Mansour",
         "langCode": "uz",
@@ -2641,7 +2641,7 @@
         "downloadPath": "inventory/translations/uz/uz_alaaudeenmansou.json"
       },
       "uz_muhammadsodikmu": {
-        "book": "uz-muhammadsodikmu",
+        "book": "Qur'oni Karim (Muhammad Sodik Muhammad Yusuf)",
         "author": "Muhammad Sodik Muhammad Yusuf",
         "displayName": "Muhammad Sodik Muhammad Yusuf",
         "langCode": "uz",
@@ -2652,7 +2652,7 @@
     },
     "vi": {
       "vi_hassanabdulkari": {
-        "book": "vi-hassanabdulkari",
+        "book": "Kinh Qur'an (Hassan Abdulkarim)",
         "author": "Hassan Abdulkarim",
         "displayName": "Hassan Abdulkarim",
         "langCode": "vi",
@@ -2661,7 +2661,7 @@
         "downloadPath": "inventory/translations/vi/vi_hassanabdulkari.json"
       },
       "vi_rowwadtranslati": {
-        "book": "vi-rowwadtranslati",
+        "book": "Kinh Qur'an (Rowwad Translation Center)",
         "author": "Rowwad Translation Center",
         "displayName": "Rowwad Translation Center",
         "langCode": "vi",
@@ -2672,7 +2672,7 @@
     },
     "xh": {
       "xh_imaamismaaeelng": {
-        "book": "xh-imaamismaaeelng",
+        "book": "IQur'an eliNgcwele (Imaam Ismaaeel Ngqoyiyana)",
         "author": "Imaam Ismaaeel Ngqoyiyana",
         "displayName": "Imaam Ismaaeel Ngqoyiyana",
         "langCode": "xh",
@@ -2683,7 +2683,7 @@
     },
     "yo": {
       "yo_shaykhaburahima": {
-        "book": "yo-shaykhaburahima",
+        "book": "Al-Qur'an Mimo (Shaykh Abu Rahimah Mikael Aykyuni)",
         "author": "Shaykh Abu Rahimah Mikael Aykyuni",
         "displayName": "Shaykh Abu Rahimah Mikael Aykyuni",
         "langCode": "yo",
@@ -2694,7 +2694,7 @@
     },
     "yu": {
       "yu_muhammadbinabdu": {
-        "book": "yu-muhammadbinabdu",
+        "book": "Al-Qur'an (Muhammad Bin Abdul Hamid Silika)",
         "author": "Muhammad Bin Abdul Hamid Silika",
         "displayName": "Muhammad Bin Abdul Hamid Silika",
         "langCode": "yu",
@@ -2705,7 +2705,7 @@
     },
     "zh": {
       "zh_anonymousgroupo": {
-        "book": "zh-anonymousgroupo",
+        "book": "古兰经 (Anonymous Group)",
         "author": "Anonymous Group Of Translators",
         "displayName": "Anonymous Group Of Translators",
         "langCode": "zh",
@@ -2714,7 +2714,7 @@
         "downloadPath": "inventory/translations/zh/zh_anonymousgroupo.json"
       },
       "zh_majian": {
-        "book": "zh-majian",
+        "book": "古兰经 (马坚)",
         "author": "Ma Jian",
         "displayName": "Ma Jian",
         "langCode": "zh",
@@ -2723,7 +2723,7 @@
         "downloadPath": "inventory/translations/zh/zh_majian.json"
       },
       "zh_mazhnggang": {
-        "book": "zh-mazhnggang",
+        "book": "古兰经 (马仲刚)",
         "author": "Ma zhng Gang",
         "displayName": "Ma zhng Gang",
         "langCode": "zh",
@@ -2732,7 +2732,7 @@
         "downloadPath": "inventory/translations/zh/zh_mazhnggang.json"
       },
       "zh_muhammadmakin": {
-        "book": "zh-muhammadmakin",
+        "book": "古兰经 (Muhammad Makin)",
         "author": "Muhammad Makin",
         "displayName": "Muhammad Makin",
         "langCode": "zh",
@@ -2743,7 +2743,7 @@
     },
     "zu": {
       "zu_iqembulezifundi": {
-        "book": "zul-iqembulezifundi",
+        "book": "IQur'an eliNgcwele (Iqembu Lezifundiswa)",
         "author": "Iqembu Lezifundiswa, Mussa Muhammad teela , Uthman Mfanafuthi Msomi, Moulana Abdur Rahman Chilipa, Haji Ibrahim Mondli Japhet Mthembu, Moulana Imran Ngcobo, Moulana Eshaaq Osman",
         "displayName": "Iqembu Lezifundiswa",
         "langCode": "zu",
