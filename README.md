@@ -1,79 +1,74 @@
+# Qur'an Translations Dataset  
+### 96 Languages • 285 Translations • JSON Format
+
 ![GitHub stars](https://img.shields.io/github/stars/drmiaji/QuranTranslations)
 ![GitHub forks](https://img.shields.io/github/forks/drmiaji/QuranTranslations)
 ![License](https://img.shields.io/github/license/drmiaji/QuranTranslations)
 ![Repo size](https://img.shields.io/github/repo-size/drmiaji/QuranTranslations)
 
-#Qur'an Translations Dataset
-
-96 Languages • 285 Translations • JSON Format
-
 بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
-A comprehensive open dataset providing complete Qur'an translations in JSON format covering 96 languages and 285 translation editions.
+A comprehensive open dataset providing **complete Qur'an translations in JSON format** covering **96 languages and 285 translation editions**.
 
-This repository is intended for developers, researchers, and Islamic applications who need structured access to Qur'an translations.
+This repository is intended for **developers, researchers, and Islamic applications** who need structured access to Qur'an translations.
 
-All translations are provided as full Qur'an JSON files, accessible directly through CDN links, allowing easy integration into mobile apps, websites, and research tools.
+All translations are provided as **full Qur'an JSON files**, accessible directly through **CDN links**, allowing easy integration into mobile apps, websites, and research tools.
 
-GitHub Repository
+GitHub Repository:  
 https://github.com/drmiaji/QuranTranslations
 
+---
+
+## Features
+
+- 🌍 **96 languages supported**  
+- 📚 **285 translation editions**  
+- 📄 **Full Qur'an translations**  
+- 📝 **Footnotes supported**  
+- ⚡ **CDN access via jsDelivr**  
+- 📦 **Structured JSON format**  
+- 🆓 **Open source**
 
 ---
 
-Features
+## CDN Access (Recommended)
 
-🌍 96 languages supported
-📚 285 translation editions
-📄 Full Qur'an translations
-📝 Footnotes supported
-⚡ CDN access via jsDelivr
-📦 Structured JSON format
-🆓 Open source
+Translations can be accessed directly using **jsDelivr CDN**, which provides global caching and fast delivery.
 
-
----
-
-CDN Access (Recommended)
-
-Translations can be accessed directly through jsDelivr CDN, which provides global caching and fast delivery.
-
-Base URL
+### Base URL
 
 https://cdn.jsdelivr.net/gh/drmiaji/QuranTranslations@latest/
 
-
 ---
 
-Example Translation File
+## Example Translation Files
 
-Example English translation:
+**English Translation**
 
 https://cdn.jsdelivr.net/gh/drmiaji/QuranTranslations@latest/en/en_abdelhaleem.json
 
-Example Bengali translation:
+**Bengali Translation**
 
 https://cdn.jsdelivr.net/gh/drmiaji/QuranTranslations@latest/bn/bn_mujibur.json
 
-These files contain the complete Qur'an translation.
-
+These files contain the **complete Qur'an translation**.
 
 ---
 
-Example Usage (JavaScript)
+## Example Usage (JavaScript)
 
+```javascript
 fetch("https://cdn.jsdelivr.net/gh/drmiaji/QuranTranslations@latest/en/en_abdelhaleem.json")
   .then(response => response.json())
   .then(data => {
     console.log(data.suras[0].ayas[0].translation);
   });
 
-
 ---
 
 Repository Structure
 
-Translations are organized by language folders.
+Translations are organized by language folders:
 
 QuranTranslations
 │
@@ -94,11 +89,9 @@ QuranTranslations
 │
 └── available_languages_info.json
 
-Where
+Folder name → ISO language code
 
-• folder name → language code
-• file name → specific translation
-
+File name → specific translation edition
 
 ---
 
@@ -114,14 +107,11 @@ https://cdn.jsdelivr.net/gh/drmiaji/QuranTranslations@latest/available_languages
 
 This allows applications to discover available translations programmatically.
 
-
 ---
 
 Data Structure
 
-Each translation file contains the full Qur'an translation structured by surah and ayah.
-
-Example structure:
+Each translation file contains the full Qur'an translation structured by surah and ayah:
 
 {
   "suras": [
@@ -150,56 +140,37 @@ id	unique verse identifier
 translation	translated text
 footnotes	optional translation notes
 
-
-
 ---
 
 Supported Languages
 
-This dataset includes 96 languages, including:
+This dataset currently includes 96 languages, including:
 
-English
-Arabic
-Bengali
-Urdu
-French
-German
-Spanish
-Russian
-Turkish
-Indonesian
-Malay
-Persian
-Swahili
-Tamil
-Telugu
-Chinese
-Japanese
-Korean
-Vietnamese
-and many more.
+English, Arabic, Bengali, Urdu, French, German, Spanish, Russian, Turkish, Indonesian, Malay, Persian, Swahili, Tamil, Telugu, Chinese, Japanese, Korean, Vietnamese, and many more.
 
 Full list available in:
 
 available_languages_info.json
 
-
 ---
 
 Use Cases
 
-This dataset can be used for
+This dataset can be used for:
 
 📱 Qur'an mobile applications
+
 🌐 Islamic websites
+
 📚 Qur'an study tools
+
 🔍 NLP and linguistic research
+
 📊 Translation comparison tools
+
 🎓 Educational platforms
 
-
 ---
-
 License
 
 This project is licensed under:
@@ -212,27 +183,28 @@ Translations remain the intellectual property of their respective authors and pu
 
 If you are a copyright holder and wish to request removal or modification, please open an issue.
 
-
 ---
 
 Contributing
 
-Contributions are welcome.
+Contributions are welcome. You can help by:
 
-You can contribute by:
+Adding new translations
 
-• adding new translations
-• fixing formatting issues
-• improving metadata
-• reporting issues
+Fixing formatting issues
 
+Improving metadata
+
+Reporting issues
 
 ---
 
 Support the Project
 
-If this dataset is useful for you:
+If this dataset is useful:
 
 ⭐ Star the repository
+
 🔁 Share it with developers
+
 🤝 Contribute improvements
