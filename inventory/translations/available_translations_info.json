@@ -104,20 +104,20 @@
     },
     "bn": {
       "bn_irfan_ul_quran": {
-        "book": "Irfan-ul-Quran (বাংলা)",
+        "book": "Irfan-ul-Quran (Bengali)",
         "author": "অধ্যাপক ড. মুহাম্মাদ তাহির-উল-ক্বাদরী",
         "displayName": "ইরফান-উল-কুরআন",
         "langCode": "bn",
-        "langName": "বাংলা",
+        "langName": "Bengali",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/bn/bn_irfan_ul_quran.json"
       },
       "bn_kanzul_imaan": {
-        "book": "Kanzul Imaan (বাংলা)",
+        "book": "Kanzul Imaan (Bengali)",
         "author": "ইমাম আহমেদ রেজা খান বেরেলভি",
         "displayName": "কানযুল ঈমান",
         "langCode": "bn",
-        "langName": "বাংলা",
+        "langName": "Bengali",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/bn/bn_kanzul_imaan.json"
       },
@@ -1111,7 +1111,7 @@
         "author": "इमाम अहमद रज़ा ख़ान",
         "displayName": "कलामुर रहमान",
         "langCode": "hi",
-        "langName": "हिंदी",
+        "langName": "Hindi",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/hi/hi_kanzul_imaan.json"
       },
@@ -1120,7 +1120,7 @@
         "author": "Maulana Azizul Haque Al Umari",
         "displayName": "Maulana Azizul Haque Al Umari",
         "langCode": "hi",
-        "langName": "हिंदी",
+        "langName": "Hindi",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/hi/hi_maulanaazizulha.json"
       },
@@ -1129,7 +1129,7 @@
         "author": "Muhammad Farooq Khan And Muhammad Ahmed",
         "displayName": "Muhammad Farooq Khan And Muhammad Ahmed",
         "langCode": "hi",
-        "langName": "हिंदी",
+        "langName": "Hindi",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/hi/hi_muhammadfarooqk.json"
       },
@@ -1138,7 +1138,7 @@
         "author": "Suhel Farooq Khan And Saifur Rahman Nadwi",
         "displayName": "Khan And Nadwi",
         "langCode": "hi",
-        "langName": "हिंदी",
+        "langName": "Hindi",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/hi/hi_suhelfarooqkhan.json"
       }
@@ -2505,7 +2505,7 @@
         "author": "شیخ الاسلام ڈاکٹر محمد طاہرالقادری",
         "displayName": "عرفان القرآن",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_irfan_ul_quran.json",
         "hasAudio": false
@@ -2515,7 +2515,7 @@
         "author": "امام احمد رضا خان",
         "displayName": "کنزالایمان",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_kanzul_imaan.json",
         "hasAudio": false
@@ -2525,7 +2525,7 @@
         "author": "ڈاکٹر اسرار احمد",
         "displayName": "بیان القرآن",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_israr-ahmad.json"
       },
@@ -2534,7 +2534,7 @@
         "author": "فتح محمد جالندھری",
         "displayName": "جالندھری",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1658517131580,
         "downloadPath": "inventory/translations/ur/ur_jalandhari.json",
         "hasAudio": true
@@ -2544,7 +2544,7 @@
         "author": "Abul A Ala Maududi",
         "displayName": "Abul A Ala Maududi",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_abulaalamaududi.json"
       },
@@ -2553,7 +2553,7 @@
         "author": "Ahmed Ali",
         "displayName": "Ahmed Ali",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_ahmedali.json"
       },
@@ -2562,7 +2562,7 @@
         "author": "Fateh Muhammad Jalandhry",
         "displayName": "Fateh Muhammad Jalandhry",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_fatehmuhammadja.json"
       },
@@ -2571,7 +2571,7 @@
         "author": "Mahmood Ul Hassan",
         "displayName": "Mahmood Ul Hassan",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_mahmoodulhassan.json"
       },
@@ -2580,7 +2580,7 @@
         "author": "Muhammad Hussain Najafi",
         "displayName": "Muhammad Hussain Najafi",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_muhammadhussain.json"
       },
@@ -2589,7 +2589,7 @@
         "author": "Muhammad Junagarhi",
         "displayName": "Muhammad Junagarhi",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_muhammadjunagar.json"
       },
@@ -2598,7 +2598,7 @@
         "author": "Muhammad Karam Shah Al Azhari",
         "displayName": "Muhammad Karam Shah Al Azhari",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_muhammadkaramsh.json"
       },
@@ -2607,7 +2607,7 @@
         "author": "Muhammad Tahir Ul Qadri",
         "displayName": "Muhammad Tahir Ul Qadri",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_muhammadtahirul.json"
       },
@@ -2616,7 +2616,7 @@
         "author": "Muhammad Taqi Usmani",
         "displayName": "Muhammad Taqi Usmani",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_muhammadtaqiusm.json"
       },
@@ -2625,7 +2625,7 @@
         "author": "Syed Zeeshan Haider Jawadi",
         "displayName": "Syed Zeeshan Haider Jawadi",
         "langCode": "ur",
-        "langName": "اردو",
+        "langName": "Urdu",
         "lastUpdated": 1773175641383,
         "downloadPath": "inventory/translations/ur/ur_syedzeeshanhaid.json"
       }
