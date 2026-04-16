@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:23":  {
+                                 "id":  2506
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلَا يُسْأَلُ عَمَّا يَفْعَلُ\u003c/span\u003e ] خوای گەورە پرسیاری لێ ناكرێ لە هەر كردەوەیەك كە بیكات، لەبەر گەورەیى و تواناو دەسەڵاتى [ \u003cspan class=\"arabic uthmani\"\u003eوَهُمْ يُسْأَلُونَ (٢٣)\u003c/span\u003e ] بەڵكو ئەوان پرسیاریان لێ ئەكرێ لەسەر ئەو كردەوەو وتانەی كە ئەیكەن و ئەیڵێن ."
+}

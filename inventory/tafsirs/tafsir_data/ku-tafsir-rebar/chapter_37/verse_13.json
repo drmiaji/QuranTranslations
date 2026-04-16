@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:13":  {
+                                 "id":  3801
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَإِذَا ذُكِّرُوا لَا يَذْكُرُونَ (١٣)\u003c/span\u003e ] وه‌ كاتێكیش كه‌ به‌ په‌ندو ئامۆژگاری یادیان بخه‌یته‌وه‌ ئه‌وان یاد ناكه‌نه‌وه‌و سوود وه‌رناگرن."
+}

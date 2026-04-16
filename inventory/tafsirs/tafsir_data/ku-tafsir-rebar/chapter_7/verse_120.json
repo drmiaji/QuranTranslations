@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:120":  {
+                                 "id":  1074
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ (١٢٠)\u003c/span\u003e ] كه‌ ساحیره‌كان بینیان ئه‌مه‌ی موسا - \u003cspan class=\"saw\"\u003eصلی الله علیه وسلم\u003c/span\u003e -  سیحر نیه‌ موعجیزه‌یه‌ موسڵمان بوون و سوجده‌یان بۆ خوای گه‌وره‌ برد."
+}

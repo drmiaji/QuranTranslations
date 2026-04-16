@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "24:46":  {
+                                 "id":  2837
+                             }
+               },
+    "resource_id":  169,
+    "resource_name":  "Ibn Kathir (Abridged)",
+    "language_id":  38,
+    "slug":  "en-tafisr-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Ibn Kathir (Abridged)",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cdiv class=\"arabic uthmani\"\u003eوَاللَّهُ يَهْدِى مَن يَشَآءُ إِلَى صِرَاطٍ مُّسْتَقِيمٍ\u003c/div\u003e\u003cp\u003e(And Allah guides whom He wills to the Straight Path.)\u003c/p\u003e"
+}

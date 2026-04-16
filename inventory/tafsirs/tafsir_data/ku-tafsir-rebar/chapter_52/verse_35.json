@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:35":  {
+                                 "id":  4770
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ (٣٥)\u003c/span\u003e ] یاخود ئایا ئێوە بەبێ هیچ شتێك دروست كراون و لە هیچ دروست كراون؟ یاخود خۆتان خۆتانتان دروست كردووە؟ نەخێر هیچیان نییە بەڵكو خوایەك هەیە كە ئێوەی دروست كردووە ."
+}

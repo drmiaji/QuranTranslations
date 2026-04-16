@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "45:7":  {
+                                "id":  4480
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَيْلٌ لِكُلِّ أَفَّاكٍ أَثِيمٍ (٧)\u003c/span\u003e ] وەیل و هەڕەشەو دۆزەخ بۆ ئەو كەسانەی كە زۆر درۆ هەڵئەبەستن وە زۆر تاوانبارن ."
+}

@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "20:65":  {
+                                 "id":  2413
+                             },
+                   "20:66":  {
+                                 "id":  2414
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Они предоставили Мусе право выбора, потому что были уверены в том, что одержат верх в любом случае."
+}

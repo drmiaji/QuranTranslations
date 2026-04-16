@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "74:42":  {
+                                 "id":  5537
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "{هۆكارى چونه‌ دۆزه‌خ}\n[ \u003cspan class=\"arabic uthmani\"\u003eمَا سَلَكَكُمْ فِي سَقَرَ (٤٢)\u003c/span\u003e ] ئه‌وه‌ چی ئێوه‌ی خستۆته‌ ناو (سه‌قه‌ر)ه‌وه‌؟ كه‌ ناوێكی تره‌ له‌ ناوه‌كانی دۆزه‌خ."
+}

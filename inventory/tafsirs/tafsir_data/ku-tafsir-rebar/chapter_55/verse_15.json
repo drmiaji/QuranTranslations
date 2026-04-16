@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "55:15":  {
+                                 "id":  4916
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ (١٥)\u003c/span\u003e ] وه‌ جنیشی دروست كردووه‌ له‌ گڕو بڵێسه‌ی ئاگر، یاخود له‌ ئاگره‌كه‌ خۆی جنی دروست كردووه‌."
+}

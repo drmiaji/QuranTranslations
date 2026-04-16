@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:6":  {
+                                "id":  4790
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eذُو مِرَّةٍ\u003c/span\u003e ] وە زۆر بەهێزەو عەقڵێكی پتەو و شێوازێكی زۆر جوانی هەیە [ \u003cspan class=\"arabic uthmani\"\u003eفَاسْتَوَى (٦)\u003c/span\u003e ] وە خوای گەورە جبریلى لەسەر شێوازێكی ڕێكوپێك دروست كردووە."
+}

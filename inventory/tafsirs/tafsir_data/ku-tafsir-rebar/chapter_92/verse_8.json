@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "92:8":  {
+                                "id":  6066
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "ئاسانكردنى رێگاى دۆزەخ\n [ \u003cspan class=\"arabic uthmani\"\u003eوَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَى (٨)\u003c/span\u003e ] بەڵام كەسێك كە ڕەزیل و چرووك بێ وە خۆی بە بێ پێویست بزانێ لە خوای گەورەو ئەجرو پاداشتەكەى ."
+}

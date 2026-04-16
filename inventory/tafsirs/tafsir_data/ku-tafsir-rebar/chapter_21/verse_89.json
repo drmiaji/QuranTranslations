@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:89":  {
+                                 "id":  2572
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "زەكەریا پێغەمبەر صلى الله علیه وسلم داواى منداڵ لە خوا دەكات\n [ \u003cspan class=\"arabic uthmani\"\u003eوَزَكَرِيَّا إِذْ نَادَى رَبَّهُ\u003c/span\u003e ] وە زەكەریا پێغەمبەر صلى الله علیه وسلم كاتێك لە پەروەردگاری پاڕایەوە [ \u003cspan class=\"arabic uthmani\"\u003eرَبِّ لَا تَذَرْنِي فَرْدًا\u003c/span\u003e ] ئەی پەروەردگار بەتەنها بەبێ مناڵ جێم مەهێڵەو مناڵم پێ ببەخشە [ \u003cspan class=\"arabic uthmani\"\u003eوَأَنْتَ خَيْرُ الْوَارِثِينَ (٨٩)\u003c/span\u003e ] وە تۆ باشترین خوای كە لە پاش مرۆڤ میراتگری بۆ جێ دێڵیت، میراتگر بۆ زانست و زانیارى و دین و پێغەمبەرایەتی ."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "55:22":  {
+                                 "id":  4923
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 22 { یَخْرُجُ مِنْہُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ۔ } ”ان دونوں سے نکلتے ہیں موتی بھی اور مونگے بھی۔“\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:115":  {
+                                  "id":  1588
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَاصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ (١١٥)\u003c/span\u003e ] وه‌ تۆ ئارامگر به‌ له‌سه‌ر دامه‌زراوی و خواپه‌رستی به‌ڕاستی خوای گه‌وره‌ پاداشتی چاكه‌كاران نافه‌وتێنێت."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "29:5":  {
+                                "id":  3345
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eمَنْ كَانَ يَرْجُو لِقَاءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لَآتٍ\u003c/span\u003e ] هەر كەسێك بە ئومێدی گەیشتنە بە خوای گەورە لە رۆژى قیامەت و چاوەڕوانى پاداشتە لەسەر ئیمان و كردەوەى چاكى ئەوا بە دڵنیایی ئەو كاتەی كە خوای گەورە دیاری كردووە بۆ زیندوو بوونەوە دێت و گومانی تیادا نییەو پاداشتى خۆى بەتەواوى وەردەگرێت [ \u003cspan class=\"arabic uthmani\"\u003eوَهُوَ السَّمِيعُ الْعَلِيمُ (٥)\u003c/span\u003e ] وە خوای گەورە زۆر بیسەرو زانایە ."
+}

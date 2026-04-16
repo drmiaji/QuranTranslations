@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "73:3":  {
+                                "id":  5478
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eنِصْفَهُ\u003c/span\u003e ] یاخود نیوەی شەو شەونوێژ بكە [ \u003cspan class=\"arabic uthmani\"\u003eأَوِ انْقُصْ مِنْهُ قَلِيلًا (٣)\u003c/span\u003e ] یاخود لە نیوەكەیش كەمتر شەونوێژ بكە ."
+}

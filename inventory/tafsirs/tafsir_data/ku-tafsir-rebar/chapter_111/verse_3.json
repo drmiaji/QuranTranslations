@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "111:3":  {
+                                 "id":  6219
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eسَيَصْلَى نَارًا ذَاتَ لَهَبٍ (٣)\u003c/span\u003e ] وە خوای گەورە ئەیخاتە ناو ئاگرێكەوە كە گڕو بڵێسەی هەیە وە زۆر ئەو ئاگرە سووتێنەرە ."
+}

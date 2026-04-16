@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "100:5":  {
+                                 "id":  6151
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَوَسَطْنَ بِهِ جَمْعًا (٥)\u003c/span\u003e ] هەموویان كۆئەبنەوە لە شوێنێكدا وە بەیەك ئەگەن یاخود ئەسپ و ماینەكان ئەگەنە ناوەڕاستی دوژمن لە كاتی هێرش كردندا."
+}

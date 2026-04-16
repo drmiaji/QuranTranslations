@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "35:19":  {
+                                 "id":  3679
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَمَا يَسْتَوِي الْأَعْمَى وَالْبَصِيرُ (١٩)\u003c/span\u003e ] وه‌نابیناو بینا یه‌كسان نین،نابینا واته‌: كافرو بینا واته‌: موسڵمان."
+}

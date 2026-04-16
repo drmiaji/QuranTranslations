@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "81:28":  {
+                                 "id":  5828
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ (٢٨)\u003c/span\u003e ] بۆ هه‌ر كه‌سێك له‌ ئێوه‌ كه‌ ویستی هیدایه‌ت و دامه‌زراوى و جێگیرى هه‌بێت."
+}

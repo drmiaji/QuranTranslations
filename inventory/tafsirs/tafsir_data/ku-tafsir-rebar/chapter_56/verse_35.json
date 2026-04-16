@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:35":  {
+                                 "id":  5014
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً (٣٥)\u003c/span\u003e ] ئێمە ئەو ئافرەتانەمان دروست كردووە لە بەهەشت, یاخود هەر ئافرەتانی دونیایش ئەوەی كە دەچێتە بەهەشتەوە ئەگەر تەمەنیشیان پیر بووبێ لەوێ خوای گەورە گەنجیان ئەكاتەوەو دەیانكاتەوە بە كچ، وە تەمەنى بەهەشتێكان سى و سێ ساڵە."
+}

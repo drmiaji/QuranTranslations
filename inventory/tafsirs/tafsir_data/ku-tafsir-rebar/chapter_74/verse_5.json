@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "74:5":  {
+                                "id":  5500
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَالرُّجْزَ فَاهْجُرْ (٥)\u003c/span\u003e ] وه‌ واز له‌ تاوان بێنه‌، یاخود به‌مانای بت دێت له‌ بته‌كان دووربكه‌وه‌و مه‌یانپه‌رسته‌."
+}

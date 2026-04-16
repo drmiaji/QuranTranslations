@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:30":  {
+                                 "id":  1832
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ (٣٠)\u003c/span\u003e ] فـریشتـەكـان هەر هەموویان كڕنوشیان بۆ ئادەم بردو فـەرمانی خـوای گـەورەیان جێبەجێ كرد ."
+}

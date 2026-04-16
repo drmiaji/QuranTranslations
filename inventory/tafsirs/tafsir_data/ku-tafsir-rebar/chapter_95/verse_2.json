@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "95:2":  {
+                                "id":  6100
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَطُورِ سِينِينَ (٢)\u003c/span\u003e ] وە سوێند ئەخوات بە (طوری سەیناء ) ئەو كێوەی كە خوای گەورە قسەی لەگەڵ موسادا صلى الله علیه وسلم كرد لەسەری ."
+}

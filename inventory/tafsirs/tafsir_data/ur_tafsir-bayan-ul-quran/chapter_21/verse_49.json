@@ -1,0 +1,22 @@
+﻿{
+    "verses":  {
+                   "21:47":  {
+                                 "id":  2530
+                             },
+                   "21:48":  {
+                                 "id":  2531
+                             },
+                   "21:49":  {
+                                 "id":  2532
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوَکَفٰی بِنَا حٰسِبِیْنَ ”اس سلسلے میں ہمیں کسی مدد گار کی ضرورت نہیں ہوگی۔\u003c/p\u003e"
+}

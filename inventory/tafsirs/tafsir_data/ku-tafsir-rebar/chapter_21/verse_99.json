@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:99":  {
+                                 "id":  2582
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلَوْ كَانَ هَؤُلَاءِ آلِهَةً مَا وَرَدُوهَا\u003c/span\u003e ] ئـەوانـەی كـە ئێـوە دەیـانـپەرستـن ئـەگـەر خـوا بوونایە ئێستا لـەگـەڵ خۆتاندا نەئەخرانە نـاو ئاگـری دۆزەخەوە چۆن خوا ئەخرێتە ناو دۆزەخەوە [ \u003cspan class=\"arabic uthmani\"\u003eوَكُلٌّ فِيهَا خَالِدُونَ (٩٩)\u003c/span\u003e ] وە هەموویان بە نەمری و بە هەمیشەیی لە ئاگری دۆزەخدا ئەمێننەوەو دەرناچن ."
+}

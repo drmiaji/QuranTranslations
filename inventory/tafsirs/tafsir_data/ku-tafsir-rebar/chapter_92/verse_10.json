@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "92:10":  {
+                                 "id":  6068
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَسَنُيَسِّرُهُ لِلْعُسْرَى (١٠)\u003c/span\u003e ] ئەمە بە پێچەوانەی ئەوەی ترەوە كاری دۆزەخی بۆ ئاسان ئەكەین، ئەم جۆرە كەسانە هەر كردەوەیەك شەڕو خراپەو تاوان بێ بەلایانەوە ئاسانەو ئەنجامی ئەدەن و لێی ناگەڕێنەوە تا بەرەو دۆزەخیان ئەبات، واتە: كردەوەی دۆزەخییەكانیان بۆ ئاسان ئەكرێ ."
+}

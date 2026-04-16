@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:44":  {
+                                 "id":  4828
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا (٤٤)\u003c/span\u003e ] وە هەر خوای گەورەیە كە ئەمانمرێنێ و زیندوومان ئەكاتەوە, مردن و ژیان هەر بەدەستى خوای گەورەیە."
+}

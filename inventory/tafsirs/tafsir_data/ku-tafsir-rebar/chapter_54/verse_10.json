@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:10":  {
+                                 "id":  4856
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَدَعَا رَبَّهُ أَنِّي مَغْلُوبٌ فَانْتَصِرْ (١٠)\u003c/span\u003e ] نوحیش صلى الله علیه وسلم لە خوای گەورە پاڕایەوە: ئەی پەروەردگار ئەوان زاڵ بوونە بەسەر منداو من تواناى ئەوانم نییە تۆ تۆڵەیان لێ بسەنەو دینەكەی خۆت سەربخە."
+}

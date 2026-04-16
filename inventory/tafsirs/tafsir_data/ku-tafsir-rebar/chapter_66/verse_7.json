@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "66:7":  {
+                                "id":  5236
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eيَا أَيُّهَا الَّذِينَ كَفَرُوا لَا تَعْتَذِرُوا الْيَوْمَ\u003c/span\u003e ] كـافران كـە ئەخرێنە ناو ئاگری دۆزەخ پێیان ئەووترێ ئەمڕۆ ئێوە هیچ عوزرو بیانوویەك مەهێننەوەو هیچ عوزرێكتان نییە [ \u003cspan class=\"arabic uthmani\"\u003eإِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ (٧)\u003c/span\u003e ] ئەم سزایەی كە ئەدرێن سزای ئەو كردەوانەیە كە لە دونیادا خۆتان كردووتانەو ستەمتان لێناكرێت."
+}

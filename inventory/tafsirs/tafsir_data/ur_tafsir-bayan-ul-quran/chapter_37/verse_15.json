@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:15":  {
+                                 "id":  3803
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 15{ وَقَالُوْٓا اِنْ ہٰذَآ اِلَّا سِحْرٌ مُّبِیْنٌ} ”اور کہتے ہیں کہ یہ تو کچھ نہیں مگر ایک کھلا جادو۔“\u003c/p\u003e"
+}

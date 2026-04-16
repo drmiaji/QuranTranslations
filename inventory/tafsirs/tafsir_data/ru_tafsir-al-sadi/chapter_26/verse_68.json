@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:68":  {
+                                 "id":  3000
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Воистину, Господь твой - Могущественный, Милосердный. Благодаря Своему могуществу Он погубил неверных, а благодаря Своему милосердию Он спас Мусу и всех, кто уверовал вместе с ним."
+}

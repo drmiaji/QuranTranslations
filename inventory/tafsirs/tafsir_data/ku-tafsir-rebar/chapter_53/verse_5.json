@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:5":  {
+                                "id":  4789
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eعَلَّمَهُ شَدِيدُ الْقُوَى (٥)\u003c/span\u003e ] جبریل فێری كردووەو لەلایەن خوای گەورەوە هاتووەو وەحی بۆ هێناوە كە زۆر بەهێزەو هێزێكی زۆر سەختی هەیە ."
+}

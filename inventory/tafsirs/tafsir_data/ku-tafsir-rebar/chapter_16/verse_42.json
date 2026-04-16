@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:42":  {
+                                 "id":  1943
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eالَّذِينَ صَبَرُوا\u003c/span\u003e ] ئه‌و كه‌سانه‌ی كه‌ ئارامیان گرتووه‌ له‌سه‌ر ئازارى كافران [ \u003cspan class=\"arabic uthmani\"\u003eوَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ (٤٢)\u003c/span\u003e ] وه‌ كاره‌كانیان به‌ خوای گه‌وره‌ سپاردووه‌و پشتیان به‌ خوا به‌ستووه."
+}

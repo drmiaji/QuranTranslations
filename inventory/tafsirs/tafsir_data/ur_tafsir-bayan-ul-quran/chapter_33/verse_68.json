@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "33:68":  {
+                                 "id":  3601
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 68 { رَبَّنَآ اٰتِہِمْ ضِعْفَیْنِ مِنَ الْعَذَابِ وَالْعَنْہُمْ لَعْنًا کَبِیْرًا } ”اے ہمارے پروردگار ! ُ تو ان کو دوگنا عذاب دے اور ان پر لعنت فرما ‘ بہت ہی بڑی لعنت۔“\u003c/p\u003e"
+}

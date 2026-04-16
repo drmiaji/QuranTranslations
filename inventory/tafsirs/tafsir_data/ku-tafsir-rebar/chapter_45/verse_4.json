@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "45:4":  {
+                                "id":  4477
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَفِي خَلْقِكُمْ وَمَا يَبُثُّ مِنْ دَابَّةٍ آيَاتٌ لِقَوْمٍ يُوقِنُونَ (٤)\u003c/span\u003e ] وە لە دروست كردنی خۆیشتاندا كە خوای گەورە چۆن لە دڵۆپە ئاوێك دروستی كردوون، وە ئەو گیانلەبەرانەی كە بڵاوی كردۆتەوە بەسەر زەویدا هەر هەمووی بەڵگەو نیشانەن بۆ كەسانێك كە یەقینیان هەبێت ."
+}

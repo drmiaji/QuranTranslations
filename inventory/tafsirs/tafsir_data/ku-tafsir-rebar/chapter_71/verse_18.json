@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "71:18":  {
+                                 "id":  5437
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eثُمَّ يُعِيدُكُمْ فِيهَا\u003c/span\u003e ] پاشان كە مردن ئەتانگەڕێنێتەوە ناو زەوی لەناو گۆڕەكاندا [ \u003cspan class=\"arabic uthmani\"\u003eوَيُخْرِجُكُمْ إِخْرَاجًا (١٨)\u003c/span\u003e ] وە لە ڕۆژی قیامەتیش دووبارە دەرتان ئەكاتەوە لەناو زەوی."
+}

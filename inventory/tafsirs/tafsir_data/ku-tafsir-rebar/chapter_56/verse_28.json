@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:28":  {
+                                 "id":  5007
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفِي سِدْرٍ مَخْضُودٍ (٢٨)\u003c/span\u003e ] ئەمان سیدریان بۆ هەیە كە جۆرێكە لە دار كە لە دونیاشدا هەیە بەڵام (مَخْضُود) واتە: لە دونیادا ئەو دارانە دڕكی هەیە بەڵام لەوێ دڕكەكانی بڕاوەتەوە، وە لە دونیادا بەرهەمی كەمە لەوێ بەرهەمی یەكجار زۆری پێوەیە."
+}

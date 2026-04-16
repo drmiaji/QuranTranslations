@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:76":  {
+                                 "id":  1440
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِنْدِنَا\u003c/span\u003e ] كاتێك ئه‌و حه‌قه‌ له‌ ئێمه‌وه‌ به‌وان گه‌یشت [ \u003cspan class=\"arabic uthmani\"\u003eقَالُوا إِنَّ هَذَا لَسِحْرٌ مُبِينٌ (٧٦)\u003c/span\u003e ] وتیان: ئه‌مه‌ به‌ڕاستی سیحرێكی زۆر ئاشكرایه‌ كه‌ موسا ئه‌یكات."
+}

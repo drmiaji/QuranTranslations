@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:50":  {
+                                 "id":  4834
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَأَنَّهُ أَهْلَكَ عَادًا الْأُولَى (٥٠)\u003c/span\u003e ] وە هەر خوای گەورە بوو كە عادی سەرەتای قەومی هودى لەناوبرد كە ئیمانیان نەهێنا ."
+}

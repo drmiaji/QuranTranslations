@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:10":  {
+                                 "id":  2683
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأُولَئِكَ هُمُ الْوَارِثُونَ (١٠)\u003c/span\u003e ] ئا ئه‌م كه‌سانه‌ ئه‌بن به‌ میراتگرى به‌هه‌شت."
+}

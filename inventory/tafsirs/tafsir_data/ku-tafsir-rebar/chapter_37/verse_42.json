@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:42":  {
+                                 "id":  3830
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَوَاكِهُ وَهُمْ مُكْرَمُونَ (٤٢)\u003c/span\u003e ] وه‌ جۆره‌ها میوه‌یان بۆ هه‌یه‌ وه‌ خوای گه‌وره‌ ڕێزیان لێ ئه‌گرێ به‌ جۆره‌ها ڕێز."
+}

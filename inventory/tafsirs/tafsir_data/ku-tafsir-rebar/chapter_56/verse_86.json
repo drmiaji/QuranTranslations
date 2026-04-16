@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:86":  {
+                                 "id":  5065
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ (٨٦)\u003c/span\u003e ] ئەگەر ئێوە دروستكراوی خواو بەندەی خوا نین، یان ئەگەر ئێوە لێپرسینەوەتان لەگەڵ ناكرێ، یان ئەگەر ئێوە یەقینتان بەم شتە نییە و بەراستى نازانن و باوەڕتان بە زیندووبوونەوە نییە ."
+}

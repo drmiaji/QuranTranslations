@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:201":  {
+                                  "id":  3133
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلَا يُؤْمِنُونَ بِهِ\u003c/span\u003e ] ئه‌وان ئیمانی پێ ناهێنن [ \u003cspan class=\"arabic uthmani\"\u003eحَتَّى يَرَوُا الْعَذَابَ الْأَلِيمَ (٢٠١)\u003c/span\u003e ] تا سزای به‌ ئێش و ئازار به‌ چاوی خۆیان نه‌بینن و خوای گه‌وره‌ سزایان نه‌دات."
+}

@@ -1,0 +1,22 @@
+﻿{
+    "verses":  {
+                   "77:42":  {
+                                 "id":  5664
+                             },
+                   "77:43":  {
+                                 "id":  5665
+                             },
+                   "77:44":  {
+                                 "id":  5666
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 42{ وَّفَوَاکِہَ مِمَّا یَشْتَہُوْنَ۔ } ’ انہیں ایسے پھل دیے جائیں گے جنہیں کھانا انہیں بہت مرغوب ہوگا۔\u003c/p\u003e"
+}

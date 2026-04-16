@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "70:30":  {
+                                 "id":  5405
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِلَّا عَلَى أَزْوَاجِهِمْ\u003c/span\u003e ] ته‌نها بۆ هاوسه‌رو خێزانه‌كانی خۆیان نه‌بێت [ \u003cspan class=\"arabic uthmani\"\u003eأَوْ مَا مَلَكَتْ أَيْمَانُهُمْ\u003c/span\u003e ] یان ئه‌و كه‌نیزانه‌ی كه‌ هه‌یانه‌ [ \u003cspan class=\"arabic uthmani\"\u003eفَإِنَّهُمْ غَيْرُ مَلُومِينَ (٣٠)\u003c/span\u003e ] ئه‌وان له‌و شته‌دا لۆمه‌ ناكرێن و تاوانبار نابن."
+}

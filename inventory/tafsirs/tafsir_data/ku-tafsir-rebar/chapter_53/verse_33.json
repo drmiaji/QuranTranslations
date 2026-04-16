@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:33":  {
+                                 "id":  4817
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَفَرَأَيْتَ الَّذِي تَوَلَّى (٣٣)\u003c/span\u003e ] هەواڵم پێ بدە سەبارەت بەو كەسەی كە پشت هەڵئەكات لە حەق و خێرو چاكە ."
+}

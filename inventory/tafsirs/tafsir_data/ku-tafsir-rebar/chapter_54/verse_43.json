@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:43":  {
+                                 "id":  4889
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَكُفَّارُكُمْ خَيْرٌ مِنْ أُولَئِكُمْ\u003c/span\u003e ] ئەی كافرانی مەككە ئایا ئێوە باشترو بەهێزترن لەم كافرانەی كە لە پێشتردا بۆتان باسكرا, ئەوان زۆر بەهێزتر بوون و خوای گەورە لەناوی بردن ئێوە چۆن لەناو نابات [ \u003cspan class=\"arabic uthmani\"\u003eأَمْ لَكُمْ بَرَاءَةٌ فِي الزُّبُرِ (٤٣)\u003c/span\u003e ] یاخود ئێوە لە كتابدا بۆتان هاتووە كە بەرین لە سزای خواو سزای خوای گەورە ئێوە ناگرێتەوە؟ ئایا شتی واتان بۆ هاتووە؟ نەخێر."
+}

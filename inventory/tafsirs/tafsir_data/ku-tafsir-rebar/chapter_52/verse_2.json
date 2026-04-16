@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:2":  {
+                                "id":  4737
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَكِتَابٍ مَسْطُورٍ (٢)\u003c/span\u003e ] وە سوێند بێ بەو كتابەی كە نووسراوەتەوە كە قورئانی پیرۆزە، یان (لوح المحفوظ)ه، یاخود ئەو لەوحانەیە كە خوای گەورە تەوراتی تیادا نووسیبووەوەو بە موسای صلى الله علیه وسلم بەخشی، یان سەرجەم كتابە ئاسمانییەكانە كە نوسراونەتەوەو بەسەر خەڵكیدا خوێندراونەتەوە ."
+}

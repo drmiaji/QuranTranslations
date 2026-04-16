@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:60":  {
+                                 "id":  1862
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِلَّا امْرَأَتَهُ\u003c/span\u003e ] تەنها خێزانەكەی نەبێ كە كافر بوو ئەو ڕزگاری نابێ [ \u003cspan class=\"arabic uthmani\"\u003eقَدَّرْنَا إِنَّهَا لَمِنَ الْغَابِرِينَ (٦٠)\u003c/span\u003e ] بڕیارمان داوە كە بە فەرمانی خوای گەورە ئەو ئەمێنێتەوەو لەگەڵ كافراندا سزا ئەدرێ و لەناودەچێت."
+}

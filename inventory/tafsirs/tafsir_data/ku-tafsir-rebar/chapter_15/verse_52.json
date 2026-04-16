@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:52":  {
+                                 "id":  1854
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا\u003c/span\u003e ] كاتێك هاتنە ژوورەوە بۆ لای سەلامیان لە ئیبراهیم كرد صلى الله علیه وسلم [ \u003cspan class=\"arabic uthmani\"\u003eقَالَ إِنَّا مِنْكُمْ وَجِلُونَ (٥٢)\u003c/span\u003e ] ئیبراهیم صلى الله علیه وسلم دوای ئەوەی كە گوێلكێكی بۆ سوور كردنەوەو بۆى هێنان نەیانخوارد، پێی فەرموون: كە ناخۆن من لێتان ئەترسێم نەك نیازی خراپتان هەبێ، وەكو لە سوورەتی (هود) باسمان كرد."
+}

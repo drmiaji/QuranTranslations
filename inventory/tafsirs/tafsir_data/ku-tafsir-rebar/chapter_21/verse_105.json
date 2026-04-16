@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:105":  {
+                                  "id":  2588
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "بەندە چاكەكان دەبن بە فەرمانڕەوا\n [ \u003cspan class=\"arabic uthmani\"\u003eوَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ\u003c/span\u003e ] وە بە دڵنیایى لە زەبوریشدا كە كتابی داود پێغەمبەر بوو صلى الله علیه وسلم لەوێشدا نووسیوومانە لە پاش نووسینمان لە (لوح المحفوظـ) [ \u003cspan class=\"arabic uthmani\"\u003eأَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ (١٠٥)\u003c/span\u003e ] كە بە دڵنیایى بەندە چاكەكانی من ئەبن بە میراتگری زەوی و بە فەرمانڕەواو دەسەڵاتدار لەسەر زەویدا ."
+}

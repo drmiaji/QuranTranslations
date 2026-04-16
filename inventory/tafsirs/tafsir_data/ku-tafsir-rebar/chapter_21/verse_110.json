@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:110":  {
+                                  "id":  2593
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِنَّهُ يَعْلَمُ الْجَهْرَ مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ (١١٠)\u003c/span\u003e ] وە بە دڵنیایى پەروەردگار ئاگای لە هەموو وتەیەك هەیە كە بە ئاشكرا بیڵێن وە ئەوەیشی كە ئەیشارنەوە لای خوای گەورە شاراوە نییەو زانست و زانیاری پێیەو ئەیبیستێت ."
+}

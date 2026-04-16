@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "90:19":  {
+                                 "id":  6042
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَالَّذِينَ كَفَرُوا بِآيَاتِنَا\u003c/span\u003e ] وە ئەو كەسانەیشی كە كوفریان كردووە بە ئایەتەكانی ئێمەو باوەڕیان پێی نەبووەو دژایەتیان كردووە [ \u003cspan class=\"arabic uthmani\"\u003eهُمْ أَصْحَابُ الْمَشْأَمَةِ (١٩)\u003c/span\u003e ] ئەمانە هاوەڵانى لای چەپن و پەڕاوی كردەوە خراپەكانیان ئەدرێتە دەستی چەپیان لەبەر ئەوەی دەستی ڕاستیان لە پشتەوە كۆت و زنجیر كراوە، وە لەلای چەپەوە بەرەو دۆزەخ بەڕێ ئەكرێن, (پەنا بەخوای گەورە) ."
+}

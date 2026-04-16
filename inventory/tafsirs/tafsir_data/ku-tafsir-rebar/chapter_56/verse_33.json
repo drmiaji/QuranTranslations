@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:33":  {
+                                 "id":  5012
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ (٣٣)\u003c/span\u003e ] میوەكان نە ئەوەتا لە كاتێك لە كاتەكاندا ببڕێت و نەمێنێت، یاخود قەدەغە بكرێن لێی، بەڵكو لە هەموو كاتێكدا بۆیان هەیەو بەردەوام و هەمیشەییە."
+}

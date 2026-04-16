@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:17":  {
+                                 "id":  1819
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "ئاسمان پارێزراوە لە شەیتان\n [ \u003cspan class=\"arabic uthmani\"\u003eوَحَفِظْنَاهَا مِنْ كُلِّ شَيْطَانٍ رَجِيمٍ (١٧)\u003c/span\u003e ] وە ئاسمانیشمان پاراستووە لە هەموو شەیتانێكی ڕەجمكراو كە بەرز ببنەوە بۆ ئاسمان كە شتێك لە وەحی یاخود لە فەرمایشتی خوای گەورە بدزن وە بیدەن بە ساحیرو فاڵچییەكان ."
+}

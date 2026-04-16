@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:60":  {
+                                 "id":  5039
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eنَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ (٦٠)\u003c/span\u003e ] ئێمەین كە مردنیشمان بۆ دیاری كردوون و كاتی دیاریكراومان بۆ داناون, وە هیچ كەسێكیش نییە زاڵ بێ بەسەر ئێمەدا بەڵكو ئێمەین كە تواناو دەسەڵاتمان هەیە بەسەر هەموو كەس و شتێكدا ."
+}

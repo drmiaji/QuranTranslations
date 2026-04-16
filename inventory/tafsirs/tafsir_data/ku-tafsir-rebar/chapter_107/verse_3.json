@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "107:3":  {
+                                 "id":  6200
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَلَا يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ (٣)\u003c/span\u003e ] وە نە هانی خۆی ئەدات وە نە هانی خەڵكی ئەدات لەسەر ئەوەی كە خواردن بە فەقیرو هەژاران بدرێت لەبەر ڕەزیلی و چرووكی ."
+}

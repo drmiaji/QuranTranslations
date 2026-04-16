@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:16":  {
+                                 "id":  3721
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eقَالُوا رَبُّنَا يَعْلَمُ إِنَّا إِلَيْكُمْ لَمُرْسَلُونَ (١٦)\u003c/span\u003e ] پێغه‌مبه‌ران وتیان: په‌روه‌ردگارمان ده‌زانێت كه‌ ئێمه‌ به‌دڵنیایی پێغه‌مبه‌رین و بۆ لای ئێوه‌ نێردراوین."
+}

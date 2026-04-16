@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:85":  {
+                                 "id":  5064
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَكِنْ لَا تُبْصِرُونَ (٨٥)\u003c/span\u003e ] بەڵام ئێمە لێی نزیكترین لە ئێوە بە زانیاری و تواناو دەسەڵات و بیستن و ببینی خۆمان, یاخود مەبەست پێی فریشتەكانی ئێمە لە ئێوە لێی نزیكترن بەڵام ئێوە فریشتەكان نابینن ."
+}

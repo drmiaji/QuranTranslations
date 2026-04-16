@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "74:55":  {
+                                 "id":  5550
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَمَنْ شَاءَ ذَكَرَهُ (٥٥)\u003c/span\u003e ] جا هه‌ر كه‌سێك ویستی لێ بێت بیرو یاد ئه‌كاته‌وه‌."
+}

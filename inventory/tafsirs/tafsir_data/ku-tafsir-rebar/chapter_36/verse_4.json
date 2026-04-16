@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:4":  {
+                                "id":  3709
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eعَلَى صِرَاطٍ مُسْتَقِيمٍ (٤)\u003c/span\u003e ] وه‌ له‌سه‌ر ڕێگای ڕاستی خوای گه‌وره‌ی."
+}

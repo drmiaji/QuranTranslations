@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:24":  {
+                                 "id":  5003
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eجَزَاءً بِمَا كَانُوا يَعْمَلُونَ (٢٤)\u003c/span\u003e ] خوای گەورە ئەم پاداشتانەیان ئەداتێ بەهۆی ئەو كردەوە چاكانەی كە لە دونیادا كردوویانە ."
+}

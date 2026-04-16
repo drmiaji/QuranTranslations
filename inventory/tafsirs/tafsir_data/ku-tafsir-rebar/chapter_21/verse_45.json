@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:45":  {
+                                 "id":  2528
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eقُلْ إِنَّمَا أُنْذِرُكُمْ بِالْوَحْيِ\u003c/span\u003e ] ئەی محمد صلى الله علیه وسلم پێیان بڵێ: من دەتانترسێنم و ئاگادارتان دەكەمەوە لە سزاى خواى گەورە بەو قورئانە پیرۆزە [ \u003cspan class=\"arabic uthmani\"\u003eوَلَا يَسْمَعُ الصُّمُّ الدُّعَاءَ إِذَا مَا يُنْذَرُونَ (٤٥)\u003c/span\u003e ] بەڵام كەسێك كەڕ بێت كاتێك ئاگاداریش بكرێتەوە گوێی لە بانگەواز نابێت، واتە: ئەوان وەكو كەڕ وان و نابیستن ."
+}

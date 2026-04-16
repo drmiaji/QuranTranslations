@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "29:60":  {
+                                 "id":  3400
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَكَأَيِّنْ مِنْ دَابَّةٍ لَا تَحْمِلُ رِزْقَهَا\u003c/span\u003e ] وە لە دونیادا زۆرێك لە گیانلەبەران هەن كە لەبەر لاوازیان ناتوانن ڕزقی خۆیان دەستبخەن و كۆبكەنەو هەڵبگرن [ \u003cspan class=\"arabic uthmani\"\u003eاللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ\u003c/span\u003e ] بەڵام خوای گەورە ڕزق و ڕۆزی ئەوان و ئێوەش ئەدات [ \u003cspan class=\"arabic uthmani\"\u003eوَهُوَ السَّمِيعُ الْعَلِيمُ (٦٠)\u003c/span\u003e ] وە خوای گەورە زۆر بیسەرە بە وتەى بەندەكانى، وە زۆر زانایە بە كردەوەكانیان ."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:94":  {
+                                 "id":  1896
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَاصْدَعْ بِمَا تُؤْمَرُ\u003c/span\u003e ] تۆ ئەوەی كە خوای گەورە فەرمانی پێ كردوویت ئاشكرای بكەو بە ئاشكرا بیڵێ و بانگەوازیان بكە بۆ یەكخواپەرستی خوای گەورە [ \u003cspan class=\"arabic uthmani\"\u003eوَأَعْرِضْ عَنِ الْمُشْرِكِينَ (٩٤)\u003c/span\u003e ] وە پشت بكە لە موشریكان و گوێیان پێ مەدە ."
+}

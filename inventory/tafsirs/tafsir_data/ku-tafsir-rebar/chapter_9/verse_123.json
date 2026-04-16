@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:123":  {
+                                 "id":  1358
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eيَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا الَّذِينَ يَلُونَكُمْ مِنَ الْكُفَّارِ\u003c/span\u003e ] ئەی باوەڕداران كوشتاری ئەو كافرانە بكەن كە لە جەنگ‌و رووبەڕووبوونەوە لێتانەوە نزیكن [ \u003cspan class=\"arabic uthmani\"\u003eوَلْيَجِدُوا فِيكُمْ غِلْظَةً\u003c/span\u003e ]  وە با تووندی و ڕەقیتان لێوە ببینن [ \u003cspan class=\"arabic uthmani\"\u003eوَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ (١٢٣)\u003c/span\u003e ]  وەبزانن كە خوای گەورە لەگەڵ ئەو كەسانەدایە كە تەقوای خوای گەورە ئەكەن بەوەی كە سەریان ئەخات‌و پشتیوانیان دەكات."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:44":  {
+                                 "id":  4890
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُنْتَصِرٌ (٤٤)\u003c/span\u003e ] یان ئەڵێن: ئێمە زۆرین و بەزۆرییەوە ئەنازێن و ئەڵێن زۆر زاڵ ئەبێ ."
+}

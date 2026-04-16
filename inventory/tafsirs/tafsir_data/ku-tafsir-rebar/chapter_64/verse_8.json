@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "64:8":  {
+                                "id":  5207
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا\u003c/span\u003e ] بۆیە ئیمان بێنن بە خوای گەورەو پێغەمبەرەكەی و صلى الله علیه وسلم بەو نوورو ڕووناكییەش كە قورئانی پیرۆزە دامان گرتووە [ \u003cspan class=\"arabic uthmani\"\u003eوَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ (٨)\u003c/span\u003e ] وە خوای گەورە بە كردەوەكانی ئێوە زۆر زانیاریەكی وردی هەیەو هیچ شتێكی لێ ناشاردرێتەوە."
+}

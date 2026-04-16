@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:47":  {
+                                 "id":  4893
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ (٤٧)\u003c/span\u003e ] بەڕاستی تاوانباران و خراپەكاران لە سزاو ئاگری سووتێنەری دۆزەخدان."
+}

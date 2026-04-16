@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:38":  {
+                                 "id":  5017
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلِأَصْحَابِ الْيَمِينِ (٣٨)\u003c/span\u003e ] ئەم حۆریانە خوای گەورە دروستی كردوون بۆ ئەو كەسانەی كە هاوەڵانی لای ڕاستن ئەوانەی كە بەدەستی ڕاست كتابیان پێ ئەدرێ ."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:81":  {
+                                 "id":  5060
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَفَبِهَذَا الْحَدِيثِ أَنْتُمْ مُدْهِنُونَ (٨١)\u003c/span\u003e ] ئایا ئێوە ئەم قسەو فەرموودەیە كە قورئانی پیرۆزە باوەڕی پێ ناكەن و بەدرۆی ئەزانن, یاخود دەتانەوێت بەلای كافراندا لابدەن ."
+}

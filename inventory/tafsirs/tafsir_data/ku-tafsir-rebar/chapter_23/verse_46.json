@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:46":  {
+                                 "id":  2719
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِلَى فِرْعَوْنَ وَمَلَئِهِ\u003c/span\u003e ] بۆ لای فیرعه‌ون و داروده‌سته‌و پیاوماقوڵانی [ \u003cspan class=\"arabic uthmani\"\u003eفَاسْتَكْبَرُوا\u003c/span\u003e ] ئه‌وان ئیمانیان نه‌هێناو خۆیان به‌گه‌وره‌ زانی [ \u003cspan class=\"arabic uthmani\"\u003eوَكَانُوا قَوْمًا عَالِينَ (٤٦)\u003c/span\u003e ] وه‌ ئه‌وان قه‌ومێكی خۆبه‌گه‌وره‌زان بوون."
+}

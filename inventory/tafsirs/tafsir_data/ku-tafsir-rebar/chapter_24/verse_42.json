@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "24:42":  {
+                                 "id":  2833
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ\u003c/span\u003e ] وه‌ ئاسمانه‌كان و زه‌وی هه‌مووى موڵكی خوای گه‌وره‌یه‌ [ \u003cspan class=\"arabic uthmani\"\u003eوَإِلَى اللَّهِ الْمَصِيرُ (٤٢)\u003c/span\u003e ] وه‌ سه‌ره‌نجام و گه‌ڕانه‌وه‌ش له‌ رۆژى قیامه‌ت هه‌ر بۆ لای خوای گه‌وره‌یه‌."
+}

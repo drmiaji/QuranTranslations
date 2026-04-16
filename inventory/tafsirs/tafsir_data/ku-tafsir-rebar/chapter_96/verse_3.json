@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "96:3":  {
+                                "id":  6109
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eاقْرَأْ وَرَبُّكَ الْأَكْرَمُ (٣)\u003c/span\u003e ] بخوێنه‌ به‌ناوی په‌روه‌ردگاری هه‌ره‌ به‌ڕێزته‌وه‌."
+}

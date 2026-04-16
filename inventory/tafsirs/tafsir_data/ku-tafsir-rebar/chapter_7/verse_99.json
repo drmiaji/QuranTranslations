@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:99":  {
+                                "id":  1053
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَفَأَمِنُوا مَكْرَ اللَّهِ\u003c/span\u003e ] ئایا ئه‌مینن له‌ مه‌كرو سزای خوای گه‌وره‌ [ \u003cspan class=\"arabic uthmani\"\u003eفَلَا يَأْمَنُ مَكْرَ اللَّهِ إِلَّا الْقَوْمُ الْخَاسِرُونَ (٩٩)\u003c/span\u003e ] هیچ كه‌سێك ئه‌مین نابێ له‌ مه‌كرو سزای خوا ئیلا كه‌سانێكی زه‌ره‌رمه‌ند نه‌بێ."
+}

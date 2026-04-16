@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:103":  {
+                                  "id":  1467
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "{ خوای گەورە بە حەقی داناوە لەسەر خۆی باوەڕداران سەربخات}\n [ \u003cspan class=\"arabic uthmani\"\u003eثُمَّ نُنَجِّي رُسُلَنَا وَالَّذِينَ آمَنُوا\u003c/span\u003e ] پاشان كافران له‌ناو ئه‌ده‌ین وه‌ پێغه‌مبه‌رانی خۆمان و - \u003cspan class=\"saw\"\u003eصلی الله علیه وسلم\u003c/span\u003e -  باوه‌ڕداران ڕزگار ئه‌كه‌ین [ \u003cspan class=\"arabic uthmani\"\u003eكَذَلِكَ حَقًّا عَلَيْنَا نُنْجِ الْمُؤْمِنِينَ (١٠٣)\u003c/span\u003e ] خوای گه‌وره‌ به‌حه‌قی داناوه‌ له‌سه‌ر خۆی كه‌ باوه‌ڕداران ڕزگار بكات له‌ سزا له‌ كاتێك كه‌ سزای كافران ئه‌دات."
+}

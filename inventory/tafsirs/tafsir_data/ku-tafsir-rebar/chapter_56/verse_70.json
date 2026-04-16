@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:70":  {
+                                 "id":  5049
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ (٧٠)\u003c/span\u003e ] ئەگەر ویستمان لێ بێت ئاوەكەتان شوێرو تاڵ ئەكەین بە شێوازێك كە بۆتان نەخورێت و نەتوانن بۆ كشتوكاڵ كردنیش سوودی لێ ببینن، ئەی بۆ شوكرانەبژێری ئەم هەموو نیعمەتەی خوای گەورە ناكەن كە خوای گەورە پێی بەخشیوون ."
+}

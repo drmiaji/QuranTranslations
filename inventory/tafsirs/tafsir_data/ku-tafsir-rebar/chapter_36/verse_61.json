@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:61":  {
+                                 "id":  3766
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَأَنِ اعْبُدُونِي هَذَا صِرَاطٌ مُسْتَقِيمٌ (٦١)\u003c/span\u003e ] وه‌ به‌تاك و ته‌نها عیباده‌تی من بكه‌ن ئا ئه‌مه‌ ڕێگای ڕاستی منه‌ كه‌ دینی ئیسلامه‌."
+}

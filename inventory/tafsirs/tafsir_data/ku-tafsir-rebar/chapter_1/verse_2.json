@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "1:2":  {
+                               "id":  2
+                           }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ (٢)\u003c/span\u003e ]حەمدو سەناو ستایش بۆ پەروەردگارو بەدیهێنەرو بەڕێوەبەری هەموو جیهانان، كە ئەمەیش فەرمانكردنى تێدایە بۆ بەندەكان بە حەمدو سەناو ستایشى خواى گەورە، چونكە باشترین دوعایەو خواى گەورە خۆشى دەوێت  ."
+}

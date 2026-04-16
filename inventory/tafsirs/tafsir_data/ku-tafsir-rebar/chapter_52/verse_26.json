@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:26":  {
+                                 "id":  4761
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eقَالُوا إِنَّا كُنَّا قَبْلُ فِي أَهْلِنَا مُشْفِقِينَ (٢٦)\u003c/span\u003e ] ئەڵێن: ئێمە بەڕاستی پێشتر لەناو كەسوكاری خۆماندا لە دونیادا لە سزای خوای گەورە ئەترساین ."
+}

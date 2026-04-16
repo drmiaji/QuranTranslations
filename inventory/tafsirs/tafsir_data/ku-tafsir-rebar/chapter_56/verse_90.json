@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:90":  {
+                                 "id":  5069
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "روحكێشانى هاوەڵانى راست\n [ \u003cspan class=\"arabic uthmani\"\u003eوَأَمَّا إِنْ كَانَ مِنْ أَصْحَابِ الْيَمِينِ (٩٠)\u003c/span\u003e ] كۆمەڵى دووەم: بەڵام ئەگەر لە هاوەڵانى لاى راست بێت كە پەرتوكى كردەوەكانیان بەدەستى راست پێدەدرێت و بە لاى راستدا بەرەو بەهەشت بەرێ دەكرێن، كە ئەمانیش بەهەشتین پلەیەك لە خوار كۆمەڵى یەكەمەوەن ."
+}

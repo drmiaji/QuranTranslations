@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "58:21":  {
+                                 "id":  5125
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eكَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي\u003c/span\u003e ] خوای گەورە نووسیویەتی و بڕیاری داوە كە من و پێغەمبەرانم باڵادەست و سەركەوتوین بەسەر كافران و بێباوەڕاندا بە بەڵگە، وە لە كاتی جەنگدا بە شمشێر [ \u003cspan class=\"arabic uthmani\"\u003eإِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ (٢١)\u003c/span\u003e ] بەڕاستی خوای گەورە زۆر بەهێزو باڵادەستە."
+}

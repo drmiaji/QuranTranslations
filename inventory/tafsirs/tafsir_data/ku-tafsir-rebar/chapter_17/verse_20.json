@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "17:20":  {
+                                 "id":  2049
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eكُلًّا نُمِدُّ هَؤُلَاءِ وَهَؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ\u003c/span\u003e ] هه‌ردوو كۆمه‌ڵه‌كه‌ ئه‌وه‌ی كه‌ دونیای ئه‌وێ و ئه‌وه‌ی كه‌ قیامه‌تی ئه‌وێ له‌ دونیادا به‌ هه‌ردووكیان ئه‌به‌خشین [ \u003cspan class=\"arabic uthmani\"\u003eوَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا (٢٠)\u003c/span\u003e ] وه‌ به‌خشینی خوای گه‌وره‌ قه‌ده‌غه‌ نیه‌ له‌سه‌ر هیچ لایه‌كیان."
+}

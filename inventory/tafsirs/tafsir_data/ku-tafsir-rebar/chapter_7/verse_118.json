@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:118":  {
+                                 "id":  1072
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "{ حەق دەركەوت‌و جادووگەران موسڵمان بوون}\n [ \u003cspan class=\"arabic uthmani\"\u003eفَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَ (١١٨)\u003c/span\u003e ] ئه‌و كاته‌ حه‌ق ده‌ركه‌وت و ئاشكرا بوو وه‌ ئه‌و شته‌ پووچه‌ڵانه‌ی كه‌ جادووگه‌ران ئه‌یان كرد هه‌ر هه‌مووی پووچه‌ڵه‌كه‌ی بۆ خه‌ڵك ده‌ركه‌وت."
+}

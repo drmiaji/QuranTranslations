@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:124":  {
+                                  "id":  3912
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِذْ قَالَ لِقَوْمِهِ أَلَا تَتَّقُونَ (١٢٤)\u003c/span\u003e ] كاتێك كه‌ به‌ قه‌ومه‌كه‌ی خۆی فه‌رموو ئه‌وه‌ بۆ ته‌قوای خوای گه‌وره‌ ناكه‌ن و بۆچی عیباده‌تی جگه‌ له‌ خوای گه‌وره‌ ئه‌كه‌ن."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "45:30":  {
+                                 "id":  4503
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِي رَحْمَتِهِ\u003c/span\u003e ] ئەو كەسانەی كە باوەڕیان هێناوەو كردەوەی چاكیان كردووە خوای گەورە ئەیانخاتە ناو ڕەحمەتی خۆی لە بەهەشتدا، (كردەوەى چاك ئەوەیە بۆ خوا بێت و بۆ ریا نەبێت، وە لەسەر سوننەت بێت و بیدعە نەبێت) [ \u003cspan class=\"arabic uthmani\"\u003eذَلِكَ هُوَ الْفَوْزُ الْمُبِينُ (٣٠)\u003c/span\u003e ] كە ئەمە بەڕاستی بردنەوەی روون و ئاشكرایە."
+}

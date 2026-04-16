@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "93:3":  {
+                                "id":  6082
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eمَا وَدَّعَكَ رَبُّكَ\u003c/span\u003e ] ئەمە وەڵامی سوێند خواردنەكەیە: ئەی محمد صلى الله علیه وسلم پەروەردگارت وازی لێ نەهێناویت و دەستبەردارت نەبووەو وەحی لە تۆ نەپچڕاندوووەو كۆتایی بە وەحی نەهاتووە [ \u003cspan class=\"arabic uthmani\"\u003eوَمَا قَلَى (٣)\u003c/span\u003e ] وە ڕقی لێت نییە بەڵكو پەروەردگار خۆشى ئەوێیت ئەوپەڕی خۆشوویستن ."
+}

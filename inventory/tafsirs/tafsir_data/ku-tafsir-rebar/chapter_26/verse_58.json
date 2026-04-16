@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:58":  {
+                                 "id":  2990
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَكُنُوزٍ\u003c/span\u003e ] وه‌ كه‌نزو ئاڵتوون و خشڵیان هه‌بوو [ \u003cspan class=\"arabic uthmani\"\u003eوَمَقَامٍ كَرِيمٍ (٥٨)\u003c/span\u003e ] وه‌ شوێن و كۆشكی چاكیان هه‌بوو."
+}

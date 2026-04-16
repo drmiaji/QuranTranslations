@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:9":  {
+                                "id":  4988
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَأَصْحَابُ الْمَشْأَمَةِ\u003c/span\u003e ] بەشى دووەم: هاوەڵانى لاى چەپن ئەوانەن كە لەلای چەپی عەرشی خوای گەورەن، وە كتێبیشیان بەدەستی چەپیان پێ ئەدرێ، وە بەلای چەپیشدا بەرەو دۆزەخ ئەبرێن كە دۆزەخییەكانن بە گشتی [ \u003cspan class=\"arabic uthmani\"\u003eمَا أَصْحَابُ الْمَشْأَمَةِ (٩)\u003c/span\u003e ] ئەی محمد صلى الله علیه وسلم تۆ چوزانی ئەم دۆزەخییانە ئەمانەی كە بەلای چەپدا ئەبرێن بۆ دۆزەخ حاڵیان چۆنە"
+}

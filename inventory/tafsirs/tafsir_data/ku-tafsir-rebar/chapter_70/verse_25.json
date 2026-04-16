@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "70:25":  {
+                                 "id":  5400
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلِلسَّائِلِ وَالْمَحْرُومِ (٢٥)\u003c/span\u003e ] بۆ ئه‌و كه‌سانه‌ی كه‌ داوا ئه‌كه‌ن، وه‌ (مه‌حروم)یش ئه‌وه‌یه‌ كه‌ تووشی به‌ڵایه‌ك بووه‌و هیچی نه‌ماوه‌، یاخود ئه‌وانه‌ی كه‌ فه‌قیرو هه‌ژارن و كه‌س نایانناسێت و خۆیان داوا ناكه‌ن."
+}

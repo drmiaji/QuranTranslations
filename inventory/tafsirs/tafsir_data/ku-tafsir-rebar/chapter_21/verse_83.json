@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:83":  {
+                                 "id":  2566
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "خواى گەورە شیفاى ئەیوب پێغەمبەر صلى الله علیه وسلم دەدات\n [ \u003cspan class=\"arabic uthmani\"\u003eوَأَيُّوبَ إِذْ نَادَى رَبَّهُ\u003c/span\u003e ] وە ئەیوب پێغەمبەر صلى الله علیه وسلم كاتێك لە خوای گەورە پاڕایەوە [ \u003cspan class=\"arabic uthmani\"\u003eأَنِّي مَسَّنِيَ الضُّرُّ\u003c/span\u003e ] كە من تووشی نەخۆشییەكی سەخت بوومە كە ئەوترێ: حەوت ساڵ یان هەژدە ساڵ نەخۆش بووە [ \u003cspan class=\"arabic uthmani\"\u003eوَأَنْتَ أَرْحَمُ الرَّاحِمِينَ (٨٣)\u003c/span\u003e ] وە هەر تۆ خوایە لە هەموو بەڕەحم و سۆزەكان بەڕەحم و سۆزو میهرەبانتری ."
+}

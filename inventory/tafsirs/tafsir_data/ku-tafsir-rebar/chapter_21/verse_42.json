@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:42":  {
+                                 "id":  2525
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eقُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَنِ\u003c/span\u003e ] ئەی محمد صلى الله علیه وسلم پێیان بڵێ: ئەگەر سزای خوای گەورە دابەزێتە سەرتان كێ هەیە ئێوە بپارێزێ لە سزای خوای گەورەى رەحمان بە شەو و بە ڕۆژ؟ واتە كەس نییە [ \u003cspan class=\"arabic uthmani\"\u003eبَلْ هُمْ عَنْ ذِكْرِ رَبِّهِمْ مُعْرِضُونَ (٤٢)\u003c/span\u003e ] بەڵكو ئەوان پشت ئەكەن لە زیكرو یادی خوای گەورەو دانى پێدا نانێن ."
+}

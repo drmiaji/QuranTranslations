@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "30:17":  {
+                                 "id":  3426
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ (١٧)\u003c/span\u003e ] وە پاك و مونەززەهی بۆ خوای گەورە, خوای گەورە بە پاك ڕابگرن و زیكرو تەسبیحاتی خوا بكەن لە كاتی ئێوارەو بەیانیاندا، واتە: زیكرەكانی بەیانیان و ئێواران بخوێنن ."
+}

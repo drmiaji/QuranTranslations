@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "102:4":  {
+                                 "id":  6172
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ (٤)\u003c/span\u003e ] دیسان بۆ جەخت كردن و بەرهەڵستی كردنە كە نابێ ئێوە وابن ئەگەر وابوون لە داهاتوودا سەرەنجامی ئەو كارەتان ئەزانن ."
+}

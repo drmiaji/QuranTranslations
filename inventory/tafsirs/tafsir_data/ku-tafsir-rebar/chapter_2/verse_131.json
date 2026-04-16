@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:131":  {
+                                 "id":  138
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ\u003c/span\u003e ] كاتێك كه‌ په‌روردگار پێی فه‌رموو: ده‌ست بگره‌ به‌ ئیسلامه‌وه‌ با ئیسلام دینت بێ [ \u003cspan class=\"arabic uthmani\"\u003eقَالَ أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ (١٣١)\u003c/span\u003e ] فه‌رمووی: خۆم ته‌سلیمی په‌روه‌ردگاری هه‌موو جیهان كرد."
+}

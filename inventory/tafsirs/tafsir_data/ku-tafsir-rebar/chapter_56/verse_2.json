@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:2":  {
+                                "id":  4981
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ (٢)\u003c/span\u003e ] ئەو كاتەی كە ڕوو ئەدات كەس ناتوانێ بەدرۆی بزانێت لەبەر ئەوەی تەواو ڕووئەدات و كۆتایی بەهەموو شتێك دێت، یان كەس ناتوانێت بیگەڕێنێتەوەو نەهێڵێت روو بدات."
+}

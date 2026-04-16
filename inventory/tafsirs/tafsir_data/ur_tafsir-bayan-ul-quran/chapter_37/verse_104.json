@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:104":  {
+                                  "id":  3892
+                              }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 104{ وَنَادَیْنٰہُ اَنْ یّٰٓاِبْرٰہِیْمُ } ”اور ہم نے اسے پکارا کہ اے ابراہیم علیہ السلام !“\u003c/p\u003e"
+}

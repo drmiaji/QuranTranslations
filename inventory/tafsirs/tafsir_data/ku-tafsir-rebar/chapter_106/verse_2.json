@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "106:2":  {
+                                 "id":  6195
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ (٢)\u003c/span\u003e ] كاتێك كە ئەمان گەشتێكیان ئەكرد لە زستاندا ئەچوون بۆ یەمەن لەبەر ئەوەی یەمەن گەرم بووە، وە لە هاوینیشدا ئەچوون بۆ شام لەبەر ئەوەی شام سارد بووە, وە قوڕەیش بەم بازرگانییە ئەژیان وە ئەمین بوونە لە پاڵ كەعبەی پیرۆزدا بوونە ."
+}

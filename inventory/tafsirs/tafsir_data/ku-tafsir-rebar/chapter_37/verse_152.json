@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:152":  {
+                                  "id":  3940
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَلَدَ اللَّهُ\u003c/span\u003e ] خوای گه‌وره‌ منداڵی بووه‌ (وَالْعِيَاذُ بِالله) [ \u003cspan class=\"arabic uthmani\"\u003eوَإِنَّهُمْ لَكَاذِبُونَ (١٥٢)\u003c/span\u003e ] وه‌ به‌ دڵنیایی ئه‌وان درۆ ئه‌كه‌ن."
+}

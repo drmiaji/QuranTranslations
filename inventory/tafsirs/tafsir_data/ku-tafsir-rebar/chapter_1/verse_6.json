@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "1:6":  {
+                               "id":  6
+                           }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eاهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ (٦)\u003c/span\u003e ] ئەی پەروەردگار هیدایەتمان بدەو ڕێنماییمان بكە بۆ ڕێگای ڕاست وە بەردەوامیمان پێ ببەخشە لەسەر ڕێگای ڕاست كە ئیسلامە، وە ئەبو عالیە فەرموویەتى: رێگاى راست پێغەمبەری خواو \u003cspan class=\"saw\"\u003eصلی الله علیه وسلم\u003c/span\u003e ئەبو بەكرو عومەرە (خوایان لێ‌ رازى بێت)  ."
+}

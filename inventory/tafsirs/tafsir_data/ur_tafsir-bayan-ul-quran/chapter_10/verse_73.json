@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "10:73":  {
+                                 "id":  1437
+                             },
+                   "10:74":  {
+                                 "id":  1438
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 73 فَکَذَّبُوْہُ فَنَجَّیْنٰہُ وَمَنْ مَّعَہٗ فِی الْْفُلْکِ وَجَعَلْنٰہُمْ خَلٰٓءِفَ انہی لوگوں کو ہم نے زمین میں خلافت عطا کی۔\u003c/p\u003e"
+}

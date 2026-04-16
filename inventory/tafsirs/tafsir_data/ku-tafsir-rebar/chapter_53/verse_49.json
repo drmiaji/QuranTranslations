@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:49":  {
+                                 "id":  4833
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَأَنَّهُ هُوَ رَبُّ الشِّعْرَى (٤٩)\u003c/span\u003e ] وە هەر خوای گەورە پەروەردگاری ئەستێرەكانە ئەو ئەستێرانەی كـە گـەشـاوەن، ئـەووتـرێـت: (الشِّعْرَى) ئـەستێرەیـەكـە لـە پشت (جـەوزاء ), یـاخـود (جـەوزاء ) خـۆیـەتی كە كۆمەڵیك لە عەرەب دەیانپەرست ."
+}

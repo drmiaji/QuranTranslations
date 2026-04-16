@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:16":  {
+                                 "id":  1818
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا\u003c/span\u003e ] خوای گەورە ئەفەرمووێ: بە دڵنیایى لە ئاسمانیشدا بورجمان داناوە كە ئەستێرە گەڕۆكەكانە كە دوانزەن [ \u003cspan class=\"arabic uthmani\"\u003eوَزَيَّنَّاهَا لِلنَّاظِرِينَ (١٦)\u003c/span\u003e ] وە ئاسمانمان بەو ئەستێرانە ڕازاندۆتەوە بۆ ئەو كەسانەی كە تەماشای ئەكەن و تێی ئەڕوانن و تێی ئەفكرن."
+}

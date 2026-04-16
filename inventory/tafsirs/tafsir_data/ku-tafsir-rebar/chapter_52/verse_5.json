@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:5":  {
+                                "id":  4740
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَالسَّقْفِ الْمَرْفُوعِ (٥)\u003c/span\u003e ] وە سوێند بێت بە ئاسمان كە خوای گەورە وەكو سەقفێك بەرزی كردۆتەوە بەسەر زەویدا، یاخود سوێند بێت بە عەرشی پیرۆزی خوای گەورە كە لەسەرووی هەموو ئاسمانەكانەوەیە."
+}

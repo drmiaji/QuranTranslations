@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:44":  {
+                                 "id":  4779
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَإِنْ يَرَوْا كِسْفًا مِنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَرْكُومٌ (٤٤)\u003c/span\u003e ] وە ئەگەر پارچە ئاگرێك یان سزایەك ببینن لە ئاسمانەوە بەر بێتەوەو دابەزێ هێشتا باوەڕ ناكەن و ئیمان ناهێنن و وا ئەزانن ئەمە هەورەكەیەو كەڵەكە بووە لەسەر یەكتری, نازانن كە ئەمە سزای خوای گەورەیە بۆیان دێت ."
+}

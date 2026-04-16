@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "80:22":  {
+                                 "id":  5780
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eثُمَّ إِذَا شَاءَ أَنْشَرَهُ (٢٢)\u003c/span\u003e ] وه‌ هه‌ر كاتێكیش خوای گه‌وره‌ ویستی لێ بێ له‌ پاش مردن له‌ ڕۆژی قیامه‌تدا زیندووی ئه‌كاته‌وه‌."
+}

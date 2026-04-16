@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:118":  {
+                                 "id":  787
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ\u003c/span\u003e ] ئه‌ی په‌روه‌ردگار ئه‌گه‌ر سزایان بده‌ی ئه‌وا ئه‌وان به‌نده‌ی تۆن [ \u003cspan class=\"arabic uthmani\"\u003eوَإِنْ تَغْفِرْ لَهُمْ\u003c/span\u003e ] وه‌ ئه‌گه‌ر لێشیان خۆشبی [ \u003cspan class=\"arabic uthmani\"\u003eفَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ (١١٨)\u003c/span\u003e ] ئه‌وه‌ تۆ زۆر به‌ عیززه‌ت و باڵاده‌ستی وه‌ زۆر كاربه‌جێی."
+}

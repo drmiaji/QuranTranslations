@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "19:48":  {
+                                 "id":  2298
+                             },
+                   "19:49":  {
+                                 "id":  2299
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 48 وَاَعْتَزِلُکُمْ وَمَا تَدْعُوْنَ مِنْ دُوْنِ اللّٰہِ وَاَدْعُوْا رَبِّیْز ”میں تو اپنے رب ہی کی بندگی کروں گا ‘ اسی سے دعا کروں گا۔\u003c/p\u003e"
+}

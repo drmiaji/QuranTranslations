@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:54":  {
+                                 "id":  2537
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eقَالَ لَقَدْ كُنْتُمْ أَنْتُمْ وَآبَاؤُكُمْ فِي ضَلَالٍ مُبِينٍ (٥٤)\u003c/span\u003e ] ئیبراهیمیش صلى الله علیه وسلم فەرمووی: بە دڵنیایی ئێوە و باوك و باپیرانتان لە گومڕاییەكی زۆر ئاشكرادا بوونە كە عیبادەت و پەرستن بۆ ئەو بتانە دەكەن ."
+}

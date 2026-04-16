@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "73:1":  {
+                                "id":  5476
+                            },
+                   "73:2":  {
+                                "id":  5477
+                            }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 1{ یٰٓــاَیُّہَا الْمُزَّمِّلُ۔ } ”اے کمبل میں لپٹ کر لیٹنے والے ﷺ !“  فداہ آباونا وامّھاتنا۔\u003c/p\u003e"
+}

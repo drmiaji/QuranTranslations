@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "85:19":  {
+                                 "id":  5928
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eبَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ (١٩)\u003c/span\u003e ] بەڵكو كافرانی قوڕەیش و سەرجەم كافران بەردەوام و هەمیشە لە بەدرۆزانین و گومان و كوفردان ."
+}

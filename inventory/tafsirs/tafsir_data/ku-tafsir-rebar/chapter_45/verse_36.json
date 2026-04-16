@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "45:36":  {
+                                 "id":  4509
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَلِلَّهِ الْحَمْدُ رَبِّ السَّمَاوَاتِ وَرَبِّ الْأَرْضِ رَبِّ الْعَالَمِينَ (٣٦)\u003c/span\u003e ] حەمدو سەناو ستایش بۆ پەروەردگاری ئاسمانەكان و پەروەردگاری زەوییەكان و پەروەردگاری هەموو جیهان ."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "30:60":  {
+                                 "id":  3469
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَاصْبِرْ\u003c/span\u003e ] بۆیە تۆ ئارام بگرە لەسەر ئازارو بەدرۆ زانینی ئەوان [ \u003cspan class=\"arabic uthmani\"\u003eإِنَّ وَعْدَ اللَّهِ حَقٌّ\u003c/span\u003e ] بە دڵنیایى بەڵێنی خوای گەورە حەقەو خوای گەورە بەڵێنی خۆی ئەباتە سەر [ \u003cspan class=\"arabic uthmani\"\u003eوَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ (٦٠)\u003c/span\u003e ] وە كافران كە یەقینیان نییە با لە دینەكەت دوورت نەخەنەوەو توشى نەزانیت نەكەن، والله أعلم .\nبەم شێوازە هاتینە كۆتایی تەفسیرى سوورەتى (روم) والحمد لله."
+}

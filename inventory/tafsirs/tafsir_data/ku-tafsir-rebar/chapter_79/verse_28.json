@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "79:28":  {
+                                 "id":  5740
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eرَفَعَ سَمْكَهَا فَسَوَّاهَا (٢٨)\u003c/span\u003e ] وه‌ ئاسمانی له‌ بان سه‌رتان وه‌كو بینایه‌ك به‌رز كردووه‌و ڕێك خستووه‌."
+}

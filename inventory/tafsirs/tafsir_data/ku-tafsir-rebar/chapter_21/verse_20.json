@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:20":  {
+                                 "id":  2503
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eيُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ (٢٠)\u003c/span\u003e ] بە شەو و بەڕۆژ بە بەردەوام عیبادەتی خوای گەورە ئەكەن و بێزار نابن لە عیبادەت كردنی خوای گەورە"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:69":  {
+                                 "id":  5048
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ (٦٩)\u003c/span\u003e ] ئایا ئێوەن لە هەورەكانەوە دایئەبەزێننە سەر زەوی یاخود ئێمەین بە تواناو دەسەڵاتی خۆمان دایئەبەزێنینە سەر زەوی؟"
+}

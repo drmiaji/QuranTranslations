@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "20:36":  {
+                                 "id":  2384
+                             },
+                   "20:37":  {
+                                 "id":  2385
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 36 قَالَ قَدْ اُوْتِیْتَ سُؤْلَکَ یٰمُوْسٰی ”تمہاری درخواست ہم نے من و عن قبول کرلی۔\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "33:42":  {
+                                 "id":  3575
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا (٤٢)\u003c/span\u003e ] وه‌ زیكری خوای گه‌وره‌ بكه‌ن و خوا به‌ پاك ڕابگرن له‌ به‌یانیان و ئێوارانداو زیكره‌كانی به‌یانیان و ئێواران بخوێنن."
+}

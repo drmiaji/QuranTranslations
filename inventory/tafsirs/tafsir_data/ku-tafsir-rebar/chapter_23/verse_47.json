@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:47":  {
+                                 "id":  2720
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا\u003c/span\u003e ] وتیان: ئایا ئێمه‌ ئیمان به‌ دوو مرۆڤی وه‌كو خۆمان بێنین [ \u003cspan class=\"arabic uthmani\"\u003eوَقَوْمُهُمَا لَنَا عَابِدُونَ (٤٧)\u003c/span\u003e ] له‌ كاتێكدا كه‌ قه‌ومه‌كه‌شیان ملكه‌چی ئێمه‌ن و عیباده‌ت بۆ ئێمه‌ ئه‌كه‌ن."
+}

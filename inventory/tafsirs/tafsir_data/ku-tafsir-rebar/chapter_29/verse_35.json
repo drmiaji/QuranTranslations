@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "29:35":  {
+                                 "id":  3375
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَلَقَدْ تَرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِقَوْمٍ يَعْقِلُونَ (٣٥)\u003c/span\u003e ] وە بە دڵنیایى لەو دێیەشدا پاش ئەوەی لەناومان بردن نیشانەو شوێنەواری ئاشكرامان بەجێهێشتووە بۆ كەسانێك كە عاقڵ بن و لێی تێ بگەن، (لە جێى ئەوان خواى گەورە دەریاچەیەكى پیسى بۆگەنى داناوە)."
+}

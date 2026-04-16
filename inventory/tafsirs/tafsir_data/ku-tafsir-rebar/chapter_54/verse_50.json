@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:50":  {
+                                 "id":  4896
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ (٥٠)\u003c/span\u003e ] وە فەرمانی ئێمەش بۆ هەر شتێك فەرمان دەركەین یەك شتێكە وەكو چاوترووكاندنێك وایە كە لە ماوەیەكی ئاوا كەمدا فەرمانی خۆمان جێبەجێ ئەكەین ."
+}

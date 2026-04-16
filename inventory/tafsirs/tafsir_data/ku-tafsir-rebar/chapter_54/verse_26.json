@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:26":  {
+                                 "id":  4872
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eسَيَعْلَمُونَ غَدًا مَنِ الْكَذَّابُ الْأَشِرُ (٢٦)\u003c/span\u003e ] خوای گەورە ئەفەرمووێ: سبەینێ، واتە: بەم نزیكانە كە سزایان بۆ دێت ئەو كاتە ئەزانن كێ زۆر درۆزن و خۆبەگەورەزان و لووتبەرزە."
+}

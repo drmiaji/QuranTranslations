@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:89":  {
+                                 "id":  1453
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 89 قَالَ قَدْ اُجِیْبَتْ دَّعْوَتُکُمَا فَاسْتَقِیْمَا ایسا نہ ہو کہ وقت آنے پر تمہارا دل پسیج جائے اور پھر دعا کرنے لگو کہ اے اللہ اب ان کو معاف فرما دے !\u003c/p\u003e"
+}

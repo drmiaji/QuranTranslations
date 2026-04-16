@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:13":  {
+                                 "id":  4859
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَحَمَلْنَاهُ عَلَى ذَاتِ أَلْوَاحٍ وَدُسُرٍ (١٣)\u003c/span\u003e ] وە نوح و صلى الله علیه وسلم باوەڕدارانمان هەڵگرت لەسەر ئەو لەوح و دارانە (دُسُر) واتە: كەشتییەكە كە لە دارو بزمار پێكهاتبوو ."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "80:30":  {
+                                 "id":  5788
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَحَدَائِقَ غُلْبًا (٣٠)\u003c/span\u003e ] وه‌ باخ و بێستانی چڕو پڕو درێژو ئه‌ستوورو كۆمه‌ڵ، خوای گه‌وره‌ هه‌موو ئه‌و شتانه‌ی پێ به‌خشیوون."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:29":  {
+                                 "id":  5008
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَطَلْحٍ مَنْضُودٍ (٢٩)\u003c/span\u003e ] وە (طَلْح)یش وتراوە: دارێكە لە حیجاز هەیە كە ئەویش بەهەمان شێوە دڕكى زۆرە، بەڵام لەبەهەشت دڕكى نییەو بەرەكەى لە هەنگوین شیرینترە، یاخود وتراوە: خەڵكی یەمەن بە مۆز ئەڵێن: (طَلْح) واتە: مۆزیشیان بۆ هەیە (مَنْضُود) واتە: بەرهەمەكەى چڕو پڕە ."
+}

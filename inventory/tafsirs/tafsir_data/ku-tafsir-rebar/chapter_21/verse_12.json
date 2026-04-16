@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:12":  {
+                                 "id":  2495
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَلَمَّا أَحَسُّوا بَأْسَنَا\u003c/span\u003e ] كاتێك كە هەستیان بە سزای ئێمە كرد [ \u003cspan class=\"arabic uthmani\"\u003eإِذَا هُمْ مِنْهَا يَرْكُضُونَ (١٢)\u003c/span\u003e ] ئەو كاتە ڕایان ئەكرد لە سزای خوای گەورە ."
+}

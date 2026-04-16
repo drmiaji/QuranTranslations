@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:32":  {
+                                 "id":  4767
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَمْ تَأْمُرُهُمْ أَحْلَامُهُمْ بِهَذَا\u003c/span\u003e ] یاخود بەڵكو عەقڵیانە فەرمانیان پێ ئەكات بەم شتانە كە خۆیشان دەزانن راست ناكەن [ \u003cspan class=\"arabic uthmani\"\u003eأَمْ هُمْ قَوْمٌ طَاغُونَ (٣٢)\u003c/span\u003e ] بەڵكو خۆیان كەسانێكن كە سنووریان بەزاندووە لە تاوان و گومڕاییدا ."
+}

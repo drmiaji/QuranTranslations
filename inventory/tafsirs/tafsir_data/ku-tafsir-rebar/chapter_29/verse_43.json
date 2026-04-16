@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "29:43":  {
+                                 "id":  3383
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ\u003c/span\u003e ] وە ئەمانە هەمووی نموونەیە بۆ خەڵكی ئەیهێنینەوە [ \u003cspan class=\"arabic uthmani\"\u003eوَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ (٤٣)\u003c/span\u003e ] بەڵام هیچ كەسێك لێی تێ ناگات تەنها زانا دامەزراوەكان نەبێت، (عەمرى كوڕى موڕڕە) دەفەرمێت: بەسەر هیچ ئایەتێكدا تێنەپەڕیوم كە ماناكەیم نەزانیبێت ئیللا خەفەتم خواردووە، چونكە خواى گەورە دەفەرمێت: تەنها زاناكان لێى تێدەگەن) ."
+}

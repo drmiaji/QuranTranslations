@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:44":  {
+                                 "id":  5023
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eلَا بَارِدٍ وَلَا كَرِيمٍ (٤٤)\u003c/span\u003e ] نە ئەوەتا فێنك بێ نە ئەوەتا سارد بێ وەكو سێبەرەكانی تر, نە ئەوەتا جوان و بەڕێزو بەسود بێت ."
+}

@@ -1,0 +1,22 @@
+﻿{
+    "verses":  {
+                   "23:91":  {
+                                 "id":  2764
+                             },
+                   "23:92":  {
+                                 "id":  2765
+                             },
+                   "23:93":  {
+                                 "id":  2766
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eسُبْحٰنَ اللّٰہِ عَمَّا یَصِفُوْنَ ”اللہ تعالیٰ کے بارے میں یہ لوگ جس طرح کی باتیں کرتے ہیں وہ ان سے پاک اور بہت ارفع و اعلیٰ ومنزہّ ہے۔\u003c/p\u003e"
+}

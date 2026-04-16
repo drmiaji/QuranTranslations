@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:25":  {
+                                 "id":  2508
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ\u003c/span\u003e ] وە لە پێش تۆیشدا ئەی محمد صلى الله علیه وسلم هیچ پێغەمبەرێكمان نەناردووە ئیللا وەحیمان بۆی ناردووە [ \u003cspan class=\"arabic uthmani\"\u003eأَنَّهُ لَا إِلَهَ إِلَّا أَنَا فَاعْبُدُونِ (٢٥)\u003c/span\u003e ] كە هیچ پەرستراوێك بە حەق نییە شایەنی پەرستن بێ جگە لە زاتی پیرۆزی الله كە تاك و تەنهاو بێ شەریكە بۆیە بەتاك و تەنها عیبادەتی من بكەن ."
+}

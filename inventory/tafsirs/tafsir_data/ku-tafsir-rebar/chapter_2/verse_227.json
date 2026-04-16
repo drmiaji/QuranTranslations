@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:227":  {
+                                 "id":  234
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَإِنْ عَزَمُوا الطَّلَاقَ\u003c/span\u003e ] وه‌ ئه‌گه‌ر ویستیشیان لای قازی ته‌ڵاقی بده‌ن [ \u003cspan class=\"arabic uthmani\"\u003eفَإِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ (٢٢٧)\u003c/span\u003e ] ئه‌وه‌ خوای گه‌وره‌ هه‌موو شتێك ئه‌بیستێ وه‌ زانایه‌ به‌هه‌موو شتێك واته‌: ئه‌گه‌ر هه‌ر نه‌چووه‌ لای خێزانه‌كه‌ی دوای چوار مانگه‌كه‌ ئافره‌ته‌ بۆی هه‌یه‌ لای قازی داوای ته‌ڵاق بكات."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:92":  {
+                                 "id":  2575
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِنَّ هَذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً\u003c/span\u003e ] بە دڵنیایی هەر ئوممەتی ئیسلام ئوممەتی ئێوەیەو یەك ئوممەتن و دینەكەشتان یەك دینێكە [ \u003cspan class=\"arabic uthmani\"\u003eوَأَنَا رَبُّكُمْ فَاعْبُدُونِ (٩٢)\u003c/span\u003e ] وە بەتاك و تەنها یەك خوایەكیشتان هەیە كە منم بۆیە بەتاك و تەنها عیبادەتی من بكەن و عیبادەتی جگە لە من مەكەن ."
+}

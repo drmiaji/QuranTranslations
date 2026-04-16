@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:31":  {
+                                 "id":  4766
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eقُلْ تَرَبَّصُوا فَإِنِّي مَعَكُمْ مِنَ الْمُتَرَبِّصِينَ (٣١)\u003c/span\u003e ] ئەی محمد صلى الله علیه وسلم پێیان بڵێ: دەی چاوەڕێ بكەن منیش لەگەڵ ئێوەدا لە چاوەڕێكارانم بزانین خوای گەورە سزای كاممان دەدات لە دونیاو قیامەتداو كاممان لەناو ئەچین."
+}

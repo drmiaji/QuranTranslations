@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:15":  {
+                                 "id":  2498
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ\u003c/span\u003e ] بەردەوام ئەمە قسەی ئەوان بوو ئەیانوت: هاوار بۆ خۆمان بەڕاستی ئێمە ستەمكار بووین و دووبارەیان ئەكردەوە [ \u003cspan class=\"arabic uthmani\"\u003eحَتَّى جَعَلْنَاهُمْ حَصِيدًا خَامِدِينَ (١٥)\u003c/span\u003e ] تا وامان لێ كردن وەكو كشتوكاڵ و بەروبوومێك كە ڕنرابێ و هیچی نەمابێ (خَامِدِينَ) واتە: مردوون و بێ جووڵەن و هەموومان لەناو بردن ."
+}

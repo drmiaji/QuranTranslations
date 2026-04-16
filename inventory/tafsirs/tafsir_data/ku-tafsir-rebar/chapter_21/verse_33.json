@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:33":  {
+                                 "id":  2516
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "خۆرو مانگ جێگیر نین و دەجولێن\n [ \u003cspan class=\"arabic uthmani\"\u003eوَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ\u003c/span\u003e ] وە خوای گەورە ئەو خوایەیە كە شەو و ڕۆژو خۆرو مانگی دروست كردووە [ \u003cspan class=\"arabic uthmani\"\u003eكُلٌّ فِي فَلَكٍ يَسْبَحُونَ (٣٣)\u003c/span\u003e ] هەر یەكێك لەمانە لە فەلەك و شوێنی ڕێرەوی تایبەتی خۆیدا ئەڕوات و دەسوڕێنەوە، (ئەمەیش بەڵگەیە لەسەر ئەوەى كە خۆرو مانگ جێگیر نین و دەجولێن) ."
+}

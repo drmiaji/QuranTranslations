@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "78:32":  {
+                                 "id":  5704
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eحَدَائِقَ\u003c/span\u003e ] باخیان بۆ هه‌یه‌ له‌ناو به‌هه‌شتدا [ \u003cspan class=\"arabic uthmani\"\u003eوَأَعْنَابًا (٣٢)\u003c/span\u003e ] وه‌ باخی ترێ یان بۆ هه‌یه‌."
+}

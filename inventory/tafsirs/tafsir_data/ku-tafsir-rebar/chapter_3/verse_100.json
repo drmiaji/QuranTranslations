@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:100":  {
+                                 "id":  393
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eيَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تُطِيعُوا فَرِيقًا مِنَ الَّذِينَ أُوتُوا الْكِتَابَ\u003c/span\u003e ] ئه‌ی باوه‌ڕداران ئه‌گه‌ر بێتوو ئێوه‌ گوێڕایه‌ڵی كۆمه‌ڵێك له‌ ئه‌هلی كتاب بكه‌ن و به‌قسه‌یان بكه‌ن [ \u003cspan class=\"arabic uthmani\"\u003eيَرُدُّوكُمْ بَعْدَ إِيمَانِكُمْ كَافِرِينَ (١٠٠)\u003c/span\u003e ] ئه‌وه‌ ئه‌وان له‌ دوای ئیمان هێنان پاشگه‌زتان ئه‌كه‌نه‌وه‌و كافرتان ئه‌كه‌نه‌وه‌ ."
+}

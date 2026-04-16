@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:73":  {
+                                 "id":  1875
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "خواى گەورە سزاى بەدڕەوشتانى داو بەردبارانى كردن\n[ \u003cspan class=\"arabic uthmani\"\u003eفَأَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ (٧٣)\u003c/span\u003e ] خوای گەورە سزای دان بە دەنگێكی گەورە لە كاتی ڕۆژهەڵاتندا ."
+}

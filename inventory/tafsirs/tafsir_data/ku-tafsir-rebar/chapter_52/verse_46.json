@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:46":  {
+                                 "id":  4781
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eيَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنْصَرُونَ (٤٦)\u003c/span\u003e ] لەو ڕۆژەدا نەخشەو پیلانیان كە دایاننابوو بۆ پێغەمبەری خوا صلى الله علیه وسلم یان بۆ موسڵمانان هیچ سوودیان پێ ناگەیەنێ وە ئەوانیش سەرناخرێن و كەس ناتوانێ سەریان بخات و لە سزای خوای گەورە بیانپارێزێ ."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:14":  {
+                                 "id":  1816
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِنَ السَّمَاءِ\u003c/span\u003e ] ئەگەر ئەو كەسانەی كە پێغەمبەری خوا صلى الله علیه وسلم بەدرۆ ئەزانن دەرگایەكیان لە ئاسمانەوە بۆ بكەینەوە [ \u003cspan class=\"arabic uthmani\"\u003eفَظَلُّوا فِيهِ يَعْرُجُونَ (١٤)\u003c/span\u003e ] وە بەو دەرگایەدا سەر بكەونە ئاسمان و شتە سەیرو سەرسوڕهێنەرەكانی ئاسمان ببینن ."
+}

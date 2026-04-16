@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:7":  {
+                                "id":  4986
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "لە قیامەتدا خەڵكى سێ بەشن\n [ \u003cspan class=\"arabic uthmani\"\u003eوَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً (٧)\u003c/span\u003e ] وە ئێوەش ئەبن بە سێ پۆلەوە، خەڵكی ئەبێتە سێ بەشەوە: دوو بەشی بۆ بەهەشتەو بەشێكیان بۆ دۆزەخە ."
+}

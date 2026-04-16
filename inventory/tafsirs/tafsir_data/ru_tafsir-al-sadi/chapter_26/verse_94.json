@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "26:93":  {
+                                 "id":  3025
+                             },
+                   "26:94":  {
+                                 "id":  3026
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Никто не поможет многобожникам, которые будут уличены во лжи и опозорены. Обитатели небес и земли будут свидетелями их убытка, разочарования и заблуждения."
+}

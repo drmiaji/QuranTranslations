@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "81:20":  {
+                                 "id":  5820
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eذِي قُوَّةٍ\u003c/span\u003e ] جبریل زۆر به‌هێزه‌ [ \u003cspan class=\"arabic uthmani\"\u003eعِنْدَ ذِي الْعَرْشِ مَكِينٍ (٢٠)\u003c/span\u003e ] وه‌ خاوه‌ن پله‌و پایه‌یه‌كی به‌رزه‌ له‌لای خاوه‌نی عه‌رش، كه‌ خوای گه‌وره‌یه‌."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:47":  {
+                                 "id":  5026
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ (٤٧)\u003c/span\u003e ] وە ئەیانووت: ئەگەر ئێمە بمرین و ببین بە خۆڵ و ئێسقانەكانمان بڕزێت ئایا سەرلەنوێ ئێمە دروست ئەكرێینەوە؟ واتە: بەدووریان ئەزانی وە باوەڕیان پێ نەبووە ."
+}

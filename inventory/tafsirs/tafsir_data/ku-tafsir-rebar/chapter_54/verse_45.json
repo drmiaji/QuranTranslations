@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:45":  {
+                                 "id":  4891
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eسَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ (٤٥)\u003c/span\u003e ] بەڵكو ئەو زۆرییەتان تێكئەشكێن و پشت هەڵئەكەن وەكو چۆن لە جەنگی (بەدر)دا پشتیان هەڵكردو سەرانیان كوژرا، لە جەنگى بەدر پێغەمبەرى خوا صلى الله علیه وسلم ئەم دوو ئایەتەى دەخوێندەوە (٤٤ و٤٥) ."
+}

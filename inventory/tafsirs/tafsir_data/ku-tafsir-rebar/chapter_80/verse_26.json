@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "80:26":  {
+                                 "id":  5784
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا (٢٦)\u003c/span\u003e ] پاشان ئه‌و ئاوه‌مان خستۆته‌ ناو زه‌وییه‌وه‌، پاشان زه‌ویمان له‌ت كردووه‌ بۆ ده‌رچوونی ئه‌و ڕووه‌ك و دانه‌وێڵانه‌."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:18":  {
+                                 "id":  1820
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِلَّا مَنِ اسْتَرَقَ السَّمْعَ\u003c/span\u003e ] ئیللا شەیتانێك كە بیەوێ شتێك بدزێ لە وەحییەكە یان لە فەرمانی خوا [ \u003cspan class=\"arabic uthmani\"\u003eفَأَتْبَعَهُ شِهَابٌ مُبِينٌ (١٨)\u003c/span\u003e ] ئەوە پارچە ئەستێرەو نەیزەكێكی ئاشكرا ئەیگرێتەوەو ئەیسووتێنێ و ئەیكوژێ و لەناوی ئەبات ."
+}

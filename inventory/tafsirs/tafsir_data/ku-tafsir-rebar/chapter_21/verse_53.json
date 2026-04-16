@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:53":  {
+                                 "id":  2536
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eقَالُوا وَجَدْنَا آبَاءَنَا لَهَا عَابِدِينَ (٥٣)\u003c/span\u003e ] ئەوان هیچ بەڵگەیەكیان پێ نەبوو تەنها وتیان: ئێمە باوك و باپیرانی خۆمان بینیوە كە عیبادەت و پەرستشیان بۆ ئەم بتانە كردووەو ئێمەیش لاسایى ئەوان دەكەینەوە ."
+}

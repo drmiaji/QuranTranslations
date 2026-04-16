@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:42":  {
+                                 "id":  4456
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 42 { اِلَّا مَنْ رَّحِمَ اللّٰہُط اِنَّہٗ ہُوَ الْعَزِیْزُ الرَّحِیْمُ } ”سوائے اس کے جس پر اللہ رحم فرما دے۔ یقینا وہی ہے زبردست ‘ بہت رحم فرمانے والا۔“\u003c/p\u003e"
+}

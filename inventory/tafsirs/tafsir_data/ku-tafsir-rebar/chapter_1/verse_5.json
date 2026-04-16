@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "1:5":  {
+                               "id":  5
+                           }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ (٥)\u003c/span\u003e ] ئەی پەروەردگار هەر تۆ تایبەت ئەكەین بە پەرستن و جگە لە تۆ كەسی تر ناپەرستین، وە هەر تۆ تایبەت ئەكەین بە داوای یارمەتی كردن و داوای یارمەتی لە غەیری تۆ ناكەین."
+}

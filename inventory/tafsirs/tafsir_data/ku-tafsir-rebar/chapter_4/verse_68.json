@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:68":  {
+                                "id":  561
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَلَهَدَيْنَاهُمْ صِرَاطًا مُسْتَقِيمًا (٦٨)\u003c/span\u003e ] وه‌ هیدایه‌تیشمان ئه‌دان بۆ ڕێگا ڕاسته‌كه‌ی خوای گه‌وره."
+}

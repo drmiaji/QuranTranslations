@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "7:48":  {
+                                "id":  1002
+                            },
+                   "7:49":  {
+                                "id":  1003
+                            }
+               },
+    "resource_id":  169,
+    "resource_name":  "Ibn Kathir (Abridged)",
+    "language_id":  38,
+    "slug":  "en-tafisr-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Ibn Kathir (Abridged)",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cdiv class=\"arabic uthmani\"\u003eمَآ أَغْنَى عَنكُمْ جَمْعُكُمْ\u003c/div\u003e\u003cp\u003e(\"Of what benefit to you was your gathering...\") meaning, your great numbers, \u003c/p\u003e\u003cdiv class=\"arabic uthmani\"\u003eوَمَا كُنتُمْ تَسْتَكْبِرُونَ\u003c/div\u003e\u003cp\u003e(\"...and your arrogance\") This Ayah means, your great numbers and wealth did not save you from Allah\u0027s torment. Rather, you are dwelling in His torment and punishment. `Ali bin Abi Talhah reported from Ibn `Abbas, \u003c/p\u003e\u003cdiv class=\"arabic uthmani\"\u003eأَهَـؤُلاءِ الَّذِينَ أَقْسَمْتُمْ لاَ يَنَالُهُمُ اللَّهُ بِرَحْمَةٍ\u003c/div\u003e\u003cp\u003e(Are they those, of whom you swore that Allah would never show them mercy) refers to the people of Al-A`raf who will be told when Allah decrees: \u003c/p\u003e\u003cdiv class=\"arabic uthmani\"\u003eادْخُلُواْ الْجَنَّةَ لاَ خَوْفٌ عَلَيْكُمْ وَلاَ أَنتُمْ تَحْزَنُونَ\u003c/div\u003e\u003cp\u003e((Behold! It has been said to them): \"Enter Paradise, no fear shall be on you, nor shall you grieve.\") \u003c/p\u003e"
+}

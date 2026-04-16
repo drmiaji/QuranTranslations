@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:40":  {
+                                 "id":  5019
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَثُلَّةٌ مِنَ الْآخِرِينَ (٤٠)\u003c/span\u003e ] وە ئەوانەی كە دواتریش دێن لە ئوممەتی پێغەمبەر صلى الله علیه وسلم ئەوانیش یەكجار زۆرن ئەوانەی بە ئیمانەوە شوێنیان كەوتوون."
+}

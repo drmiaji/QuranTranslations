@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "30:6":  {
+                                "id":  3415
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَعْدَ اللَّهِ لَا يُخْلِفُ اللَّهُ وَعْدَهُ\u003c/span\u003e ] ئەمە بەڵێنی خوای گەورەیەو خوای گەورە بەڵێنی خۆی ئەباتە سەر [ \u003cspan class=\"arabic uthmani\"\u003eوَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ (٦)\u003c/span\u003e ] بەڵام زۆربەی خەڵكی ئەم شتە نازانن واتە: كافران ."
+}

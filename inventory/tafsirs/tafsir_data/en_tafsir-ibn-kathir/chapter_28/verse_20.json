@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "28:20":  {
+                                 "id":  3272
+                             }
+               },
+    "resource_id":  169,
+    "resource_name":  "Ibn Kathir (Abridged)",
+    "language_id":  38,
+    "slug":  "en-tafisr-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Ibn Kathir (Abridged)",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cdiv class=\"arabic uthmani\"\u003eوَجَآءَ رَجُلٌ\u003c/div\u003e\u003cp\u003e(And there came a man) He is described as being a man because he had the courage to take a different route, a shorter route than those who were sent after Musa, so he reached Musa first and said to him: \"O Musa,\u003c/p\u003e\u003cdiv class=\"arabic uthmani\"\u003eإِنَّ الْمَلاّ يَأْتَمِرُونَ بِكَ\u003c/div\u003e\u003cp\u003e(Verily, the chiefs are taking counsel together about you.),\" meaning, `they are consulting with one another about you.\u0027\u003c/p\u003e\u003cdiv class=\"arabic uthmani\"\u003eلِيَقْتُلُوكَ فَاخْرُجْ\u003c/div\u003e\u003cp\u003e(to kill you, so escape.) means, from this land.\u003c/p\u003e\u003cdiv class=\"arabic uthmani\"\u003eإِنِّى لَكَ مِنَ النَّـصِحِينَ\u003c/div\u003e\u003cp\u003e(Truly, I am one of the good advisers to you.)\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:68":  {
+                                 "id":  1870
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "لوط پێغەمبەر صلى الله علیه وسلم غەیب نازانێت و فریشتەكان ناناسێت\n[ \u003cspan class=\"arabic uthmani\"\u003eقَالَ إِنَّ هَؤُلَاءِ ضَيْفِي فَلَا تَفْضَحُونِ (٦٨)\u003c/span\u003e ] لوط صلى الله علیه وسلم پێش ئەوەى بزانێت ئەمانە فریشتەن فەرمووی: ئەمانە میوانی منن ئێوە ئابڕووم مەبەن بەوەی كە دەستدرێژی بكەنە سەریان ."
+}

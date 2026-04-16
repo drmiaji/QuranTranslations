@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "1:4":  {
+                               "id":  4
+                           }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eمَالِكِ يَوْمِ الدِّينِ (٤)\u003c/span\u003e ] خاوەنی ڕۆژی سزاو لێپرسینەوەو قیامەتە، چونكە لەو رۆژەدا كەس بانگەشەى هیچ شتێك ناكات و كەس بەبێ ئیزنى خوا ناتوانێت قسە بكات  ."
+}

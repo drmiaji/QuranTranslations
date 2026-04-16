@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:36":  {
+                                 "id":  4820
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَى (٣٦)\u003c/span\u003e ] یاخود ئایا هەواڵی پێ نەدراوە بەوەی كە لە سەحیفەی موسادا صلى الله علیه وسلم هەبووە ."
+}

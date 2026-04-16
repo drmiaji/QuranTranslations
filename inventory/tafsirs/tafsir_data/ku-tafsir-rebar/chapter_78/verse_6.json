@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "78:6":  {
+                                "id":  5678
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "{هه‌ندێك له‌ به‌خششه‌كانى خواى گه‌وره‌}\n [ \u003cspan class=\"arabic uthmani\"\u003eأَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا (٦)\u003c/span\u003e ] ئایا ئێمه‌ زه‌ویمان بۆ ژێربار نه‌كردوون و ڕانه‌خستووه‌ وه‌كو بێشكه‌ی منداڵ، وه‌ هێمن و ئارام و جێگیرمان كردووه‌ بۆیان تا له‌سه‌رى بژین."
+}

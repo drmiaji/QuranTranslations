@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:22":  {
+                                 "id":  4436
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَدَعَا رَبَّهُ أَنَّ هَؤُلَاءِ قَوْمٌ مُجْرِمُونَ (٢٢)\u003c/span\u003e ] وه‌ دوعای له‌ خوای گه‌وره‌ كردو لێی پاڕایه‌وه‌ ئه‌مانه‌ به‌ڕاستی قه‌ومێكی تاوانبارن."
+}

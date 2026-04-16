@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:12":  {
+                                 "id":  1814
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eكَذَلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ (١٢)\u003c/span\u003e ] بەم شێوازە گومڕایی و شیرك ئەخەینە ناو دڵی تاوانبارانەوە ئەوانەی كە شایەنی هیدایەت نین و عینادى دەكەن لە وەرگرتنى حەق ."
+}

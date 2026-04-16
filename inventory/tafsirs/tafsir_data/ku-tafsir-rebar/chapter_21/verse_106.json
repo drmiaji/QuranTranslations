@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:106":  {
+                                  "id":  2589
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِنَّ فِي هَذَا لَبَلَاغًا لِقَوْمٍ عَابِدِينَ (١٠٦)\u003c/span\u003e ] ئەم شتانەی كە لەم سوورەتەدا، یاخود لە قورئانى پیرۆزدا باسكرا لە پەندو ئامۆژگاری شایەنی ئەوەیە كە كەسانێكی خواپەرست پەندو عیبرەتی لێ وەربگرن و گرنگی پێ بدەن ."
+}

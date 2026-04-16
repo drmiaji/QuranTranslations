@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:54":  {
+                                 "id":  4900
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَهَرٍ (٥٤)\u003c/span\u003e ] ئەوانەیشی كە تەقوای خوای گەورەیان كردووەو خۆیان لە تاوان پاراستووە بە دڵنیایی لەناو باخ و باخاتدان كە جۆگەلە ئاو و كانی و ڕووبار بەژێریاندا ئەڕوات و جۆرەها خواردنەوەی خۆشی لێیە ."
+}

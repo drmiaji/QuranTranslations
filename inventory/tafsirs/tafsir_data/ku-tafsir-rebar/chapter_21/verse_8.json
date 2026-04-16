@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:8":  {
+                                "id":  2491
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَمَا جَعَلْنَاهُمْ جَسَدًا لَا يَأْكُلُونَ الطَّعَامَ\u003c/span\u003e ] وە پێغەمبەران هەموویان لاشەیان هەبووەو خواردنیشیان خواردووەو سروشتیان مرۆڤ بووە [ \u003cspan class=\"arabic uthmani\"\u003eوَمَا كَانُوا خَالِدِينَ (٨)\u003c/span\u003e ] وە بۆ هەمیشەیش نەژیاون بەڵكو مردنیشیان بەسەردا هاتووە وەكو تێكڕای مرۆڤەكانی تر ."
+}

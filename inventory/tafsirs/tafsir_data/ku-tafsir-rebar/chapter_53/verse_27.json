@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:27":  {
+                                 "id":  4811
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ الْمَلَائِكَةَ تَسْمِيَةَ الْأُنْثَى (٢٧)\u003c/span\u003e ] ئەوانەیشی كە باوەڕیان بە ڕۆژی دوایی نییە مەلائیكەتەكانی خوای گەورە ناو ئەنێن بە كچی خوای گەورە ."
+}

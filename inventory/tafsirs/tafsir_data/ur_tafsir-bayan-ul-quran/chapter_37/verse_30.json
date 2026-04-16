@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:30":  {
+                                 "id":  3818
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 30{ وَمَا کَانَ لَنَا عَلَیْکُمْ مِّنْ سُلْطٰنٍج بَلْ کُنْتُمْ قَوْمًا طٰغِیْنَ } ”اور ہمیں تم پر کوئی اختیار تو تھا نہیں ‘ بلکہ تم خود ہی حد سے بڑھ جانے والے لوگ تھے۔“\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "90:18":  {
+                                 "id":  6041
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "هاوەڵانى لاى راست\n [ \u003cspan class=\"arabic uthmani\"\u003eأُولَئِكَ أَصْحَابُ الْمَيْمَنَةِ (١٨)\u003c/span\u003e ] ئەوانەی ئەم سیفەتە جوانانەیان تیابێ ئەوانە (أَصْحَابُ الْمَيْمَنَةِ) ئەو كەسانەن كە پەڕاوی كردەوە چاكەكانیان بەدەستی ڕاستیان پێ ئەدرێ، واتە: بەهەشتیەكانن كە لەلای ڕاستەوە ئەبرێنە بەهەشتەوە."
+}

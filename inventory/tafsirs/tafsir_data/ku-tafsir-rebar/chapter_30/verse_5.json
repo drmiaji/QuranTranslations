@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "30:5":  {
+                                "id":  3414
+                            }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eبِنَصْرِ اللَّهِ يَنْصُرُ مَنْ يَشَاءُ\u003c/span\u003e ]وە لە دواتردا كە ڕۆمەكان سەركەوتن موسڵمانان دڵخۆش بوون (كە لە ساڵى رێككەوتنى حودەیبیە بووە، یان وتراوە لەساڵى غەزاى بەدر بووە) [ \u003cspan class=\"arabic uthmani\"\u003eوَهُوَ الْعَزِيزُ الرَّحِيمُ (٥)\u003c/span\u003e ] وە خوای گەورە زۆر بە عیززەت و باڵادەستە بەسەر كافراندا، وە زۆر بەڕەحم و بەزەییە بۆ باوەڕداران ."
+}

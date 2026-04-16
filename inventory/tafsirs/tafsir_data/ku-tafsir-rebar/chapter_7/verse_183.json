@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:183":  {
+                                 "id":  1137
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَأُمْلِي لَهُمْ\u003c/span\u003e ] وه‌ بۆیان درێژ ئه‌كه‌ینه‌وه‌و مۆڵه‌تیان ئه‌ده‌ین و زوو سزایان ناده‌ین [ \u003cspan class=\"arabic uthmani\"\u003eإِنَّ كَيْدِي مَتِينٌ (١٨٣)\u003c/span\u003e ] به‌راستى نه‌خشه‌و پیلانی خوای گه‌وره‌ زۆر به‌هێزه‌."
+}

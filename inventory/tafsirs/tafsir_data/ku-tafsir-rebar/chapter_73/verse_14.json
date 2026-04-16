@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "73:14":  {
+                                 "id":  5489
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eيَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ\u003c/span\u003e ] رۆژى قیامەت ڕۆژێكە زەوی و شاخەكان ئەلەرزێت و ئەهەژێت لەرزینێكی زۆر سەخت [ \u003cspan class=\"arabic uthmani\"\u003eوَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا (١٤)\u003c/span\u003e ] وە ئەو شاخە ڕەقە بەهێزانە ئەبنە لمی وردو دواتریش ئەبنە سوفی شیكراوەو بە ئاسماندا ئەڕۆن، وە سەر زەوی هەر هەمووی یەك پارچە ڕێك ئەبێت و هیچ بەرزو نزمییەكی تیادا نامێنێ وەكو لمێكی كەڵەكەبووی لێ دێت ."
+}

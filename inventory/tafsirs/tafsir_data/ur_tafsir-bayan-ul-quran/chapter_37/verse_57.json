@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:57":  {
+                                 "id":  3845
+                             }
+               },
+    "resource_id":  159,
+    "resource_name":  "تفسیر بیان القرآن",
+    "language_id":  174,
+    "slug":  "tafsir-bayan-ul-quran",
+    "translated_name":  {
+                            "name":  "Bayan ul Quran",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eآیت 57{ وَلَوْلَا نِعْمَۃُ رَبِّیْ لَکُنْتُ مِنَ الْمُحْضَرِیْنَ } ”اور اگر میرے رب کی نعمت مجھ پر نہ ہوتی تو میں بھی لازماً پکڑے گئے لوگوں میں سے ہوتا۔“\u003c/p\u003e"
+}

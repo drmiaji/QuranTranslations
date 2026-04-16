@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:100":  {
+                                  "id":  3032
+                              }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَمَا لَنَا مِنْ شَافِعِينَ (١٠٠)\u003c/span\u003e ] وه‌ ئێستا كه‌سێك نیه‌ كه‌ تكامان بۆ بكات هه‌روه‌كو چۆن باوه‌ڕداران به‌ ئیزنی خوا كه‌سانێك تكایان بۆ ئه‌كات."
+}

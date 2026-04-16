@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:77":  {
+                                 "id":  2560
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَنَصَرْنَاهُ مِنَ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِنَا\u003c/span\u003e ] وە سەرمان خست بەسەر ئەو قەومە كافرانەى كە ئایەتەكانی ئێمەیان بەدرۆ زانی [ \u003cspan class=\"arabic uthmani\"\u003eإِنَّهُمْ كَانُوا قَوْمَ سَوْءٍ\u003c/span\u003e ] بەڕاستی ئەوانە قەومێكی خراپ بوون [ \u003cspan class=\"arabic uthmani\"\u003eفَأَغْرَقْنَاهُمْ أَجْمَعِينَ (٧٧)\u003c/span\u003e ] وە هەر هەموومان نوقمی ئاوەكە كردو لەناومان بردن."
+}

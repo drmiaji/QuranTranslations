@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:12":  {
+                                 "id":  1608
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ\u003c/span\u003e ] سبه‌ینێ له‌گه‌ڵماندا بینێره‌ بۆ خۆی له‌و ده‌شته‌ بێت و بڕوات و كاتێكی خۆش به‌سه‌ر به‌رێت و یاری بكات [ \u003cspan class=\"arabic uthmani\"\u003eوَإِنَّا لَهُ لَحَافِظُونَ (١٢)\u003c/span\u003e ] وه‌ ئێمه‌ به‌دڵنیایی ئه‌یپارێزین."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "90:12":  {
+                                 "id":  6035
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَمَا أَدْرَاكَ مَا الْعَقَبَةُ (١٢)\u003c/span\u003e ] ئەی محمد صلى الله علیه وسلم تۆ چوزانی ئەو بەربەست و ڕێگرانە چین لەبەردەم مرۆڤدا كە ڕێگرن لەوەی بەرەو تاعەت و عیبادەتی خوای گەورە بڕوات."
+}

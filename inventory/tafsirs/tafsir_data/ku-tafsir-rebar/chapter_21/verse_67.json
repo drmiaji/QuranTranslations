@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:67":  {
+                                 "id":  2550
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eأُفٍّ لَكُمْ وَلِمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ\u003c/span\u003e ] ئۆف لە دەستی ئێوەو لەوانەی كە ئەیپەرستن جگە لە خوای گەورە [ \u003cspan class=\"arabic uthmani\"\u003eأَفَلَا تَعْقِلُونَ (٦٧)\u003c/span\u003e ] ئەوە بۆ تێناگەن و بیر ناكەنەوە كە ئەمە ئیشێكی ناشیاوە."
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:36":  {
+                                 "id":  2519
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eوَإِذَا رَآكَ الَّذِينَ كَفَرُوا إِنْ يَتَّخِذُونَكَ إِلَّا هُزُوًا\u003c/span\u003e ] وە كاتێك كە كافران ئەتبینن گاڵتەت پێ ئەكەن [ \u003cspan class=\"arabic uthmani\"\u003eأَهَذَا الَّذِي يَذْكُرُ آلِهَتَكُمْ وَهُمْ بِذِكْرِ الرَّحْمَنِ هُمْ كَافِرُونَ (٣٦)\u003c/span\u003e ] ئەڵێن: ئا ئەمەیە كە تانەو تەشەر لە خواكانی ئێوە ئەدات لە كاتێكدا ئەوان خۆیان بێباوەڕن بە خوای گەورەو بە رەحمان و گاڵتە بە پێغەمبەرى خوا صلى الله علیه وسلم دەكەن ."
+}

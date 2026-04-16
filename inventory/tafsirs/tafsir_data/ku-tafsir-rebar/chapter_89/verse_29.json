@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "89:29":  {
+                                 "id":  6022
+                             }
+               },
+    "resource_id":  804,
+    "resource_name":  "Rebar Kurdish Tafsir",
+    "language_id":  89,
+    "slug":  "kurd-tafsir-rebar",
+    "translated_name":  {
+                            "name":  "Rebar Kurdish Tafsir",
+                            "language_name":  "english"
+                        },
+    "text":  "[ \u003cspan class=\"arabic uthmani\"\u003eفَادْخُلِي فِي عِبَادِي (٢٩)\u003c/span\u003e ] تۆ وه‌ره‌ ناو كۆی به‌نده‌ چاكه‌كانی منه‌وه‌."
+}
