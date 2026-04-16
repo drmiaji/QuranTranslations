@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "26:132":  {
+                                  "id":  3064
+                              },
+                   "26:133":  {
+                                  "id":  3065
+                              }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Прекратите приобщать к Аллаху сотоварищей и творить беззаконие. Слушайтесь меня, ибо вы знаете, что я - посланник Аллаха и ваш добрый наставник."
+}

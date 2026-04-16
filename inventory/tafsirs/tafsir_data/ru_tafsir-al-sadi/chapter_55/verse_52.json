@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "55:51":  {
+                                 "id":  4952
+                             },
+                   "55:52":  {
+                                 "id":  4953
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Обитатели Рая пьют из этих источников прекрасные напитки и заставляют их течь туда, куда им хочется."
+}

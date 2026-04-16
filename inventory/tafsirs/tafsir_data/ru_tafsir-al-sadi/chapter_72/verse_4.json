@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "72:4":  {
+                                "id":  5451
+                            }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Глупый бес несправедливо судил об Аллахе и преступил черту дозволенного. Он позволил себе это только из-за своего безрассудства. Если бы он был благоразумен, то думал бы над тем, что говорит."
+}

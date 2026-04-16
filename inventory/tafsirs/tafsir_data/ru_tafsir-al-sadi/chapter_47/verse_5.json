@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:5":  {
+                                "id":  4550
+                            }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Аллах поведет их путем, который ведет в блаженную Райскую обитель, исправит их дела, облегчит их судьбу и дарует великую награду, которая не принесет им ни беспокойства, ни печали."
+}

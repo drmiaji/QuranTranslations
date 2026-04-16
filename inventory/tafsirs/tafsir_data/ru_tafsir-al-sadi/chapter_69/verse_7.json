@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "69:7":  {
+                                "id":  5330
+                            }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Он принес им зло, несчастье и ужас, в результате чего поверженные люди стали подобны деревьям, чьи сгнившие кроны пали наземь, а трухлявые стволы рухнули друг на друга."
+}

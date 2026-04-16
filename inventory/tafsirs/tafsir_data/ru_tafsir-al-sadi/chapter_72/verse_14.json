@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "72:14":  {
+                                 "id":  5461
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Среди нас есть мусульмане и несправедливые грешники, которые уклонились от прямого пути. Мусульмане пошли путем истины, ведущим к Раю и блаженству."
+}

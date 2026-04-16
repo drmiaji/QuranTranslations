@@ -1,0 +1,22 @@
+﻿{
+    "verses":  {
+                   "77:30":  {
+                                 "id":  5652
+                             },
+                   "77:31":  {
+                                 "id":  5653
+                             },
+                   "77:32":  {
+                                 "id":  5654
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Речь идет о тени Адского Огня, в котором различаются три разветвления, которые иногда поочередно поглощают свою жертву, а иногда объединяются воедино."
+}

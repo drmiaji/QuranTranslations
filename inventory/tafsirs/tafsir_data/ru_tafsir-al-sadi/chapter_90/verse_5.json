@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "90:5":  {
+                                "id":  6028
+                            }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Вот почему он творит беззаконие и гордится тем, что тратит свое богатство на удовлетворение низменных страстей?"
+}

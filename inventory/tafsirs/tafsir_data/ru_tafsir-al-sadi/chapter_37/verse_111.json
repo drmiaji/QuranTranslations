@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:111":  {
+                                  "id":  3899
+                              }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Он уверовал во все, во что обязан уверовать человек, и достиг полной убежденности. Всевышний сказал: «Так Мы показали Ибрахиму (Аврааму) царство небес и земли, дабы он стал одним из убежденных» (6:75)."
+}

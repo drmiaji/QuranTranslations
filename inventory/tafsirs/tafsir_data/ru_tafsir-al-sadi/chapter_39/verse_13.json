@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "39:13":  {
+                                 "id":  4071
+                             },
+                   "39:14":  {
+                                 "id":  4072
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Эта лютая кара ожидает каждого, кто ослушается повелений Всевышнего. А что касается многобожников и неверующих, то они не избавятся от нее во веки веков."
+}

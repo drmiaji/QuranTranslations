@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:4":  {
+                                "id":  3792
+                            }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Помимо Аллаха нет иного божества, достойного обожествления и поклонения. Все люди обязаны искренне любить и бояться Его, надеяться на Его милость и поклоняться только Ему."
+}

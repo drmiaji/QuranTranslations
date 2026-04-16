@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "50:19":  {
+                                 "id":  4649
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Ни один неверующий, отрицающий знамения Аллаха и пренебрегающий Его назиданиями, не сможет избежать предсмертного беспамятства. Нет от него спасения и избавления!"
+}

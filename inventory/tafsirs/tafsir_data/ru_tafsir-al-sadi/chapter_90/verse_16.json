@@ -1,0 +1,31 @@
+﻿{
+    "verses":  {
+                   "90:11":  {
+                                 "id":  6034
+                             },
+                   "90:12":  {
+                                 "id":  6035
+                             },
+                   "90:13":  {
+                                 "id":  6036
+                             },
+                   "90:14":  {
+                                 "id":  6037
+                             },
+                   "90:15":  {
+                                 "id":  6038
+                             },
+                   "90:16":  {
+                                 "id":  6039
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Человек не стал идти по крутой стезе и уступил своим страстям. Крутая стезя оказалась слишком тяжелой для него."
+}

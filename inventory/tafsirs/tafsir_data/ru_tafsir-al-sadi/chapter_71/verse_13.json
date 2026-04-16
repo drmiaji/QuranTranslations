@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "71:13":  {
+                                 "id":  5432
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Почему вы не страшитесь Его величия и не почитаете Его должным образом?"
+}

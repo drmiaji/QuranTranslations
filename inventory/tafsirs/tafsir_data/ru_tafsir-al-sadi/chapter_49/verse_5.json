@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "49:5":  {
+                                "id":  4617
+                            }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Он прощает Своим рабам грехи и неприличное поведение и проявляет к ним милосердие, когда дает им возможность покаяться и не торопится с наказанием."
+}

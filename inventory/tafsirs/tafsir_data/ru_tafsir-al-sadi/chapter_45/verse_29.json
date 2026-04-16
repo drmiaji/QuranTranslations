@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "45:29":  {
+                                 "id":  4502
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Ниспосланное вам Писание поможет рассудить между вами по справедливости. И это не составит труда, потому что все ваши деяния были записаны ангелами."
+}

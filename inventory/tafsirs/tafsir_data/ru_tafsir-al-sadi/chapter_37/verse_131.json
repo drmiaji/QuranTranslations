@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "37:130":  {
+                                  "id":  3918
+                              },
+                   "37:131":  {
+                                  "id":  3919
+                              }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Это - приветствие славному посланнику Аллаха от его Господа и всех праведных рабов."
+}

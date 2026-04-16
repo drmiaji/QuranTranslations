@@ -1,0 +1,19 @@
+﻿{
+    "verses":  {
+                   "75:13":  {
+                                 "id":  5564
+                             },
+                   "75:14":  {
+                                 "id":  5565
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Каждый человек узнает обо всех благих и плохих деяниях, которые он совершил как в начале его жизни, так и в конце. Ему сообщат то, что он не сможет опровергнуть."
+}

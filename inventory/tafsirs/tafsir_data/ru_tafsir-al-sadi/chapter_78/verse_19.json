@@ -1,0 +1,22 @@
+﻿{
+    "verses":  {
+                   "78:17":  {
+                                 "id":  5689
+                             },
+                   "78:18":  {
+                                 "id":  5690
+                             },
+                   "78:19":  {
+                                 "id":  5691
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Всевышний упомянул о том, что произойдет в День воскресения, о котором расспрашивают друг друга обвиняющие во лжи и который отрицают упрямые неверующие."
+}

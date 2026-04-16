@@ -1,0 +1,28 @@
+﻿{
+    "verses":  {
+                   "74:20":  {
+                                 "id":  5515
+                             },
+                   "74:21":  {
+                                 "id":  5516
+                             },
+                   "74:22":  {
+                                 "id":  5517
+                             },
+                   "74:23":  {
+                                 "id":  5518
+                             },
+                   "74:24":  {
+                                 "id":  5519
+                             }
+               },
+    "resource_id":  170,
+    "resource_name":  "Russian Tafseer Al Saddi",
+    "language_id":  138,
+    "slug":  "ru-tafseer-al-saddi",
+    "translated_name":  {
+                            "name":  "Al-Sa\u0027di",
+                            "language_name":  "english"
+                        },
+    "text":  "Он задумал невозможное и решил совершить то, что не по силам ни ему, ни ему подобным."
+}
