@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "17:109":  {
+                                  "id":  2138
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويخرون للأذقان يبكون )\u003c/span\u003e أي : خضوعا لله عز وجل وإيمانا وتصديقا بكتابه ورسوله ، ويزيدهم الله خشوعا ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e إيمانا وتسليما كما قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين اهتدوا زادهم هدى وآتاهم تقواهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ محمد : 17 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويخرون )\u003c/span\u003e عطف صفة على صفة لا عطف سجود على سجود ،\u003cspan class=\"blue\"\u003e كما قال الشاعر :\u003c/span\u003e\u003c/p\u003e\u003cp\u003eإلى الملك القرم وابن الهمام وليث الكتيبة في المزدحم\u003c/p\u003e"
+}

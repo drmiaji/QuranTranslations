@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:104":  {
+                                  "id":  1700
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما تسألهم عليه من أجر )\u003c/span\u003e أي : وما تسألهم يا محمد على هذا النصح والدعاء إلى الخير والرشد من أجر ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e من جعالة ولا أجرة على ذلك ، بل تفعله ابتغاء وجه الله ، ونصحا لخلقه .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إن هو إلا ذكر للعالمين )\u003c/span\u003e أي : يتذكرون به ويهتدون ، وينجون به في الدنيا والآخرة .\u003c/p\u003e"
+}

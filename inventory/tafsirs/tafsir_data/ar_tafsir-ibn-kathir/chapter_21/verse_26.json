@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:26":  {
+                                 "id":  2509
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى ردا على من زعم أن له - تعالى وتقدس - ولدا من الملائكة ،\u003cspan class=\"blue\"\u003e كمن قال ذلك من العرب :\u003c/span\u003e إن الملائكة بنات الله ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( سبحانه بل عباد مكرمون )\u003c/span\u003e أي : الملائكة عباد الله مكرمون عنده ، في منازل عالية ومقامات سامية ، وهم له في غاية الطاعة قولا وفعلا .\u003c/p\u003e"
+}

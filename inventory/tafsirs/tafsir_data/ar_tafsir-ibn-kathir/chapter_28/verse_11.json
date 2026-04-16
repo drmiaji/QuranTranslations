@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "28:11":  {
+                                 "id":  3263
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي : أمرت ابنتها - وكانت كبيرة تعي ما يقال لها -\u003cspan class=\"blue\"\u003e فقالت لها :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قصيه )\u003c/span\u003e أي : اتبعي أثره ، وخذي خبره ، وتطلبي شأنه من نواحي البلد . فخرجت لذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فبصرت به عن جنب )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e قال ابن عباس :\u003c/span\u003e عن جانب .\u003c/p\u003e\u003cp\u003eوقال مجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( فبصرت به عن جنب )\u003c/span\u003e : عن بعيد .\u003c/p\u003e\u003cp\u003eوقال قتادة : جعلت تنظر إليه وكأنها لا تريده .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوذلك أنه لما استقر موسى ، عليه السلام ، بدار فرعون ، وأحبته امرأة الملك ، واستطلقته منه ، عرضوا عليه المراضع التي في دارهم ، فلم يقبل منها ثديا ، وأبى أن يقبل شيئا من ذلك . فخرجوا به إلى سوق لعلهم يجدون امرأة تصلح لرضاعته ، فلما رأته بأيديهم عرفته ، ولم تظهر ذلك ولم يشعروا بها .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:215":  {
+                                 "id":  222
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال مقاتل بن حيان : هذه الآية في نفقة التطوع .\u003cspan class=\"blue\"\u003e وقال السدي :\u003c/span\u003e نسختها الزكاة . وفيه نظر .\u003cspan class=\"blue\"\u003e ومعنى الآية :\u003c/span\u003e يسألونك كيف ينفقون ؟ قاله ابن عباس ومجاهد ، فبين لهم تعالى ذلك ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قل ما أنفقتم من خير فللوالدين والأقربين واليتامى والمساكين وابن السبيل )\u003c/span\u003e أي : اصرفوها في هذه الوجوه .\u003cspan class=\"blue\"\u003e كما جاء في الحديث :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أمك وأباك ، وأختك وأخاك ، ثم أدناك أدناك \"\u003c/span\u003e . وتلا ميمون بن مهران هذه الآية ،\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e هذه مواضع النفقة ما ذكر فيها طبلا ولا مزمارا ، ولا تصاوير الخشب ، ولا كسوة الحيطان .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما تفعلوا من خير فإن الله به عليم )\u003c/span\u003e أي : مهما صدر منكم من فعل معروف ، فإن الله يعلمه ، وسيجزيكم على ذلك أوفر الجزاء ; فإنه لا يظلم أحدا مثقال ذرة .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:12":  {
+                                 "id":  4557
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال [ تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله يدخل الذين آمنوا وعملوا الصالحات جنات تجري من تحتها الأنهار )\u003c/span\u003e أي : يوم القيامة \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين كفروا يتمتعون ويأكلون كما تأكل الأنعام )\u003c/span\u003e أي : في دنياهم ، يتمتعون بها ويأكلون منها كأكل الأنعام ، خضما وقضما وليس لهم همة إلا في ذلك .\u003cspan class=\"blue\"\u003e ولهذا ثبت في الصحيح :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" المؤمن يأكل في معى واحد ، والكافر يأكل في سبعة أمعاء \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والنار مثوى لهم )\u003c/span\u003e أي : يوم جزائهم .\u003c/p\u003e"
+}

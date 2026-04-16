@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:129":  {
+                                 "id":  422
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولله ما في السماوات وما في الأرض )\u003c/span\u003e أي : الجميع ملك له ، وأهلهما عبيد بين يديه \u003cspan class=\"arabic qpc-hafs\"\u003e( يغفر لمن يشاء ويعذب من يشاء )\u003c/span\u003e أي : هو المتصرف فلا معقب لحكمه ، ولا يسأل عما يفعل وهم يسألون ، والله غفور رحيم .\u003c/p\u003e"
+}

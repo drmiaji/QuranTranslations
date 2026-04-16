@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:68":  {
+                                 "id":  4038
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"أنتم عنه معرضون\"\u003c/span\u003e أي غافلون قال مجاهد وشريح القاضي والسدي في قوله عز وجل \u003cspan class=\"red\"\u003e\" قل هو نبأ\"\u003c/span\u003e عظيم يعني القرآن.\u003c/p\u003e"
+}

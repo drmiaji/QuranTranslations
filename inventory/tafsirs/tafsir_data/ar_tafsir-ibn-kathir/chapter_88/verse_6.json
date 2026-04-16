@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "88:6":  {
+                                "id":  5973
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ليس لهم طعام إلا من ضريع )\u003c/span\u003e قال علي بن أبي طلحة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e شجر من نار .\u003c/p\u003e\u003cp\u003eوقال سعيد بن جبير : هو الزقوم .\u003cspan class=\"blue\"\u003e وعنه :\u003c/span\u003e أنها الحجارة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن عباس ، ومجاهد ، وعكرمة ، وأبو الجوزاء ،\u003cspan class=\"blue\"\u003e وقتادة :\u003c/span\u003e هو الشبرق .\u003cspan class=\"blue\"\u003e قال قتادة :\u003c/span\u003e قريش تسميه في الربيع الشبرق ، وفي الصيف الضريع .\u003cspan class=\"blue\"\u003e قال عكرمة :\u003c/span\u003e وهو شجرة ذات شوك لاطئة بالأرض .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال البخاري : قال مجاهد : الضريع نبت يقال له : الشبرق ، يسميه أهل الحجاز الضريع إذا يبس ، وهو سم .\u003c/p\u003e\u003cp\u003eوقال معمر ،\u003cspan class=\"blue\"\u003e عن قتادة :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إلا من ضريع )\u003c/span\u003e هو الشبرق ، إذا يبس سمي الضريع .\u003c/p\u003e\u003cp\u003eوقال سعيد ،\u003cspan class=\"blue\"\u003e عن قتادة :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ليس لهم طعام إلا من ضريع )\u003c/span\u003e من شر الطعام وأبشعه وأخبثه .\u003c/p\u003e"
+}

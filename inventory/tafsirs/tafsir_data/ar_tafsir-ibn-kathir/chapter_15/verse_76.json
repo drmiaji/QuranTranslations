@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:76":  {
+                                 "id":  1878
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنها لبسبيل مقيم )\u003c/span\u003e أي : وإن قرية سدوم التي أصابها ما أصابها من القلب الصوري والمعنوي ، والقذف بالحجارة ، حتى صارت بحيرة منتنة خبيثة لبطريق مهيع مسالكه مستمرة إلى اليوم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنكم لتمرون عليهم مصبحين وبالليل أفلا تعقلون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الصافات : 137 ، 138 ]\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال مجاهد ،\u003cspan class=\"blue\"\u003e والضحاك :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنها لبسبيل مقيم )\u003c/span\u003e قال : معلم .\u003cspan class=\"blue\"\u003e وقال قتادة :\u003c/span\u003e بطريق واضح .\u003cspan class=\"blue\"\u003e وقال قتادة أيضا :\u003c/span\u003e بصقع من الأرض واحد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال السدي : بكتاب مبين ،\u003cspan class=\"blue\"\u003e يعني كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وكل شيء أحصيناه في إمام مبين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يس : 12 ]\u003c/span\u003e ولكن ليس المعنى على ما قال هاهنا ، والله أعلم .\u003c/p\u003e"
+}

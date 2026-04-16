@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:87":  {
+                                "id":  1322
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وطبع على قلوبهم )\u003c/span\u003e أي : بسبب نكولهم عن الجهاد والخروج مع الرسول في سبيل الله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فهم لا يفقهون )\u003c/span\u003e أي : لا يفهمون ما فيه صلاح لهم فيفعلوه ، ولا ما فيه مضرة لهم فيجتنبوه .\u003c/p\u003e"
+}

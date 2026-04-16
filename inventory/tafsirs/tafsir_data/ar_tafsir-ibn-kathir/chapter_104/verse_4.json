@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "104:4":  {
+                                 "id":  6183
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي ليلقين هذا الذي جمع مالا فعدده في الحطمة وهي اسم طبقة من أسماء النار لأنها تحطم من فيها.\u003c/p\u003e"
+}

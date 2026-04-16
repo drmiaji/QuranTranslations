@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "6:25":  {
+                                "id":  814
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومنهم من يستمع إليك وجعلنا على قلوبهم أكنة أن يفقهوه وفي آذانهم وقرا وإن يروا كل آية لا يؤمنوا بها )\u003c/span\u003e أي : يجيؤوك ليسمعوا قراءتك ، ولا تجزي عنهم شيئا ; لأن الله جعل \u003cspan class=\"arabic qpc-hafs\"\u003e( على قلوبهم أكنة )\u003c/span\u003e أي : أغطية لئلا يفقهوا القرآن \u003cspan class=\"arabic qpc-hafs\"\u003e( وفي آذانهم وقرا )\u003c/span\u003e أي : صمما عن السماع النافع ،\u003cspan class=\"blue\"\u003e فهم كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ومثل الذين كفروا كمثل الذي ينعق بما لا يسمع إلا دعاء ونداء \u003cspan class=\"reference brown\"\u003e[ صم بكم عمي فهم لا يعقلون ]\u003c/span\u003e )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البقرة : 171 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن يروا كل آية لا يؤمنوا بها )\u003c/span\u003e أي : مهما رأوا من الآيات والدلالات والحجج البينات ، لا يؤمنوا بها . فلا فهم عندهم ولا إنصاف ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو علم الله فيهم خيرا لأسمعهم \u003cspan class=\"reference brown\"\u003e[ ولو أسمعهم لتولوا وهم معرضون ]\u003c/span\u003e )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنفال : 23 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( حتى إذا جاءوك يجادلونك )\u003c/span\u003e أي يحاجونك ويناظرونك في الحق بالباطل \u003cspan class=\"arabic qpc-hafs\"\u003e( يقول الذين كفروا إن هذا إلا أساطير الأولين )\u003c/span\u003e أي : ما هذا الذي جئت به إلا مأخوذ من كتب الأوائل ومنقول عنهم .\u003c/p\u003e"
+}

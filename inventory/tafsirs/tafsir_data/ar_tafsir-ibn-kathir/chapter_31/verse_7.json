@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "31:7":  {
+                                "id":  3476
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا تتلى عليه آياتنا ولى مستكبرا كأن لم يسمعها كأن في أذنيه وقرا )\u003c/span\u003e أي : هذا المقبل على اللهو واللعب والطرب ، إذا تليت عليه الآيات القرآنية ، ولى عنها وأعرض وأدبر وتصام وما به من صمم ، كأنه ما يسمعها; لأنه يتأذى بسماعها ، إذ لا انتفاع له بها ، ولا أرب له فيها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فبشره بعذاب أليم )\u003c/span\u003e أي : يوم القيامة يؤلمه ، كما تألم بسماع كتاب الله وآياته .\u003c/p\u003e"
+}

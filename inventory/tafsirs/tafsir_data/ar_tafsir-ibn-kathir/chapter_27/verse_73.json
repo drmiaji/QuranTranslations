@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:73":  {
+                                 "id":  3232
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي في إسباغه نعمه عليهم مع ظلمهم لأنفسهم وهم مع ذلك لا يشكرونه على ذلك إلا القليل منهم.\u003c/p\u003e"
+}

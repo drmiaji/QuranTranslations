@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:50":  {
+                                 "id":  2982
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم توعدهم فرعون بقطع الأيدي والأرجل والصلب ،\u003cspan class=\"blue\"\u003e فقالوا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لا ضير )\u003c/span\u003e أي : لا حرج ولا يضرنا ذلك ولا نبالي به \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا إلى ربنا منقلبون )\u003c/span\u003e أي : المرجع إلى الله ، وهو لا يضيع أجر من أحسن عملا ولا يخفى عليه ما فعلت بنا ،\u003cspan class=\"blue\"\u003e وسيجزينا على ذلك أتم الجزاء; ولهذا قالوا :\u003c/span\u003e\u003c/p\u003e"
+}

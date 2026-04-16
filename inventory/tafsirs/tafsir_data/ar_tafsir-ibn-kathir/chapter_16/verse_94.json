@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:94":  {
+                                 "id":  1995
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم حذر تعالى عباده عن اتخاذ الأيمان دخلا أي خديعة ومكرا ؛\u003cspan class=\"blue\"\u003e لئلا تزل قدم بعد ثبوتها :\u003c/span\u003e مثل لمن كان على الاستقامة فحاد عنها وزل عن طريق الهدى ، بسبب الأيمان الحانثة المشتملة على الصد عن سبيل الله ؛ لأن الكافر إذا رأى أن المؤمن قد عاهده ثم غدر به ، لم يبق له وثوق بالدين ،\u003cspan class=\"blue\"\u003e فانصد بسببه عن الدخول في الإسلام ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وتذوقوا السوء بما صددتم عن سبيل الله ولكم عذاب عظيم )\u003c/span\u003e\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:35":  {
+                                 "id":  4168
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين يجادلون في آيات الله بغير سلطان أتاهم )\u003c/span\u003e أي : الذين يدفعون الحق بالباطل ، ويجادلون الحجج بغير دليل وحجة معهم من الله ،\u003cspan class=\"blue\"\u003e فإن الله يمقت على ذلك أشد المقت ; ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( كبر مقتا عند الله وعند الذين آمنوا )\u003c/span\u003e أي : والمؤمنون أيضا يبغضون من تكون هذه صفته ، فإن من كانت هذه صفته ، يطبع الله على قلبه ، فلا يعرف بعد ذلك معروفا ،\u003cspan class=\"blue\"\u003e ولا ينكر منكرا ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( كذلك يطبع الله على كل قلب متكبر )\u003c/span\u003e أي : على اتباع الحق ) جبار ) .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوروى ابن أبي حاتم عن عكرمة - وحكي عن الشعبي -\u003cspan class=\"blue\"\u003e أنهما قالا :\u003c/span\u003e لا يكون الإنسان جبارا حتى يقتل نفسين .\u003c/p\u003e\u003cp\u003eوقال أبو عمران الجوني وقتادة : آية الجبابرة القتل بغير حق .\u003c/p\u003e"
+}

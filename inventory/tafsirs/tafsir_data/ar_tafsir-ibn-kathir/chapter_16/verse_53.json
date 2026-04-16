@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:53":  {
+                                 "id":  1954
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم أخبر أنه مالك النفع والضر ، وأن ما بالعبد من رزق ونعمة وعافية ونصر فمن فضله عليه وإحسانه إليه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ثم إذا مسكم الضر فإليه تجأرون )\u003c/span\u003e أي : لعلمكم أنه لا يقدر على إزالته إلا هو ، فإنكم عند الضرورات تلجئون إليه ،\u003cspan class=\"blue\"\u003e وتسألونه وتلحون في الرغبة مستغيثين به كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا مسكم الضر في البحر ضل من تدعون إلا إياه فلما نجاكم إلى البر أعرضتم وكان الإنسان كفورا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 67 ]\u003c/span\u003e\u003c/p\u003e"
+}

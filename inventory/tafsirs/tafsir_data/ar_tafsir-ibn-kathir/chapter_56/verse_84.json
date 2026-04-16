@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:84":  {
+                                 "id":  5063
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eولهذا قال ههنا \u003cspan class=\"red\"\u003e\"وأنتم حينئذ تنظرون\"\u003c/span\u003e أي إلى المحتضر وما يكابده من سكرات الموت.\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "14:41":  {
+                                 "id":  1791
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ربنا اغفر لي ولوالدي )\u003c/span\u003e وقرأ بعضهم : \u003cspan class=\"red\"\u003e\" ولوالدي \"\u003c/span\u003e على الإفراد وكان هذا قبل أن يتبرأ من أبيه لما تبين له عداوته لله - عز وجل - \u003cspan class=\"arabic qpc-hafs\"\u003e( وللمؤمنين )\u003c/span\u003e أي : كلهم \u003cspan class=\"arabic qpc-hafs\"\u003e( يوم يقوم الحساب )\u003c/span\u003e أي : يوم تحاسب عبادك فتجزيهم بأعمالهم ، إن خيرا فخير ، وإن شرا فشر ، \u003cspan class=\"reference brown\"\u003e[ والله أعلم ]\u003c/span\u003e .\u003c/p\u003e"
+}

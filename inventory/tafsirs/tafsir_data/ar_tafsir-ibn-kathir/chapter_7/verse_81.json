@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:81":  {
+                                "id":  1035
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي : عدلتم عن النساء ، وما خلق لكم ربكم منهن إلى الرجال ،\u003cspan class=\"blue\"\u003e وهذا إسراف منكم وجهل ; لأنه وضع الشيء في غير محله ; ولهذا قال لهم في الآية الأخرى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( \u003cspan class=\"reference brown\"\u003e[ قال ]\u003c/span\u003e هؤلاء بناتي إن كنتم فاعلين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحجر : 71 ]\u003c/span\u003e فأرشدهم إلى نسائهم ، فاعتذروا إليه بأنهم لا يشتهونهن ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا لقد علمت ما لنا في بناتك من حق وإنك لتعلم ما نريد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 79 ]\u003c/span\u003e أي : لقد علمت أنه لا أرب لنا في النساء ، ولا إرادة ، وإنك لتعلم مرادنا من أضيافك .\u003c/p\u003e\u003cp\u003eوذكر المفسرون أن الرجال كانوا قد استغنى بعضهم ببعض ، وكذلك نساؤهم كن قد استغنى بعضهن ببعض أيضا .\u003c/p\u003e"
+}

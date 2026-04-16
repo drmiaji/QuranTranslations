@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:14":  {
+                                 "id":  3719
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إذ أرسلنا إليهم اثنين فكذبوهما )\u003c/span\u003e أي : بادروهما بالتكذيب ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فعززنا بثالث )\u003c/span\u003e أي : قويناهما وشددنا أزرهما برسول ثالث .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن جريج ، عن وهب بن سليمان ،\u003cspan class=\"blue\"\u003e عن شعيب الجبائي قال :\u003c/span\u003e كان اسم الرسولين الأولين شمعون ويوحنا ، واسم الثالث بولص ، والقرية أنطاكية .\u003c/p\u003e"
+}

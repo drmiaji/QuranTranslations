@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:81":  {
+                                 "id":  1883
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوذكر تعالى أنه آتاهم من الآيات ما يدلهم على صدق ما جاءهم به صالح ، كالناقة التي أخرجها الله لهم بدعاء صالح من صخرة صماء فكانت تسرح في بلادهم ، لها شرب ولهم شرب يوم معلوم .\u003cspan class=\"blue\"\u003e فلما عتوا وعقروها قال لهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( تمتعوا في داركم ثلاثة أيام ذلك وعد غير مكذوب )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 65 ]\u003c/span\u003e وقال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأما ثمود فهديناهم فاستحبوا العمى على الهدى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ فصلت : 17 ]\u003c/span\u003e\u003c/p\u003e"
+}

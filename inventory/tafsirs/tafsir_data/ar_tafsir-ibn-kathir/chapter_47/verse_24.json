@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:24":  {
+                                 "id":  4569
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى آمرا بتدبر القرآن وتفهمه ، وناهيا عن الإعراض عنه ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أفلا يتدبرون القرآن أم على قلوب أقفالها )\u003c/span\u003e أي : بل على قلوب أقفالها ، فهي مطبقة لا يخلص إليها شيء من معانيه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن جرير : حدثنا بشر ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e حدثنا يزيد قال : حدثنا سعيد قال : حدثنا حماد بن زيد ، حدثنا هشام بن عروة ،\u003cspan class=\"blue\"\u003e عن أبيه قال :\u003c/span\u003e تلا رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e يوما :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أفلا يتدبرون القرآن أم على قلوب أقفالها )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e فقال شاب من أهل اليمن :\u003c/span\u003e بل عليها أقفالها حتى يكون الله عز وجل يفتحها أو يفرجها . فما زال الشاب في نفس عمر - رضي الله عنه - حتى ولي ، فاستعان به .\u003c/p\u003e"
+}

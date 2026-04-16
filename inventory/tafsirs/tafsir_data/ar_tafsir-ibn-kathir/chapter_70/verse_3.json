@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "70:3":  {
+                                "id":  5378
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e(من الله ذي المعارج )\u003c/span\u003e قال الثوري ، عن الأعمش عن رجل ، عن سعيد بن جبير ،\u003cspan class=\"blue\"\u003e عن ابن عباس في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ذي المعارج )\u003c/span\u003e قال : ذو الدرجات .\u003c/p\u003e\u003cp\u003eوقال علي بن أبي طلحة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ذي المعارج )\u003c/span\u003e يعني : العلو والفواضل .\u003c/p\u003e\u003cp\u003eوقال مجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( ذي المعارج )\u003c/span\u003e معارج السماء .\u003cspan class=\"blue\"\u003e وقال قتادة :\u003c/span\u003e ذي الفواضل والنعم .\u003c/p\u003e"
+}

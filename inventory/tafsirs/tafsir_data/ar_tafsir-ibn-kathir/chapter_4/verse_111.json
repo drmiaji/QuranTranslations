@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:111":  {
+                                 "id":  604
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يكسب إثما فإنما يكسبه على نفسه \u003cspan class=\"reference brown\"\u003e[ وكان الله عليما حكيما ]\u003c/span\u003e )\u003c/span\u003e كقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تزر وازرة وزر أخرى \u003cspan class=\"reference brown\"\u003e[ وإن تدع مثقلة إلى حملها لا يحمل منه شيء ولو كان ذا قربى ]\u003c/span\u003e )\u003c/span\u003e الآية : \u003cspan class=\"reference brown\"\u003e[ فاطر : 18 ]\u003c/span\u003e يعني أنه لا يجني أحد على أحد ، وإنما على كل نفس ما عملت ،\u003cspan class=\"blue\"\u003e لا يحمل عنها غيرها ; ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وكان الله عليما حكيما )\u003c/span\u003e أي : من علمه وحكمته ، وعدله ورحمته كان ذلك .\u003c/p\u003e"
+}

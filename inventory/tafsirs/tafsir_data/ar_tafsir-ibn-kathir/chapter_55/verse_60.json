@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "55:60":  {
+                                 "id":  4961
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( هل جزاء الإحسان إلا الإحسان )\u003c/span\u003e أي : ما لمن أحسن في الدنيا العمل إلا الإحسان إليه في الدار الآخرة .\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( للذين أحسنوا الحسنى وزيادة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 26 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال البغوي : أخبرنا أبو سعيد الشريحي ، حدثنا أبو إسحاق الثعلبي ، أخبرني ابن فنجويه ، حدثنا ابن شيبة ، حدثنا إسحاق بن إبراهيم بن بهرام ، حدثنا الحجاج بن يوسف المكتب ، حدثنا بشر بن الحسين ، عن الزبير بن عدي ،\u003cspan class=\"blue\"\u003e عن أنس بن مالك قال :\u003c/span\u003e قرأ رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( هل جزاء الإحسان إلا الإحسان )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" هل تدرون ما قال ربكم ؟ \"\u003c/span\u003e قالوا : الله ورسوله أعلم .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" يقول هل جزاء ما أنعمت عليه بالتوحيد إلا الجنة \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eولما كان في الذي ذكر نعم عظيمة لا يقاومها عمل ، بل مجرد تفضل وامتنان ،\u003cspan class=\"blue\"\u003e قال بعد ذلك كله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فبأي آلاء ربكما تكذبان )\u003c/span\u003e .\u003c/p\u003e"
+}

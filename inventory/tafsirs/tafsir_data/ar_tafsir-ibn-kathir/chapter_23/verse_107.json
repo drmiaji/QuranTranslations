@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:107":  {
+                                  "id":  2780
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قالوا : \u003cspan class=\"arabic qpc-hafs\"\u003e( ربنا أخرجنا منها فإن عدنا فإنا ظالمون )\u003c/span\u003e أي : ردنا إلى الدار الدنيا ، فإن عدنا إلى ما سلف منا ، فنحن ظالمون مستحقون للعقوبة ،\u003cspan class=\"blue\"\u003e كما قالوا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فاعترفنا بذنوبنا فهل إلى خروج من سبيل . ذلكم بأنه إذا دعي الله وحده كفرتم وإن يشرك به تؤمنوا فالحكم لله العلي الكبير )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ غافر : 11 ، 12 ]\u003c/span\u003e أي : لا سبيل إلى الخروج; لأنكم كنتم تشركون بالله إذا وحده المؤمنون .\u003c/p\u003e"
+}

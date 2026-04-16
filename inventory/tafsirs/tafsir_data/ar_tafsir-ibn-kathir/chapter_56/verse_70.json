@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:70":  {
+                                 "id":  5049
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eلو نشاء جعلناه أجاجا ) أي : زعاقا مرا لا يصلح لشرب ولا زرع ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فلولا تشكرون )\u003c/span\u003e أي : فهلا تشكرون نعمة الله عليكم في إنزاله المطر عليكم عذبا زلالا ! \u003cspan class=\"arabic qpc-hafs\"\u003e( لكم منه شراب ومنه شجر فيه تسيمون ينبت لكم به الزرع والزيتون والنخيل والأعناب ومن كل الثمرات إن في ذلك لآية لقوم يتفكرون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النحل : 10 ، 11 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا أبي ، حدثنا عثمان بن سعيد بن مرة ، حدثنا فضيل بن مرزوق ، عن جابر ، عن أبي جعفر ، عن النبي - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e أنه إذا شرب الماء قال : \u003cspan class=\"red\"\u003e\" الحمد لله الذي سقانا عذبا فراتا برحمته ، ولم يجعله ملحا أجاجا بذنوبنا \"\u003c/span\u003e .\u003c/p\u003e"
+}

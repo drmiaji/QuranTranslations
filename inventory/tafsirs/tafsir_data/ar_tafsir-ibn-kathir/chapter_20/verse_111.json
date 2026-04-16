@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "20:111":  {
+                                  "id":  2459
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وعنت الوجوه للحي القيوم )\u003c/span\u003e قال ابن عباس ،\u003cspan class=\"blue\"\u003e وغير واحد :\u003c/span\u003e خضعت وذلت واستسلمت الخلائق لجبارها الحي الذي لا يموت ،\u003cspan class=\"blue\"\u003e القيوم :\u003c/span\u003e الذي لا ينام ، وهو قيم على كل شيء ، يدبره ويحفظه ، فهو الكامل في نفسه ، الذي كل شيء فقير إليه ، لا قوام له إلا به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وقد خاب من حمل ظلما )\u003c/span\u003e أي : يوم القيامة ، فإن الله سيؤدي كل حق إلى صاحبه ، حتى يقتص للشاة الجماء من الشاة القرناء .\u003c/p\u003e\u003cp\u003eوفي الحديث : \u003cspan class=\"red\"\u003e\" يقول الله تعالى : وعزتي وجلالي ، لا يجاوزني اليوم ظلم ظالم \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوفي الصحيح : \u003cspan class=\"red\"\u003e\" إياكم والظلم; فإن الظلم ظلمات يوم القيامة \"\u003c/span\u003e .\u003cspan class=\"blue\"\u003e والخيبة كل الخيبة من لقي الله وهو مشرك به ; فإن الله تعالى يقول :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الشرك لظلم عظيم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ لقمان : 13 ]\u003c/span\u003e\u003c/p\u003e"
+}

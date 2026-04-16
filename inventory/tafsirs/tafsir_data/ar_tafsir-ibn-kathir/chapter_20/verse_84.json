@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "20:84":  {
+                                 "id":  2432
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eأي : قادمون ينزلون قريبا من الطور ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وعجلت إليك رب لترضى )\u003c/span\u003e أي : لتزداد عني رضا\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:89":  {
+                                 "id":  2339
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( لقد جئتم )\u003c/span\u003e أي : في قولكم هذا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( شيئا إدا )\u003c/span\u003e قال ابن عباس ، ومجاهد ، وقتادة ،\u003cspan class=\"blue\"\u003e ومالك :\u003c/span\u003e أي : عظيما .\u003c/p\u003e\u003cp\u003eويقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( إدا )\u003c/span\u003e بكسر الهمزة وفتحها ، ومع مدها أيضا ، ثلاث لغات ، أشهرها الأولى .\u003c/p\u003e"
+}

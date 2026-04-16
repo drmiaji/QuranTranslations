@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:92":  {
+                                 "id":  2342
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما ينبغي للرحمن أن يتخذ ولدا )\u003c/span\u003e أي : لا يصلح له ، ولا يليق به لجلاله وعظمته; لأنه لا كفء له من خلقه ; لأن جميع الخلائق عبيد له;\u003c/p\u003e"
+}

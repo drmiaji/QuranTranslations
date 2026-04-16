@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:15":  {
+                                 "id":  1379
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن تعنت الكفار من مشركي قريش الجاحدين الحق المعرضين عنه ،\u003cspan class=\"blue\"\u003e أنهم إذا قرأ عليهم الرسول صلى الله عليه وسلم كتاب الله وحججه الواضحة قالوا له :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ائت بقرآن غير هذا )\u003c/span\u003e أي : رد هذا وجئنا بغيره من نمط آخر ، أو بدله إلى وضع آخر ، قال الله لنبيه ، صلوات الله وسلامه عليه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قل ما يكون لي أن أبدله من تلقاء نفسي )\u003c/span\u003e أي : ليس هذا إلي ، إنما أنا عبد مأمور ، ورسول مبلغ عن الله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن أتبع إلا ما يوحى إلي إني أخاف إن عصيت ربي عذاب يوم عظيم )\u003c/span\u003e\u003c/p\u003e"
+}

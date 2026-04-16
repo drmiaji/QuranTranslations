@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:32":  {
+                                 "id":  1505
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن استعجال قوم نوح نقمة الله وعذابه وسخطه ،\u003cspan class=\"blue\"\u003e والبلاء موكل بالمنطق :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا يا نوح قد جادلتنا فأكثرت جدالنا )\u003c/span\u003e أي : حاججتنا فأكثرت من ذلك ، ونحن لا نتبعك \u003cspan class=\"arabic qpc-hafs\"\u003e( فأتنا بما تعدنا )\u003c/span\u003e أي : من النقمة والعذاب ، ادع علينا بما شئت ، فليأتنا ما تدعو به ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن كنت من الصادقين)\u003c/span\u003e\u003c/p\u003e"
+}

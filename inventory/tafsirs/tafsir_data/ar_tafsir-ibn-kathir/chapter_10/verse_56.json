@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:56":  {
+                                 "id":  1420
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوأنه يحيي ويميت وإليه مرجعهم; وأنه القادر على ذلك العليم بما تفرق من الأجسام وتمزق في سائر أقطار الأرض والبحار والقفار.\u003c/p\u003e"
+}

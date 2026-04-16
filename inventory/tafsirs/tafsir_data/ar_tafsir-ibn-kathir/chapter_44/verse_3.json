@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:3":  {
+                                "id":  4417
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eإنه أنزله في ليلة مباركة ، وهي ليلة القدر ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا أنزلناه في ليلة القدر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القدر : 1 ]\u003c/span\u003e وكان ذلك في شهر رمضان ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( شهر رمضان الذي أنزل فيه القرآن )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البقرة : 185 ]\u003c/span\u003e وقد ذكرنا الأحاديث الواردة في ذلك في \u003cspan class=\"red\"\u003e\" سورة البقرة \"\u003c/span\u003e بما أغنى عن إعادته .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eومن قال : إنها ليلة النصف من شعبان - كما روي عن عكرمة - فقد أبعد النجعة فإن نص القرآن أنها في رمضان . والحديث الذي رواه عبد الله بن صالح ، عن الليث ،\u003cspan class=\"blue\"\u003e عن عقيل عن الزهري :\u003c/span\u003e أخبرني عثمان بن محمد بن المغيرة بن الأخنس أن رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" تقطع الآجال من شعبان إلى شعبان ، حتى إن الرجل لينكح ويولد له ، وقد أخرج اسمه في الموتى \"\u003c/span\u003e فهو حديث مرسل ، ومثله لا يعارض به النصوص .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا كنا منذرين )\u003c/span\u003e أي : معلمين الناس ما ينفعهم ويضرهم شرعا ، لتقوم حجة الله على عباده .\u003c/p\u003e"
+}

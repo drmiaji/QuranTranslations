@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "42:8":  {
+                                "id":  4280
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو شاء الله لجعلهم أمة واحدة )\u003c/span\u003e أي : إما على الهداية أو على الضلالة ، ولكنه تعالى فاوت بينهم ، فهدى من يشاء إلى الحق ، وأضل من يشاء عنه ،\u003cspan class=\"blue\"\u003e وله الحكمة والحجة البالغة ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكن يدخل من يشاء في رحمته والظالمون ما لهم من ولي ولا نصير )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال : ابن جرير : حدثني يونس ، أخبرنا ابن وهب ، أخبرني عمرو بن الحارث ، عن أبي سويد ،\u003cspan class=\"blue\"\u003e حدثه عن ابن حجيرة :\u003c/span\u003e أنه بلغه أن موسى ، عليه السلام ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e : يا رب خلقك الذين خلقتهم ، جعلت منهم فريقا في الجنة وفريقا في النار ، لو ما أدخلتهم كلهم الجنة ؟\u003cspan class=\"blue\"\u003e ! فقال :\u003c/span\u003e يا موسى ، ارفع ذرعك . فرفع ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قد رفعت .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ارفع . فرفع ، فلم يترك شيئا ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e يا رب قد رفعت ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ارفع .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قد رفعت ، إلا ما لا خير فيه .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e كذلك أدخل خلقي كلهم الجنة ، إلا ما لا خير فيه .\u003c/p\u003e"
+}

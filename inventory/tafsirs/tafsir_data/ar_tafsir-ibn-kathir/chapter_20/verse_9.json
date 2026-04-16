@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "20:9":  {
+                                "id":  2357
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eمن ههنا شرع تبارك وتعالى في ذكر قصة موسى وكيف كان ابتداء الوحي إليه وتكليمه إياه وذلك بعد ما قضى موسى الأجل الذي كان بينه وبين صهره في رعاية الغنم.\u003c/p\u003e"
+}

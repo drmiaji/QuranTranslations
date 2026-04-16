@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:48":  {
+                                 "id":  1850
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( لا يمسهم فيها نصب )\u003c/span\u003e يعني : المشقة والأذى ،\u003cspan class=\"blue\"\u003e كما جاء في الصحيحين :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن الله أمرني أن أبشر خديجة ببيت في الجنة من قصب ، لا صخب فيه ولا نصب \"\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما هم منها بمخرجين )\u003c/span\u003e كما جاء في الحديث : \u003cspan class=\"red\"\u003e\" يقال يا أهل الجنة ، إن لكم أن تصحوا فلا تمرضوا أبدا ، وإن لكم أن تعيشوا فلا تموتوا أبدا ، وإن لكم أن تشبوا فلا تهرموا أبدا ، وإن لكم أن تقيموا فلا تظعنوا أبدا \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( خالدين فيها لا يبغون عنها حولا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الكهف : 108 ]\u003c/span\u003e\u003c/p\u003e"
+}

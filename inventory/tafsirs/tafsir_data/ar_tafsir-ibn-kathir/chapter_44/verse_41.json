@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:41":  {
+                                 "id":  4455
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( يوم لا يغني مولى عن مولى شيئا )\u003c/span\u003e أي : لا ينفع قريب قريبا ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فإذا نفخ في الصور فلا أنساب بينهم يومئذ ولا يتساءلون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المؤمنون : 101 ]\u003c/span\u003e ، وكقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا يسأل حميم حميما . يبصرونهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المعارج : 10 ، 11 ]\u003c/span\u003e أي : لا يسأل أخا له عن حاله وهو يراه عيانا .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا هم ينصرون )\u003c/span\u003e أي : لا ينصر القريب قريبه ، ولا يأتيه نصره من خارج .\u003c/p\u003e"
+}

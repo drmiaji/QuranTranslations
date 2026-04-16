@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:9":  {
+                                "id":  2259
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eورواه الإمام أحمد عن سريج بن النعمان ، وأبو داود ، عن زياد بن أيوب ، كلاهما عن هشيم ، به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال )\u003c/span\u003e أي الملك مجيبا لزكريا عما استعجب منه : \u003cspan class=\"arabic qpc-hafs\"\u003e( كذلك قال ربك هو علي هين )\u003c/span\u003e أي : إيجاد الولد منك ومن زوجتك هذه لا من غيرها ) هين ) أي : يسير سهل على الله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم ذكر له ما هو أعجب مما سأل عنه ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقد خلقتك من قبل ولم تك شيئا )\u003c/span\u003e كما قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( هل أتى على الإنسان حين من الدهر لم يكن شيئا مذكورا )\u003c/span\u003e الإنسان : 1\u003c/p\u003e"
+}

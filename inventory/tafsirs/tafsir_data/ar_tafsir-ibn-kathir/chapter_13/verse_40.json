@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "13:40":  {
+                                 "id":  1747
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى لرسوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن ما نرينك )\u003c/span\u003e يا محمد \u003cspan class=\"arabic qpc-hafs\"\u003e( بعض الذي نعدهم )\u003c/span\u003e أي : نعد أعداءك من الخزي والنكال في الدنيا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أو نتوفينك )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ أي ]\u003c/span\u003e قبل ذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فإنما عليك البلاغ )\u003c/span\u003e أي : إنما أرسلناك لتبلغهم رسالة الله وقد بلغت ما أمرت به ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وعلينا الحساب )\u003c/span\u003e أي : حسابهم وجزاؤهم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فذكر إنما أنت مذكر لست عليهم بمصيطر إلا من تولى وكفر فيعذبه الله العذاب الأكبر إن إلينا إيابهم ثم إن علينا حسابهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الغاشية : 21 - 26 ]\u003c/span\u003e .\u003c/p\u003e"
+}

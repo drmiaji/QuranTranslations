@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "65:11":  {
+                                 "id":  5228
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( رسولا يتلو عليكم آيات الله مبينات )\u003c/span\u003e قال بعضهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( رسولا )\u003c/span\u003e منصوب على أنه بدل اشتمال وملابسة ; لأن الرسول هو الذي بلغ الذكر .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن جرير : الصواب أن الرسول ترجمة عن الذكر ،\u003cspan class=\"blue\"\u003e يعني تفسيرا له ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( رسولا يتلو عليكم آيات الله مبينات )\u003c/span\u003e أي في حال كونها بينة واضحة جلية \u003cspan class=\"arabic qpc-hafs\"\u003e( ليخرج الذين آمنوا وعملوا الصالحات من الظلمات إلى النور )\u003c/span\u003e كقوله تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( كتاب أنزلناه إليك لتخرج الناس من الظلمات إلى النور )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ إبراهيم : 1 ]\u003c/span\u003e وقال تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( الله ولي الذين آمنوا يخرجهم من الظلمات إلى النور )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البقرة : 257 ]\u003c/span\u003e أي من ظلمات الكفر والجهل إلى نور الإيمان والعلم وقد سمى الله تعالى الوحي الذي أنزله نورا لما يحصل به من الهدى كما سماه روحا لما يحصل به من حياة القلوب فقال : تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( وكذلك أوحينا إليك روحا من أمرنا ما كنت تدري ما الكتاب ولا الإيمان ولكن جعلناه نورا نهدي به من نشاء من عبادنا وإنك لتهدي إلى صراط مستقيم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الشورى : 52 ]\u003c/span\u003e وقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يؤمن بالله ويعمل صالحا يدخله جنات تجري من تحتها الأنهار خالدين فيها أبدا قد أحسن الله له رزقا )\u003c/span\u003e قد تقدم تفسير مثل هذا غير مرة بما أغنى عن إعادته .\u003c/p\u003e"
+}

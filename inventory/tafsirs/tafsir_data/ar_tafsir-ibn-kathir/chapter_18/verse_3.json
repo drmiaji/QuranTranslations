@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:3":  {
+                                "id":  2143
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ماكثين فيه )\u003c/span\u003e في ثوابهم عند الله ، وهو الجنة ، خالدين فيه ) أبدا ) دائما لا زوال له ولا انقضاء .\u003c/p\u003e"
+}

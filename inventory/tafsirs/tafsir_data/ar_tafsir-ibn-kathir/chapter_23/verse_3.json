@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:3":  {
+                                "id":  2676
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين هم عن اللغو معرضون )\u003c/span\u003e أي : عن الباطل ،\u003cspan class=\"blue\"\u003e وهو يشمل :\u003c/span\u003e الشرك كما قاله بعضهم والمعاصي كما قاله آخرون وما لا فائدة فيه من الأقوال والأفعال ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا مروا باللغو مروا كراما )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الفرقان : 72 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eقال قتادة : أتاهم والله من أمر الله ما وقذهم عن ذلك .\u003c/p\u003e"
+}

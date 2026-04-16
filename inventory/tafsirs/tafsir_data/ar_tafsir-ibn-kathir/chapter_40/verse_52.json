@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:52":  {
+                                 "id":  4185
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يوم لا ينفع الظالمين معذرتهم )\u003c/span\u003e بدل من قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويوم يقوم الأشهاد )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقرأ آخرون : \u003cspan class=\"red\"\u003e\" يوم \"\u003c/span\u003e بالرفع ، كأنه فسره به . \u003cspan class=\"arabic qpc-hafs\"\u003e( ويوم يقوم الأشهاد يوم لا ينفع الظالمين )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وهم المشركون ) معذرتهم ) أي :\u003c/span\u003e لا يقبل منهم عذر ولا فدية ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولهم اللعنة )\u003c/span\u003e أي : الإبعاد والطرد من الرحمة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولهم سوء الدار )\u003c/span\u003e وهي النار . قاله السدي ، بئس المنزل والمقيل .\u003c/p\u003e\u003cp\u003eوقال علي بن أبي طلحة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولهم سوء الدار )\u003c/span\u003e أي : سوء العاقبة .\u003c/p\u003e"
+}

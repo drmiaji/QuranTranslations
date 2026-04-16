@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:39":  {
+                                 "id":  4097
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل يا قوم اعملوا على مكانتكم )\u003c/span\u003e أي : على طريقتكم ، وهذا تهديد ووعيد . . \u003cspan class=\"arabic qpc-hafs\"\u003e( إني عامل )\u003c/span\u003e أي : على طريقتي ومنهجي ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فسوف تعلمون )\u003c/span\u003e أي : ستعلمون غب ذلك ووباله\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "75:16":  {
+                                 "id":  5567
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eهذا تعليم من الله عز وجل لرسوله صلى الله عليه وسلم في كيفية تلقيه الوحي من الملك ، فإنه كان يبادر إلى أخذه ، ويسابق الملك في قراءته ، فأمره الله عز وجل إذا جاءه الملك بالوحي أن يستمع له ، وتكفل له أن يجمعه في صدره ، وأن ييسره لأدائه على الوجه الذي ألقاه إليه ، وأن يبينه له ويفسره ويوضحه ، فالحالة الأولى جمعه في صدره ، والثانية تلاوته ،\u003cspan class=\"blue\"\u003e والثالثة تفسيره وإيضاح معناه ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لا تحرك به لسانك لتعجل به )\u003c/span\u003e أي : بالقرآن ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تعجل بالقرآن من قبل أن يقضى إليك وحيه وقل رب زدني علما )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ طه : 114 ]\u003c/span\u003e .\u003c/p\u003e"
+}

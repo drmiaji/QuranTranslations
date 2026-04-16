@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:94":  {
+                                 "id":  5073
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأما إن كان من المكذبين الضالين فنزل من حميم وتصلية جحيم )\u003c/span\u003e أي : وأما إن كان المحتضر من المكذبين بالحق ، الضالين عن الهدى ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فنزل )\u003c/span\u003e أي : فضيافة ) من حميم ) وهو المذاب الذي يصهر به ما في بطونهم والجلود ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وتصلية جحيم )\u003c/span\u003e أي : وتقرير له في النار التي تغمره من جميع جهاته .\u003c/p\u003e"
+}

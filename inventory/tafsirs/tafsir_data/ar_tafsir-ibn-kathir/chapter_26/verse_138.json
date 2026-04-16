@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:138":  {
+                                  "id":  3070
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eولهذا قالوا : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما نحن بمعذبين )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال علي بن أبي طلحة عن ابن عباس : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن هذا إلا خلق الأولين )\u003c/span\u003e يقول : دين الأولين . وقاله عكرمة ، وعطاء الخراساني ، وقتادة ، وعبد الرحمن بن زيد بن أسلم ، واختاره ابن جرير .\u003c/p\u003e"
+}

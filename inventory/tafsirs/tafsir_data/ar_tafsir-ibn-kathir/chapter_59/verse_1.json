@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "59:1":  {
+                                "id":  5127
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eتفسير سورة الحشر\u003c/p\u003e\u003cp\u003eوكان ابن عباس يقول : سورة بني النضير . وهي مدنية .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال سعيد بن منصور : حدثنا هشيم عن أبي بشر ،\u003cspan class=\"blue\"\u003e عن سعيد بن جبير قال :\u003c/span\u003e قلت لابن عباس : سورة الحشر ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e أنزلت في بني النضير . ورواه البخاري ومسلم من وجه آخر ، عن هشيم به . ورواه البخاري من حديث أبي عوانة عن أبي بشر ،\u003cspan class=\"blue\"\u003e عن سعيد بن جبير قال :\u003c/span\u003e قلت لابن عباس : سورة الحشر ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قل : سورة النضير .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى أن جميع ما في السماوات وما في الأرض من شيء يسبح له ويمجده ويقدسه ،\u003cspan class=\"blue\"\u003e ويصلي له ويوحده كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( تسبح له السماوات السبع والأرض ومن فيهن وإن من شيء إلا يسبح بحمده ولكن لا تفقهون تسبيحهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 44 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو العزيز )\u003c/span\u003e أي : منيع الجناب ) الحكيم ) في قدره وشرعه .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:6":  {
+                                "id":  2601
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلك بأن الله هو الحق )\u003c/span\u003e أي : الخالق المدبر الفعال لما يشاء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأنه يحيي الموتى )\u003c/span\u003e [ أي : كما أحيا الأرض الميتة وأنبت منها هذه الأنواع; \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذي أحياها لمحيي الموتى )\u003c/span\u003e ] ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه على كل شيء قدير )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ فصلت : 39 ]\u003c/span\u003e ف \u003cspan class=\"arabic qpc-hafs\"\u003e( إنما أمره إذا أراد شيئا أن يقول له كن فيكون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يس : 82 ]\u003c/span\u003e .\u003c/p\u003e"
+}

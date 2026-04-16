@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:67":  {
+                                "id":  1302
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقول تعالى منكرا على المنافقين الذين هم على خلاف صفات المؤمنين ، ولما كان المؤمنون يأمرون بالمعروف وينهون عن المنكر ، كان هؤلاء \u003cspan class=\"arabic qpc-hafs\"\u003e( يأمرون بالمنكر وينهون عن المعروف ويقبضون أيديهم )\u003c/span\u003e أي : عن الإنفاق في سبيل الله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( نسوا الله )\u003c/span\u003e أي : نسوا ذكر الله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فنسيهم )\u003c/span\u003e أي : عاملهم معاملة من نسيهم ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقيل اليوم ننساكم كما نسيتم لقاء يومكم هذا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الجاثية : 34 ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن المنافقين هم الفاسقون )\u003c/span\u003e أي : الخارجون عن طريق الحق ، الداخلون في طريق الضلالة .\u003c/p\u003e"
+}

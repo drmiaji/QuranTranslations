@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:26":  {
+                                 "id":  4084
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فأذاقهم الله الخزي في الحياة الدنيا )\u003c/span\u003e أي : بما أنزل بهم من العذاب والنكال وتشفي المؤمنين بهم ، فليحذر المخاطبون من ذلك ، فإنهم قد كذبوا أشرف الرسل ، وخاتم الأنبياء ،\u003cspan class=\"blue\"\u003e والذي أعده الله لهم في الآخرة من العذاب الشديد أعظم مما أصابهم في الدنيا ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولعذاب الآخرة أكبر لو كانوا يعلمون )\u003c/span\u003e .\u003c/p\u003e"
+}

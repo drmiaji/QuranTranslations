@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:100":  {
+                                  "id":  1573
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eلما ذكر تعالى خبر هؤلاء الأنبياء ، وما جرى لهم مع أممهم ،\u003cspan class=\"blue\"\u003e وكيف أهلك الكافرين ونجى المؤمنين قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلك من أنباء القرى )\u003c/span\u003e أي : من أخبارها \u003cspan class=\"arabic qpc-hafs\"\u003e( نقصه عليك منها قائم )\u003c/span\u003e أي : عامر ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وحصيد )\u003c/span\u003e أي : هالك دائر\u003c/p\u003e"
+}

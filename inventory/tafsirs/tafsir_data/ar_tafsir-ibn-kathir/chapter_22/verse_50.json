@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:50":  {
+                                 "id":  2645
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فالذين آمنوا وعملوا الصالحات )\u003c/span\u003e أي : آمنت قلوبهم وصدقوا إيمانهم بأعمالهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لهم مغفرة ورزق كريم )\u003c/span\u003e أي : مغفرة لما سلف من سيئاتهم ، ومجازاة حسنة على القليل من حسناتهم .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"reference brown\"\u003e[ و ]\u003c/span\u003e قال محمد بن كعب القرظي : إذا سمعت الله تعالى يقول : \u003cspan class=\"arabic qpc-hafs\"\u003e( ورزق كريم )\u003c/span\u003e فهو الجنة .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "25:11":  {
+                                 "id":  2866
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( بل كذبوا بالساعة )\u003c/span\u003e أي : إنما يقول هؤلاء هكذا تكذيبا وعنادا ، لا أنهم يطلبون ذلك تبصرا واسترشادا ، بل تكذيبهم بيوم القيامة يحملهم على قول ما يقولونه من هذه الأقوال ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأعتدنا )\u003c/span\u003e أي : وأرصدنا \u003cspan class=\"arabic qpc-hafs\"\u003e( لمن كذب بالساعة سعيرا )\u003c/span\u003e أي : عذابا أليما حارا لا يطاق في نار جهنم .\u003c/p\u003e\u003cp\u003eوقال الثوري ، عن سلمة بن كهيل ،\u003cspan class=\"blue\"\u003e عن سعيد بن جبير :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" السعير \"\u003c/span\u003e : واد من قيح جهنم .\u003c/p\u003e"
+}

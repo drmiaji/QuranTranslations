@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "14:12":  {
+                                 "id":  1762
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قالت الرسل : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما لنا ألا نتوكل على الله )\u003c/span\u003e أي : وما يمنعنا من التوكل عليه ، وقد هدانا لأقوم الطرق وأوضحها وأبينها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولنصبرن على ما آذيتمونا )\u003c/span\u003e أي : من الكلام السيئ ، والأفعال السخيفة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وعلى الله فليتوكل المتوكلون )\u003c/span\u003e\u003c/p\u003e"
+}

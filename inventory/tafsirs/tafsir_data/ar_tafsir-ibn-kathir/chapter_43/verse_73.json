@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:73":  {
+                                 "id":  4398
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( لكم فيها فاكهة كثيرة منها تأكلون )\u003c/span\u003e أي : من جميع الأنواع ، \u003cspan class=\"arabic qpc-hafs\"\u003e( منها تأكلون )\u003c/span\u003e أي : مهما اخترتم وأردتم . ولما ذكر \u003cspan class=\"reference brown\"\u003e[ الله تعالى ]\u003c/span\u003e الطعام والشراب ، ذكر بعده الفاكهة لتتم \u003cspan class=\"reference brown\"\u003e[ هذه ]\u003c/span\u003e النعمة والغبطة .\u003c/p\u003e"
+}

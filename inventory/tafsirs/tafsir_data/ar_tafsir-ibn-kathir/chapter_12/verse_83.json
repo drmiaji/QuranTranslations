@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:83":  {
+                                 "id":  1679
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال لهم كما قال لهم حين جاءوا على قميص يوسف بدم كذب : \u003cspan class=\"arabic qpc-hafs\"\u003e( بل سولت لكم أنفسكم أمرا فصبر جميل )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال محمد بن إسحاق : لما جاءوا يعقوب وأخبروه بما يجري اتهمهم ، وظن أنها كفعلتهم بيوسف \u003cspan class=\"arabic qpc-hafs\"\u003e( قال بل سولت لكم أنفسكم أمرا فصبر جميل )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال بعض الناس : لما كان صنيعهم هذا مرتبا على فعلهم الأول ، سحب حكم الأول عليه ،\u003cspan class=\"blue\"\u003e وصح قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( بل سولت لكم أنفسكم أمرا فصبر جميل )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم ترجى من الله أن يرد عليه أولاده الثلاثة : يوسف وأخاه بنيامين ، وروبيل الذي أقام بديار مصر ينتظر أمر الله فيه ، إما أن يرضى عنه أبوه فيأمره بالرجوع إليه ،\u003cspan class=\"blue\"\u003e وإما أن يأخذ أخاه خفية; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( عسى الله أن يأتيني بهم جميعا إنه هو العليم )\u003c/span\u003e أي : العليم بحالي ، \u003cspan class=\"arabic qpc-hafs\"\u003e( الحكيم )\u003c/span\u003e في أفعاله وقضائه وقدره .\u003c/p\u003e"
+}

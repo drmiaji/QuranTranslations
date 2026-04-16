@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "111:4":  {
+                                 "id":  6220
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وامرأته حمالة الحطب )\u003c/span\u003e وكانت زوجته من سادات نساء قريش ،\u003cspan class=\"blue\"\u003e وهي :\u003c/span\u003e أم جميل ، واسمها أروى بنت حرب بن أمية ، وهي أخت أبي سفيان . وكانت عونا لزوجها على كفره وجحوده وعناده ; فلهذا تكون يوم القيامة عونا عليه في عذابه في نار جهنم .\u003cspan class=\"blue\"\u003e ولهذا قال :\u003c/span\u003e ( حمالة الحطب\u003c/p\u003e"
+}

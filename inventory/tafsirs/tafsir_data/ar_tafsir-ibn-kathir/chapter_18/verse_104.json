@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:104":  {
+                                  "id":  2244
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم فسرهم فقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين ضل سعيهم في الحياة الدنيا )\u003c/span\u003e أي : عملوا أعمالا باطلة على غير شريعة مشروعة مرضية مقبولة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهم يحسبون أنهم يحسنون صنعا )\u003c/span\u003e أي \" يعتقدون أنهم على شيء ، وأنهم مقبولون محبوبون .\u003c/p\u003e"
+}

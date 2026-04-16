@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:46":  {
+                                "id":  1281
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو أرادوا الخروج )\u003c/span\u003e أي : معك إلى الغزو \u003cspan class=\"arabic qpc-hafs\"\u003e( لأعدوا له عدة )\u003c/span\u003e أي : لكانوا تأهبوا له ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكن كره الله انبعاثهم )\u003c/span\u003e أي : أبغض أن يخرجوا معك قدرا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فثبطهم )\u003c/span\u003e أي : أخرهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وقيل اقعدوا مع القاعدين )\u003c/span\u003e أي : قدرا .\u003c/p\u003e"
+}

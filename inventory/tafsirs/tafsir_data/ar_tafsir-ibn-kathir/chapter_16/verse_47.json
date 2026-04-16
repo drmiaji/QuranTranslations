@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:47":  {
+                                 "id":  1948
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أو يأخذهم على تخوف )\u003c/span\u003e أي : أو يأخذهم الله في حال خوفهم من أخذه لهم ، فإنه يكون أبلغ وأشد حالة الأخذ ; فإن حصول ما يتوقع مع الخوف شديد ; ولهذا قال العوفي ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أو يأخذهم على تخوف )\u003c/span\u003e يقول : إن شئت أخذته على أثر موت صاحبه وتخوفه بذلك . وكذا روي عن مجاهد ، والضحاك ، وقتادة وغيرهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( فإن ربكم لرءوف رحيم )\u003c/span\u003e أي : حيث لم يعاجلكم بالعقوبة ، كما ثبت في الصحيحين \u003cspan class=\"red\"\u003e\" [ لا أحد أصبر على أذى سمعه من الله ، إنهم يجعلون له ولدا وهو يرزقهم ويعافيهم \"\u003c/span\u003e . وفي الصحيحين ] إن الله ليملي للظالم حتى إذا أخذه لم يفلته \" ثم قرأ رسول الله - صلى الله عليه وسلم - \u003cspan class=\"arabic qpc-hafs\"\u003e( وكذلك أخذ ربك إذا أخذ القرى وهي ظالمة إن أخذه أليم شديد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 102 ]\u003c/span\u003e وقال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وكأين من قرية أمليت لها وهي ظالمة ثم أخذتها وإلي المصير )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحج : 48 ]\u003c/span\u003e .\u003c/p\u003e"
+}

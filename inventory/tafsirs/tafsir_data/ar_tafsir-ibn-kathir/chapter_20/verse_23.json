@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "20:23":  {
+                                 "id":  2371
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الحسن البصري : أخرجها - والله - كأنها مصباح ،\u003cspan class=\"blue\"\u003e فعلم موسى أنه قد لقي ربه عز وجل; ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لنريك من آياتنا الكبرى )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال وهب : قال له ربه : ادنه : فلم يزل يدنيه حتى شد ظهره بجذع الشجرة ، فاستقر وذهبت عنه الرعدة ، وجمع يده في العصا ، وخضع برأسه وعنقه .\u003c/p\u003e"
+}

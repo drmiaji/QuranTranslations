@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:48":  {
+                                 "id":  1644
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( يأكلن ما قدمتم لهن إلا قليلا مما تحصنون )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم بشرهم بعد الجدب في العام المتوالي بأنه يعقبهم بعد ذلك \u003cspan class=\"arabic qpc-hafs\"\u003e( عام فيه يغاث الناس )\u003c/span\u003e أي : يأتيهم الغيث ، وهو المطر ، وتغل البلاد ، ويعصر الناس ما كانوا يعصرون على عادتهم ، من زيت ونحوه ،\u003cspan class=\"blue\"\u003e وسكر ونحوه حتى قال بعضهم :\u003c/span\u003e يدخل فيه حلب اللبن أيضا .\u003c/p\u003e\u003cp\u003eقال علي بن أبي طلحة ، عن ابن عباس \u003cspan class=\"arabic qpc-hafs\"\u003e( وفيه يعصرون )\u003c/span\u003e يحلبون .\u003c/p\u003e"
+}

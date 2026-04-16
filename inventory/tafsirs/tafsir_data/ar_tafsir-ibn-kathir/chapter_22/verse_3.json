@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:3":  {
+                                "id":  2598
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى ذاما لمن كذب بالبعث ، وأنكر قدرة الله على إحياء الموتى ، معرضا عما أنزل الله على أنبيائه ، متبعا في قوله وإنكاره وكفره كل شيطان مريد ، من الإنس والجن ، وهذا حال أهل الضلال والبدع ، المعرضين عن الحق ، المتبعين للباطل ، يتركون ما أنزله الله على رسوله من الحق المبين ، ويتبعون أقوال رءوس الضلالة ، الدعاة إلى البدع بالأهواء والآراء ،\u003cspan class=\"blue\"\u003e ولهذا قال في شأنهم وأشباههم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن الناس من يجادل في الله بغير علم )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e علم صحيح ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ويتبع كل شيطان مريد)\u003c/span\u003e\u003c/p\u003e"
+}

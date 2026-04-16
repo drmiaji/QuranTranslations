@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:76":  {
+                                 "id":  2559
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن استجابته لعبده ورسوله نوح ، عليه السلام ،\u003cspan class=\"blue\"\u003e حين دعا على قومه لما كذبوه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فدعا ربه أني مغلوب فانتصر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القمر : 10 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وقال نوح رب لا تذر على الأرض من الكافرين ديارا . إنك إن تذرهم يضلوا عبادك ولا يلدوا إلا فاجرا كفارا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ نوح : 26 ، 27 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e ولهذا قال هاهنا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إذ نادى من قبل فاستجبنا له فنجيناه وأهله )\u003c/span\u003e أي : الذين آمنوا به كما قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأهلك إلا من سبق عليه القول ومن آمن وما آمن معه إلا قليل )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 40 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( من الكرب العظيم )\u003c/span\u003e أي : من الشدة والتكذيب والأذى ، فإنه لبث فيهم ألف سنة إلا خمسين عاما يدعوهم إلى الله عز وجل ، فلم يؤمن به منهم إلا القليل ، وكانوا يقصدون لأذاه ويتواصون قرنا بعد قرن ، وجيلا بعد جيل على خلافه .\u003c/p\u003e"
+}

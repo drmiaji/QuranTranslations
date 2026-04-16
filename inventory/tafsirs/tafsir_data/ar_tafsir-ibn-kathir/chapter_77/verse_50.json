@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "77:50":  {
+                                 "id":  5672
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( فبأي حديث بعده يؤمنون )\u003c/span\u003e ؟\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e إذا لم يؤمنوا بهذا القرآن ، فبأي كلام يؤمنون به ؟\u003cspan class=\"blue\"\u003e! كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فبأي حديث بعد الله وآياته يؤمنون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الجاثية : 6 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن أبي حاتم : حدثنا ابن أبي عمر ، حدثنا سفيان ،\u003cspan class=\"blue\"\u003e عن إسماعيل بن أمية :\u003c/span\u003e سمعت رجلا أعرابيا بدويا يقول : سمعت أبا هريرة يرويه إذا قرأ : \u003cspan class=\"arabic qpc-hafs\"\u003e( والمرسلات عرفا )\u003c/span\u003e فقرأ : \u003cspan class=\"arabic qpc-hafs\"\u003e( فبأي حديث بعده يؤمنون )\u003c/span\u003e ؟\u003cspan class=\"blue\"\u003e فليقل :\u003c/span\u003e آمنت بالله وبما أنزل .\u003c/p\u003e\u003cp\u003eوقد تقدم هذا الحديث في سورة \u003cspan class=\"red\"\u003e\" القيامة \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eآخر تفسير سورة \u003cspan class=\"red\"\u003e\" والمرسلات \"\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ ولله الحمد والمنة ]\u003c/span\u003e\u003c/p\u003e"
+}

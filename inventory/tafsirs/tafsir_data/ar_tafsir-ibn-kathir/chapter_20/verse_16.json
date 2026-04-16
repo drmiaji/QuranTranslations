@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "20:16":  {
+                                 "id":  2364
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فلا يصدنك عنها من لا يؤمن بها واتبع هواه فتردى )\u003c/span\u003e المراد بهذا الخطاب آحاد المكلفين ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e لا تتبعوا سبيل من كذب بالساعة ، وأقبل على ملاذه في دنياه ، وعصى مولاه ، واتبع هواه ،\u003cspan class=\"blue\"\u003e فمن وافقهم على ذلك فقد خاب وخسر ) فتردى ) أي :\u003c/span\u003e تهلك وتعطب قال الله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما يغني عنه ماله إذا تردى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الليل : 11 ]\u003c/span\u003e .\u003c/p\u003e"
+}

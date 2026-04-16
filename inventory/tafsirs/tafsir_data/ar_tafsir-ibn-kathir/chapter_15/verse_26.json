@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:26":  {
+                                 "id":  1828
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eقال ابن عباس ، ومجاهد ،\u003cspan class=\"blue\"\u003e وقتادة :\u003c/span\u003e المراد بالصلصال هاهنا : التراب اليابس .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوالظاهر أنه كقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( خلق الإنسان من صلصال كالفخار وخلق الجان من مارج من نار )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الرحمن : 14 - 15 ]\u003c/span\u003e\u003c/p\u003e\u003cp\u003eوعن مجاهد أيضا : الصلصال : المنتن .\u003c/p\u003e\u003cp\u003eوتفسيرها بالآية أولى\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( من حمإ مسنون )\u003c/span\u003e أي : الصلصال من حمأ ،\u003cspan class=\"blue\"\u003e وهو :\u003c/span\u003e الطين .\u003cspan class=\"blue\"\u003e والمسنون :\u003c/span\u003e الأملس ، كما قال الشاعر\u003c/p\u003e\u003cp\u003eثم خاصرتها إلى القبة الخضراء تمشي في مرمر مسنون\u003c/p\u003e\u003cp\u003eأي : أملس صقيل .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا روي عن ابن عباس : أنه قال : هو التراب الرطب . وعن ابن عباس ، ومجاهد ،\u003cspan class=\"blue\"\u003e والضحاك أيضا :\u003c/span\u003e أن الحمأ المسنون هو المنتن .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e المراد بالمسنون هاهنا : المصبوب .\u003c/p\u003e"
+}

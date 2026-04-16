@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:25":  {
+                                 "id":  1498
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن نوح - عليه السلام -\u003cspan class=\"blue\"\u003e وكان أول رسول بعثه الله إلى أهل الأرض من المشركين عبدة الأصنام أنه قال لقومه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إني لكم نذير مبين )\u003c/span\u003e أي : ظاهر النذارة لكم من عذاب الله إن أنتم عبدتم غير الله\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "48:28":  {
+                                 "id":  4611
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى ، مبشرا للمؤمنين بنصرة الرسول صلوات الله \u003cspan class=\"reference brown\"\u003e[ وسلامه ]\u003c/span\u003e عليه على عدوه وعلى سائر أهل الأرض : \u003cspan class=\"arabic qpc-hafs\"\u003e( هو الذي أرسل رسوله بالهدى ودين الحق )\u003c/span\u003e أي : بالعلم النافع والعمل الصالح ; فإن الشريعة تشتمل على شيئين : علم وعمل ، فالعلم الشرعي صحيح ، والعمل الشرعي مقبول ، فإخباراتها حق وإنشاءاتها عدل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ليظهره على الدين كله )\u003c/span\u003e أي : على أهل جميع الأديان من سائر أهل الأرض ، من عرب وعجم ومليين ومشركين ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وكفى بالله شهيدا )\u003c/span\u003e أي : أنه رسوله ، وهو ناصره .\u003c/p\u003e"
+}

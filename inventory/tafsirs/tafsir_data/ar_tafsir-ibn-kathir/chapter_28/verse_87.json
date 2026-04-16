@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "28:87":  {
+                                 "id":  3339
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ولا يصدنك عن آيات الله بعد إذ أنزلت إليك )\u003c/span\u003e أي : لا تتأثر لمخالفتهم لك وصدهم الناس عن طريقك لا تلوي على ذلك ولا تباله ; فإن الله معل كلمتك ، ومؤيد دينك ،\u003cspan class=\"blue\"\u003e ومظهر ما أرسلت به على سائر الأديان ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وادع إلى ربك )\u003c/span\u003e أي : إلى عبادة ربك وحده لا شريك له ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تكونن من المشركين )\u003c/span\u003e .\u003c/p\u003e"
+}

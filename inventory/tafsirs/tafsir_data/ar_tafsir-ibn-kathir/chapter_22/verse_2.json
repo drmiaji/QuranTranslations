@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:2":  {
+                                "id":  2597
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( يوم ترونها )\u003c/span\u003e : هذا من باب ضمير الشأن; ولهذا قال مفسرا له : \u003cspan class=\"arabic qpc-hafs\"\u003e( تذهل كل مرضعة عما أرضعت )\u003c/span\u003e أي : تشتغل لهول ما ترى عن أحب الناس إليها ، والتي هي أشفق الناس عليه ،\u003cspan class=\"blue\"\u003e تدهش عنه في حال إرضاعها له; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( كل مرضعة )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e ولم يقل :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" مرضع \"\u003c/span\u003e وقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( عما أرضعت )\u003c/span\u003e أي : عن رضيعها قبل فطامه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وتضع كل ذات حمل حملها )\u003c/span\u003e أي : قبل تمامه لشدة الهول ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وترى الناس سكارى )\u003c/span\u003e وقرئ : \u003cspan class=\"red\"\u003e\" سكرى \"\u003c/span\u003e أي : من شدة الأمر الذي \u003cspan class=\"reference brown\"\u003e[ قد ]\u003c/span\u003e صاروا فيه قد دهشت عقولهم ، وغابت أذهانهم ، فمن رآهم حسب أنهم سكارى ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وما هم بسكارى ولكن عذاب الله شديد )\u003c/span\u003e .\u003c/p\u003e"
+}

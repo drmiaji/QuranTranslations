@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:84":  {
+                                 "id":  1985
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن شأن المشركين يوم معادهم في الدار الآخرة وأنه يبعث من كل أمة شهيدا وهو نبيها يشهد عليها بما أجابته فيما بلغها عن الله تعالى \u003cspan class=\"red\"\u003e\"ثم لا يؤذن للذين كفروا\"\u003c/span\u003e أي في الاعتذار لأنهم يعلمون بطلانه وكذبه كقوله \u003cspan class=\"red\"\u003e\" هذا يوم لا ينطقون ولا يؤذن لهم فيعتذرون\"\u003c/span\u003e فلهذا قال \"ولا هم يستعتبون.\u003c/p\u003e"
+}

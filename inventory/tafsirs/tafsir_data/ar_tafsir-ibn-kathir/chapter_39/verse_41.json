@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:41":  {
+                                 "id":  4099
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخاطبا رسوله محمدا - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا أنزلنا عليك الكتاب )\u003c/span\u003e يعني : القرآن \u003cspan class=\"arabic qpc-hafs\"\u003e( للناس بالحق )\u003c/span\u003e أي : لجميع الخلق من الإنس والجن لتنذرهم به ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن اهتدى فلنفسه )\u003c/span\u003e أي : فإنما يعود نفع ذلك إلى نفسه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن ضل فإنما يضل عليها )\u003c/span\u003e أي : إنما يرجع وبال ذلك على نفسه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أنت عليهم بوكيل )\u003c/span\u003e أي : بموكل أن يهتدوا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنما أنت نذير والله على كل شيء وكيل )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 12 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فإنما عليك البلاغ وعلينا الحساب )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الرعد : 40 ]\u003c/span\u003e .\u003c/p\u003e"
+}

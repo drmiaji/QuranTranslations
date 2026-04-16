@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:40":  {
+                                "id":  709
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ألم تعلم أن الله له ملك السماوات والأرض )\u003c/span\u003e أي : هو المالك لجميع ذلك ، الحاكم فيه ، الذي لا معقب لحكمه ، وهو الفعال لما يريد \u003cspan class=\"arabic qpc-hafs\"\u003e( يعذب من يشاء ويغفر لمن يشاء والله على كل شيء قدير )\u003c/span\u003e\u003c/p\u003e"
+}

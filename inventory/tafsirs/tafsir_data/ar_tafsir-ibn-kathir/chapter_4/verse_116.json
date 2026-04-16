@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:116":  {
+                                 "id":  609
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقد تقدم الكلام على هذه الآية الكريمة ،\u003cspan class=\"blue\"\u003e وهي قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله لا يغفر أن يشرك به ويغفر ما دون ذلك \u003cspan class=\"reference brown\"\u003e[ لمن يشاء ]\u003c/span\u003e )\u003c/span\u003e الآية \u003cspan class=\"reference brown\"\u003e[ النساء : 48 ]\u003c/span\u003e ، وذكرنا ما يتعلق بها من الأحاديث في صدر هذه السورة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد روى الترمذي حديث ثوير بن أبي فاختة سعيد بن علاقة ، عن أبيه ،\u003cspan class=\"blue\"\u003e عن علي رضي الله عنه أنه قال :\u003c/span\u003e ما في القرآن آية أحب إلي من هذه الآية : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء ومن يشرك )\u003c/span\u003e الآية ،\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e حسن غريب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يشرك بالله فقد ضل ضلالا بعيدا )\u003c/span\u003e أي : فقد سلك غير الطريق الحق ، وضل عن الهدى وبعد عن الصواب ، وأهلك نفسه وخسرها في الدنيا والآخرة ، وفاتته سعادة الدنيا والآخرة .\u003c/p\u003e"
+}

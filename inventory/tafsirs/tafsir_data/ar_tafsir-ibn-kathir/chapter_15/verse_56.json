@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:56":  {
+                                 "id":  1858
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفأجابهم بأنه ليس يقنط ولكن يرجو من الله الولد وإن كان قد كبر وأسنت امرأته فإنه يعلم من قدرة الله ورحمته ما هو أبلغ من ذلك.\u003c/p\u003e"
+}

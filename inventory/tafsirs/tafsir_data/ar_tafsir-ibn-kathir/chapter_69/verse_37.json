@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "69:37":  {
+                                 "id":  5360
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فليس له اليوم ها هنا حميم ولا طعام إلا من غسلين لا يأكله إلا الخاطئون )\u003c/span\u003e أي : ليس له اليوم من ينقذه من عذاب الله ، لا حميم - وهو القريب - ولا شفيع يطاع ، ولا طعام له ها هنا إلا من غسلين .\u003c/p\u003e\u003cp\u003eقال قتادة : هو شر طعام أهل النار .\u003cspan class=\"blue\"\u003e وقال الربيع والضحاك :\u003c/span\u003e هو شجرة في جهنم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا أبي ، حدثنا منصور بن مزاحم ، حدثنا أبو سعيد المؤدب ، عن خصيف ، عن مجاهد ،\u003cspan class=\"blue\"\u003e عن ابن عباس قال :\u003c/span\u003e ما أدري ما الغسلين ، ولكني أظنه الزقوم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال شبيب بن بشر ، عن عكرمة ،\u003cspan class=\"blue\"\u003e عن ابن عباس قال :\u003c/span\u003e الغسلين : الدم والماء يسيل من لحومهم .\u003cspan class=\"blue\"\u003e وقال علي بن أبي طلحة عنه :\u003c/span\u003e الغسلين : صديد أهل النار .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:7":  {
+                                "id":  1809
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( لو ما )\u003c/span\u003e أي : هلا \u003cspan class=\"arabic qpc-hafs\"\u003e( تأتينا بالملائكة )\u003c/span\u003e أي : يشهدون لك بصحة ما جئت به \u003cspan class=\"arabic qpc-hafs\"\u003e( إن كنت من الصادقين )\u003c/span\u003e كما قال فرعون : \u003cspan class=\"arabic qpc-hafs\"\u003e( فلولا ألقي عليه أسورة من ذهب أو جاء معه الملائكة مقترنين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزخرف : 53 ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقال الذين لا يرجون لقاءنا لولا أنزل علينا الملائكة أو نرى ربنا لقد استكبروا في أنفسهم وعتوا عتوا كبيرا يوم يرون الملائكة لا بشرى يومئذ للمجرمين ويقولون حجرا محجورا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الفرقان : 21 ، 22 ]\u003c/span\u003e\u003c/p\u003e"
+}

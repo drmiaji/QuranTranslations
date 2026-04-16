@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:116":  {
+                                  "id":  3048
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eلما طال مقام نبي الله بين أظهرهم يدعوهم إلى الله ليلا ونهارا ، وجهرا وإسرارا ، وكلما كرر عليهم الدعوة صمموا على الكفر الغليظ ، والامتناع الشديد ،\u003cspan class=\"blue\"\u003e وقالوا في الآخر :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لئن لم تنته )\u003c/span\u003e أي : عن دعوتك إيانا إلى دينك يا نوح \u003cspan class=\"arabic qpc-hafs\"\u003e( لتكونن من المرجومين )\u003c/span\u003e أي : لنرجمنك . فعند ذلك دعا عليهم دعوة استجاب الله منه ،\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "20:116":  {
+                                  "id":  2464
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذ قلنا للملائكة اسجدوا لآدم )\u003c/span\u003e يذكر تعالى تشريف آدم وتكريمه ، وما فضله به على كثير ممن خلق تفضيلا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد تقدم الكلام على هذه القصة في سورة \u003cspan class=\"red\"\u003e\" البقرة \"\u003c/span\u003e وفي \u003cspan class=\"red\"\u003e\" الأعراف \"\u003c/span\u003e وفي \u003cspan class=\"red\"\u003e\" الحجر \"\u003c/span\u003e و \u003cspan class=\"red\"\u003e\" الكهف \"\u003c/span\u003e وسيأتي في آخر سورة \u003cspan class=\"red\"\u003e\" ص \"\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ إن شاء الله تعالى ]\u003c/span\u003e . يذكر فيها تعالى خلق آدم وأمره الملائكة بالسجود له تشريفا وتكريما ،\u003cspan class=\"blue\"\u003e ويبين عداوة إبليس لبني آدم ولأبيهم قديما; ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فسجدوا إلا إبليس أبى )\u003c/span\u003e أي : امتنع واستكبر .\u003c/p\u003e"
+}

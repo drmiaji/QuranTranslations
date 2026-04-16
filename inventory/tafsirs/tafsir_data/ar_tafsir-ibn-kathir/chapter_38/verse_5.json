@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:5":  {
+                                "id":  3975
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"أجعل الآلهة إلها واحدا\"\u003c/span\u003eأي : أزعم أن المعبود واحد لا إله إلا هو ؟ ! أنكر المشركون ذلك - قبحهم الله تعالى - وتعجبوا من ترك الشرك بالله ، فإنهم كانوا قد تلقوا عن آبائهم عبادة الأوثان وأشربته قلوبهم فلما دعاهم الرسول - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e إلى خلع ذلك من قلوبهم وإفراد الله بالوحدانية أعظموا ذلك وتعجبوا وقالوا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أجعل الآلهة إلها واحدا إن هذا لشيء عجاب)\u003c/span\u003e.\u003c/p\u003e"
+}

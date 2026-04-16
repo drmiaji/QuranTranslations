@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:92":  {
+                                "id":  99
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد جاءكم موسى بالبينات )\u003c/span\u003e أي : بالآيات الواضحات والدلائل القاطعة على أنه رسول الله ، وأنه لا إله إلا الله .\u003cspan class=\"blue\"\u003e والبينات هي :\u003c/span\u003e الطوفان ، والجراد ، والقمل ، والضفادع ، والدم ، والعصا ، واليد ، وفلق البحر ، وتظليلهم بالغمام ، والمن والسلوى ، والحجر ، وغير ذلك من الآيات التي شاهدوها \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم اتخذتم العجل )\u003c/span\u003e أي : معبودا من دون الله في زمان موسى وآياته . وقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( من بعده )\u003c/span\u003e أي : من بعد ما ذهب عنكم إلى الطور لمناجاة الله كما قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( واتخذ قوم موسى من بعده من حليهم عجلا جسدا له خوار )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 148 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأنتم ظالمون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ أي وأنتم ظالمون ]\u003c/span\u003e في هذا الصنيع الذي صنعتموه من عبادتكم العجل ، وأنتم تعلمون أنه لا إله إلا الله ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولما سقط في أيديهم ورأوا أنهم قد ضلوا قالوا لئن لم يرحمنا ربنا ويغفر لنا لنكونن من الخاسرين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 149 ]\u003c/span\u003e .\u003c/p\u003e"
+}

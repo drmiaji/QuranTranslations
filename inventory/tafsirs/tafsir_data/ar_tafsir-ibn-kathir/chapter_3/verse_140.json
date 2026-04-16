@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:140":  {
+                                 "id":  433
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إن يمسسكم قرح فقد مس القوم قرح مثله )\u003c/span\u003e أي : إن كنتم قد أصابتكم جراح وقتل منكم طائفة ، فقد أصاب أعداءكم قريب من ذلك من قتل وجراح \u003cspan class=\"arabic qpc-hafs\"\u003e( وتلك الأيام نداولها بين الناس )\u003c/span\u003e أي : نديل عليكم الأعداء تارة ، وإن كانت العاقبة لكم لما لنا في ذلك من الحكم ،\u003cspan class=\"blue\"\u003e ولهذا قال تعالى :\u003c/span\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وليعلم الله الذين آمنوا )\u003c/span\u003e قال ابن عباس : في مثل هذا لنرى ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e من يصبر على مناجزة الأعداء \u003cspan class=\"arabic qpc-hafs\"\u003e( ويتخذ منكم شهداء )\u003c/span\u003e يعني : يقتلون في سبيله ، ويبذلون مهجهم في مرضاته . \u003cspan class=\"arabic qpc-hafs\"\u003e( والله لا يحب الظالمين )\u003c/span\u003e\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "64:17":  {
+                                 "id":  5216
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن تقرضوا الله قرضا حسنا يضاعفه لكم ويغفر لكم )\u003c/span\u003e أي : مهما أنفقتم من شيء فهو يخلفه ، ومهما تصدقتم من شيء فعليه جزاؤه ، ونزل ذلك منزلة القرض له ،\u003cspan class=\"blue\"\u003e كما ثبت في الصحيح أن الله تعالى يقول :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" من يقرض غير ظلوم ولا عديم \"\u003c/span\u003e ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( يضاعفه لكم )\u003c/span\u003e كما تقدم في سورة البقرة : \u003cspan class=\"arabic qpc-hafs\"\u003e( فيضاعفه له أضعافا كثيرة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البقرة : 245 ]\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ويغفر لكم )\u003c/span\u003e أي : ويكفر عنكم السيئات .\u003cspan class=\"blue\"\u003e ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( والله شكور )\u003c/span\u003e أي : يجزي على القليل بالكثير \u003cspan class=\"arabic qpc-hafs\"\u003e( حليم )\u003c/span\u003e أي : يعفو ويصفح ويغفر ويستر ، ويتجاوز عن الذنوب والزلات والخطايا والسيئات .\u003c/p\u003e"
+}

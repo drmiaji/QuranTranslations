@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "8:62":  {
+                                "id":  1222
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eولو كانوا يريدون بالصلح خديعة ليتقووا ويستعدوا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فإن حسبك الله )\u003c/span\u003e أي : كافيك وحده .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم ذكر نعمته عليه بما أيده به من المؤمنين المهاجرين والأنصار ؛\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e فقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( هو الذي أيدك بنصره وبالمؤمنين وألف بين قلوبهم )\u003c/span\u003e أي : جمعها على الإيمان بك ، وعلى طاعتك ومناصرتك وموازرتك\u003c/p\u003e"
+}

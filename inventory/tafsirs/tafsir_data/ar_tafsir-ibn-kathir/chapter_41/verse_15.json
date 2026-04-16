@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "41:15":  {
+                                 "id":  4233
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال الله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( فأما عاد فاستكبروا في الأرض \u003cspan class=\"reference brown\"\u003e[ بغير الحق ]\u003c/span\u003e )\u003c/span\u003e أي : بغوا وعتوا وعصوا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وقالوا من أشد منا قوة )\u003c/span\u003e أي : منوا بشدة تركيبهم وقواهم ، واعتقدوا أنهم يمتنعون به من بأس الله ! \u003cspan class=\"arabic qpc-hafs\"\u003e( أولم يروا أن الله الذي خلقهم هو أشد منهم قوة )\u003c/span\u003e أي : أفما يتفكرون فيمن يبارزون بالعداوة ؟ فإنه العظيم الذي خلق الأشياء وركب فيها قواها الحاملة لها ، وإن بطشه شديد ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( والسماء بنيناها بأيد وإنا لموسعون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الذاريات : 47 ]\u003c/span\u003e ،\u003c/p\u003e"
+}

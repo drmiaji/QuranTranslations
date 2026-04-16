@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:63":  {
+                                 "id":  3222
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول : \u003cspan class=\"arabic qpc-hafs\"\u003e( أمن يهديكم في ظلمات البر والبحر )\u003c/span\u003e أي : بما خلق من الدلائل السماوية والأرضية ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وعلامات وبالنجم هم يهتدون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النحل : 16 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي جعل لكم النجوم لتهتدوا بها في ظلمات البر والبحر )\u003c/span\u003e الآية \u003cspan class=\"reference brown\"\u003e[ الأنعام : 97 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يرسل الرياح بشرا بين يدي رحمته )\u003c/span\u003e أي : بين يدي السحاب الذي فيه مطر ، يغيث به عباده المجدبين الأزلين القنطين ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أإله مع الله تعالى الله عما يشركون )\u003c/span\u003e .\u003c/p\u003e"
+}

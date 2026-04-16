@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:41":  {
+                                "id":  334
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال رب اجعل لي آية )\u003c/span\u003e أي : علامة أستدل بها على وجود الولد مني \u003cspan class=\"arabic qpc-hafs\"\u003e( قال آيتك ألا تكلم الناس ثلاثة أيام إلا رمزا )\u003c/span\u003e أي : إشارة لا تستطيع النطق ، مع أنك سوي صحيح ،\u003cspan class=\"blue\"\u003e كما في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ثلاث ليال سويا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ مريم : 10 ]\u003c/span\u003e ثم أمر بكثرة الذكر والشكر والتسبيح في هذه الحال ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( واذكر ربك كثيرا وسبح بالعشي والإبكار )\u003c/span\u003e وسيأتي طرف آخر في بسط هذا المقام في أول سورة مريم ، إن شاء الله تعالى .\u003c/p\u003e"
+}

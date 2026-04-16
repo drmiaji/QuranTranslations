@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:122":  {
+                                 "id":  415
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إذ همت طائفتان منكم أن تفشلا \u003cspan class=\"reference brown\"\u003e[ والله وليهما وعلى الله فليتوكل المؤمنون ]\u003c/span\u003e )\u003c/span\u003e قال البخاري : حدثنا علي بن عبد الله ،\u003cspan class=\"blue\"\u003e حدثنا سفيان قال :\u003c/span\u003e قال عمرو : سمعت جابر بن عبد الله يقول : فينا نزلت : \u003cspan class=\"arabic qpc-hafs\"\u003e( إذ همت طائفتان منكم أن تفشلا \u003cspan class=\"reference brown\"\u003e[ والله وليهما وعلى الله فليتوكل المؤمنون ]\u003c/span\u003e )\u003c/span\u003e قال : نحن الطائفتان بنو حارثة وبنو سلمة ، وما نحب -\u003cspan class=\"blue\"\u003e وقال سفيان مرة :\u003c/span\u003e وما يسرني - أنها لم تنزل ،\u003cspan class=\"blue\"\u003e لقول الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( والله وليهما )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوكذا رواه مسلم من حديث سفيان بن عيينة به .\u003cspan class=\"blue\"\u003e وكذا قال غير واحد من السلف :\u003c/span\u003e إنهم بنو حارثة وبنو سلمة .\u003c/p\u003e"
+}

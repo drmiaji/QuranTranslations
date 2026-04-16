@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "50:37":  {
+                                 "id":  4667
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن في ذلك لذكرى )\u003c/span\u003e أي : لعبرة \u003cspan class=\"arabic qpc-hafs\"\u003e( لمن كان له قلب )\u003c/span\u003e أي : لب يعي به .\u003cspan class=\"blue\"\u003e وقال مجاهد :\u003c/span\u003e عقل \u003cspan class=\"arabic qpc-hafs\"\u003e( أو ألقى السمع وهو شهيد )\u003c/span\u003e أي : استمع الكلام فوعاه ، وتعقله بقلبه وتفهمه بلبه .\u003c/p\u003e\u003cp\u003eوقال مجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( أو ألقى السمع )\u003c/span\u003e يعني : لا يحدث نفسه بغيره ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو شهيد )\u003c/span\u003e وقال : شاهد بالقلب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الضحاك : العرب تقول : ألقى فلان سمعه : إذا استمع بأذنيه وهو شاهد ،\u003cspan class=\"blue\"\u003e يقول :\u003c/span\u003e غير غائب . وهكذا قال الثوري وغير واحد .\u003c/p\u003e"
+}

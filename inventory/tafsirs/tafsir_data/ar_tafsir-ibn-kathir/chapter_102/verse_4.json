@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "102:4":  {
+                                 "id":  6172
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eيعني أيها المؤمنون.\u003c/p\u003e"
+}

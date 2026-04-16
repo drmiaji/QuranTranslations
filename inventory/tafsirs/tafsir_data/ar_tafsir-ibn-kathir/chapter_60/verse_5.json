@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "60:5":  {
+                                "id":  5155
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ربنا لا تجعلنا فتنة للذين كفروا )\u003c/span\u003e قال مجاهد : معناه : لا تعذبنا بأيديهم ، ولا بعذاب من عندك ،\u003cspan class=\"blue\"\u003e فيقولوا :\u003c/span\u003e لو كان هؤلاء على حق ما أصابهم هذا . وكذا قال الضحاك .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال قتادة لا تظهرهم علينا فيفتتنوا بذلك ، يرون أنهم إنما ظهروا علينا لحق هم عليه . واختاره ابن جرير .\u003c/p\u003e\u003cp\u003eوقال علي بن أبي طلحة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e لا تسلطهم علينا فيفتنونا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( واغفر لنا ربنا إنك أنت العزيز الحكيم )\u003c/span\u003e أي : واستر ذنوبنا عن غيرك ، واعف عنها فيما بيننا وبينك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنك أنت العزيز الحكيم )\u003c/span\u003e أي : الذي لا يضام من لاذ بجناحك ) الحكيم ) في أقوالك وأفعالك وشرعك وقدرك .\u003c/p\u003e"
+}

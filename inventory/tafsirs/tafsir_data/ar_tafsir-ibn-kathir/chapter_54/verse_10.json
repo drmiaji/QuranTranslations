@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:10":  {
+                                 "id":  4856
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فدعا ربه أني مغلوب فانتصر )\u003c/span\u003e أي : إني ضعيف عن هؤلاء وعن مقاومتهم ) فانتصر ) أنت لدينك .\u003c/p\u003e"
+}

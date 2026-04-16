@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:65":  {
+                                 "id":  2548
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ثم نكسوا على رءوسهم )\u003c/span\u003e أي : ثم أطرقوا في الأرض فقالوا : \u003cspan class=\"arabic qpc-hafs\"\u003e( لقد علمت ما هؤلاء ينطقون )\u003c/span\u003e قال قتادة : أدركت القوم حيرة سوء فقالوا : \u003cspan class=\"arabic qpc-hafs\"\u003e( لقد علمت ما هؤلاء ينطقون )\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقال السدي : \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم نكسوا على رءوسهم )\u003c/span\u003e أي : في الفتنة .\u003c/p\u003e\u003cp\u003eوقال ابن زيد : أي في الرأي .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقول قتادة أظهر في المعنى; لأنهم إنما فعلوا ذلك حيرة وعجزا; ولهذا قالوا له : \u003cspan class=\"arabic qpc-hafs\"\u003e( لقد علمت ما هؤلاء ينطقون )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e فكيف تقول لنا :\u003c/span\u003e سلوهم إن كانوا ينطقون ، وأنت تعلم أنها لا تنطق\u003c/p\u003e"
+}

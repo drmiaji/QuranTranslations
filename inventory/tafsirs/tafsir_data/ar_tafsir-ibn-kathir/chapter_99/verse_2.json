@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "99:2":  {
+                                "id":  6140
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وأخرجت الأرض أثقالها )\u003c/span\u003e يعني : ألقت ما فيها من الموتى . قاله غير واحد من السلف .\u003cspan class=\"blue\"\u003e وهذه كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يا أيها الناس اتقوا ربكم إن زلزلة الساعة شيء عظيم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحج : 1 ]\u003c/span\u003e وكقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا الأرض مدت وألقت ما فيها وتخلت )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الانشقاق : 3 ، 4 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال مسلم في صحيحه : حدثنا واصل بن عبد الأعلى ، حدثنا محمد بن فضيل ، عن أبيه ، عن أبي حازم ،\u003cspan class=\"blue\"\u003e عن أبي هريرة قال :\u003c/span\u003e قال رسول الله صلى الله عليه وسلم : \u003cspan class=\"red\"\u003e\" تقيء الأرض أفلاذ كبدها أمثال الأسطوان من الذهب والفضة ،\u003cspan class=\"blue\"\u003e فيجيء القاتل فيقول :\u003c/span\u003e في هذا قتلت ،\u003cspan class=\"blue\"\u003e ويجيء القاطع فيقول :\u003c/span\u003e في هذا قطعت رحمي ،\u003cspan class=\"blue\"\u003e ويجيء السارق فيقول :\u003c/span\u003e في هذا قطعت يدي ، ثم يدعونه فلا يأخذون منه شيئا \"\u003c/span\u003e .\u003c/p\u003e"
+}

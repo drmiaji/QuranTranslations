@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "96:5":  {
+                                "id":  6111
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eمن كرمه تعالى أن علم الإنسان ما لم يعلم ، فشرفه وكرمه بالعلم ، وهو القدر الذي امتاز به أبو البرية آدم على الملائكة والعلم تارة يكون في الأذهان ، وتارة يكون في اللسان ، وتارة يكون في الكتابة بالبنان ، ذهني ولفظي ورسمي ، والرسمي يستلزمهما من غير عكس ،\u003cspan class=\"blue\"\u003e فلهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( اقرأ وربك الأكرم الذي علم بالقلم علم الإنسان ما لم يعلم )\u003c/span\u003e وفي الأثر : قيدوا العلم بالكتابة .\u003cspan class=\"blue\"\u003e وفيه أيضا :\u003c/span\u003e \" من عمل بما علم رزقه الله علم ما لم يكن \u003cspan class=\"reference brown\"\u003e[ يعلم ]\u003c/span\u003e .\u003c/p\u003e"
+}

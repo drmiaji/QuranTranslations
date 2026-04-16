@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:31":  {
+                                 "id":  2963
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال فأت به إن كنت من الصادقين فألقى عصاه فإذا هي ثعبان مبين )\u003c/span\u003e أي : ظاهر واضح في غاية الجلاء والوضوح والعظمة ، ذات قوائم وفم كبير ، وشكل هائل مزعج .\u003c/p\u003e"
+}

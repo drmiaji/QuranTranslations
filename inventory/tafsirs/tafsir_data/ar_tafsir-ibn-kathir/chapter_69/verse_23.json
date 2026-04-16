@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "69:23":  {
+                                 "id":  5346
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قطوفها دانية )\u003c/span\u003e قال البراء بن عازب : أي قريبة ، يتناولها أحدهم ، وهو نائم على سريره . وكذا قال غير واحد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال الطبراني : \u003cspan class=\"reference brown\"\u003e[ حدثنا إسحاق بن إبراهيم الدبري ]\u003c/span\u003e عن عبد الرزاق ، عن سفيان الثوري عن عبد الرحمن بن زياد بن أنعم ، عن عطاء بن يسار ، عن سلمان الفارسي ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قال رسول الله صلى الله عليه وسلم : \u003cspan class=\"red\"\u003e\" لا يدخل أحد الجنة إلا بجواز : \u003cspan class=\"arabic qpc-hafs\"\u003e( بسم الله الرحمن الرحيم )\u003c/span\u003e هذا كتاب من الله لفلان بن فلان ، أدخلوه جنة عالية ، قطوفها دانية \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوكذا رواه الضياء في صفة الجنة من طريق سعدان بن سعيد ، عن سليمان التيمي ، عن أبي عثمان النهدي ، عن سلمان ،\u003cspan class=\"blue\"\u003e عن رسول الله صلى الله عليه وسلم قال :\u003c/span\u003e يعطى المؤمن جوازا على الصراط : \u003cspan class=\"arabic qpc-hafs\"\u003e( بسم الله الرحمن الرحيم )\u003c/span\u003e ، هذا كتاب من الله العزيز الحكيم لفلان ، أدخلوه جنة عالية ، قطوفها دانية \" .\u003c/p\u003e"
+}

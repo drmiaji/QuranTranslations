@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:13":  {
+                                 "id":  1914
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما ذرأ لكم في الأرض مختلفا ألوانه )\u003c/span\u003e لما نبه سبحانه على معالم السماوات ، نبه على ما خلق في الأرض من الأمور العجيبة والأشياء المختلفة ، من الحيوانات والمعادن والنباتات \u003cspan class=\"reference brown\"\u003e[ والجمادات ]\u003c/span\u003e على اختلاف ألوانها وأشكالها ، وما فيها من المنافع والخواص \u003cspan class=\"arabic qpc-hafs\"\u003e( إن في ذلك لآية لقوم يذكرون )\u003c/span\u003e أي : آلاء الله ونعمه فيشكرونها .\u003c/p\u003e"
+}

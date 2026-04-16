@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:87":  {
+                                 "id":  3875
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"أئفكا آلهة دون الله تريدون فما ظنكم برب العالمين\"\u003c/span\u003e قال قتادة يعني ما ظنكم أنه فاعل بكم إذا لاقيتموه وقد عبدتم معه غيره.\u003c/p\u003e"
+}

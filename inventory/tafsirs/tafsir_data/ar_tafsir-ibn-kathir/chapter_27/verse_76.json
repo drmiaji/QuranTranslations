@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:76":  {
+                                 "id":  3235
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن كتابه العزيز ،\u003cspan class=\"blue\"\u003e وما اشتمل عليه من الهدى والبينات والفرقان :\u003c/span\u003e إنه يقص على بني إسرائيل - وهم حملة التوراة والإنجيل - \u003cspan class=\"arabic qpc-hafs\"\u003e( أكثر الذي هم فيه يختلفون )\u003c/span\u003e ، كاختلافهم في عيسى وتباينهم فيه ، فاليهود افتروا ، والنصارى غلوا ، فجاء \u003cspan class=\"reference brown\"\u003e[ إليهم ]\u003c/span\u003e القرآن بالقول الوسط الحق العدل : أنه عبد من عباد الله وأنبيائه ورسله الكرام ، عليه \u003cspan class=\"reference brown\"\u003e[ أفضل ]\u003c/span\u003e الصلاة والسلام ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلك عيسى ابن مريم قول الحق الذي فيه يمترون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ مريم : 34 ]\u003c/span\u003e .\u003c/p\u003e"
+}

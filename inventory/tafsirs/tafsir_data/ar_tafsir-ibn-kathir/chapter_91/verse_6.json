@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "91:6":  {
+                                "id":  6049
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والأرض وما طحاها )\u003c/span\u003e قال مجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( طحاها )\u003c/span\u003e دحاها . وقال العوفي ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما طحاها )\u003c/span\u003e أي : خلق فيها .\u003c/p\u003e\u003cp\u003eوقال علي بن أبي طلحة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( طحاها )\u003c/span\u003e قسمها .\u003c/p\u003e\u003cp\u003eوقال مجاهد ، وقتادة والضحاك ، والسدي ، والثوري ، وأبو صالح ،\u003cspan class=\"blue\"\u003e وابن زيد :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( طحاها )\u003c/span\u003e بسطها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذا أشهر الأقوال ، وعليه الأكثر من المفسرين ، وهو المعروف عند أهل اللغة ،\u003cspan class=\"blue\"\u003e قال الجوهري :\u003c/span\u003e طحوته مثل دحوته ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e بسطته .\u003c/p\u003e"
+}

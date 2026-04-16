@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "32:20":  {
+                                 "id":  3523
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي : خرجوا عن الطاعة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فمأواهم النار كلما أرادوا أن يخرجوا منها أعيدوا فيها )\u003c/span\u003e كقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كلما أرادوا أن يخرجوا منها من غم أعيدوا فيها )\u003c/span\u003e الآية \u003cspan class=\"reference brown\"\u003e[ الحج : 22 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال الفضيل بن عياض : والله إن الأيدي لموثقة ، وإن الأرجل لمقيدة ، وإن اللهب ليرفعهم والملائكة تقمعهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وقيل لهم ذوقوا عذاب النار الذي كنتم به تكذبون )\u003c/span\u003e أي : يقال لهم ذلك تقريعا وتوبيخا .\u003c/p\u003e"
+}

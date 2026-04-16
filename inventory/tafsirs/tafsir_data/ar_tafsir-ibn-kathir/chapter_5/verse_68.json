@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:68":  {
+                                "id":  737
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : قل يا محمد : \u003cspan class=\"arabic qpc-hafs\"\u003e( يا أهل الكتاب لستم على شيء )\u003c/span\u003e أي : من الدين \u003cspan class=\"arabic qpc-hafs\"\u003e( حتى تقيموا التوراة والإنجيل )\u003c/span\u003e أي : حتى تؤمنوا بجميع ما بأيديكم من الكتب المنزلة من الله على الأنبياء ، وتعملوا بما فيها ومما فيها الأمر باتباع محمد صلى الله عليه وسلم والإيمان بمبعثه ، والاقتداء بشريعته ; ولهذا قال ليث بن أبي سليم ،\u003cspan class=\"blue\"\u003e عن مجاهد في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أنزل إليكم من ربكم )\u003c/span\u003e يعني : القرآن العظيم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وليزيدن كثيرا منهم ما أنزل إليك من ربك طغيانا وكفرا )\u003c/span\u003e تقدم تفسيره \u003cspan class=\"arabic qpc-hafs\"\u003e( فلا تأس على القوم الكافرين )\u003c/span\u003e أي : فلا تحزن عليهم ولا يهيدنك ذلك منهم .\u003c/p\u003e"
+}

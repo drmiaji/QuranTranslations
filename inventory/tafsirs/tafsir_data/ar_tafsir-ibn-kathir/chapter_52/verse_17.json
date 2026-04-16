@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:17":  {
+                                 "id":  4752
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأخبر الله تعالى عن حال السعداء فقال \u003cspan class=\"red\"\u003e\"إن المتقين في جنات ونعيم\"\u003c/span\u003e وذلك بضد ما أولئك فيه من العذاب والنكال.\u003c/p\u003e"
+}

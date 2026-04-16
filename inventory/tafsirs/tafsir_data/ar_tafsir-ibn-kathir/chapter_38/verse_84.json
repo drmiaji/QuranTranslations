@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:84":  {
+                                 "id":  4054
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قال فالحق والحق . أقول لأملأن جهنم منك وممن تبعك منهم أجمعين )\u003c/span\u003e قرأ ذلك جماعة منهم مجاهد برفع \u003cspan class=\"red\"\u003e\" الحق \"\u003c/span\u003e الأولى وفسره مجاهد بأن معناه : أنا الحق ،\u003cspan class=\"blue\"\u003e والحق أقول وفي رواية عنه :\u003c/span\u003e الحق مني ، وأقول الحق .\u003c/p\u003e\u003cp\u003eوقرأ آخرون بنصبهما .\u003c/p\u003e\u003cp\u003eقال السدي : هو قسم أقسم الله به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقلت : وهذه الآية الكريمة كقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكن حق القول مني لأملأن جهنم من الجنة والناس أجمعين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ السجدة : 13 ]\u003c/span\u003e وكقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( قال اذهب فمن تبعك منهم فإن جهنم جزاؤكم جزاء موفورا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 63 ]\u003c/span\u003e\u003c/p\u003e"
+}

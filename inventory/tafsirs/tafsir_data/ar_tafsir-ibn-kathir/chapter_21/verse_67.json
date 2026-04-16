@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:67":  {
+                                 "id":  2550
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( أف لكم ولما تعبدون من دون الله أفلا تعقلون )\u003c/span\u003e أي : أفلا تتدبرون ما أنتم فيه من الضلال والكفر الغليظ ، الذي لا يروج إلا على جاهل ظالم فاجر؟ فأقام عليهم الحجة ،\u003cspan class=\"blue\"\u003e وألزمهم بها; ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وتلك حجتنا آتيناها إبراهيم على قومه )\u003c/span\u003e الآية \u003cspan class=\"reference brown\"\u003e[ الأنعام : 83 ]\u003c/span\u003e .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "104:8":  {
+                                 "id":  6187
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنها عليهم مؤصدة )\u003c/span\u003e أي : مطبقة كما تقدم تفسيره في سورة البلد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن مردويه : حدثنا عبد الله بن محمد ، حدثنا علي بن سراج ، حدثنا عثمان بن خرزاذ ، حدثنا شجاع بن أشرس ، حدثنا شريك ، عن عاصم ، عن أبي صالح عن أبي هريرة ،\u003cspan class=\"blue\"\u003e عن النبي صلى الله عليه وسلم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنها عليهم مؤصدة )\u003c/span\u003e قال : \u003cspan class=\"red\"\u003e\" مطبقة \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد رواه أبو بكر بن أبي شيبة ، عن عبد الله بن أسيد ، عن إسماعيل بن خالد ، عن أبي صالح ، قوله ، ولم يرفعه .\u003c/p\u003e"
+}

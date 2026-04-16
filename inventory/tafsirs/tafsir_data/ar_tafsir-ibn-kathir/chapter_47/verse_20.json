@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:20":  {
+                                 "id":  4565
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن المؤمنين أنهم تمنوا شرعية الجهاد ، فلما فرضه الله - عز وجل - وأمر به نكل عنه كثير من الناس ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ألم تر إلى الذين قيل لهم كفوا أيديكم وأقيموا الصلاة وآتوا الزكاة فلما كتب عليهم القتال إذا فريق منهم يخشون الناس كخشية الله أو أشد خشية وقالوا ربنا لم كتبت علينا القتال لولا أخرتنا إلى أجل قريب قل متاع الدنيا قليل والآخرة خير لمن اتقى ولا تظلمون فتيلا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النساء : 77 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويقول الذين آمنوا لولا نزلت سورة )\u003c/span\u003e أي : مشتملة على حكم القتال ; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( فإذا أنزلت سورة محكمة وذكر فيها القتال رأيت الذين في قلوبهم مرض ينظرون إليك نظر المغشي عليه من الموت )\u003c/span\u003e أي : من فزعهم ورعبهم وجبنهم من لقاء الأعداء .\u003cspan class=\"blue\"\u003e ثم قال مشجعا لهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فأولى لهم)\u003c/span\u003e\u003c/p\u003e"
+}

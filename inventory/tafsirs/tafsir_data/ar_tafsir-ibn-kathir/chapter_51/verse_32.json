@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "51:32":  {
+                                 "id":  4707
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا إنا أرسلنا إلى قوم مجرمين )\u003c/span\u003e يعنون قوم لوط .\u003c/p\u003e"
+}

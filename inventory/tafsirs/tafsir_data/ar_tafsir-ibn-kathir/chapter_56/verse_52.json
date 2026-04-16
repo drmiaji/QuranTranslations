@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:52":  {
+                                 "id":  5031
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"ثم إنكم أيها الضالون المكذبون لآكلون من شجر من زقوم فمالئون منها البطون\"\u003c/span\u003e وذلك أنهم يقبضون ويسجرون حتى يأكلوا من شجر الزقوم حتى يملأوا منها بطونهم.\u003c/p\u003e"
+}

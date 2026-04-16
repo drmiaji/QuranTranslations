@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:128":  {
+                                 "id":  1082
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولما صمم فرعون على ما ذكره من المساءة لبني إسرائيل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قال موسى لقومه استعينوا بالله واصبروا )\u003c/span\u003e ووعدهم بالعاقبة ،\u003cspan class=\"blue\"\u003e وأن الدار ستصير لهم في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الأرض لله يورثها من يشاء من عباده والعاقبة للمتقين)\u003c/span\u003e\u003c/p\u003e"
+}

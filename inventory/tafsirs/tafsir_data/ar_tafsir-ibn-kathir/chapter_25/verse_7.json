@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "25:7":  {
+                                "id":  2862
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن تعنت الكفار وعنادهم وتكذيبهم للحق بلا حجة ولا دليل منهم ،\u003cspan class=\"blue\"\u003e وإنما تعللوا بقولهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( مال هذا الرسول يأكل الطعام )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e يعنون :\u003c/span\u003e كما نأكله ، ويحتاج إليه كما نحتاج إليه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ويمشي في الأسواق )\u003c/span\u003e أي : يتردد فيها وإليها طلبا للتكسب والتجارة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لولا أنزل إليه ملك فيكون معه نذيرا )\u003c/span\u003e يقولون : هلا أنزل إليه ملك من عند الله ،\u003cspan class=\"blue\"\u003e فيكون له شاهدا على صدق ما يدعيه! وهذا كما قال فرعون :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فلولا ألقي عليه أسورة من ذهب أو جاء معه الملائكة مقترنين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزخرف : 53 ]\u003c/span\u003e . وكذلك قال هؤلاء على السواء ،\u003cspan class=\"blue\"\u003e تشابهت قلوبهم; ولهذا قال :\u003c/span\u003e\u003c/p\u003e"
+}

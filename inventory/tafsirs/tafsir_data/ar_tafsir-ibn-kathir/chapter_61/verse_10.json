@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "61:10":  {
+                                 "id":  5173
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eتقدم في حديث عبد الله بن سلام أن الصحابة ، رضي الله عنهم ، أرادوا أن يسألوا عن أحب الأعمال إلى الله عز وجل ليفعلوه ، فأنزل الله هذه السورة ،\u003cspan class=\"blue\"\u003e ومن جملتها هذه الآية :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يا أيها الذين آمنوا هل أدلكم على تجارة تنجيكم من عذاب أليم )\u003c/span\u003e ثم فسر هذه التجارة العظيمة التي لا تبور ، والتي هي محصلة للمقصود ، ومزيلة للمحذور فقال\u003c/p\u003e"
+}

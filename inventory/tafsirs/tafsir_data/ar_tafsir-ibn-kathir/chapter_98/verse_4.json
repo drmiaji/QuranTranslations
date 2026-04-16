@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "98:4":  {
+                                "id":  6134
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما تفرق الذين أوتوا الكتاب إلا من بعد ما جاءتهم البينة )\u003c/span\u003e كقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تكونوا كالذين تفرقوا واختلفوا من بعد ما جاءهم البينات وأولئك لهم عذاب عظيم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ آل عمران : 105 ]\u003c/span\u003e يعني بذلك أهل الكتب المنزلة على الأمم قبلنا ، بعد ما أقام الله عليهم الحجج والبينات تفرقوا واختلفوا في الذي أراده الله من كتبهم ، واختلفوا اختلافا كثيرا ،\u003cspan class=\"blue\"\u003e كما جاء في الحديث المروي من طرق :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن اليهود اختلفوا على إحدى وسبعين فرقة ، وإن النصارى اختلفوا على اثنتين وسبعين فرقة وستفترق هذه الأمة على ثلاث وسبعين فرقة ، كلها في النار إلا واحدة \"\u003c/span\u003e .\u003cspan class=\"blue\"\u003e قالوا :\u003c/span\u003e من هم يا رسول الله ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" ما أنا عليه وأصحابي \"\u003c/span\u003e .\u003c/p\u003e"
+}

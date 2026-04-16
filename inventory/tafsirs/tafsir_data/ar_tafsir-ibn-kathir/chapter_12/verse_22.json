@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:22":  {
+                                 "id":  1618
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولما بلغ )\u003c/span\u003e أي : يوسف عليه السلام ) أشده ) أي : استكمل عقله وتم خلقه . \u003cspan class=\"arabic qpc-hafs\"\u003e( آتيناه حكما وعلما )\u003c/span\u003e يعني : النبوة ، إنه حباه بها بين أولئك الأقوام ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وكذلك نجزي المحسنين )\u003c/span\u003e أي : إنه كان محسنا في عمله ، عاملا بطاعة ربه تعالى .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد اختلف في مقدار المدة التي بلغ فيها أشده ،\u003cspan class=\"blue\"\u003e فقال ابن عباس ومجاهد وقتادة :\u003c/span\u003e ثلاث وثلاثون .\u003cspan class=\"blue\"\u003e وعن ابن عباس :\u003c/span\u003e بضع وثلاثون .\u003cspan class=\"blue\"\u003e وقال الضحاك :\u003c/span\u003e عشرون .\u003cspan class=\"blue\"\u003e وقال الحسن :\u003c/span\u003e أربعون سنة .\u003cspan class=\"blue\"\u003e وقال عكرمة :\u003c/span\u003e خمس وعشرون سنة .\u003cspan class=\"blue\"\u003e وقال السدي :\u003c/span\u003e ثلاثون سنة .\u003cspan class=\"blue\"\u003e وقال سعيد بن جبير :\u003c/span\u003e ثمانية عشرة سنة . وقال الإمام مالك ، وربيعة ، وزيد بن أسلم ،\u003cspan class=\"blue\"\u003e والشعبي :\u003c/span\u003e الأشد الحلم . وقيل غير ذلك ، والله أعلم .\u003c/p\u003e"
+}

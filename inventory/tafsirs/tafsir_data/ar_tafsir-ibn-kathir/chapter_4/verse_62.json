@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:62":  {
+                                "id":  555
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى في ذم المنافقين : \u003cspan class=\"arabic qpc-hafs\"\u003e( فكيف إذا أصابتهم مصيبة بما قدمت أيديهم )\u003c/span\u003e أي : فكيف بهم إذا ساقتهم المقادير إليك في مصائب تطرقهم بسبب ذنوبهم واحتاجوا إليك في ذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم جاؤوك يحلفون بالله إن أردنا إلا إحسانا وتوفيقا )\u003c/span\u003e أي : يعتذرون إليك ويحلفون : ما أردنا بذهابنا إلى غيرك ، وتحاكمنا إلى عداك إلا الإحسان والتوفيق ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e المداراة والمصانعة ، لا اعتقادا منا صحة تلك الحكومة ،\u003cspan class=\"blue\"\u003e كما أخبرنا تعالى عنهم في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فترى الذين في قلوبهم مرض يسارعون فيهم يقولون نخشى \u003cspan class=\"reference brown\"\u003e[ أن تصيبنا دائرة فعسى الله أن يأتي بالفتح أو أمر من عنده ]\u003c/span\u003e فيصبحوا على ما أسروا في أنفسهم نادمين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المائدة : 52 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد قال الطبراني : حدثنا أبو زيد أحمد بن يزيد الحوطي ، حدثنا أبو اليمان ، حدثنا صفوان بن عمر ، عن عكرمة ، عن ابن عباس .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e كان أبو برزة الأسلمي كاهنا يقضي بين اليهود فيما يتنافرون فيه فتنافر إليه ناس من المسلمين فأنزل الله عز وجل : \u003cspan class=\"arabic qpc-hafs\"\u003e( ألم تر إلى الذين يزعمون أنهم آمنوا بما أنزل إليك وما أنزل من قبلك \u003cspan class=\"reference brown\"\u003e[ يريدون أن يتحاكموا إلى الطاغوت ]\u003c/span\u003e )\u003c/span\u003e إلى قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن أردنا إلا إحسانا وتوفيقا )\u003c/span\u003e\u003c/p\u003e"
+}

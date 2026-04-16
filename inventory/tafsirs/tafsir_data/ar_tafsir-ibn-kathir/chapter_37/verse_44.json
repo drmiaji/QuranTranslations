@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:44":  {
+                                 "id":  3832
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( على سرر متقابلين )\u003c/span\u003e قال مجاهد : لا ينظر بعضهم في قفا بعض .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا يحيى بن عبدك القزويني ، حدثنا حسان بن حسان ، حدثنا إبراهيم بن بشر ، حدثنا يحيى بن معين ، حدثنا إبراهيم القرشي ، عن سعيد بن شرحبيل ،\u003cspan class=\"blue\"\u003e عن زيد بن أبي أوفى قال :\u003c/span\u003e خرج علينا رسول الله - صلى الله عليه وسلم - فتلا هذه الآية \u003cspan class=\"arabic qpc-hafs\"\u003e( على سرر متقابلين )\u003c/span\u003e ينظر بعضهم إلى بعض . حديث غريب .\u003c/p\u003e"
+}

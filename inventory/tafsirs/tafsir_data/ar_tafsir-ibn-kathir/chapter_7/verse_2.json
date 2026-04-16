@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:2":  {
+                               "id":  956
+                           }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( كتاب أنزل إليك )\u003c/span\u003e أي : هذا كتاب أنزل إليك ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e من ربك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فلا يكن في صدرك حرج منه )\u003c/span\u003e قال مجاهد ،\u003cspan class=\"blue\"\u003e وعطاء وقتادة والسدي :\u003c/span\u003e شك منه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقيل : لا تتحرج به في إبلاغه والإنذار به واصبر كما صبر أولو العزم من الرسل; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( لتنذر به )\u003c/span\u003e أي : أنزل إليك لتنذر به الكافرين ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وذكرى للمؤمنين )\u003c/span\u003e .\u003c/p\u003e"
+}

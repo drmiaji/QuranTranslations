@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:56":  {
+                                 "id":  4381
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فجعلناهم سلفا ومثلا للآخرين )\u003c/span\u003e : قال أبو مجلز : \u003cspan class=\"arabic qpc-hafs\"\u003e( سلفا )\u003c/span\u003e لمثل من عمل بعملهم .\u003c/p\u003e\u003cp\u003eوقال هو ومجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومثلا )\u003c/span\u003e أي عبرة لمن بعدهم .\u003c/p\u003e"
+}

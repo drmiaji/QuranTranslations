@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "24:56":  {
+                                 "id":  2847
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى آمرا عباده المؤمنين بإقام الصلاة ، وهي عبادة الله وحده لا شريك له ، وإيتاء الزكاة ،\u003cspan class=\"blue\"\u003e وهي :\u003c/span\u003e الإحسان إلى المخلوقين ضعفائهم وفقرائهم ، وأن يكونوا في ذلك مطيعين للرسول ، صلوات الله وسلامه عليه ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e سالكين وراءه فيما به أمرهم ، وتاركين ما عنه زجرهم ، لعل الله يرحمهم بذلك . ولا شك أن من فعل ذلك أن الله سيرحمهم ،\u003cspan class=\"blue\"\u003e كما قال تعالى في الآية الأخرى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك سيرحمهم الله )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ التوبة : 71 ]\u003c/span\u003e .\u003c/p\u003e"
+}

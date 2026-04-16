@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:50":  {
+                                 "id":  4375
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوفي كل مرة ينكثون ما عاهدوا عليه ، وهذا كقوله \u003cspan class=\"reference brown\"\u003e[ تعالى ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فأرسلنا عليهم الطوفان والجراد والقمل والضفادع والدم آيات مفصلات فاستكبروا وكانوا قوما مجرمين . ولما وقع عليهم الرجز قالوا يا موسى ادع لنا ربك بما عهد عندك لئن كشفت عنا الرجز لنؤمنن لك ولنرسلن معك بني إسرائيل . فلما كشفنا عنهم الرجز إلى أجل هم بالغوه إذا هم ينكثون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 133 - 135 ]\u003c/span\u003e .\u003c/p\u003e"
+}

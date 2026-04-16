@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:84":  {
+                                 "id":  3872
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إذ جاء ربه بقلب سليم )\u003c/span\u003e قال ابن عباس : يعني شهادة أن لا إله إلا الله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا أبو سعيد الأشج ، حدثنا أبو أسامة ،\u003cspan class=\"blue\"\u003e عن عوف :\u003c/span\u003e قلت لمحمد بن سيرين : ما القلب السليم ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e يعلم أن الله حق ، وأن الساعة آتية لا ريب فيها ، وأن الله يبعث من في القبور .\u003c/p\u003e\u003cp\u003eوقال الحسن : سليم من الشرك ،\u003cspan class=\"blue\"\u003e وقال عروة :\u003c/span\u003e لا يكون لعانا .\u003c/p\u003e"
+}

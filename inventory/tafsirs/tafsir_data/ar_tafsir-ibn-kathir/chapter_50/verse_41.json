@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "50:41":  {
+                                 "id":  4671
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( واستمع )\u003c/span\u003e يا محمد \u003cspan class=\"arabic qpc-hafs\"\u003e( يوم ينادي المناد من مكان قريب )\u003c/span\u003e قال قتادة : قال كعب الأحبار : يأمر الله \u003cspan class=\"reference brown\"\u003e[ تعالى ]\u003c/span\u003e ملكا أن ينادي على صخرة بيت المقدس : أيتها العظام البالية ، والأوصال المتقطعة ، إن الله يأمركن أن تجتمعن لفصل القضاء .\u003c/p\u003e"
+}

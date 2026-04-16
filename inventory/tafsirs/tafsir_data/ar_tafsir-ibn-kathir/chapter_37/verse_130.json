@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:130":  {
+                                  "id":  3918
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( سلام على إل ياسين )\u003c/span\u003e كما يقال في إسماعيل : إسماعين . وهي لغة بني أسد . وأنشد بعض بني نمير في ضب صاده .\u003c/p\u003e\u003cp\u003eيقول رب السوق لما جينا هذا ورب البيت إسرائينا\u003c/p\u003e\u003cp lang=\"sd\" class=\"sd \"\u003eويقال : ميكال ، وميكائيل ، وميكائين ، وإبراهيم وإبراهام ، وإسرائيل وإسرائين ، وطور سيناء ، وطور سينين . وهو موضع واحد ، وكل هذا سائغ\u003c/p\u003e\u003cp\u003eوقرأ آخرون : \u003cspan class=\"red\"\u003e\" سلام على إدراسين \"\u003c/span\u003e ، وهي قراءة عبد الله بن مسعود .\u003cspan class=\"blue\"\u003e وآخرون :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" سلام على آل ياسين \"\u003c/span\u003e يعني : آل محمد - صلى الله عليه وسلم - .\u003c/p\u003e"
+}

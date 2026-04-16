@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:171":  {
+                                  "id":  3103
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\"إلا عجوزا في الغابرين\"\u003c/span\u003e وهي امرأته وكانت عجوزَ سوء بقيت.\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eفهلكت مع من بقي من قومها وذلك كما أخبر الله تعالى عنهم في سورة الأعراف وهود وكذا في الحجر حين أمره الله أن يسري بأهله إلا امرأته وأنهم لا يلتفتوا إذا سمعوا الصيحة حين تنزل على قومه فصبروا لأمر الله واستمروا.\u003c/p\u003e"
+}

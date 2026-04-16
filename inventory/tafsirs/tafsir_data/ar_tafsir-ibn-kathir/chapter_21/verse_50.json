@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:50":  {
+                                 "id":  2533
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وهذا ذكر مبارك أنزلناه )\u003c/span\u003e يعني : القرآن العظيم ، الذي لا يأتيه الباطل من بين يديه ، ولا من خلفه تنزيل من حكيم حميد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أفأنتم له منكرون )\u003c/span\u003e أي : أفتنكرونه وهو في غاية \u003cspan class=\"reference brown\"\u003e[ الجلاء ]\u003c/span\u003e والظهور؟ .\u003c/p\u003e"
+}

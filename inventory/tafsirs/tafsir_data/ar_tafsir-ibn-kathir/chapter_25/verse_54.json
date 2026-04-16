@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "25:54":  {
+                                 "id":  2909
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي خلق من الماء بشرا فجعله نسبا وصهرا وكان ربك قديرا )\u003c/span\u003e أي : خلق الإنسان من نطفة ضعيفة ، فسواه وعدله ، وجعله كامل الخلقة ، ذكرا أو أنثى ، كما يشاء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فجعله نسبا وصهرا )\u003c/span\u003e ، فهو في ابتداء أمره ولد نسيب ، ثم يتزوج فيصير صهرا ، ثم يصير له أصهار وأختان وقرابات .\u003cspan class=\"blue\"\u003e وكل ذلك من ماء مهين; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وكان ربك قديرا )\u003c/span\u003e .\u003c/p\u003e"
+}

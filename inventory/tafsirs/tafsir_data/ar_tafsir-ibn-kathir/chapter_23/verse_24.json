@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:24":  {
+                                 "id":  2697
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفقال الملأ وهم السادة والأكابر منهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( ما هذا إلا بشر مثلكم يريد أن يتفضل عليكم )\u003c/span\u003e يعنون : يترفع عليكم ويتعاظم بدعوى النبوة ، وهو بشر مثلكم . فكيف أوحي إليه دونكم؟ \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو شاء الله لأنزل ملائكة )\u003c/span\u003e أي : لو أراد أن يبعث نبيا ، لبعث ملكا من عنده ولم يكن بشرا! \u003cspan class=\"arabic qpc-hafs\"\u003e( ما سمعنا بهذا )\u003c/span\u003e أي : ببعثة البشر في آبائنا الأولين . يعنون بهذا أسلافهم وأجدادهم والأمم الماضية .\u003c/p\u003e"
+}

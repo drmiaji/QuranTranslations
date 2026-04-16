@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:108":  {
+                                 "id":  1062
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ونزع يده فإذا هي بيضاء للناظرين )\u003c/span\u003e أي : نزع يده : أخرجها من درعه بعد ما أدخلها فيه فخرجت بيضاء تتلألأ من غير برص ولا مرض ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وأدخل يدك في جيبك تخرج بيضاء من غير سوء )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النمل : 12 ]\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن عباس في حديث الفتون : \u003cspan class=\"reference brown\"\u003e[ أخرج يده من جيبه فرآها بيضاء ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( من غير سوء )\u003c/span\u003e يعني : من غير برص ، ثم أعادها إلى كمه ، فعادت إلى لونها الأول . وكذا قال مجاهد وغير واحد .\u003c/p\u003e"
+}

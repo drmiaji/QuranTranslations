@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:4":  {
+                                "id":  2936
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال الله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن نشأ ننزل عليهم من السماء آية فظلت أعناقهم لها خاضعين )\u003c/span\u003e أي : لو شئنا لأنزلنا آية تضطرهم إلى الإيمان قهرا ،\u003cspan class=\"blue\"\u003e ولكنا لا نفعل ذلك; لأنا لا نريد من أحد إلا الإيمان الاختياري; وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو شاء ربك لآمن من في الأرض كلهم جميعا أفأنت تكره الناس حتى يكونوا مؤمنين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 99 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو شاء ربك لجعل الناس أمة واحدة ولا يزالون مختلفين . إلا من رحم ربك ولذلك خلقهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 118 ، 119 ]\u003c/span\u003e ، فنفذ قدره ، ومضت حكمته ، وقامت حجته البالغة على خلقه بإرسال الرسل إليهم ، وإنزال الكتب عليهم .\u003c/p\u003e"
+}

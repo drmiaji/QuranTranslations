@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:98":  {
+                                "id":  591
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إلا المستضعفين من الرجال والنساء والولدان لا يستطيعون حيلة ولا يهتدون سبيلا )\u003c/span\u003e هذا عذر من الله تعالى لهؤلاء في ترك الهجرة ، وذلك أنهم لا يقدرون على التخلص من أيدي المشركين ، ولو قدروا ما عرفوا يسلكون الطريق ،\u003cspan class=\"blue\"\u003e ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لا يستطيعون حيلة ولا يهتدون سبيلا )\u003c/span\u003e قال مجاهد وعكرمة ،\u003cspan class=\"blue\"\u003e والسدي :\u003c/span\u003e يعني طريقا .\u003c/p\u003e"
+}

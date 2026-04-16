@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:11":  {
+                                 "id":  2494
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وكم قصمنا من قرية كانت ظالمة )\u003c/span\u003e هذه صيغة تكثير ، كما قال \u003cspan class=\"arabic qpc-hafs\"\u003e( وكم أهلكنا من القرون من بعد نوح )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 17 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( فكأين من قرية أهلكناها وهي ظالمة فهي خاوية على عروشها وبئر معطلة وقصر مشيد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحج : 45 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وأنشأنا بعدها قوما آخرين )\u003c/span\u003e أي : أمة أخرى بعدهم .\u003c/p\u003e"
+}

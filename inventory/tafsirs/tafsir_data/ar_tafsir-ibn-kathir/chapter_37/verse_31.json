@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:31":  {
+                                 "id":  3819
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فحق علينا قول ربنا إنا لذائقون فأغويناكم إنا كنا غاوين )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e يقول الكبراء للمستضعفين :\u003c/span\u003e حقت علينا كلمة الله : إنا من الأشقياء الذائقين العذاب يوم القيامة ،\u003c/p\u003e"
+}

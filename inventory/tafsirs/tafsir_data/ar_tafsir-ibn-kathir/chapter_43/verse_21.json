@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:21":  {
+                                 "id":  4346
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى منكرا على المشركين في عبادتهم غير الله بلا برهان ولا دليل ولا حجة : \u003cspan class=\"arabic qpc-hafs\"\u003e( أم آتيناهم كتابا من قبله )\u003c/span\u003e أي : من قبل شركهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فهم به مستمسكون )\u003c/span\u003e أي : فيما هم فيه ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e ليس الأمر كذلك ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أم أنزلنا عليهم سلطانا فهو يتكلم بما كانوا به يشركون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الروم : 35 ]\u003c/span\u003e أي : لم يكن ذلك .\u003c/p\u003e"
+}

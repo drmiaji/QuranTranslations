@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:18":  {
+                                 "id":  2501
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( بل نقذف بالحق على الباطل )\u003c/span\u003e أي : نبين الحق فيدحض الباطل; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( فيدمغه فإذا هو زاهق )\u003c/span\u003e أي : ذاهب مضمحل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكم الويل )\u003c/span\u003e أي : أيها القائلون : لله ولد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( مما تصفون )\u003c/span\u003e أي : تقولون وتفترون .\u003c/p\u003e\u003cp\u003eثم أخبر تعالى عن عبودية الملائكة له ، ودأبهم في طاعته ليلا ونهارا\u003c/p\u003e"
+}

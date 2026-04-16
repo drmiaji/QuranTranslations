@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:45":  {
+                                 "id":  4103
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى ذاما للمشركين أيضا : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا ذكر الله وحده )\u003c/span\u003e أي : إذا قيل : لا إله إلا الله \u003cspan class=\"arabic qpc-hafs\"\u003e( اشمأزت قلوب الذين لا يؤمنون بالآخرة )\u003c/span\u003e قال مجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( اشمأزت )\u003c/span\u003e انقبضت .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال السدي : نفرت .\u003cspan class=\"blue\"\u003e وقال قتادة :\u003c/span\u003e كفرت واستكبرت . وقال مالك ،\u003cspan class=\"blue\"\u003e عن زيد بن أسلم :\u003c/span\u003e استكبرت .\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنهم كانوا إذا قيل لهم لا إله إلا الله يستكبرون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الصافات : 35 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e عن المتابعة والانقياد لها . فقلوبهم لا تقبل الخير ،\u003cspan class=\"blue\"\u003e ومن لم يقبل الخير يقبل الشر ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا ذكر الذين من دونه )\u003c/span\u003e أي : من الأصنام والأنداد ، قاله مجاهد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إذا هم يستبشرون )\u003c/span\u003e أي : يفرحون ويسرون .\u003c/p\u003e"
+}

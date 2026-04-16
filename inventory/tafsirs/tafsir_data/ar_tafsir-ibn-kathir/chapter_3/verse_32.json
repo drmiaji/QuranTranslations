@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:32":  {
+                                "id":  325
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال آمرا لكل أحد من خاص وعام : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل أطيعوا الله والرسول فإن تولوا )\u003c/span\u003e أي : خالفوا عن أمره \u003cspan class=\"arabic qpc-hafs\"\u003e( فإن الله لا يحب الكافرين )\u003c/span\u003e فدل على أن مخالفته في الطريقة كفر ، والله لا يحب من اتصف بذلك ، وإن ادعى وزعم في نفسه أنه يحب لله ويتقرب إليه ، حتى يتابع الرسول النبي الأمي خاتم الرسل ، ورسول الله إلى جميع الثقلين الجن والإنس الذي لو كان الأنبياء - بل المرسلون ، بل أولو العزم منهم - في زمانه لما وسعهم إلا اتباعه ، والدخول في طاعته ، واتباع شريعته ،\u003cspan class=\"blue\"\u003e كما سيأتي تقريره عند قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذ أخذ الله ميثاق النبيين )\u003c/span\u003e الآية \u003cspan class=\"reference brown\"\u003e[ آل عمران : 31 ]\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ إن شاء الله تعالى ]\u003c/span\u003e .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "28:17":  {
+                                 "id":  3269
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي : بما جعلت لي من الجاه والعزة والمنعة \u003cspan class=\"arabic qpc-hafs\"\u003e( فلن أكون ظهيرا )\u003c/span\u003e أي : معينا \u003cspan class=\"arabic qpc-hafs\"\u003e( للمجرمين )\u003c/span\u003e أي : الكافرين بك ، المخالفين لأمرك .\u003c/p\u003e"
+}

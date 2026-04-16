@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "51:8":  {
+                                "id":  4683
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنكم لفي قول مختلف )\u003c/span\u003e أي : إنكم أيها المشركون المكذبون للرسل لفي قول مختلف مضطرب ، لا يلتئم ولا يجتمع .\u003c/p\u003e\u003cp\u003eوقال قتادة : إنكم لفي قول مختلف ، \u003cspan class=\"reference brown\"\u003e[ يعني ]\u003c/span\u003e ما بين مصدق بالقرآن ومكذب به .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:114":  {
+                                 "id":  783
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال عيسى ابن مريم اللهم ربنا أنزل علينا مائدة من السماء تكون لنا عيدا لأولنا وآخرنا )\u003c/span\u003e قال السدي : أي نتخذ ذلك اليوم الذي نزلت فيه عيدا نعظمه نحن ومن بعدنا ،\u003cspan class=\"blue\"\u003e وقال سفيان الثوري :\u003c/span\u003e يعني يوما نصلي فيه ،\u003cspan class=\"blue\"\u003e وقال قتادة :\u003c/span\u003e أرادوا أن يكون لعقبهم من بعدهم ،\u003cspan class=\"blue\"\u003e وعن سلمان الفارسي :\u003c/span\u003e عظة لنا ولمن بعدنا .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e كافية لأولنا وآخرنا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وآية منك )\u003c/span\u003e أي : دليلا تنصبه على قدرتك على الأشياء ، وعلى إجابتك دعوتي ،\u003cspan class=\"blue\"\u003e فيصدقوني فيما أبلغه عنك ) وارزقنا ) أي :\u003c/span\u003e من عندك رزقا هنيئا بلا كلفة ولا تعب \u003cspan class=\"arabic qpc-hafs\"\u003e( وأنت خير الرازقين )\u003c/span\u003e\u003c/p\u003e"
+}

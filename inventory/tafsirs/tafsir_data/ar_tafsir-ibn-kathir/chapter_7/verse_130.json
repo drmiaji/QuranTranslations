@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:130":  {
+                                 "id":  1084
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( 131 )\u003c/span\u003e ولقد أخذنا آل فرعون ) أي : اختبرناهم وامتحناهم وابتليناهم ) بالسنين ) وهي سني الجوع بسبب قلة الزروع \u003cspan class=\"arabic qpc-hafs\"\u003e( ونقص من الثمرات )\u003c/span\u003e قال مجاهد : وهو دون ذلك .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال أبو إسحاق ،\u003cspan class=\"blue\"\u003e عن رجاء بن حيوة :\u003c/span\u003e كانت النخلة لا تحمل إلا ثمرة واحدة . \u003cspan class=\"arabic qpc-hafs\"\u003e( لعلهم يذكرون )\u003c/span\u003e\u003c/p\u003e"
+}

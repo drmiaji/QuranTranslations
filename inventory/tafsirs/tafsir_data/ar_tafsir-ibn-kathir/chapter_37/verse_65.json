@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:65":  {
+                                 "id":  3853
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( طلعها كأنه رءوس الشياطين )\u003c/span\u003e تبشيع \u003cspan class=\"reference brown\"\u003e[ لها ]\u003c/span\u003e وتكريه لذكرها .\u003c/p\u003e\u003cp\u003eقال وهب بن منبه : شعور الشياطين قائمة إلى السماء .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوإنما شبهها برءوس الشياطين وإن لم تكن معروفة عند المخاطبين ; لأنه قد استقر في النفوس أن الشياطين قبيحة المنظر .\u003c/p\u003e\u003cp\u003eوقيل : المراد بذلك ضرب من الحيات ، رءوسها بشعة المنظر .\u003c/p\u003e\u003cp\u003eوقيل : جنس من النبات ، طلعه في غاية الفحاشة .\u003c/p\u003e\u003cp\u003eوفي هذين الاحتمالين نظر ، وقد ذكرهما ابن جرير ، والأول أقوى وأولى ، والله أعلم .\u003c/p\u003e"
+}

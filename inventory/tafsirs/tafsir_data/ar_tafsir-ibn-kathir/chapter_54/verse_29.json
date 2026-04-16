@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:29":  {
+                                 "id":  4875
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( فنادوا صاحبهم فتعاطى فعقر )\u003c/span\u003e قال المفسرون : هو عاقر الناقة ، واسمه قدار بن سالف ، وكان أشقى قومه .\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إذ انبعث أشقاها )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الشمس : 12 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e ) فتعاطى ) أي :\u003c/span\u003e فجسر\u003c/p\u003e"
+}

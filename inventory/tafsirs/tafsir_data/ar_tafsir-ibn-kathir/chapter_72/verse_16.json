@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "72:16":  {
+                                 "id":  5463
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأن لو استقاموا على الطريقة لأسقيناهم ماء غدقا لنفتنهم فيه )\u003c/span\u003e اختلف المفسرون في معنى هذا على قولين :\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eأحدهما : وأن لو استقام القاسطون على طريقة الإسلام وعدلوا إليها واستمروا عليها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لأسقيناهم ماء غدقا )\u003c/span\u003e أي : كثيرا . والمراد بذلك سعة الرزق .\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو أنهم أقاموا التوراة والإنجيل وما أنزل إليهم من ربهم لأكلوا من فوقهم ومن تحت أرجلهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المائدة : 66 ]\u003c/span\u003e وكقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو أن أهل القرى آمنوا واتقوا لفتحنا عليهم بركات من السماء والأرض )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 96 ]\u003c/span\u003e\u003c/p\u003e"
+}

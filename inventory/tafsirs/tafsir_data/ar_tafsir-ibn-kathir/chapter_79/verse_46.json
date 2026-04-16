@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "79:46":  {
+                                 "id":  5758
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كأنهم يوم يرونها لم يلبثوا إلا عشية أو ضحاها )\u003c/span\u003e أي : إذا قاموا من قبورهم إلى المحشر يستقصرون مدة الحياة الدنيا ، حتى كأنها عندهم كانت عشية من يوم أو ضحى من يوم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال جويبر ، عن الضحاك ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( كأنهم يوم يرونها لم يلبثوا إلا عشية أو ضحاها )\u003c/span\u003e أما عشية : فما بين الظهر إلى غروب الشمس ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أو ضحاها )\u003c/span\u003e ما بين طلوع الشمس إلى نصف النهار .\u003c/p\u003e\u003cp\u003eوقال قتادة : وقت الدنيا في أعين القوم حين عاينوا الآخرة .\u003c/p\u003e\u003cp\u003e[ آخر تفسير سورة \u003cspan class=\"red\"\u003e\" النازعات \"\u003c/span\u003e ] \u003cspan class=\"reference brown\"\u003e[ ولله الحمد والمنة]\u003c/span\u003e\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:68":  {
+                                 "id":  3000
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى \u003cspan class=\"red\"\u003e\"إن في ذلك لآية\"\u003c/span\u003e أي في هذه القصة وما فيها من العجائب والنصر والتأييد لعباد الله المؤمنين لدلالة وحجة قاطعة وحكمة بالغة \u003cspan class=\"red\"\u003e\"وما كان أكثرهم مؤمنين وإن ربك لهو العزيز الرحيم\"\u003c/span\u003e تقدم تفسيره.\u003c/p\u003e"
+}

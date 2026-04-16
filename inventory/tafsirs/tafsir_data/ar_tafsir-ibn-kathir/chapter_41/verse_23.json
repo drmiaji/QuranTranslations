@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "41:23":  {
+                                 "id":  4241
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال معمر : وتلا الحسن : \u003cspan class=\"arabic qpc-hafs\"\u003e( وذلكم ظنكم الذي ظننتم بربكم أرداكم )\u003c/span\u003e ثم قال : قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" قال الله أنا مع عبدي عند ظنه بي ، وأنا معه إذا دعاني \"\u003c/span\u003e ثم افتر الحسن ينظر في هذا فقال : ألا إنما عمل الناس على قدر ظنونهم بربهم ، فأما المؤمن فأحسن الظن بربه فأحسن العمل ، وأما الكافر والمنافق فأساءا الظن بالله فأساءا العمل .\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e قال الله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما كنتم تستترون أن يشهد عليكم سمعكم ولا أبصاركم )\u003c/span\u003e إلى قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وذلكم ظنكم الذي ظننتم بربكم أرداكم فأصبحتم من الخاسرين )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد : حدثنا النضر بن إسماعيل القاص - وهو أبو المغيرة - حدثنا ابن أبي ليلى ، عن أبي الزبير ،\u003cspan class=\"blue\"\u003e عن جابر قال :\u003c/span\u003e قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \" لا يموتن أحد منكم إلا وهو يحسن بالله الظن ، فإن قوما قد أرداهم سوء ظنهم بالله ،\u003cspan class=\"blue\"\u003e فقال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وذلكم ظنكم الذي ظننتم بربكم أرداكم فأصبحتم من الخاسرين )\u003c/span\u003e .\u003c/p\u003e"
+}

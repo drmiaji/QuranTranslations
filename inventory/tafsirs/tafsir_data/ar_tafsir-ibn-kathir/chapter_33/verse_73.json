@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "33:73":  {
+                                 "id":  3606
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ليعذب الله المنافقين والمنافقات والمشركين والمشركات )\u003c/span\u003e أي : إنما حمل ابن آدم الأمانة وهي التكاليف ليعذب الله المنافقين منهم والمنافقات ، وهم الذين يظهرون الإيمان خوفا من أهله ويبطنون الكفر متابعة لأهله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( والمشركين والمشركات )\u003c/span\u003e ، وهم الذين ظاهرهم وباطنهم على الشرك بالله ، عز وجل ، ومخالفة رسله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ويتوب الله على المؤمنين والمؤمنات )\u003c/span\u003e أي : وليرحم المؤمنين من الخلق الذين آمنوا بالله ، وملائكته وكتبه ورسله العاملين بطاعته \u003cspan class=\"arabic qpc-hafs\"\u003e( وكان الله غفورا رحيما )\u003c/span\u003e .\u003c/p\u003e\u003cp\u003e[ آخر تفسير سورة \u003cspan class=\"red\"\u003e\" الأحزاب \"\u003c/span\u003e ]\u003c/p\u003e"
+}

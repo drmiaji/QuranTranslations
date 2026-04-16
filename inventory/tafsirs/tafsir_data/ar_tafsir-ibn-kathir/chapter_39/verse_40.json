@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:40":  {
+                                 "id":  4098
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( من يأتيه عذاب يخزيه )\u003c/span\u003e أي : في الدنيا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ويحل عليه عذاب مقيم )\u003c/span\u003e أي : دائم مستمر ، لا محيد له عنه . وذلك يوم القيامة .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:78":  {
+                                 "id":  1880
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eصحاب الأيكة : هم قوم شعيب .\u003c/p\u003e\u003cp\u003eقال الضحاك ،\u003cspan class=\"blue\"\u003e وقتادة وغيرهما :\u003c/span\u003e الأيكة : الشجر الملتف .\u003c/p\u003e\u003cp\u003eوكان ظلمهم بشركهم بالله وقطعهم الطريق ، ونقصهم المكيال والميزان\u003c/p\u003e"
+}

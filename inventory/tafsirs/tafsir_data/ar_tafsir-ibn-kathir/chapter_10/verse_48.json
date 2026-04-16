@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:48":  {
+                                 "id":  1412
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن كفر هؤلاء المشركين في استعجالهم العذاب وسؤالهم عن وقته قبل التعين ،\u003cspan class=\"blue\"\u003e مما لا فائدة فيه لهم كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يستعجل بها الذين لا يؤمنون بها والذين آمنوا مشفقون منها ويعلمون أنها الحق )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الشورى : 18 ]\u003c/span\u003e أي : كائنة لا محالة وواقعة ، وإن لم يعلموا وقتها عينا ، ولهذا أرشد رسوله صلى الله عليه وسلم إلى جوابهم\u003c/p\u003e"
+}

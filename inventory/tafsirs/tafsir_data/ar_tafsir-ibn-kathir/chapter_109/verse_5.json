@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "109:5":  {
+                                 "id":  6212
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا أنتم عابدون ما أعبد )\u003c/span\u003e أي : لا تقتدون بأوامر الله وشرعه في عبادته ، بل قد اخترعتم شيئا من تلقاء أنفسكم ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن يتبعون إلا الظن وما تهوى الأنفس ولقد جاءهم من ربهم الهدى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النجم : 23 ]\u003c/span\u003e فتبرأ منهم في جميع ما هم فيه ، فإن العابد لا بد له من معبود يعبده ، وعبادة يسلكها إليه ، فالرسول وأتباعه يعبدون الله بما شرعه ; ولهذا كان كلمة الإسلام \u003cspan class=\"red\"\u003e\" لا إله إلا الله ، محمد رسول الله \"\u003c/span\u003e أي : لا معبود إلا الله ولا طريق إليه إلا بما جاء به الرسول صلى الله عليه وسلم ، والمشركون يعبدون غير الله عبادة لم يأذن بها الله ;\u003c/p\u003e"
+}

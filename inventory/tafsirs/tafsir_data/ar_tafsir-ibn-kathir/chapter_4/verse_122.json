@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:122":  {
+                                 "id":  615
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( والذين آمنوا وعملوا الصالحات )\u003c/span\u003e أي : صدقت قلوبهم وعملت جوارحهم بما أمروا به من الخيرات ، وتركوا ما نهوا عنه من المنكرات \u003cspan class=\"arabic qpc-hafs\"\u003e( سندخلهم جنات تجري من تحتها الأنهار )\u003c/span\u003e أي : يصرفونها حيث شاؤوا وأين شاؤوا \u003cspan class=\"arabic qpc-hafs\"\u003e( خالدين فيها أبدا )\u003c/span\u003e أي : بلا زوال ولا انتقال \u003cspan class=\"arabic qpc-hafs\"\u003e( وعد الله حقا )\u003c/span\u003e أي : هذا وعد من الله ووعد الله معلوم حقيقة أنه واقع لا محالة ، ولهذا أكده بالمصدر الدال على تحقيق الخبر ،\u003cspan class=\"blue\"\u003e وهو قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( حقا )\u003c/span\u003e ثم قال \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن أصدق من الله قيلا )\u003c/span\u003e أي : لا أحد أصدق منه قولا وخبرا ، لا إله إلا هو ، ولا رب سواه .\u003cspan class=\"blue\"\u003e وكان رسول الله صلى الله عليه وسلم يقول في خطبته :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن أصدق الحديث كلام الله ، وخير الهدي هدي محمد صلى الله عليه وسلم ، وشر الأمور محدثاتها ، وكل محدثة بدعة وكل بدعة ضلالة ، وكل ضلالة في النار \"\u003c/span\u003e .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "30:25":  {
+                                 "id":  3434
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن آياته أن تقوم السماء والأرض بأمره )\u003c/span\u003e كقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويمسك السماء أن تقع على الأرض إلا بإذنه )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحج : 65 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله يمسك السماوات والأرض أن تزولا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ فاطر : 41 ]\u003c/span\u003e . وكان عمر بن الخطاب ، رضي الله عنه ،\u003cspan class=\"blue\"\u003e إذا اجتهد في اليمين يقول :\u003c/span\u003e لا والذي تقوم السماء والأرض بأمره ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e هي قائمة ثابتة بأمره لها وتسخيره إياها ، ثم إذا كان يوم القيامة بدلت الأرض غير الأرض والسماوات ،\u003cspan class=\"blue\"\u003e وخرجت الأموات من قبورها أحياء بأمره تعالى ودعائه إياهم; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم إذا دعاكم دعوة من الأرض إذا أنتم تخرجون )\u003c/span\u003e كما قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( يوم يدعوكم فتستجيبون بحمده وتظنون إن لبثتم إلا قليلا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 52 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( فإنما هي زجرة واحدة فإذا هم بالساهرة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النازعات : 13 ، 14 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن كانت إلا صيحة واحدة فإذا هم جميع لدينا محضرون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يس : 53 ]\u003c/span\u003e .\u003c/p\u003e"
+}

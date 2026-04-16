@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:176":  {
+                                  "id":  3108
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eهؤلاء - أعني أصحاب الأيكة - هم أهل مدين على الصحيح . وكان نبي الله شعيب من أنفسهم ، وإنما لم يقل هنا أخوهم شعيب ; لأنهم نسبوا إلى عبادة الأيكة ، وهي شجرة .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e شجر ملتف كالغيضة ،\u003cspan class=\"blue\"\u003e كانوا يعبدونها ; فلهذا لما قال :\u003c/span\u003e كذب أصحاب الأيكة المرسلين ،\u003cspan class=\"blue\"\u003e لم يقل :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إذ قال لهم أخوهم شعيب \"\u003c/span\u003e ،\u003c/p\u003e"
+}

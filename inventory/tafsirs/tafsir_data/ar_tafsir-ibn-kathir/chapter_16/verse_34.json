@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:34":  {
+                                 "id":  1935
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفلهذا أصابتهم عقوبة الله على ذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وحاق بهم )\u003c/span\u003e أي : أحاط بهم من العذاب الأليم \u003cspan class=\"arabic qpc-hafs\"\u003e( ما كانوا به يستهزئون )\u003c/span\u003e أي : يسخرون من الرسل إذا توعدوهم بعقاب الله ; فلهذا يقال يوم القيامة : \u003cspan class=\"arabic qpc-hafs\"\u003e( هذه النار التي كنتم بها تكذبون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الطور : 14 ]\u003c/span\u003e .\u003c/p\u003e"
+}

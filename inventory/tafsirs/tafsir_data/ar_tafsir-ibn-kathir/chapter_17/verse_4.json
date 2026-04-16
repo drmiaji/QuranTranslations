@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "17:4":  {
+                                "id":  2033
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : إنه قضى إلى بني إسرائيل في الكتاب ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e تقدم إليهم وأخبرهم في الكتاب الذي أنزله عليهم أنهم سيفسدون في الأرض مرتين ويعلون ‌‌علوا كبيرا ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e يتجبرون ويطغون ويفجرون على الناس كما قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وقضينا إليه ذلك الأمر أن دابر هؤلاء مقطوع مصبحين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحجر : 66 ]\u003c/span\u003e أي : تقدمنا إليه وأخبرناه بذلك وأعلمناه به .\u003c/p\u003e"
+}

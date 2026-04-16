@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:98":  {
+                                 "id":  2238
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قال هذا رحمة من ربي )\u003c/span\u003e أي : لما بناه ذو القرنين \u003cspan class=\"arabic qpc-hafs\"\u003e( قال هذا رحمة من ربي )\u003c/span\u003e أي : بالناس حيث جعل بينهم وبين يأجوج ومأجوج حائلا يمنعهم من العيث في الأرض والفساد . \u003cspan class=\"arabic qpc-hafs\"\u003e( فإذا جاء وعد ربي )\u003c/span\u003e أي : إذا اقترب الوعد الحق \u003cspan class=\"arabic qpc-hafs\"\u003e( جعله دكاء )\u003c/span\u003e أي : ساواه بالأرض .\u003cspan class=\"blue\"\u003e تقول العرب :\u003c/span\u003e ناقة دكاء : إذا كان ظهرها مستويا لا سنام لها .\u003cspan class=\"blue\"\u003e وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فلما تجلى ربه للجبل جعله دكا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 143 ]\u003c/span\u003e أي : مساويا للأرض .\u003c/p\u003e\u003cp\u003eوقال عكرمة في قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فإذا جاء وعد ربي جعله دكاء )\u003c/span\u003e قال : طريقا كما كان .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وكان وعد ربي حقا )\u003c/span\u003e أي : كائنا لا محالة .\u003c/p\u003e"
+}

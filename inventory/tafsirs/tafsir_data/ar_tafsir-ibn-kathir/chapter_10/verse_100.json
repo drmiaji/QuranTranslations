@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:100":  {
+                                  "id":  1464
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وما كان لنفس أن تؤمن إلا بإذن الله ويجعل الرجس )\u003c/span\u003e وهو الخبال والضلال ، \u003cspan class=\"arabic qpc-hafs\"\u003e( على الذين لا يعقلون )\u003c/span\u003e أي : حجج الله وأدلته ، وهو العادل في كل ذلك ، في هداية من هدى ، وإضلال من ضل .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:23":  {
+                                 "id":  4807
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال منكرا عليهم فيما ابتدعوه وأحدثوه من الكذب والافتراء والكفر ،\u003cspan class=\"blue\"\u003e من عبادة الأصنام وتسميتها آلهة :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن هي إلا أسماء سميتموها أنتم وآباؤكم )\u003c/span\u003e أي : من تلقاء أنفسكم \u003cspan class=\"arabic qpc-hafs\"\u003e( ما أنزل الله بها من سلطان )\u003c/span\u003e أي : من حجة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن يتبعون إلا الظن وما تهوى الأنفس )\u003c/span\u003e أي : ليس لهم مستند إلا حسن ظنهم بآبائهم الذين سلكوا هذا المسلك الباطل قبلهم ، وإلا حظ نفوسهم في رياستهم وتعظيم آبائهم الأقدمين ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد جاءهم من ربهم الهدى )\u003c/span\u003e أي : ولقد أرسل الله إليهم الرسل بالحق المنير والحجة القاطعة ، ومع هذا ما اتبعوا ما جاءوهم به ، ولا انقادوا له .\u003c/p\u003e"
+}

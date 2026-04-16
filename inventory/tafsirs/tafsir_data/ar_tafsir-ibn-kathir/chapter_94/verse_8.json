@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "94:8":  {
+                                "id":  6098
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وإلى ربك فارغب )\u003c/span\u003e قال الثوري : اجعل نيتك ورغبتك إلى الله عز وجل .\u003c/p\u003e\u003cp\u003eآخر تفسير سورة \u003cspan class=\"red\"\u003e\" ألم نشرح \"\u003c/span\u003e ولله الحمد .\u003c/p\u003e"
+}

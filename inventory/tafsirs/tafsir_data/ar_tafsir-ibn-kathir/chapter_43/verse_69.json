@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:69":  {
+                                 "id":  4394
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين آمنوا بآياتنا وكانوا مسلمين )\u003c/span\u003e أي : آمنت قلوبهم وبواطنهم ، وانقادت لشرع الله جوارحهم وظواهرهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال المعتمر بن سليمان ،\u003cspan class=\"blue\"\u003e عن أبيه :\u003c/span\u003e إذا كان يوم القيامة فإن الناس حين يبعثون لا يبقى أحد منهم إلا فزع ،\u003cspan class=\"blue\"\u003e فينادي مناد :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ياعباد لا خوف عليكم اليوم ولا أنتم تحزنون )\u003c/span\u003e فيرجوها الناس كلهم ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فيتبعها : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين آمنوا بآياتنا وكانوا مسلمين )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فييأس الناس منها غير المؤمنين .\u003c/p\u003e"
+}

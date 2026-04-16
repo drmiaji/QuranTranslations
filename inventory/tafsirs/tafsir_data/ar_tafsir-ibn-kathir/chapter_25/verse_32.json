@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "25:32":  {
+                                 "id":  2887
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن كثرة اعتراض الكفار وتعنتهم ، وكلامهم فيما لا يعنيهم ،\u003cspan class=\"blue\"\u003e حيث قالوا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لولا نزل عليه القرآن جملة واحدة )\u003c/span\u003e أي : هلا أنزل عليه هذا الكتاب الذي أوحي إليه جملة واحدة ، كما نزلت الكتب قبله ، كالتوراة والإنجيل والزبور ، وغيرها من الكتب الإلهية . فأجابهم الله عن ذلك بأنه إنما أنزل منجما في ثلاث وعشرين سنة بحسب الوقائع والحوادث ،\u003cspan class=\"blue\"\u003e وما يحتاج إليه من الأحكام لتثبيت قلوب المؤمنين به كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقرآنا فرقناه لتقرأه على الناس على مكث ونزلناه تنزيلا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 106 ]\u003c/span\u003e ; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( لنثبت به فؤادك ورتلناه ترتيلا )\u003c/span\u003e .\u003cspan class=\"blue\"\u003e قال قتادة :\u003c/span\u003e وبيناه تبيينا .\u003cspan class=\"blue\"\u003e وقال عبد الرحمن بن زيد بن أسلم :\u003c/span\u003e وفسرناه تفسيرا .\u003c/p\u003e"
+}

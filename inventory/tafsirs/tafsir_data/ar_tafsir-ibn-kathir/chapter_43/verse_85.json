@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:85":  {
+                                 "id":  4410
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وتبارك الذي له ملك السموات والأرض وما بينهما )\u003c/span\u003e أي : هو خالقهما ومالكهما والمتصرف فيهما ، بلا مدافعة ولا ممانعة ، فسبحانه وتعالى عن الولد ،\u003cspan class=\"blue\"\u003e وتبارك :\u003c/span\u003e أي استقر له السلامة من العيوب والنقائص ; لأنه الرب العلي العظيم ، المالك للأشياء ، الذي بيده أزمة الأمور نقضا وإبراما ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وعنده علم الساعة )\u003c/span\u003e أي : لا يجليها لوقتها إلا هو ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإليه ترجعون )\u003c/span\u003e أي : فيجازي كلا بعمله ، إن خيرا فخير ، وإن شرا فشر .\u003c/p\u003e"
+}

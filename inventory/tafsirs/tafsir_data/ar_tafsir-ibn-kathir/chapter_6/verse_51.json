@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "6:51":  {
+                                "id":  840
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( الذين يخافون أن يحشروا إلى ربهم )\u003c/span\u003e أي : يوم القيامة . \u003cspan class=\"arabic qpc-hafs\"\u003e( ليس لهم )\u003c/span\u003e أي : يومئذ \u003cspan class=\"arabic qpc-hafs\"\u003e( من دونه ولي ولا شفيع )\u003c/span\u003e أي : لا قريب لهم ولا شفيع فيهم من عذابه إن أراده بهم \u003cspan class=\"arabic qpc-hafs\"\u003e( لعلهم يتقون )\u003c/span\u003e أي : أنذر هذا اليوم الذي لا حاكم فيه إلا الله ، عز وجل \u003cspan class=\"arabic qpc-hafs\"\u003e( لعلهم يتقون )\u003c/span\u003e فيعملون في هذه الدار عملا ينجيهم الله به يوم القيامة من عذابه ، ويضاعف لهم به الجزيل من ثوابه .\u003c/p\u003e"
+}

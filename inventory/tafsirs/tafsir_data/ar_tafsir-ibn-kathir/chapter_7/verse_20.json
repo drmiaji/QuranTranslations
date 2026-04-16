@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:20":  {
+                                "id":  974
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفعند ذلك حسدهما الشيطان ، وسعى في المكر والخديعة والوسوسة ليسلبا ما هما فيه من النعمة واللباس الحسن ،\u003cspan class=\"blue\"\u003e وقال كذبا وافتراء :\u003c/span\u003e ما نهاكما ربكما عن أكل الشجرة إلا لتكونا ملكين أي : لئلا تكونا ملكين ،\u003cspan class=\"blue\"\u003e أو خالدين هاهنا ولو أنكما أكلتما منها لحصل لكما ذلكما كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قال يا آدم هل أدلك على شجرة الخلد وملك لا يبلى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ طه : 120 ]\u003c/span\u003e أي : لئلا تكونا ملكين ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يبين الله لكم أن تضلوا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النساء : 176 ]\u003c/span\u003e أي : لئلا تضلوا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وألقى في الأرض رواسي أن تميد بكم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النحل : 15 ]\u003c/span\u003e أي : لئلا تميد بكم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوكان ابن عباس ويحيى بن أبي كثير يقرءان : \u003cspan class=\"red\"\u003e\" إلا أن تكونا ملكين \"\u003c/span\u003e بكسر اللام . وقرأه الجمهور بفتحها .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:67":  {
+                                 "id":  4200
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( هو الذي خلقكم من تراب ثم من نطفة ثم من علقة ثم يخرجكم طفلا ثم لتبلغوا أشدكم ثم لتكونوا شيوخا )\u003c/span\u003e أي : هو الذي يقلبكم في هذه الأطوار كلها ، وحده لا شريك له ، وعن أمره وتدبيره وتقديره يكون ذلك كله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومنكم من يتوفى من قبل )\u003c/span\u003e أي : من قبل أن يوجد ويخرج إلى هذا العالم ، بل تسقطه أمه سقطا ، ومنهم من يتوفى صغيرا ، وشابا ، وكهلا قبل الشيخوخة ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لنبين لكم ونقر في الأرحام ما نشاء إلى أجل مسمى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحج : 5 ]\u003c/span\u003e وقال هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولعلكم تعقلون )\u003c/span\u003e قال ابن جريج ، تتذكرون البعث .\u003c/p\u003e"
+}

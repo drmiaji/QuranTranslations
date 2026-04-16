@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:24":  {
+                                 "id":  1925
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : وإذا قيل لهؤلاء المكذبين : \u003cspan class=\"arabic qpc-hafs\"\u003e( ماذا أنزل ربكم قالوا )\u003c/span\u003e معرضين عن الجواب : \u003cspan class=\"arabic qpc-hafs\"\u003e( أساطير الأولين )\u003c/span\u003e أي : لم ينزل شيئا ، إنما هذا الذي يتلى علينا أساطير الأولين ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e مأخوذ من كتب المتقدمين ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقالوا أساطير الأولين اكتتبها فهي تملى عليه بكرة وأصيلا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الفرقان : 5 ]\u003c/span\u003e أي : يفترون على الرسول ، ويقولون \u003cspan class=\"reference brown\"\u003e[ فيه ]\u003c/span\u003e أقوالا مختلفة متضادة ،\u003cspan class=\"blue\"\u003e كلها باطلة كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( انظر كيف ضربوا لك الأمثال فضلوا فلا يستطيعون سبيلا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الفرقان : 9 ]\u003c/span\u003e وذلك أن كل من خرج عن الحق فمهما قال أخطأ ،\u003cspan class=\"blue\"\u003e وكانوا يقولون :\u003c/span\u003e ساحر ، وشاعر ، وكاهن ، ومجنون . ثم استقر أمرهم إلى ما اختلقه لهم شيخهم الوحيد المسمى بالوليد بن المغيرة المخزومي ، لما \u003cspan class=\"arabic qpc-hafs\"\u003e( فكر وقدر فقتل كيف قدر ثم قتل كيف قدر ثم نظر ثم عبس وبسر ثم أدبر واستكبر فقال إن هذا إلا سحر يؤثر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المدثر : 18 - 24 ]\u003c/span\u003e أي : ينقل ويحكى ، فتفرقوا عن قوله ورأيه ، قبحهم الله .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:8":  {
+                                "id":  3796
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( لا يسمعون إلى الملإ الأعلى )\u003c/span\u003e أي : لئلا يصلوا إلى الملأ الأعلى ، وهي السماوات ومن فيها من الملائكة ، إذا تكلموا بما يوحيه الله مما يقوله من شرعه وقدره ،\u003cspan class=\"blue\"\u003e كما تقدم بيان ذلك في الأحاديث التي أوردناها عند قوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( حتى إذا فزع عن قلوبهم قالوا ماذا قال ربكم قالوا الحق وهو العلي الكبير )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ سبأ : 23 ]\u003c/span\u003e ولهذا قال \u003cspan class=\"arabic qpc-hafs\"\u003e( ويقذفون )\u003c/span\u003e أي : يرمون \u003cspan class=\"arabic qpc-hafs\"\u003e( من كل جانب )\u003c/span\u003e أي : من كل جهة يقصدون السماء منها\u003c/p\u003e"
+}

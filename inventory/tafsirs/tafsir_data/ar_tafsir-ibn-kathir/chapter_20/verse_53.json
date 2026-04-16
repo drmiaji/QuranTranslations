@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "20:53":  {
+                                 "id":  2401
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eهذا من تمام كلام موسى فيما وصف به ربه - عز وجل - حين سأله فرعون عنه ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي أعطى كل شيء خلقه ثم هدى )\u003c/span\u003e ، ثم اعترض الكلام بين ذلك ،\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي جعل لكم الأرض مهادا )\u003c/span\u003e وفي قراءة بعضهم \u003cspan class=\"red\"\u003e\" مهدا \"\u003c/span\u003e أي : قرارا تستقرون عليها وتقومون وتنامون عليها وتسافرون على ظهرها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وسلك لكم فيها سبلا )\u003c/span\u003e أي : جعل لكم طرقا تمشون في مناكبها ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وجعلنا فيها فجاجا سبلا لعلهم يهتدون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنبياء : 31 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وأنزل من السماء ماء فأخرجنا به أزواجا من نبات شتى )\u003c/span\u003e أي : من ألوان النباتات من زروع وثمار ، ومن حامض وحلو ، وسائر الأنواع .\u003c/p\u003e"
+}

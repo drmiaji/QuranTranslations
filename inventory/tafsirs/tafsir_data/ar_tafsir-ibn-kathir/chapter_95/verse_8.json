@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "95:8":  {
+                                "id":  6106
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أليس الله بأحكم الحاكمين )\u003c/span\u003e أي : أما هو أحكم الحاكمين ، الذي لا يجور ولا يظلم أحدا ، ومن عدله أن يقيم القيامة فينصف المظلوم في الدنيا ممن ظلمه .\u003cspan class=\"blue\"\u003e وقد قدمنا في حديث أبي هريرة مرفوعا :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" فإذا قرأ أحدكم \u003cspan class=\"arabic qpc-hafs\"\u003e( والتين والزيتون )\u003c/span\u003e فأتى على آخرها : \u003cspan class=\"arabic qpc-hafs\"\u003e( أليس الله بأحكم الحاكمين )\u003c/span\u003e فليقل : بلى ، وأنا على ذلك من الشاهدين \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eآخر تفسير \u003cspan class=\"reference brown\"\u003e[ سورة ]\u003c/span\u003e \u003cspan class=\"red\"\u003e\" والتين والزيتون \"\u003c/span\u003e ولله الحمد .\u003c/p\u003e"
+}

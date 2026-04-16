@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "75:9":  {
+                                "id":  5560
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وجمع الشمس والقمر )\u003c/span\u003e قال مجاهد : كورا .\u003cspan class=\"blue\"\u003e وقرأ ابن زيد عند تفسير هذه الآية :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إذا الشمس كورت وإذا النجوم انكدرت )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ التكوير : 1 ، 2 ]\u003c/span\u003e وروي عن ابن مسعود أنه قرأ : \u003cspan class=\"red\"\u003e\" وجمع بين الشمس والقمر \"\u003c/span\u003e .\u003c/p\u003e"
+}

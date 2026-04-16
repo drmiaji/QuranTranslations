@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:25":  {
+                                 "id":  2698
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن هو إلا رجل به جنة )\u003c/span\u003e أي : مجنون فيما يزعمه ، من أن الله أرسله إليكم ، واختصه من بينكم بالوحي \u003cspan class=\"arabic qpc-hafs\"\u003e( فتربصوا به حتى حين )\u003c/span\u003e أي : انتظروا به ريب المنون ، واصبروا عليه مدة حتى تستريحوا منه .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:31":  {
+                                 "id":  2704
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى أنه أنشأ بعد قوم نوح قرنا آخرين قيل المراد بهم عاد فإنهم كانوا مستخلفين بعدهم وقيل المراد بهؤلاء ثمود لقوله \u003cspan class=\"red\"\u003e\" فأخذتهم الصيحة بالحق \"\u003c/span\u003e.\u003c/p\u003e"
+}

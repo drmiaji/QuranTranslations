@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:254":  {
+                                 "id":  261
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيأمر تعالى عباده بالإنفاق مما رزقهم في سبيله سبيل الخير ليدخروا ثواب ذلك عند ربهم ومليكهم وليبادروا إلى ذلك في هذه الحياة الدنيا \u003cspan class=\"arabic qpc-hafs\"\u003e( من قبل أن يأتي يوم )\u003c/span\u003e يعني : يوم القيامة \u003cspan class=\"arabic qpc-hafs\"\u003e( لا بيع فيه ولا خلة ولا شفاعة )\u003c/span\u003e أي : لا يباع أحد من نفسه ولا يفادى بمال لو بذله ، ولو جاء بملء الأرض ذهبا ولا تنفعه خلة أحد ،\u003cspan class=\"blue\"\u003e يعني :\u003c/span\u003e صداقته بل ولا نسابته كما قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( فإذا نفخ في الصور فلا أنساب بينهم يومئذ ولا يتساءلون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المؤمنون : 101 ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا شفاعة )\u003c/span\u003e أي : ولا تنفعهم شفاعة الشافعين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والكافرون هم الظالمون )\u003c/span\u003e مبتدأ محصور في خبره أي : ولا ظالم أظلم ممن وافى الله يومئذ كافرا .\u003cspan class=\"blue\"\u003e وقد روى ابن أبي حاتم عن عطاء بن دينار أنه قال :\u003c/span\u003e الحمد لله الذي قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والكافرون هم الظالمون )\u003c/span\u003e ولم يقل : والظالمون هم الكافرون .\u003c/p\u003e"
+}

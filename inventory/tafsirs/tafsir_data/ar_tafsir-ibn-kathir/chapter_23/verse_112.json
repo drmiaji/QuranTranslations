@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:112":  {
+                                  "id":  2785
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى منبها لهم على ما أضاعوه في عمرهم القصير في الدنيا من طاعة الله تعالى وعبادته وحده ، ولو صبروا في مدة الدنيا القصيرة لفازوا كما فاز أولياؤه المتقون ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قال كم لبثتم في الأرض عدد سنين )\u003c/span\u003e أي : كم كانت إقامتكم في الدنيا؟\u003c/p\u003e"
+}

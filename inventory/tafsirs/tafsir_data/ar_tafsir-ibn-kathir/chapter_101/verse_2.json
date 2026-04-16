@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "101:2":  {
+                                 "id":  6159
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eثم قال معظما أمرها ومهولا لشأنها : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أدراك ما القارعة )\u003c/span\u003e ؟\u003c/p\u003e"
+}

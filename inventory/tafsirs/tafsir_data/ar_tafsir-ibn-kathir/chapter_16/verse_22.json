@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:22":  {
+                                 "id":  1923
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى أنه لا إله إلا هو الواحد الأحد الفرد الصمد ، وأخبر أن الكافرين تنكر قلوبهم ذلك ،\u003cspan class=\"blue\"\u003e كما أخبر عنهم متعجبين من ذلك :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أجعل الآلهة إلها واحدا إن هذا لشيء عجاب )\u003c/span\u003e وقال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا ذكر الله وحده اشمأزت قلوب الذين لا يؤمنون بالآخرة وإذا ذكر الذين من دونه إذا هم يستبشرون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزمر : 45 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وهم مستكبرون )\u003c/span\u003e أي : عن عبادة الله مع إنكار قلوبهم لتوحيده ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذين يستكبرون عن عبادتي سيدخلون جهنم داخرين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ غافر : 60 ]\u003c/span\u003e\u003c/p\u003e"
+}

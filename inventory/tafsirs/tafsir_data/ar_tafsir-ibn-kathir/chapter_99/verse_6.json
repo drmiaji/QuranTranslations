@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "99:6":  {
+                                "id":  6144
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يومئذ يصدر الناس أشتاتا )\u003c/span\u003e أي : يرجعون عن مواقف الحساب \u003cspan class=\"arabic qpc-hafs\"\u003e( أشتاتا )\u003c/span\u003e أي : أنواعا وأصنافا ، ما بين شقي وسعيد ، مأمور به إلى الجنة ، ومأمور به إلى النار .\u003c/p\u003e\u003cp\u003eقال ابن جريج : يتصدعون أشتاتا فلا يجتمعون آخر ما عليهم .\u003c/p\u003e\u003cp\u003eوقال السدي : \u003cspan class=\"arabic qpc-hafs\"\u003e( أشتاتا )\u003c/span\u003e فرقا .\u003c/p\u003e\u003cp\u003eوقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ليروا أعمالهم )\u003c/span\u003e أي : ليعملوا ويجازوا بما عملوه في الدنيا ، من خير وشر .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:15":  {
+                                 "id":  3803
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وقالوا إن هذا إلا سحر مبين )\u003c/span\u003e أي : إن هذا الذي جئت به إلا سحر مبين ،\u003c/p\u003e"
+}

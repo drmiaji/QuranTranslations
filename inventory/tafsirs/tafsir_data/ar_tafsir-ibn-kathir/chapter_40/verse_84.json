@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:84":  {
+                                 "id":  4217
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فلما رأوا بأسنا )\u003c/span\u003e أي : عاينوا وقوع العذاب بهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا آمنا بالله وحده وكفرنا بما كنا به مشركين )\u003c/span\u003e أي : وحدوا الله وكفروا بالطاغوت ، ولكن حيث لا تقال العثرات ، ولا تنفع المعذرة .\u003cspan class=\"blue\"\u003e وهذا كما قال فرعون حين أدركه الغرق :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( آمنت أنه لا إله إلا الذي آمنت به بنو إسرائيل وأنا من المسلمين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 90 ]\u003c/span\u003e ، قال الله \u003cspan class=\"reference brown\"\u003e[ تبارك و ]\u003c/span\u003e تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( آلآن وقد عصيت قبل وكنت من المفسدين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 91 ]\u003c/span\u003e أي : فلم يقبل الله منه ; لأنه قد استجاب لنبيه موسى دعاءه عليه حين قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( واشدد على قلوبهم فلا يؤمنوا حتى يروا العذاب الأليم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 88 ]\u003c/span\u003e . و \u003cspan class=\"reference brown\"\u003e[ هكذا ]\u003c/span\u003e هاهنا قال :\u003c/p\u003e"
+}

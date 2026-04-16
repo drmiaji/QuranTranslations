@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "79:39":  {
+                                 "id":  5751
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eأي فإن مصيره إلى الجحيم وإن مطعمه من الزقوم ومشربه من الحميم.\u003c/p\u003e"
+}

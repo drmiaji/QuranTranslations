@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:62":  {
+                                 "id":  2735
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن عدله في شرعه على عباده في الدنيا : أنه لا يكلف نفسا إلا وسعها ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e إلا ما تطيق حمله والقيام به ،\u003cspan class=\"blue\"\u003e وأنه يوم القيامة يحاسبهم بأعمالهم التي كتبها عليهم في كتاب مسطور لا يضيع منه شيء; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولدينا كتاب ينطق بالحق )\u003c/span\u003e يعني : كتاب الأعمال ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهم لا يظلمون )\u003c/span\u003e أي : لا يبخسون من الخير شيئا ، وأما السيئات فيعفو ويصفح عن كثير منها لعباده المؤمنين .\u003c/p\u003e"
+}

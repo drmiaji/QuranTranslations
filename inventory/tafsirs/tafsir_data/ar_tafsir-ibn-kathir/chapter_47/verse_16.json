@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:16":  {
+                                 "id":  4561
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن المنافقين في بلادتهم وقلة فهمهم حيث كانوا يجلسون إلى رسول الله - صلى الله عليه وسلم - ويستمعون كلامه ولا يفهمون منه شيئا ، فإذا خرجوا من عنده \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا للذين أوتوا العلم )\u003c/span\u003e من الصحابة : \u003cspan class=\"arabic qpc-hafs\"\u003e( ماذا قال آنفا )\u003c/span\u003e أي : الساعة ، لا يعقلون ما يقال ، ولا يكترثون له .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال الله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك الذين طبع الله على قلوبهم واتبعوا أهواءهم )\u003c/span\u003e أي : فلا فهم صحيح ، ولا قصد صحيح .\u003c/p\u003e"
+}

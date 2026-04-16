@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:5":  {
+                                "id":  4740
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والسقف المرفوع )\u003c/span\u003e : قال سفيان الثوري ، وشعبة ، وأبو الأحوص ، عن سماك ، عن خالد بن عرعرة ،\u003cspan class=\"blue\"\u003e عن علي :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( والسقف المرفوع )\u003c/span\u003e يعني : السماء ،\u003cspan class=\"blue\"\u003e قال سفيان :\u003c/span\u003e ثم تلا \u003cspan class=\"arabic qpc-hafs\"\u003e( وجعلنا السماء سقفا محفوظا وهم عن آياتها معرضون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنبياء : 32 ]\u003c/span\u003e . وكذا قال مجاهد ، وقتادة ، والسدي ، وابن جريج ، وابن زيد ، واختاره ابن جرير .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الربيع بن أنس : هو العرش يعني : أنه سقف لجميع المخلوقات ، وله اتجاه ، وهو يراد مع غيره كما قاله الجمهور .\u003c/p\u003e"
+}

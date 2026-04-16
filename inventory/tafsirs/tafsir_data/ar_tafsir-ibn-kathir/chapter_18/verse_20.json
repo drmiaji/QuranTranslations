@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:20":  {
+                                 "id":  2160
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي : إن علموا بمكانكم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( يرجموكم أو يعيدوكم في ملتهم )\u003c/span\u003e يعنون أصحاب دقيانوس ، يخافون منهم أن يطلعوا على مكانهم ، فلا يزالون يعذبونهم بأنواع العذاب إلى أن يعيدوهم في ملتهم التي هم عليها أو يموتوا ، وإن واتوهم على العود في الدين فلا فلاح لكم في الدنيا ولا في الآخرة ؛ ولهذا قال ) ولن تفلحوا إذا أبدا ) .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:80":  {
+                                 "id":  1981
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيذكر تبارك وتعالى تمام نعمه على عبيده ، بما جعل لهم من البيوت التي هي سكن لهم ، يأوون إليها ، ويستترون بها ، وينتفعون بها سائر وجوه الانتفاع ، وجعل لهم أيضا \u003cspan class=\"arabic qpc-hafs\"\u003e( من جلود الأنعام بيوتا )\u003c/span\u003e أي : من الأدم ، يستخفون حملها في أسفارهم ،\u003cspan class=\"blue\"\u003e ليضربوها لهم في إقامتهم في السفر والحضر ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( تستخفونها يوم ظعنكم ويوم إقامتكم ومن أصوافها )\u003c/span\u003e أي : الغنم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأوبارها )\u003c/span\u003e أي : الإبل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأشعارها )\u003c/span\u003e أي : المعز - والضمير عائد على الأنعام - \u003cspan class=\"arabic qpc-hafs\"\u003e( أثاثا )\u003c/span\u003e أي : تتخذون منه أثاثا وهو المال .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e المتاع .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e الثياب والصحيح أعم من هذا كله ، فإنه يتخذ من الأثاث البسط والثياب وغير ذلك ، ويتخذ مالا وتجارة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن عباس : الأثاث : المتاع . وكذا قال مجاهد ، وعكرمة ، وسعيد بن جبير ، والحسن ، وعطية العوفي ، وعطاء الخراساني ، والضحاك ، وقتادة .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إلى حين )\u003c/span\u003e أي : إلى أجل مسمى ووقت معلوم .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "78:9":  {
+                                "id":  5681
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وجعلنا نومكم سباتا )\u003c/span\u003e أي : قطعا للحركة لتحصل الراحة من كثرة الترداد والسعي في المعايش في عرض النهار . وقد تقدم مثل هذه الآية في سورة \u003cspan class=\"red\"\u003e\" الفرقان \"\u003c/span\u003e .\u003c/p\u003e"
+}

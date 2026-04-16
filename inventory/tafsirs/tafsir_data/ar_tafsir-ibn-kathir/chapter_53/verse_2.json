@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:2":  {
+                                "id":  4786
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ما ضل صاحبكم وما غوى )\u003c/span\u003e هذا هو المقسم عليه ، وهو الشهادة للرسول ، صلوات الله وسلامه عليه بأنه بار راشد تابع للحق ليس بضال ، وهو الجاهل الذي يسلك على غير طريق بغير علم ،\u003cspan class=\"blue\"\u003e والغاوي :\u003c/span\u003e هو العالم بالحق العادل عنه قصدا إلى غيره ، فنزه الله \u003cspan class=\"reference brown\"\u003e[ سبحانه وتعالى ]\u003c/span\u003e رسوله وشرعه عن مشابهة أهل الضلال كالنصارى وطرائق اليهود ، وعن علم الشيء وكتمانه والعمل بخلافه ، بل هو صلوات الله وسلامه عليه ،\u003cspan class=\"blue\"\u003e وما بعثه الله به من الشرع العظيم في غاية الاستقامة والاعتدال والسداد ; ولهذا قال :\u003c/span\u003e\u003c/p\u003e"
+}

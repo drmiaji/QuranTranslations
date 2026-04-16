@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:110":  {
+                                 "id":  1345
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إلا أن تقطع قلوبهم )\u003c/span\u003e أي : بموتهم . قاله ابن عباس ، ومجاهد ، وقتادة ، وزيد بن أسلم ، والسدي ، وحبيب بن أبي ثابت ، والضحاك ، وعبد الرحمن بن زيد بن أسلم ، وغير واحد من علماء السلف .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( والله عليم )\u003c/span\u003e أي : بأعمال خلقه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( حكيم )\u003c/span\u003e في مجازاتهم عنها ، من خير وشر .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "100:7":  {
+                                 "id":  6153
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنه على ذلك لشهيد )\u003c/span\u003e قال قتادة وسفيان الثوري : وإن الله على ذلك لشهيد . ويحتمل أن يعود الضمير على الإنسان ، قاله محمد بن كعب القرظي ،\u003cspan class=\"blue\"\u003e فيكون تقديره :\u003c/span\u003e وإن الإنسان على كونه كنودا لشهيد ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e بلسان حاله ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e ظاهر ذلك عليه في أقواله وأفعاله ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ما كان للمشركين أن يعمروا مساجد الله شاهدين على أنفسهم بالكفر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ التوبة : 17 ]\u003c/span\u003e\u003c/p\u003e"
+}

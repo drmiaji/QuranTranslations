@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:127":  {
+                                 "id":  420
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ليقطع طرفا من الذين كفروا )\u003c/span\u003e أي : أمركم بالجهاد والجلاد ، لما له في ذلك من الحكمة في كل تقدير ، ولهذا ذكر جميع الأقسام الممكنة في الكفار المجاهدين .\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ليقطع طرفا )\u003c/span\u003e أي : ليهلك أمة \u003cspan class=\"arabic qpc-hafs\"\u003e( من الذين كفروا أو يكبتهم )\u003c/span\u003e أي : يخزيهم ويردهم بغيظهم لما لم ينالوا منكم ما أرادوا ،\u003cspan class=\"blue\"\u003e ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أو يكبتهم فينقلبوا )\u003c/span\u003e أي : يرجعوا \u003cspan class=\"arabic qpc-hafs\"\u003e( خائبين )\u003c/span\u003e أي : لم يحصلوا على ما أملوا .\u003c/p\u003e"
+}

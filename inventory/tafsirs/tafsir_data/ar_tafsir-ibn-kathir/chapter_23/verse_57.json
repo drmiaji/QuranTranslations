@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:57":  {
+                                 "id":  2730
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذين هم من خشية ربهم مشفقون )\u003c/span\u003e أي : هم مع إحسانهم وإيمانهم وعملهم الصالح ، مشفقون من الله خائفون منه ، وجلون من مكره بهم ،\u003cspan class=\"blue\"\u003e كما قال الحسن البصري :\u003c/span\u003e إن المؤمن جمع إحسانا وشفقة ، وإن المنافق جمع إساءة وأمنا .\u003c/p\u003e"
+}

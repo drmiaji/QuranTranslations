@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:15":  {
+                                 "id":  4340
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن المشركين فيما افتروه وكذبوه في جعلهم بعض الأنعام لطواغيتهم وبعضها لله ، كما ذكر الله عنهم في سورة \u003cspan class=\"red\"\u003e\" الأنعام \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وجعلوا لله مما ذرأ من الحرث والأنعام نصيبا فقالوا هذا لله بزعمهم وهذا لشركائنا فما كان لشركائهم فلا يصل إلى الله وما كان لله فهو يصل إلى شركائهم ساء ما يحكمون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 136 ]\u003c/span\u003e . وكذلك جعلوا له من قسمي البنات والبنين أخسهما وأردأهما وهو البنات ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ألكم الذكر وله الأنثى . تلك إذا قسمة ضيزى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النجم : 21 ، 22 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وقال هاهنا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وجعلوا له من عباده جزءا إن الإنسان لكفور مبين )\u003c/span\u003e\u003c/p\u003e"
+}

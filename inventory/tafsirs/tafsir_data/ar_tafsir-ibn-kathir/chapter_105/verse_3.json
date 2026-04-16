@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "105:3":  {
+                                 "id":  6191
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوأرسل الله عليهم طيرا من البحر أمثال الخطاطيف والبلسان.\u003c/p\u003e"
+}

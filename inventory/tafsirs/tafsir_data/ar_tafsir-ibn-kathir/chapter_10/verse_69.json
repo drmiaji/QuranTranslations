@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:69":  {
+                                 "id":  1433
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم توعد تعالى الكاذبين عليه المفترين ، ممن زعم أنه له ولدا ، بأنهم لا يفلحون في الدنيا ولا في الآخرة ، فأما في الدنيا فإنهم إذا استدرجهم وأملى لهم متعهم قليلا ثم يضطرهم إلى عذاب غليظ\u003c/p\u003e"
+}

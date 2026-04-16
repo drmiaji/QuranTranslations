@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "64:13":  {
+                                 "id":  5212
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى مخبرا أنه الأحد الصمد ، الذي لا إله غيره ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الله لا إله إلا هو وعلى الله فليتوكل المؤمنون )\u003c/span\u003e فالأول خبر عن التوحيد ، ومعناه معنى الطلب ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e وحدوا الإلهية له ، وأخلصوها لديه ، وتوكلوا عليه ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( رب المشرق والمغرب لا إله إلا هو فاتخذه وكيلا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المزمل : 9 ]\u003c/span\u003e .\u003c/p\u003e"
+}

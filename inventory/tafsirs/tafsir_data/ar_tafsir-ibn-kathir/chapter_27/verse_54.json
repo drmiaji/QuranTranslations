@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:54":  {
+                                 "id":  3213
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن عبده لوط عليه السلام ، أنه أنذر قومه نقمة الله بهم في فعلهم الفاحشة التي لم يسبقهم إليها أحد من بني آدم ، وهي إتيان الذكور دون الإناث ، وذلك فاحشة عظيمة ، استغنى الرجال بالرجال ، والنساء بالنساء - قال \u003cspan class=\"arabic qpc-hafs\"\u003e( أتأتون الفاحشة وأنتم تبصرون )\u003c/span\u003e أي : يرى بعضكم بعضا ، وتأتون في ناديكم المنكر ؟\u003c/p\u003e"
+}

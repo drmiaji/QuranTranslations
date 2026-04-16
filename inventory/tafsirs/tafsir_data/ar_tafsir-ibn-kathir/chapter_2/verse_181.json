@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:181":  {
+                                 "id":  188
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن بدله بعدما سمعه فإنما إثمه على الذين يبدلونه )\u003c/span\u003e يقول تعالى : فمن بدل الوصية وحرفها ، فغير حكمها وزاد فيها أو نقص ويدخل في ذلك الكتمان لها بطريق الأولى \u003cspan class=\"arabic qpc-hafs\"\u003e( فإنما إثمه على الذين يبدلونه )\u003c/span\u003e قال ابن عباس وغير واحد : وقد وقع أجر الميت على الله ،\u003cspan class=\"blue\"\u003e وتعلق الإثم بالذين بدلوا ذلك ) إن الله سميع عليم ) أي :\u003c/span\u003e قد اطلع على ما أوصى به الميت ، وهو عليم بذلك ، وبما بدله الموصى إليهم .\u003c/p\u003e"
+}

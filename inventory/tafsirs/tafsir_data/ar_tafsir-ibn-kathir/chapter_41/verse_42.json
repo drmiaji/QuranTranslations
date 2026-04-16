@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "41:42":  {
+                                 "id":  4260
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( لا يأتيه الباطل من بين يديه ولا من خلفه )\u003c/span\u003e أي : ليس للبطلان إليه سبيل ; لأنه منزل من رب العالمين ; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( تنزيل من حكيم حميد )\u003c/span\u003e أي : حكيم في أقواله وأفعاله ، حميد بمعنى محمود ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e في جميع ما يأمر به وينهى عنه ، الجميع محمودة عواقبه وغاياته .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:47":  {
+                                 "id":  4461
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( خذوه فاعتلوه )\u003c/span\u003e أي : \u003cspan class=\"reference brown\"\u003e[ خذوا ]\u003c/span\u003e الكافر ، وقد ورد أنه تعالى إذا قال للزبانية ) خذوه ) ابتدره سبعون ألفا منهم .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فاعتلوه )\u003c/span\u003e أي : سوقوه سحبا ودفعا في ظهره .\u003c/p\u003e\u003cp\u003eقال مجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( خذوه فاعتلوه )\u003c/span\u003e أي : خذوه فادفعوه .\u003c/p\u003e\u003cp\u003eوقال الفرزدق :\u003c/p\u003e\u003cp\u003eليس الكرام بناحليك أباهم حتى ترد إلى عطية تعتل\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إلى سواء الجحيم )\u003c/span\u003e أي : وسطها .\u003c/p\u003e"
+}

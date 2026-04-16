@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:17":  {
+                                 "id":  4562
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين اهتدوا زادهم هدى )\u003c/span\u003e أي : والذين قصدوا الهداية وفقهم الله لها فهداهم إليها ، وثبتهم عليها وزادهم منها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وآتاهم تقواهم )\u003c/span\u003e أي : ألهمهم رشدهم .\u003c/p\u003e"
+}

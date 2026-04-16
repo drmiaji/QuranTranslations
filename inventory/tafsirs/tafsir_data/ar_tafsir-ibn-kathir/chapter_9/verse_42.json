@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:42":  {
+                                "id":  1277
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى موبخا للذين تخلفوا عن النبي - صلى الله عليه وسلم - في غزوة تبوك ، وقعدوا عن النبي - صلى الله عليه وسلم - بعد ما استأذنوه في ذلك ، مظهرين أنهم ذوو أعذار ، ولم يكونوا كذلك ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لو كان عرضا قريبا )\u003c/span\u003e قال ابن عباس : غنيمة قريبة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وسفرا قاصدا )\u003c/span\u003e أي : قريبا أيضا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لاتبعوك )\u003c/span\u003e أي : لكانوا جاءوا معك لذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكن بعدت عليهم الشقة )\u003c/span\u003e أي : المسافة إلى الشام ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وسيحلفون بالله )\u003c/span\u003e أي : لكم إذا رجعتم إليهم \u003cspan class=\"arabic qpc-hafs\"\u003e( لو استطعنا لخرجنا معكم )\u003c/span\u003e أي : لو لم تكن لنا أعذار لخرجنا معكم ،\u003cspan class=\"blue\"\u003e قال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يهلكون أنفسهم والله يعلم إنهم لكاذبون )\u003c/span\u003e\u003c/p\u003e"
+}

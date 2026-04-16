@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:45":  {
+                                 "id":  2640
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( فكأين من قرية أهلكناها )\u003c/span\u003e أي : كم من قرية أهلكتها \u003cspan class=\"arabic qpc-hafs\"\u003e( وهي ظالمة )\u003c/span\u003e ] أي : مكذبة لرسولها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فهي خاوية على عروشها )\u003c/span\u003e قال الضحاك : سقوفها ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e قد خربت منازلها وتعطلت حواضرها .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وبئر معطلة )\u003c/span\u003e أي : لا يستقى منها ، ولا يردها أحد بعد كثرة وارديها والازدحام عليها .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وقصر مشيد )\u003c/span\u003e قال عكرمة : يعني المبيض بالجص .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوروي عن علي بن أبي طالب ، ومجاهد ، وعطاء ، وسعيد بن جبير ، وأبي المليح ، والضحاك ، نحو ذلك .\u003c/p\u003e\u003cp\u003eوقال آخرون : هو المنيف المرتفع .\u003c/p\u003e\u003cp\u003eوقال آخرون : الشديد المنيع الحصين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوكل هذه الأقوال متقاربة ، ولا منافاة بينها ، فإنه لم يحم أهله شدة بنائه ولا ارتفاعه ، ولا إحكامه ولا حصانته ، عن حلول بأس الله بهم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أينما تكونوا يدرككم الموت ولو كنتم في بروج مشيدة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النساء : 78 ]\u003c/span\u003e .\u003c/p\u003e"
+}

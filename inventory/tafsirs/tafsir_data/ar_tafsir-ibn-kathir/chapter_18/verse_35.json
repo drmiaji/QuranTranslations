@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:35":  {
+                                 "id":  2175
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ودخل جنته وهو ظالم لنفسه )\u003c/span\u003e أي : بكفره وتمرده وتكبره وتجبره وإنكاره المعاد \u003cspan class=\"arabic qpc-hafs\"\u003e( قال ما أظن أن تبيد هذه أبدا )\u003c/span\u003e وذلك اغترار منه ، لما رأى فيها من الزروع والثمار والأشجار والأنهار المطردة في جوانبها وأرجائها ، ظن أنها لا تفنى ولا تفرغ ولا تهلك ولا تتلف وذلك لقلة عقله ، وضعف يقينه بالله ، وإعجابه بالحياة الدنيا وزينتها ، وكفره بالآخرة ؛\u003c/p\u003e"
+}

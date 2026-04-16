@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:104":  {
+                                 "id":  773
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا قيل لهم تعالوا إلى ما أنزل الله وإلى الرسول قالوا حسبنا ما وجدنا عليه آباءنا )\u003c/span\u003e أي : إذا دعوا إلى دين الله وشرعه وما أوجبه وترك ما حرمه ،\u003cspan class=\"blue\"\u003e قالوا :\u003c/span\u003e يكفينا ما وجدنا عليه الآباء والأجداد من الطرائق والمسالك ، قال الله تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( أولو كان آباؤهم لا يعلمون شيئا )\u003c/span\u003e أي : لا يفهمون حقا ، ولا يعرفونه ، ولا يهتدون إليه ، فكيف يتبعونهم والحالة هذه؟ لا يتبعهم إلا من هو أجهل منهم ، وأضل سبيلا .\u003c/p\u003e"
+}

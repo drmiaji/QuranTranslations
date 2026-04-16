@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:102":  {
+                                  "id":  2003
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفقال تعالى مجيبا لهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل نزله روح القدس )\u003c/span\u003e أي : جبريل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( من ربك بالحق )\u003c/span\u003e أي : بالصدق والعدل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ليثبت الذين آمنوا )\u003c/span\u003e فيصدقوا بما أنزل أولا وثانيا وتخبت له قلوبهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهدى وبشرى للمسلمين )\u003c/span\u003e أي : وجعله هاديا \u003cspan class=\"reference brown\"\u003e[ مهديا ]\u003c/span\u003e وبشارة للمسلمين الذين آمنوا بالله ورسله .\u003c/p\u003e"
+}

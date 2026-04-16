@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:102":  {
+                                  "id":  3034
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فلو أن لنا كرة فنكون من المؤمنين )\u003c/span\u003e وذلك أنهم يتمنون أنهم يردون إلى الدار الدنيا ، ليعملوا بطاعة ربهم - فيما يزعمون - وهو ، سبحانه وتعالى ، يعلم أنه لو ردهم إلى الدار الدنيا لعادوا لما نهوا عنه وإنهم لكاذبون . وقد أخبر تعالى عن تخاصم أهل النار في سورة \u003cspan class=\"red\"\u003e\" ص \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن ذلك لحق تخاصم أهل النار )\u003c/span\u003e .\u003c/p\u003e"
+}

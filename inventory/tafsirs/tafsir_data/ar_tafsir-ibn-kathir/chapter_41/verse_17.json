@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "41:17":  {
+                                 "id":  4235
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأما ثمود فهديناهم )\u003c/span\u003e قال ابن عباس ، وأبو العالية ، وسعيد بن جبير ، وقتادة ، والسدي ،\u003cspan class=\"blue\"\u003e وابن زيد :\u003c/span\u003e بينا لهم .\u003c/p\u003e\u003cp\u003eوقال الثوري : دعوناهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فاستحبوا العمى على الهدى )\u003c/span\u003e أي : بصرناهم ، وبينا لهم ، ووضحنا لهم الحق على لسان نبيهم صالح - صلى الله عليه وسلم - فخالفوه وكذبوه ، وعقروا ناقة الله التي جعلها آية وعلامة على صدق نبيهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فأخذتهم صاعقة العذاب الهون )\u003c/span\u003e أي : بعث الله عليهم صيحة ورجفة وذلا وهوانا وعذابا ونكالا \u003cspan class=\"arabic qpc-hafs\"\u003e( بما كانوا يكسبون )\u003c/span\u003e أي : من التكذيب والجحود .\u003c/p\u003e"
+}

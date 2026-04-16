@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:192":  {
+                                  "id":  3124
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن الكتاب الذي أنزله على عبده ورسوله محمد ،\u003cspan class=\"blue\"\u003e صلوات الله وسلامه عليه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنه )\u003c/span\u003e أي : القرآن الذي تقدم ذكره في أول السورة في قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما يأتيهم من ذكر من الرحمن محدث )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الآية ]\u003c/span\u003e . \u003cspan class=\"arabic qpc-hafs\"\u003e( لتنزيل رب العالمين )\u003c/span\u003e أي : أنزله الله عليك وأوحاه إليك .\u003c/p\u003e"
+}

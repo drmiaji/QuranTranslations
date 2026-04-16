@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:74":  {
+                                 "id":  1975
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( فلا تضربوا لله الأمثال )\u003c/span\u003e أي : لا تجعلوا له أندادا وأشباها وأمثالا \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله يعلم وأنتم لا تعلمون )\u003c/span\u003e أي : أنه يعلم ويشهد أنه لا إله إلا الله وأنتم بجهلكم تشركون به غيره .\u003c/p\u003e"
+}

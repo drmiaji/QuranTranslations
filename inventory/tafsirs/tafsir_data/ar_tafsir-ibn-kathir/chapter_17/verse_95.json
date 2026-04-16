@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "17:95":  {
+                                 "id":  2124
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( لو كان في الأرض ملائكة يمشون مطمئنين )\u003c/span\u003e أي : كما أنتم فيها \u003cspan class=\"arabic qpc-hafs\"\u003e( لنزلنا عليهم من السماء ملكا رسولا )\u003c/span\u003e أي : من جنسهم ، ولما كنتم أنتم بشرا ، بعثنا فيكم رسلنا منكم لطفا ورحمة .\u003c/p\u003e"
+}

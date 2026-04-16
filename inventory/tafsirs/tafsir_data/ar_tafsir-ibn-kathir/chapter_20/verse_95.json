@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "20:95":  {
+                                 "id":  2443
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقول موسى ، عليه السلام ،\u003cspan class=\"blue\"\u003e للسامري :\u003c/span\u003e ما حملك على ما صنعت؟ وما الذي عرض لك حتى فعلت ما فعلت؟\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال محمد بن إسحاق ، عن حكيم بن جبير ، عن سعيد بن جبير ،\u003cspan class=\"blue\"\u003e عن ابن عباس قال :\u003c/span\u003e كان السامري رجلا من أهل باجرما ، وكان من قوم يعبدون البقر ، وكان حب عبادة البقر في نفسه ، وكان قد أظهر الإسلام مع بني إسرائيل .\u003cspan class=\"blue\"\u003e وكان اسم السامري :\u003c/span\u003e موسى بن ظفر .\u003c/p\u003e\u003cp\u003eوفي رواية عن ابن عباس : \u003cspan class=\"reference brown\"\u003e[ أنه ]\u003c/span\u003e كان من كرمان .\u003c/p\u003e\u003cp\u003eوقال قتادة : كان من قرية اسمها سامرا .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "73:16":  {
+                                 "id":  5491
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e(فعصى فرعون الرسول فأخذناه أخذا وبيلا )\u003c/span\u003e قال ابن عباس ، ومجاهد ، وقتادة ، والسدي ،\u003cspan class=\"blue\"\u003e والثوري :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أخذا وبيلا )\u003c/span\u003e أي : شديدا ، أي فاحذروا أنتم أن تكذبوا هذا الرسول ، فيصيبكم ما أصاب فرعون ، حيث أخذه الله أخذ عزيز مقتدر ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فأخذه الله نكال الآخرة والأولى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النازعات : 25 ]\u003c/span\u003e وأنتم أولى بالهلاك والدمار إن كذبتم ; لأن رسولكم أشرف وأعظم من موسى بن عمران . ويروى عن ابن عباس ومجاهد .\u003c/p\u003e"
+}

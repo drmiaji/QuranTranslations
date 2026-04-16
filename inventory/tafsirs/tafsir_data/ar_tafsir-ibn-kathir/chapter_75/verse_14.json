@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "75:14":  {
+                                 "id":  5565
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا قال هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( بل الإنسان على نفسه بصيرة ولو ألقى معاذيره )\u003c/span\u003e أي : هو شهيد على نفسه ، عالم بما فعله ولو اعتذر وأنكر ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( اقرأ كتابك كفى بنفسك اليوم عليك حسيبا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 14 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال علي بن أبي طلحة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( بل الإنسان على نفسه بصيرة )\u003c/span\u003e يقول : سمعه وبصره ويداه ورجلاه وجوارحه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال قتادة : شاهد على نفسه .\u003cspan class=\"blue\"\u003e وفي رواية قال :\u003c/span\u003e إذا شئت - والله - رأيته بصيرا بعيوب الناس وذنوبهم غافلا عن ذنوبه ،\u003cspan class=\"blue\"\u003e وكان يقال :\u003c/span\u003e إن في الإنجيل مكتوبا : يا ابن آدم ، تبصر القذاة في عين أخيك ، وتترك الجذل في عينك لا تبصره .\u003c/p\u003e"
+}

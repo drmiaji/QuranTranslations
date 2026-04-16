@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "80:30":  {
+                                 "id":  5788
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وحدائق غلبا )\u003c/span\u003e أي بساتين قال الحسن وقتادة : \u003cspan class=\"arabic qpc-hafs\"\u003e( غلبا )\u003c/span\u003e نخل غلاظ كرام وقال ابن عباس ومجاهد الحدائق كل ما التف واجتمع وقال ابن عباس أيضا : \u003cspan class=\"arabic qpc-hafs\"\u003e( غلبا )\u003c/span\u003e الشجر الذي يستظل به وقال علي بن أبي طلحة عن ابن عباس \u003cspan class=\"arabic qpc-hafs\"\u003e( وحدائق غلبا )\u003c/span\u003e أي طوال وقال عكرمة : \u003cspan class=\"arabic qpc-hafs\"\u003e( غلبا )\u003c/span\u003e أي غلاظ الأوساط وفي رواية غلاظ الرقاب ،\u003cspan class=\"blue\"\u003e ألم تر إلى الرجل إذا كان غليظ الرقبة قيل والله إنه لأغلب رواه ابن أبي حاتم وأنشد ابن جرير للفرزدق :\u003c/span\u003e\u003c/p\u003e\u003cp\u003eعوى فأثار أغلب ضيغميا     فويل ابن المراغة ما استثارا\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:13":  {
+                                 "id":  3801
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوهم بخلاف أمرك ، من شدة تكذيبهم يسخرون مما تقول لهم من ذلك .\u003cspan class=\"blue\"\u003eقال قتادة :\u003c/span\u003e عجب محمد - صلى الله عليه وسلم - وسخر ضلال بني آدم .\u003c/p\u003e"
+}

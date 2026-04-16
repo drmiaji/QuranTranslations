@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:21":  {
+                                 "id":  4566
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي : وكان الأولى بهم أن يسمعوا ويطيعوا ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e في الحالة الراهنة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فإذا عزم الأمر )\u003c/span\u003e أي : جد الحال ، وحضر القتال ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فلو صدقوا الله )\u003c/span\u003e أي : أخلصوا له النية ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لكان خيرا لهم )\u003c/span\u003e\u003c/p\u003e"
+}

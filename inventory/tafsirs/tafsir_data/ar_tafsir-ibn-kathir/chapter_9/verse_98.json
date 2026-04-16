@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:98":  {
+                                "id":  1333
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوأخبر تعالى أن منهم \u003cspan class=\"arabic qpc-hafs\"\u003e( من يتخذ ما ينفق )\u003c/span\u003e أي : في سبيل الله \u003cspan class=\"arabic qpc-hafs\"\u003e( مغرما )\u003c/span\u003e أي : غرامة وخسارة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ويتربص بكم الدوائر )\u003c/span\u003e أي : ينتظر بكم الحوادث والآفات ، \u003cspan class=\"arabic qpc-hafs\"\u003e( عليهم دائرة السوء )\u003c/span\u003e أي : هي منعكسة عليهم والسوء دائر عليهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( والله سميع عليم )\u003c/span\u003e أي : سميع لدعاء عباده ، عليم بمن يستحق النصر ممن يستحق الخذلان .\u003c/p\u003e"
+}

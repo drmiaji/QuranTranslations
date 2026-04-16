@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "17:61":  {
+                                 "id":  2090
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيذكر تعالى عداوةإبليس لعنه الله لآدم عليه السلام ، وذريته وأنها عداوة قديمة منذ خلق آدم فإنه تعالى أمر الملائكة بالسجود فسجدوا كلهم إلا إبليس استكبر وأبى أن يسجد له افتخارا عليه واحتقارا له \u003cspan class=\"arabic qpc-hafs\"\u003e( قال أأسجد لمن خلقت طينا )\u003c/span\u003e كما قال في الآية الأخرى \u003cspan class=\"arabic qpc-hafs\"\u003e( أنا خير منه خلقتني من نار وخلقته من طين )\u003c/span\u003e [ الأعراف 12 .\u003c/p\u003e\u003cp\u003eوقال أيضا \u003cspan class=\"arabic qpc-hafs\"\u003e( أرأيتك )\u003c/span\u003e ، يقول للرب جراءة وكفرا والرب يحلم وينظر\u003c/p\u003e"
+}

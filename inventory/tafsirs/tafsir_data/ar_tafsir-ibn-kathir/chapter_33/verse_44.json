@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "33:44":  {
+                                 "id":  3577
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( تحيتهم يوم يلقونه سلام )\u003c/span\u003e الظاهر أن المراد - والله أعلم - \u003cspan class=\"arabic qpc-hafs\"\u003e( تحيتهم )\u003c/span\u003e أي : من الله تعالى يوم يلقونه ) سلام ) أي : يوم يسلم عليهم كما قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( سلام قولا من رب رحيم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يس : 58 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوزعم قتادة أن المراد أنهم يحيي بعضهم بعضا بالسلام ، يوم يلقون الله في الدار الآخرة . واختاره ابن جرير .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقلت : وقد يستدل بقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( دعواهم فيها سبحانك اللهم وتحيتهم فيها سلام وآخر دعواهم أن الحمد لله رب العالمين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 10 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وأعد لهم أجرا كريما )\u003c/span\u003e يعني الجنة وما فيها من المآكل والمشارب ، والملابس والمساكن ، والمناكح والملاذ والمناظر وما لا عين رأت ، ولا أذن سمعت ، ولا خطر على قلب بشر .\u003c/p\u003e"
+}

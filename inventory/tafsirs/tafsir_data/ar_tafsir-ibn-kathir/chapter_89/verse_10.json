@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "89:10":  {
+                                 "id":  6003
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وفرعون ذي الأوتاد )\u003c/span\u003e قال العوفي ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e الأوتاد : الجنود الذين يشدون له أمره .\u003cspan class=\"blue\"\u003e ويقال :\u003c/span\u003e كان فرعون يوتد أيديهم وأرجلهم في أوتاد من حديد يعلقهم بها .\u003cspan class=\"blue\"\u003e وكذا قال مجاهد :\u003c/span\u003e كان يوتد الناس بالأوتاد . وهكذا قال سعيد بن جبير ، والحسن ، والسدي .\u003cspan class=\"blue\"\u003e قال السدي :\u003c/span\u003e كان يربط الرجل ، كل قائمة من قوائمه في وتد ثم يرسل عليه صخرة عظيمة فتشدخه .\u003c/p\u003e\u003cp\u003eوقال قتادة : بلغنا أنه كانت له مطال وملاعب ، يلعب له تحتها ، من أوتاد وحبال .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ثابت البناني ،\u003cspan class=\"blue\"\u003e عن أبي رافع :\u003c/span\u003e قيل لفرعون \u003cspan class=\"arabic qpc-hafs\"\u003e( ذي الأوتاد )\u003c/span\u003e ; لأنه ضرب لامرأته أربعة أوتاد ، ثم جعل على ظهرها رحى عظيمة حتى ماتت .\u003c/p\u003e"
+}

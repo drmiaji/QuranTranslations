@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:96":  {
+                                "id":  589
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( درجات منه ومغفرة ورحمة وكان الله غفورا رحيما )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد ثبت في الصحيحين عن أبي سعيد الخدري أن رسول الله صلى الله عليه وسلم قال : \u003cspan class=\"red\"\u003e\" إن في الجنة مائة درجة ، أعدها الله للمجاهدين في سبيله ، ما بين كل درجتين كما بين السماء والأرض \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الأعمش ، عن عمرو بن مرة ، عن أبي عبيدة ،\u003cspan class=\"blue\"\u003e عن عبد الله بن مسعود قال :\u003c/span\u003e قال رسول الله صلى الله عليه وسلم : \u003cspan class=\"red\"\u003e\" من بلغ بسهم فله أجره درجة \"\u003c/span\u003e فقال رجل : يا رسول الله ، وما الدرجة ؟\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أما إنها ليست بعتبة أمك ، ما بين الدرجتين مائة عام \"\u003c/span\u003e .\u003c/p\u003e"
+}

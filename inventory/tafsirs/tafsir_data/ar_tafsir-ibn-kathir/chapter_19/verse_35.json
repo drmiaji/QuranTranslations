@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:35":  {
+                                 "id":  2285
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولما ذكر تعالى أنه خلقه عبدا نبيا ،\u003cspan class=\"blue\"\u003e نزه نفسه المقدسة فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ما كان لله أن يتخذ من ولد سبحانه )\u003c/span\u003e أي : عما يقول هؤلاء الجاهلون الظالمون المعتدون علوا كبيرا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إذا قضى أمرا فإنما يقول له كن فيكون )\u003c/span\u003e أي : إذا أراد شيئا فإنما يأمر به ، فيصير كما يشاء ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن مثل عيسى عند الله كمثل آدم خلقه من تراب ثم قال له كن فيكون الحق من ربك فلا تكن من الممترين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ آل عمران : 59 ، 60 ]\u003c/span\u003e\u003c/p\u003e"
+}

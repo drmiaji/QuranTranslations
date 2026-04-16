@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "32:14":  {
+                                 "id":  3517
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فذوقوا بما نسيتم لقاء يومكم هذا )\u003c/span\u003e أي : يقال لأهل النار على سبيل التقريع والتوبيخ : ذوقوا \u003cspan class=\"reference brown\"\u003e[ هذا ]\u003c/span\u003e العذاب بسبب تكذيبكم به ، واستبعادكم وقوعه ، وتناسيكم له; إذ عاملتموه معاملة من هو ناس له ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا نسيناكم )\u003c/span\u003e أي : \u003cspan class=\"reference brown\"\u003e[ إنا ]\u003c/span\u003e سنعاملكم معاملة الناسي; لأنه تعالى لا ينسى شيئا ولا يضل عنه شيء ، بل من باب المقابلة ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( اليوم ننساكم كما نسيتم لقاء يومكم هذا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الجاثية : 34 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وذوقوا عذاب الخلد بما كنتم تعملون )\u003c/span\u003e أي : بسبب كفركم وتكذيبكم ،\u003cspan class=\"blue\"\u003e كما قال في الآية الأخرى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لا يذوقون فيها بردا ولا شرابا إلا حميما وغساقا جزاء وفاقا إنهم كانوا لا يرجون حسابا وكذبوا بآياتنا كذابا وكل شيء أحصيناه كتابا فذوقوا فلن نزيدكم إلا عذابا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النبأ : 24 - 30 ]\u003c/span\u003e .\u003c/p\u003e"
+}

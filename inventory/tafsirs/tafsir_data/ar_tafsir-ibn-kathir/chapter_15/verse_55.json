@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:55":  {
+                                 "id":  1857
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\" قالوا بشرناك بالحق فلا تكن من القانطين \"\u003c/span\u003e وقرأ بعضهم القنطين.\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "76:17":  {
+                                 "id":  5608
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويسقون فيها كأسا كان مزاجها زنجبيلا )\u003c/span\u003e أي : ويسقون - يعني الأبرار أيضا -\u003cspan class=\"blue\"\u003e في هذه الأكواب ) كأسا ) أي :\u003c/span\u003e خمرا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( كان مزاجها زنجبيلا )\u003c/span\u003e فتارة يمزج لهم الشراب بالكافور وهو بارد ، وتارة بالزنجبيل وهو حار ، ليعتدل الأمر ، وهؤلاء يمزج لهم من هذا تارة ومن هذا تارة . وأما المقربون فإنهم يشربون من كل منهما صرفا ، كما قاله قتادة وغير واحد .\u003cspan class=\"blue\"\u003e وقد تقدم قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( عينا يشرب بها عباد الله )\u003c/span\u003e وقال هاهنا\u003c/p\u003e"
+}

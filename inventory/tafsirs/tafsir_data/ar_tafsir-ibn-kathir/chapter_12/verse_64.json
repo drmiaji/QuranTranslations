@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:64":  {
+                                 "id":  1660
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال لهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( هل آمنكم عليه إلا كما أمنتكم على أخيه من قبل )\u003c/span\u003e أي : هل أنتم صانعون به إلا كما صنعتم بأخيه من قبل ، تغيبونه عني ، وتحولون بيني وبينه ؟ \u003cspan class=\"arabic qpc-hafs\"\u003e( فالله خير حفظا )\u003c/span\u003e وقرأ بعضهم : \u003cspan class=\"red\"\u003e\" حافظا \"\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو أرحم الراحمين )\u003c/span\u003e أي : هو أرحم الراحمين بي ، وسيرحم كبري وضعفي ووجدي بولدي ، وأرجو من الله أن يرده علي ، ويجمع شملي به ، إنه أرحم الراحمين .\u003c/p\u003e"
+}

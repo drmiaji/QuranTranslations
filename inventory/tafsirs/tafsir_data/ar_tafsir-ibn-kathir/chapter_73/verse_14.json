@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "73:14":  {
+                                 "id":  5489
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"يوم ترجف الأرض والجبال\"\u003c/span\u003eأي : تزلزل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وكانت الجبال كثيبا مهيلا )\u003c/span\u003e أي : تصير ككثبان الرمل بعد ما كانت حجارة صماء ، ثم إنها تنسف نسفا فلا يبقى منها شيء إلا ذهب ، حتى تصير الأرض قاعا صفصفا ، لا ترى فيها عوجا ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e واديا ، ولا أمتا ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e رابية ،\u003cspan class=\"blue\"\u003e ومعناه :\u003c/span\u003e لا شيء ينخفض ولا شيء يرتفع .\u003c/p\u003e"
+}

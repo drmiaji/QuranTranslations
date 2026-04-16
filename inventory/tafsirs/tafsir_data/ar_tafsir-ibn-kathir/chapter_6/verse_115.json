@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "6:115":  {
+                                 "id":  904
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وتمت كلمة ربك صدقا وعدلا )\u003c/span\u003e قال قتادة : صدقا فيما قال ، وعدلا فيما حكم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eيقول : صدقا في الأخبار وعدلا في الطلب ، فكل ما أخبر به فحق لا مرية فيه ولا شك ، وكل ما أمر به فهو العدل الذي لا عدل سواه ، وكل ما نهى عنه فباطل ، فإنه لا ينهى إلا عن مفسدة ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يأمرهم بالمعروف وينهاهم عن المنكر ويحل لهم الطيبات ويحرم عليهم الخبائث )\u003c/span\u003e إلى آخر الآية \u003cspan class=\"reference brown\"\u003e[ الأعراف : 157 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( لا مبدل لكلماته )\u003c/span\u003e أي : ليس أحد يعقب حكمه تعالى لا في الدنيا ولا في الآخرة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو السميع )\u003c/span\u003e لأقوال عباده ، \u003cspan class=\"arabic qpc-hafs\"\u003e( العليم )\u003c/span\u003e بحركاتهم وسكناتهم ، الذي يجازي كل عامل بعمله .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:75":  {
+                                 "id":  2748
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو رحمناهم وكشفنا ما بهم من ضر للجوا في طغيانهم يعمهون )\u003c/span\u003e : يخبر تعالى عن غلظهم في كفرهم بأنه لو أراح عللهم وأفهمهم القرآن ، لما انقادوا له ولاستمروا على كفرهم وعنادهم وطغيانهم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو علم الله فيهم خيرا لأسمعهم ولو أسمعهم لتولوا وهم معرضون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنفال : 23 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو ترى إذ وقفوا على النار فقالوا يا ليتنا نرد ولا نكذب بآيات ربنا ونكون من المؤمنين . بل بدا لهم ما كانوا يخفون من قبل ولو ردوا لعادوا لما نهوا عنه وإنهم لكاذبون . وقالوا إن هي إلا حياتنا الدنيا وما نحن بمبعوثين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 27 29 ]\u003c/span\u003e ، فهذا من باب علمه تعالى بما لا يكون ، لو كان كيف يكون .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"reference brown\"\u003e[ و ]\u003c/span\u003e قال الضحاك ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e كل ما فيه \u003cspan class=\"red\"\u003e\" لو \"\u003c/span\u003e ، فهو مما لا يكون أبدا .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:73":  {
+                                 "id":  2323
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن الكفار حين تتلى عليهم آيات الله ظاهرة الدلالة بينة الحجة واضحة البرهان : أنهم يصدون عن ذلك ،\u003cspan class=\"blue\"\u003e ويعرضون ويقولون عن الذين آمنوا مفتخرين عليهم ومحتجين على صحة ما هم عليه من الدين الباطل بأنهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( خير مقاما وأحسن نديا )\u003c/span\u003e أي : أحسن منازل وأرفع دورا وأحسن نديا ، وهو مجمع الرجال للحديث ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e ناديهم أعمر وأكثر واردا وطارقا ،\u003cspan class=\"blue\"\u003e يعنون :\u003c/span\u003e فكيف نكون ونحن بهذه المثابة على باطل ، وأولئك الذين هم مختفون مستترون في دار الأرقم بن أبي الأرقم ونحوها من الدور على الحق ؟\u003cspan class=\"blue\"\u003e كما قال تعالى مخبرا عنهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقال الذين كفروا للذين آمنوا لو كان خيرا ما سبقونا إليه )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأحقاف : 11 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وقال قوم نوح :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أنؤمن لك واتبعك الأرذلون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الشعراء : 111 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وكذلك فتنا بعضهم ببعض ليقولوا أهؤلاء من الله عليهم من بيننا أليس الله بأعلم بالشاكرين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 53 ]\u003c/span\u003e\u003c/p\u003e"
+}

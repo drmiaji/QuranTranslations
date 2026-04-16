@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:44":  {
+                                 "id":  4828
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وأنه هو أمات وأحيا )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي خلق الموت والحياة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الملك : 2 ]\u003c/span\u003e ،\u003c/p\u003e"
+}

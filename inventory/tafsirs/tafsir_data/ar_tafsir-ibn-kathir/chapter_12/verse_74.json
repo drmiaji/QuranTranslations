@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:74":  {
+                                 "id":  1670
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفقال لهم الفتيان : \u003cspan class=\"arabic qpc-hafs\"\u003e( فما جزاؤه )\u003c/span\u003e أي : السارق ،\u003cspan class=\"blue\"\u003e إن كان فيكم ) إن كنتم كاذبين ) أي :\u003c/span\u003e أي شيء يكون عقوبته إن وجدنا فيكم من أخذه ؟\u003c/p\u003e"
+}

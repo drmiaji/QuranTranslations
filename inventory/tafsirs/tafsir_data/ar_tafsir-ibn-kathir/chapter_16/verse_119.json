@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:119":  {
+                                  "id":  2020
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم أخبر تعالى تكرما وامتنانا في حق العصاة المؤمنين أن من تاب منهم إليه تاب عليه فقال \u003cspan class=\"red\"\u003e\"ثم إن ربك للذين عملوا السوء بجهالة\"\u003c/span\u003e قال بعض السلف كل من عصى الله فهو جاهل \u003cspan class=\"red\"\u003e\"ثم تابوا من بعد ذلك وأصلحوا\"\u003c/span\u003e أي أقلعوا عما كانوا فيه من المعاصي وأقبلوا على فعل الطاعات \u003cspan class=\"red\"\u003e\"إن ربك من بعدها\"\u003c/span\u003e أي تلك الفعلة والزلة \u003cspan class=\"red\"\u003e\"لغفور رحيم\"\u003c/span\u003e.\u003c/p\u003e"
+}

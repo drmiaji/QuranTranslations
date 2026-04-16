@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:20":  {
+                                 "id":  4755
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( متكئين على سرر مصفوفة )\u003c/span\u003e قال الثوري ، عن حصين ، عن مجاهد ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e السرر في الحجال .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا أبي ، حدثنا أبو اليمان ،\u003cspan class=\"blue\"\u003e حدثنا صفوان بن عمرو ; أنه سمع الهيثم بن مالك الطائي يقول :\u003c/span\u003e إن رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن الرجل ليتكئ المتكأ مقدار أربعين سنة ما يتحول عنه ولا يمله ، يأتيه ما اشتهت نفسه ولذت عينه \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوحدثنا أبي ، حدثنا هدبة بن خالد ، عن سليمان بن المغيرة ،\u003cspan class=\"blue\"\u003e عن ثابت قال :\u003c/span\u003e بلغنا أن الرجل ليتكئ في الجنة سبعين سنة ، عنده من أزواجه وخدمه وما أعطاه الله من الكرامة والنعيم ، فإذا حانت منه نظرة فإذا أزواج له لم يكن رآهن قبل ذلك ،\u003cspan class=\"blue\"\u003e فيقلن :\u003c/span\u003e قد آن لك أن تجعل لنا منك نصيبا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eومعنى ) مصفوفة ) أي : وجوه بعضهم إلى بعض ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( على سرر متقابلين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الصافات : 44 ]\u003c/span\u003e . \u003cspan class=\"arabic qpc-hafs\"\u003e( وزوجناهم بحور عين )\u003c/span\u003e أي : وجعلناهم قرينات صالحات ، وزوجات حسانا من الحور العين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال مجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( وزوجناهم )\u003c/span\u003e : أنكحناهم بحور عين ، وقد تقدم وصفهن في غير موضع بما أغنى عن إعادته .\u003c/p\u003e"
+}

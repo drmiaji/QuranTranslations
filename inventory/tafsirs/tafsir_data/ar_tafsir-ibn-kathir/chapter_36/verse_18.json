@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:18":  {
+                                 "id":  3723
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eفعند ذلك قال لهم أهل القرية : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا تطيرنا بكم )\u003c/span\u003e أي : لم نر على وجوهكم خيرا في عيشنا .\u003c/p\u003e\u003cp\u003eوقال قتادة : يقولون إن أصابنا شر فإنما هو من أجلكم .\u003c/p\u003e\u003cp\u003eوقال مجاهد : يقولون : لم يدخل مثلكم إلى قرية إلا عذب أهلها .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( لئن لم تنتهوا لنرجمنكم )\u003c/span\u003e : قال قتادة : بالحجارة .\u003cspan class=\"blue\"\u003e وقال مجاهد :\u003c/span\u003e بالشتم .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وليمسنكم منا عذاب أليم )\u003c/span\u003e أي : عقوبة شديدة .\u003c/p\u003e"
+}

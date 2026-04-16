@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:75":  {
+                                "id":  568
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيحرض تعالى عباده المؤمنين على الجهاد في سبيله وعلى السعي في استنقاذ المستضعفين بمكة من الرجال والنساء والصبيان المتبرمين بالمقام بها ; ولهذا قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين يقولون ربنا أخرجنا من هذه القرية )\u003c/span\u003e يعني : مكة ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وكأين من قرية هي أشد قوة من قريتك التي أخرجتك )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ محمد : 13 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eثم وصفها بقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( الظالم أهلها واجعل لنا من لدنك وليا واجعل لنا من لدنك نصيرا )\u003c/span\u003e أي : سخر لنا من عندك وليا وناصرا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال البخاري : حدثنا عبد الله بن محمد ، حدثنا سفيان ،\u003cspan class=\"blue\"\u003e عن عبيد الله قال :\u003c/span\u003e سمعت ابن عباس قال : كنت أنا وأمي من المستضعفين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eحدثنا سليمان بن حرب ، حدثنا حماد بن زيد ، عن أيوب ، عن ابن \u003cspan class=\"reference brown\"\u003e[ أبي ]\u003c/span\u003e مليكة أن ابن عباس تلا \u003cspan class=\"arabic qpc-hafs\"\u003e( إلا المستضعفين من الرجال والنساء والولدان )\u003c/span\u003e قال : كنت أنا وأمي ممن عذر الله عز وجل .\u003c/p\u003e"
+}

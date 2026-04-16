@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:33":  {
+                                 "id":  3738
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وآية لهم )\u003c/span\u003e أي : دلالة لهم على وجود الصانع وقدرته التامة وإحيائه الموتى \u003cspan class=\"arabic qpc-hafs\"\u003e( الأرض الميتة )\u003c/span\u003e أي : إذا كانت ميتة هامدة لا شيء فيها من النبات ، فإذا أنزل الله عليها الماء اهتزت وربت ،\u003cspan class=\"blue\"\u003e وأنبتت من كل زوج بهيج ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أحييناها وأخرجنا منها حبا فمنه يأكلون )\u003c/span\u003e أي : جعلناه رزقا لهم ولأنعامهم\u003c/p\u003e"
+}

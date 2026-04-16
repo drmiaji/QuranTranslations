@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "51:36":  {
+                                 "id":  4711
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فما وجدنا فيها غير بيت من المسلمين )\u003c/span\u003e احتج بهذه \u003cspan class=\"reference brown\"\u003e[ الآية ]\u003c/span\u003e من ذهب إلى رأي المعتزلة ، ممن لا يفرق بين مسمى الإيمان والإسلام ; لأنه أطلق عليهم المؤمنين والمسلمين . وهذا الاستدلال ضعيف ; لأن هؤلاء كانوا قوما مؤمنين ، وعندنا أن كل مؤمن مسلم لا ينعكس ، فاتفق الاسمان هاهنا لخصوصية الحال ، ولا يلزم ذلك في كل حال .\u003c/p\u003e"
+}

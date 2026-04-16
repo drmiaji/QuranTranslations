@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:36":  {
+                                 "id":  4581
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى تحقيرا لأمر الدنيا وتهوينا لشأنها : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنما الحياة الدنيا لعب ولهو )\u003c/span\u003e أي : حاصلها ذلك إلا ما كان منها لله عز وجل ; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن تؤمنوا وتتقوا يؤتكم أجوركم ولا يسألكم أموالكم )\u003c/span\u003e أي : هو غني عنكم لا يطلب منكم شيئا ، وإنما فرض عليكم الصدقات من الأموال مواساة لإخوانكم الفقراء ، ليعود نفع ذلك عليكم ، ويرجع ثوابه إليكم .\u003c/p\u003e"
+}

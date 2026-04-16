@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:29":  {
+                                 "id":  1625
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال آمرا ليوسف ، عليه السلام ،\u003cspan class=\"blue\"\u003e بكتمان ما وقع :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يا يوسف أعرض عن هذا )\u003c/span\u003e أي : اضرب عن هذا \u003cspan class=\"reference brown\"\u003e[ الأمر ]\u003c/span\u003e صفحا ، فلا تذكره لأحد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( واستغفري لذنبك )\u003c/span\u003e يقول لامرأته وقد كان لين العريكة سهلا أو أنه عذرها; لأنها رأت ما لا صبر لها عنه ،\u003cspan class=\"blue\"\u003e فقال لها :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( واستغفري لذنبك )\u003c/span\u003e أي : الذي وقع منك من إرادة السوء بهذا الشاب ، ثم قذفه بما هو بريء منه ، استغفري من هذا الذي وقع منك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنك كنت من الخاطئين )\u003c/span\u003e\u003c/p\u003e"
+}

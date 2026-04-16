@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:35":  {
+                                 "id":  1508
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eهذا كلام معترض في وسط هذه القصة ، مؤكد لها ومقرر بشأنها . يقول تعالى لمحمد ،\u003cspan class=\"blue\"\u003e صلى الله عليه وسلم :\u003c/span\u003e أم يقول هؤلاء الكافرون الجاحدون : افترى هذا وافتعله من عنده \u003cspan class=\"arabic qpc-hafs\"\u003e( قل إن افتريته فعلي إجرامي )\u003c/span\u003e أي : فإثم ذلك علي ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأنا بريء مما تجرمون )\u003c/span\u003e أي : ليس ذلك مفتعلا ولا مفترى ، لأني أعلم ما عند الله من العقوبة لمن كذب عليه .\u003c/p\u003e"
+}

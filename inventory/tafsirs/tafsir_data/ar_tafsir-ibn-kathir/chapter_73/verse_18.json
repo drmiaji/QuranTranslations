@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "73:18":  {
+                                 "id":  5493
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( السماء منفطر به )\u003c/span\u003e قال الحسن وقتادة : أي بسببه من شدته وهوله . ومنهم من يعيد الضمير على الله عز وجل . وروي عن ابن عباس ومجاهد وليس بقوي ; لأنه لم يجر له ذكر هاهنا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( كان وعده مفعولا )\u003c/span\u003e أي : كان وعد هذا اليوم مفعولا أي واقعا لا محالة ، وكائنا لا محيد عنه .\u003c/p\u003e"
+}

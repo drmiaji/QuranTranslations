@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:22":  {
+                                 "id":  2617
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كلما أرادوا أن يخرجوا منها من غم أعيدوا فيها )\u003c/span\u003e : قال الأعمش ، عن أبي ظبيان ،\u003cspan class=\"blue\"\u003e عن سلمان قال :\u003c/span\u003e النار سوداء مظلمة ، لا يضيء لهبها ولا جمرها ،\u003cspan class=\"blue\"\u003e ثم قرأ :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( كلما أرادوا أن يخرجوا منها من غم أعيدوا فيها )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال زيد بن أسلم في هذه الآية : \u003cspan class=\"arabic qpc-hafs\"\u003e( كلما أرادوا أن يخرجوا منها من غم أعيدوا فيها )\u003c/span\u003e قال : بلغني أن أهل النار في النار لا يتنفسون .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الفضيل بن عياض : والله ما طمعوا في الخروج ، إن الأرجل لمقيدة ، وإن الأيدي لموثقة ، ولكن يرفعهم لهبها ، وتردهم مقامعها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وذوقوا عذاب الحريق )\u003c/span\u003e كقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( وقيل لهم ذوقوا عذاب النار الذي كنتم به تكذبون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ السجدة : 20 ]\u003c/span\u003e ومعنى الكلام : أنهم يهانون بالعذاب قولا وفعلا .\u003c/p\u003e"
+}

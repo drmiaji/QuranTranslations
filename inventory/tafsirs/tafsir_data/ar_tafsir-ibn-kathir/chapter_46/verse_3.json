@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "46:3":  {
+                                "id":  4513
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ما خلقنا السموات والأرض وما بينهما إلا بالحق )\u003c/span\u003e أي : لا على وجه العبث والباطل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأجل مسمى )\u003c/span\u003e أي : إلى مدة معينة مضروبة لا تزيد ولا تنقص .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين كفروا عما أنذروا معرضون )\u003c/span\u003e أي : لاهون عما يراد بهم ، وقد أنزل إليهم كتابا وأرسل إليهم رسول ، وهم معرضون عن ذلك كله ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e وسيعلمون غب ذلك .\u003c/p\u003e"
+}

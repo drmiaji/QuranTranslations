@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "83:13":  {
+                                 "id":  5861
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( إذا تتلى عليه آياتنا قال أساطير الأولين )\u003c/span\u003e أي إذا سمع كلام الله من الرسول يكذب به ويظن به ظن السوء فيعتقد أنه مفتعل مجموع من كتب الأوائل كما قال تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا قيل لهم ماذا أنزل ربكم قالوا أساطير الأولين )\u003c/span\u003e النحل 24 وقال \u003cspan class=\"arabic qpc-hafs\"\u003e( وقالوا أساطير الأولين اكتتبها فهي تملى عليه بكرة وأصيلا )\u003c/span\u003e الفرقان : 5\u003c/p\u003e"
+}

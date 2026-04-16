@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:57":  {
+                                 "id":  4027
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأما الحميم فهو : الحار الذي قد انتهى حره وأما الغساق فهو : ضده ،\u003cspan class=\"blue\"\u003e وهو البارد الذي لا يستطاع من شدة برده المؤلم ولهذا قال :\u003c/span\u003e\u003c/p\u003e"
+}

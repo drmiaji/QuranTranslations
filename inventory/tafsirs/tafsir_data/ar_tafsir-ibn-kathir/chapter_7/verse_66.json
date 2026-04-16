@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:66":  {
+                                "id":  1020
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال الملأ الذين كفروا من قومه )\u003c/span\u003e -\u003cspan class=\"blue\"\u003e والملأ هم :\u003c/span\u003e الجمهور والسادة والقادة منهم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا لنراك في سفاهة وإنا لنظنك من الكاذبين )\u003c/span\u003e أي : في ضلالة حيث دعوتنا إلى ترك عبادة الأصنام ، والإقبال إلى عبادة الله وحده لا شريك له كما تعجب الملأ من قريش من الدعوة إلى إله واحد ) فقالوا ) \u003cspan class=\"arabic qpc-hafs\"\u003e( أجعل الآلهة إلها واحدا \u003cspan class=\"reference brown\"\u003e[ إن هذا لشيء عجاب ]\u003c/span\u003e )\u003c/span\u003e .\u003c/p\u003e"
+}

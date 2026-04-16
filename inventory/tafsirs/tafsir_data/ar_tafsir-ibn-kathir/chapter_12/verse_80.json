@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:80":  {
+                                 "id":  1676
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن إخوة يوسف : أنهم لما يئسوا من تخليص أخيهم بنيامين ، الذي قد التزموا لأبيهم برده إليه ، وعاهدوه على ذلك ، فامتنع عليهم ذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( خلصوا )\u003c/span\u003e أي : انفردوا عن الناس ) نجيا ) يتناجون فيما بينهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال كبيرهم )\u003c/span\u003e وهو روبيل ،\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e يهوذا ، وهو الذي أشار عليهم بإلقائه في البئر عندما هموا بقتله ،\u003cspan class=\"blue\"\u003e قال لهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ألم تعلموا أن أباكم قد أخذ عليكم موثقا من الله )\u003c/span\u003e لتردنه إليه ، فقد رأيتم كيف تعذر عليكم ذلك مع ما تقدم لكم من إضاعة يوسف عنه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فلن أبرح الأرض )\u003c/span\u003e أي : لن أفارق هذه البلدة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( حتى يأذن لي أبي )\u003c/span\u003e في الرجوع إليه راضيا عني ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أو يحكم الله لي )\u003c/span\u003e قيل : بالسيف .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e بأن يمكنني من أخذ أخي ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو خير الحاكمين )\u003c/span\u003e .\u003c/p\u003e"
+}

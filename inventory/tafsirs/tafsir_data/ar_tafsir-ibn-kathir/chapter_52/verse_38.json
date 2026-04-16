@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:38":  {
+                                 "id":  4773
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أم لهم سلم يستمعون فيه )\u003c/span\u003e أي : مرقاة إلى الملأ الأعلى ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فليأت مستمعهم بسلطان مبين )\u003c/span\u003e أي : فليأت الذي يستمع لهم بحجة ظاهرة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eعلى صحة ما هم فيه من الفعال والمقال ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e وليس لهم سبيل إلى ذلك ، فليسوا على شيء ، ولا لهم دليل .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:32":  {
+                                "id":  39
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"reference brown\"\u003e[ وقوله ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا سبحانك لا علم لنا إلا ما علمتنا إنك أنت العليم الحكيم )\u003c/span\u003e هذا تقديس وتنزيه من الملائكة لله تعالى أن يحيط أحد بشيء من علمه إلا بما شاء ، وأن يعلموا شيئا إلا ما علمهم الله تعالى ،\u003cspan class=\"blue\"\u003e ولهذا قالوا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( سبحانك لا علم لنا إلا ما علمتنا إنك أنت العليم الحكيم )\u003c/span\u003e أي : العليم بكل شيء ، الحكيم في خلقك وأمرك وفي تعليمك من تشاء ومنعك من تشاء ، لك الحكمة في ذلك ، والعدل التام .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن أبي حاتم : حدثنا أبو سعيد الأشج ، حدثنا حفص بن غياث ، عن حجاج ، عن ابن أبي مليكة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e سبحان الله ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e تنزيه الله نفسه عن السوء . \u003cspan class=\"reference brown\"\u003e[ قال ]\u003c/span\u003e ثم قال عمر لعلي وأصحابه عنده : لا إله إلا الله ، قد عرفناها فما سبحان الله ؟\u003cspan class=\"blue\"\u003e فقال له علي :\u003c/span\u003e كلمة أحبها الله لنفسه ، ورضيها ، وأحب أن تقال .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال : وحدثنا أبي ، حدثنا ابن نفيل ،\u003cspan class=\"blue\"\u003e حدثنا النضر بن عربي قال :\u003c/span\u003e سأل رجل ميمون بن مهران عن سبحان الله ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e اسم يعظم الله به ، ويحاشى به من السوء .\u003c/p\u003e"
+}

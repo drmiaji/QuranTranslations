@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:31":  {
+                                 "id":  4445
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( من فرعون إنه كان عاليا \u003cspan class=\"reference brown\"\u003e[ من المسرفين ]\u003c/span\u003e )\u003c/span\u003e أي : مستكبرا جبارا عنيدا ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن فرعون علا في الأرض \u003cspan class=\"reference brown\"\u003e[ وجعل أهلها شيعا ]\u003c/span\u003e )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القصص : 4 ]\u003c/span\u003e .\u003c/p\u003e"
+}

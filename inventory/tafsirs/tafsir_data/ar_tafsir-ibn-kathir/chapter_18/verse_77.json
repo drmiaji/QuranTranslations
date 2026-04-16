@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:77":  {
+                                 "id":  2217
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عنهما : إنهما انطلقا بعد المرتين الأوليين \u003cspan class=\"arabic qpc-hafs\"\u003e( حتى إذا أتيا أهل قرية )\u003c/span\u003e روى ابن جرير عن ابن سيرين أنها الأيلة وفي الحديث : \u003cspan class=\"red\"\u003e\" حتى إذا أتيا أهل قرية لئاما \"\u003c/span\u003e أي بخلاء \u003cspan class=\"arabic qpc-hafs\"\u003e( فأبوا أن يضيفوهما فوجدا فيها جدارا يريد أن ينقض )\u003c/span\u003e إسناد الإرادة هاهنا إلى الجدار على سبيل الاستعارة ، فإن الإرادة في المحدثات بمعنى الميل .\u003cspan class=\"blue\"\u003e والانقضاض هو :\u003c/span\u003e السقوط .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فأقامه )\u003c/span\u003e أي : فرده إلى حالة الاستقامة وقد تقدم في الحديث أنه رده بيديه ، ودعمه حتى رد ميله . وهذا خارق فعند ذلك قال موسى له \u003cspan class=\"arabic qpc-hafs\"\u003e( لو شئت لاتخذت عليه أجرا )\u003c/span\u003e أي : لأجل أنهم لم يضيفونا كان ينبغي ألا تعمل لهم مجانا\u003c/p\u003e"
+}

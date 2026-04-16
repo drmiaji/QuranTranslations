@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:2":  {
+                               "id":  295
+                           }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقد ذكرنا الحديث الوارد في أن اسم الله الأعظم في هاتين الآيتين : \u003cspan class=\"arabic qpc-hafs\"\u003e( الله لا إله إلا هو الحي القيوم )\u003c/span\u003e و \u003cspan class=\"arabic qpc-hafs\"\u003e( الم الله لا إله إلا هو الحي القيوم )\u003c/span\u003e عند تفسير آية الكرسي ،\u003cspan class=\"blue\"\u003e وتقدم الكلام على قوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الم )\u003c/span\u003e في أول سورة البقرة ، بما أغنى عن إعادته ،\u003cspan class=\"blue\"\u003e وتقدم أيضا الكلام على قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الله لا إله إلا هو الحي القيوم )\u003c/span\u003e في تفسير آية الكرسي .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "70:21":  {
+                                 "id":  5396
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا مسه الخير منوعا )\u003c/span\u003e أي : إذا حصلت له نعمة من الله بخل بها على غيره ، ومنع حق الله فيها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد : حدثنا أبو عبد الرحمن ،\u003cspan class=\"blue\"\u003e حدثنا موسى بن علي بن رباح :\u003c/span\u003e سمعت أبي يحدث عن عبد العزيز بن مروان بن الحكم قال : سمعت أبا هريرة‌ يقول : قال رسول الله صلى الله عليه وسلم : \u003cspan class=\"red\"\u003e\" شر ما في رجل شح هالع ، وجبن خالع \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eورواه أبو داود ، عن عبد الله بن الجراح ، عن أبي عبد الرحمن المقري به ، وليس لعبد العزيز عنده سواه .\u003c/p\u003e"
+}

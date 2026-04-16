@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "25:51":  {
+                                 "id":  2906
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو شئنا لبعثنا في كل قرية نذيرا )\u003c/span\u003e يدعوهم إلى الله عز وجل ، ولكنا خصصناك - يا محمد - بالبعثة إلى جميع أهل الأرض ، وأمرناك أن تبلغ الناس هذا القرآن ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لأنذركم به ومن بلغ )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 19 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يكفر به من الأحزاب فالنار موعده )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 17 ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولتنذر أم القرى ومن حولها )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 92 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قل يا أيها الناس إني رسول الله إليكم جميعا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 158 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وفي الصحيحين :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" بعثت إلى الأحمر والأسود \"\u003c/span\u003e وفيهما : \u003cspan class=\"red\"\u003e\" وكان النبي يبعث إلى قومه خاصة وبعثت إلى الناس عامة \"\u003c/span\u003e ; ولهذا قال :\u003c/p\u003e"
+}

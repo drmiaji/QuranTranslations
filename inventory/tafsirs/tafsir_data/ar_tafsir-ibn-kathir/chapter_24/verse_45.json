@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "24:45":  {
+                                 "id":  2836
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيذكر تعالى قدرته التامة وسلطانه العظيم ، في خلقه أنواع \u003cspan class=\"reference brown\"\u003e[ المخلوقات ]\u003c/span\u003e . على اختلاف أشكالها وألوانها ، وحركاتها وسكناتها ، من ماء واحد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فمنهم من يمشي على بطنه )\u003c/span\u003e كالحية وما شاكلها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومنهم من يمشي على رجلين )\u003c/span\u003e كالإنسان والطير ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومنهم من يمشي على أربع )\u003c/span\u003e كالأنعام وسائر الحيوانات; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( يخلق الله ما يشاء )\u003c/span\u003e أي : بقدرته; لأنه ما شاء كان ،\u003cspan class=\"blue\"\u003e وما لم يشأ لم يكن; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله على كل شيء قدير )\u003c/span\u003e .\u003c/p\u003e"
+}

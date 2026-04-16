@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "34:48":  {
+                                 "id":  3654
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل إن ربي يقذف بالحق علام الغيوب )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يلقي الروح من أمره على من يشاء من عباده )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ غافر : 15 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e يرسل الملك إلى من يشاء من عباده من أهل الأرض ، وهو علام الغيوب ، فلا تخفى عليه خافية في السماوات ولا في الأرض .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:63":  {
+                                 "id":  3768
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقال للكفرة من بني آدم يوم القيامة ،\u003cspan class=\"blue\"\u003e وقد برزت الجحيم لهم تقريعا وتوبيخا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( هذه جهنم التي كنتم توعدون )\u003c/span\u003e أي : هذه التي حذرتكم الرسل فكذبتموهم ،\u003c/p\u003e"
+}

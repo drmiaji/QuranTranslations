@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "24:19":  {
+                                 "id":  2810
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوهذا تأديب ثالث لمن سمع شيئا من الكلام السيئ ، فقام بذهنه منه شيء ، وتكلم به ، فلا يكثر منه ويشيعه ويذيعه ،\u003cspan class=\"blue\"\u003e فقد قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذين يحبون أن تشيع الفاحشة في الذين آمنوا )\u003c/span\u003e أي : يختارون ظهور الكلام عنهم بالقبيح ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لهم عذاب أليم في الدنيا )\u003c/span\u003e أي : بالحد ، وفي الآخرة بالعذاب ، \u003cspan class=\"arabic qpc-hafs\"\u003e( والله يعلم وأنتم لا تعلمون )\u003c/span\u003e أي : فردوا الأمور إليه ترشدوا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد : حدثنا محمد بن بكر ، حدثنا ميمون بن أبي محمد المرئي ، حدثنا محمد بن عباد المخزومي ، عن ثوبان ،\u003cspan class=\"blue\"\u003e عن النبي صلى الله عليه وسلم قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" لا تؤذوا عباد الله ولا تعيروهم ، ولا تطلبوا عوراتهم ، فإنه من طلب عورة أخيه المسلم ، طلب الله عورته ، حتى يفضحه في بيته \"\u003c/span\u003e .\u003c/p\u003e"
+}

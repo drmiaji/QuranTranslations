@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:18":  {
+                                 "id":  4997
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( بأكواب وأباريق وكأس من معين )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e أما الأكواب فهي :\u003c/span\u003e الكيزان التي لا خراطيم لها ولا آذان .\u003cspan class=\"blue\"\u003e والأباريق :\u003c/span\u003e التي جمعت الوصفين .\u003cspan class=\"blue\"\u003e والكئوس :\u003c/span\u003e الهنابات ، والجميع من خمر من عين جارية معين ، ليس من أوعية تنقطع وتفرغ ، بل من عيون سارحة .\u003c/p\u003e"
+}

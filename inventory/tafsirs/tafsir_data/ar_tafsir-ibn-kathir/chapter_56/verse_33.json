@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:33":  {
+                                 "id":  5012
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( لا مقطوعة ولا ممنوعة )\u003c/span\u003e أي : لا تنقطع شتاء ولا صيفا ، بل أكلها دائم مستمر أبدا ، مهما طلبوا وجدوا ، لا يمتنع عليهم بقدرة الله شيء .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال قتادة : لا يمنعهم من تناولها عود ولا شوك ولا بعد .\u003cspan class=\"blue\"\u003e وقد تقدم في الحديث :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إذا تناول الرجل الثمرة عادت مكانها أخرى \"\u003c/span\u003e .\u003c/p\u003e"
+}

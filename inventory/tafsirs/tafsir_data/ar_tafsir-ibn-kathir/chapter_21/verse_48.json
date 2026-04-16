@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:48":  {
+                                 "id":  2531
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقد تقدم التنبيه على أن الله تعالى كثيرا ما يقرن بين ذكر موسى ومحمد ، صلوات الله وسلامه عليهما ،\u003cspan class=\"blue\"\u003e وبين كتابيهما; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد آتينا موسى وهارون الفرقان )\u003c/span\u003e .\u003cspan class=\"blue\"\u003e قال مجاهد :\u003c/span\u003e يعني : الكتاب .\u003cspan class=\"blue\"\u003e وقال أبو صالح :\u003c/span\u003e التوراة ،\u003cspan class=\"blue\"\u003e وقال قتادة :\u003c/span\u003e التوراة ، حلالها وحرامها ، وما فرق الله بين الحق والباطل .\u003cspan class=\"blue\"\u003e وقال ابن زيد :\u003c/span\u003e يعني : النصر .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوجامع القول في ذلك : أن الكتب السماوية تشتمل على التفرقة بين الحق والباطل ، والهدى والضلال ، والغي والرشاد ، والحلال والحرام ، وعلى ما يحصل نورا في القلوب ،\u003cspan class=\"blue\"\u003e وهداية وخوفا وإنابة وخشية; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الفرقان وضياء وذكرا للمتقين )\u003c/span\u003e أي : \u003cspan class=\"reference brown\"\u003e[ تذكيرا ]\u003c/span\u003e لهم وعظة .\u003c/p\u003e"
+}

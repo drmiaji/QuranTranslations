@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "28:75":  {
+                                 "id":  3327
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ونزعنا من كل أمة شهيدا )\u003c/span\u003e : قال مجاهد : يعني رسولا . \u003cspan class=\"arabic qpc-hafs\"\u003e( فقلنا هاتوا برهانكم )\u003c/span\u003e أي : على صحة ما ادعيتموه من أن لله شركاء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فعلموا أن الحق لله )\u003c/span\u003e أي : لا إله غيره ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e فلم ينطقوا ولم يحيروا جوابا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وضل عنهم ما كانوا يفترون )\u003c/span\u003e أي : ذهبوا فلم ينفعوهم .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:74":  {
+                                 "id":  2557
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم عطف بذكر لوط - وهو لوط بن هاران بن آزر - كان قد آمن بإبراهيم ، واتبعه ، وهاجر معه ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فآمن له لوط وقال إني مهاجر إلى ربي )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ العنكبوت : 26 ]\u003c/span\u003e ، فآتاه الله حكما وعلما ، وأوحى إليه ، وجعله نبيا ، وبعثه إلى سدوم وأعمالها ، فخالفوه وكذبوه ، فأهلكهم الله ودمر عليهم ،\u003cspan class=\"blue\"\u003e كما قص خبرهم في غير موضع من كتابه العزيز; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ونجيناه من القرية التي كانت تعمل الخبائث إنهم كانوا قوم سوء فاسقين)\u003c/span\u003e\u003c/p\u003e"
+}

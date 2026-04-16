@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:19":  {
+                                 "id":  3989
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والطير محشورة )\u003c/span\u003e أي : محبوسة في الهواء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( كل له أواب )\u003c/span\u003e أي : مطيع يسبح تبعا له .\u003c/p\u003e\u003cp\u003eقال سعيد بن جبير وقتادة ومالك عن زيد بن أسلم وابن زيد : \u003cspan class=\"arabic qpc-hafs\"\u003e( كل له أواب )\u003c/span\u003e أي : مطيع .\u003c/p\u003e"
+}

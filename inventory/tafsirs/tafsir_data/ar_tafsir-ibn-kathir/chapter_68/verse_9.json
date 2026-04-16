@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "68:9":  {
+                                "id":  5280
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\"ودوا لو تدهن فيدهنون\"\u003c/span\u003e قال ابن عباس: لو ترخص لهم فيرخصون.\u003c/p\u003e\u003cp\u003eوقال مجاهد: \u003cspan class=\"red\"\u003e\"ودوا لو تدهن\"\u003c/span\u003e تركن إلى آلهتم وتترك ما أنت عليه من الحق.\u003c/p\u003e"
+}

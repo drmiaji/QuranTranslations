@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:45":  {
+                                 "id":  1847
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eلما ذكر تعالى حال أهل النار عطف على ذكر أصل الجنة وأنهم في جنات وعيون.\u003c/p\u003e"
+}

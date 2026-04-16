@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:36":  {
+                                 "id":  2286
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن الله ربي وربكم فاعبدوه هذا صراط مستقيم )\u003c/span\u003e أي : ومما أمر عيسى به قومه وهو في مهده ، أن أخبرهم إذ ذاك أن الله ربهم وربه ، وأمرهم بعبادته ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فاعبدوه هذا صراط مستقيم )\u003c/span\u003e أي : هذا الذي جئتكم به عن الله صراط مستقيم ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e قويم ، من اتبعه رشد وهدى ، ومن خالفه ضل وغوى .\u003c/p\u003e"
+}

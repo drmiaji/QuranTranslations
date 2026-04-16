@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:209":  {
+                                 "id":  216
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فإن زللتم من بعد ما جاءتكم البينات )\u003c/span\u003e أي : عدلتم عن الحق بعد ما قامت عليكم الحجج ، فاعلموا أن الله عزيز \u003cspan class=\"reference brown\"\u003e[ أي ]\u003c/span\u003e في انتقامه ، لا يفوته هارب ، ولا يغلبه غالب .\u003cspan class=\"blue\"\u003e حكيم في أحكامه ونقضه وإبرامه ; ولهذا قال أبو العالية وقتادة والربيع بن أنس :\u003c/span\u003e عزيز في نقمته ، حكيم في أمره .\u003cspan class=\"blue\"\u003e وقال محمد بن إسحاق :\u003c/span\u003e العزيز في نصره ممن كفر به إذا شاء ، الحكيم في عذره وحجته إلى عباده .\u003c/p\u003e"
+}

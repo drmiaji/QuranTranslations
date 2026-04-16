@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:32":  {
+                                 "id":  4090
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخاطبا للمشركين الذين افتروا على الله ، وجعلوا معه آلهة أخرى ، وادعوا أن الملائكة بنات الله ، وجعلوا لله ولدا - تعالى الله عن قولهم علوا كبيرا - ومع هذا كذبوا بالحق إذ جاءهم على ألسنة رسل الله ، صلوات الله \u003cspan class=\"reference brown\"\u003e[ وسلامه ]\u003c/span\u003e عليهم أجمعين ،\u003cspan class=\"blue\"\u003e ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن أظلم ممن كذب على الله وكذب بالصدق إذ جاءه )\u003c/span\u003e أي : لا أحد أظلم من هذا ; لأنه جمع بين طرفي الباطل ، كذب على الله ، وكذب رسول الله ،\u003cspan class=\"blue\"\u003e قالوا الباطل وردوا الحق ; ولهذا قال متوعدا لهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أليس في جهنم مثوى للكافرين )\u003c/span\u003e وهم الجاحدون المكذبون .\u003c/p\u003e"
+}

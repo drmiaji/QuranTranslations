@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:51":  {
+                                 "id":  3839
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال قائل منهم إني كان لي قرين )\u003c/span\u003e قال مجاهد : يعني شيطانا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال العوفي ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e هو الرجل المشرك ، يكون له صاحب من أهل الإيمان في الدنيا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eولا تنافي بين كلام مجاهد ، وابن عباس ; فإن الشيطان يكون من الجن فيوسوس في النفس ، ويكون من الإنس فيقول كلاما تسمعه الأذنان ، وكلاهما متعاديان ،\u003cspan class=\"blue\"\u003e قال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يوحي بعضهم إلى بعض زخرف القول غرورا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 112 ]\u003c/span\u003e وكل منهما يوسوس ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( \u003cspan class=\"reference brown\"\u003e[ قل أعوذ برب الناس . ملك الناس . إله الناس ]\u003c/span\u003e . من شر الوسواس الخناس . الذي يوسوس في صدور الناس . من الجنة والناس )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ سورة الناس ]\u003c/span\u003e .\u003c/p\u003e"
+}

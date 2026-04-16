@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:76":  {
+                                 "id":  2671
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يعلم ما بين أيديهم وما خلفهم وإلى الله ترجع الأمور )\u003c/span\u003e أي : يعلم ما يفعل برسله فيما أرسلهم به ، فلا يخفى عليه من أمورهم شيء ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( عالم الغيب فلا يظهر على غيبه أحدا . إلا من ارتضى من رسول \u003cspan class=\"reference brown\"\u003e[ فإنه يسلك من بين يديه ومن خلفه رصدا . ليعلم أن قد أبلغوا رسالات ربهم وأحاط بما لديهم ]\u003c/span\u003e وأحصى كل شيء عددا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الجن : 26 28 ]\u003c/span\u003e ، فهو سبحانه رقيب عليهم ، شهيد على ما يقال لهم ، حافظ لهم ، ناصر لجنابهم; \u003cspan class=\"arabic qpc-hafs\"\u003e( يا أيها الرسول بلغ ما أنزل إليك من ربك وإن لم تفعل فما بلغت رسالته والله يعصمك من الناس )\u003c/span\u003e الآية \u003cspan class=\"reference brown\"\u003e[ المائدة : 67 ]\u003c/span\u003e .\u003c/p\u003e"
+}

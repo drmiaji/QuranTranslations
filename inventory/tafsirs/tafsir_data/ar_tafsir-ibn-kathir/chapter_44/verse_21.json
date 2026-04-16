@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:21":  {
+                                 "id":  4435
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وإن لم تؤمنوا لي فاعتزلون )\u003c/span\u003e أي : فلا تتعرضوا إلي ، ودعوا الأمر بيني وبينكم مسالمة إلى أن يقضي الله بيننا . فلما طال مقامه بين أظهرهم ، وأقام حجج الله عليهم ، كل ذلك وما زادهم ذلك إلا كفرا وعنادا ، دعا ربه عليهم دعوة نفذت فيهم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقال موسى ربنا إنك آتيت فرعون وملأه زينة وأموالا في الحياة الدنيا ربنا ليضلوا عن سبيلك ربنا اطمس على أموالهم واشدد على قلوبهم فلا يؤمنوا حتى يروا العذاب الأليم قال قد أجيبت دعوتكما فاستقيما )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 88 ، 89 ]\u003c/span\u003e .\u003c/p\u003e"
+}

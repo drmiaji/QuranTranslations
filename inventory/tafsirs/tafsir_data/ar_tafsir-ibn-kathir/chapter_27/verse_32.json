@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:32":  {
+                                 "id":  3191
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eلما قرأت عليهم كتاب سليمان استشارتهم في أمرها ،\u003cspan class=\"blue\"\u003e وما قد نزل بها ; ولهذا قالت :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يا أيها الملأ أفتوني في أمري ما كنت قاطعة أمرا حتى تشهدون )\u003c/span\u003e أي : حتى تحضرون وتشيرون .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "85:4":  {
+                                "id":  5913
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي لعن أصحاب الأخدود وجمعه أخاديد وهي الحفر في الأرض وهذا خبر عن قوم من الكفار عمدوا إلى من عندهم من المؤمنين بالله عز وجل فقهروهم وأرادوهم أن يرجعوا عن دينهم فأبوا عليهم.\u003c/p\u003e"
+}

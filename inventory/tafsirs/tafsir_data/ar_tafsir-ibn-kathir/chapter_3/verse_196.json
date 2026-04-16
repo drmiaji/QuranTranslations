@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:196":  {
+                                 "id":  489
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى لا تنظر إلى ما هؤلاء الكفار مترفون فيه من النعمة والغبطة والسرور فعما قليل يزول هذا كله عنهم ويصبحون مرتهنين بأعمالهم السيئة.\u003c/p\u003e"
+}

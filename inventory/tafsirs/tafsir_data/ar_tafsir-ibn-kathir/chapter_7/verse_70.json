@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:70":  {
+                                "id":  1024
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن تمردهم وطغيانهم وعنادهم وإنكارهم على هود ،\u003cspan class=\"blue\"\u003e عليه السلام :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا أجئتنا لنعبد الله وحده \u003cspan class=\"reference brown\"\u003e[ ونذر ما كان يعبد آباؤنا فأتنا بما تعدنا إن كنت من الصادقين ]\u003c/span\u003e )\u003c/span\u003e كما قال الكفار من قريش : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذ قالوا اللهم إن كان هذا هو الحق من عندك فأمطر علينا حجارة من السماء أو ائتنا بعذاب أليم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنفال : 32 ]\u003c/span\u003e\u003c/p\u003e\u003cp\u003eوقد ذكر محمد بن إسحاق وغيره : أنهم كانوا يعبدون أصناما ،\u003cspan class=\"blue\"\u003e فصنم يقال له :\u003c/span\u003e صداء ،\u003cspan class=\"blue\"\u003e وآخر يقال له :\u003c/span\u003e صمود ،\u003cspan class=\"blue\"\u003e وآخر يقال له :\u003c/span\u003e الهباء\u003c/p\u003e"
+}

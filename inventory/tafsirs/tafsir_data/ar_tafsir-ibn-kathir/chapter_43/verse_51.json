@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:51":  {
+                                 "id":  4376
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن فرعون وتمرده وعتوه وكفره وعناده : أنه جمع قومه ،\u003cspan class=\"blue\"\u003e فنادى فيهم متبجحا مفتخرا بملك مصر وتصرفه فيها :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أليس لي ملك مصر وهذه الأنهار تجري من تحتي )\u003c/span\u003e ، قال قتادة قد كانت لهم جنان وأنهار ماء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أفلا تبصرون )\u003c/span\u003e ؟\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e أفلا ترون ما أنا فيه من العظمة والملك ،\u003cspan class=\"blue\"\u003e يعني :\u003c/span\u003e وموسى وأتباعه فقراء ضعفاء .\u003cspan class=\"blue\"\u003e وهذا كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فحشر فنادى . فقال أنا ربكم الأعلى . فأخذه الله نكال الآخرة والأولى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النازعات : 23 - 25 ]\u003c/span\u003e .\u003c/p\u003e"
+}

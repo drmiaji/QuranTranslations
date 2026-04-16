@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:87":  {
+                                 "id":  5066
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فلولا إن كنتم غير مدينين ترجعونها )\u003c/span\u003e : معناه : فهلا ترجعون هذه النفس التي قد بلغت الحلقوم إلى مكانها الأول ، ومقرها في الجسد إن كنتم غير مدينين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن عباس : يعني محاسبين . وروي عن مجاهد ، وعكرمة ، والحسن ، وقتادة ، والضحاك ، والسدي ، وأبي حزرة مثله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال سعيد بن جبير ،\u003cspan class=\"blue\"\u003e والحسن البصري :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فلولا إن كنتم غير مدينين )\u003c/span\u003e غير مصدقين أنكم تدانون وتبعثون وتجزون ، فردوا هذه النفس .\u003c/p\u003e\u003cp\u003eوعن مجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( غير مدينين )\u003c/span\u003e غير موقنين .\u003c/p\u003e\u003cp\u003eوقال ميمون بن مهران : غير معذبين مقهورين .\u003c/p\u003e"
+}

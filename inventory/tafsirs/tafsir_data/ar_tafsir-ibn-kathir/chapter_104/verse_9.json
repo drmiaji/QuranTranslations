@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "104:9":  {
+                                 "id":  6188
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( في عمد ممددة )\u003c/span\u003e قال عطية العوفي : عمد من حديد .\u003cspan class=\"blue\"\u003e وقال السدي :\u003c/span\u003e من نار . وقال شبيب بن بشر ،\u003cspan class=\"blue\"\u003e عن عكرمة عن ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( في عمد ممددة )\u003c/span\u003e يعني : الأبواب هي الممدوة .\u003c/p\u003e\u003cp\u003eوقال قتادة في قراءة عبد الله بن مسعود : إنها عليهم مؤصدة بعمد ممدة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال العوفي ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e أدخلهم في عمد فمدت عليهم بعماد ، وفي أعناقهم السلاسل فسدت بها الأبواب .\u003c/p\u003e\u003cp\u003eوقال قتادة : كنا نحدث أنهم يعذبون بعمد في النار . واختاره ابن جرير .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال أبو صالح : \u003cspan class=\"arabic qpc-hafs\"\u003e( في عمد ممددة )\u003c/span\u003e يعني القيود الطوال . آخر تفسير سورة \u003cspan class=\"red\"\u003e\" ويل لكل همزة لمزة \"\u003c/span\u003e\u003c/p\u003e"
+}

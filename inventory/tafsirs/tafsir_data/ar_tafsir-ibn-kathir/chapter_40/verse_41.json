@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:41":  {
+                                 "id":  4174
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول لهم المؤمن : ما بالي أدعوكم إلى النجاة ، وهي عبادة الله وحده لا شريك له وتصديق رسوله الذي بعثه\u003c/p\u003e"
+}

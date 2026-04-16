@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:85":  {
+                                "id":  378
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يبتغ غير الإسلام دينا فلن يقبل منه )\u003c/span\u003e أي : من سلك طريقا سوى ما شرعه الله فلن يقبل منه \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو في الآخرة من الخاسرين )\u003c/span\u003e كما قال النبي صلى الله عليه وسلم في الحديث الصحيح : \u003cspan class=\"red\"\u003e\" من عمل عملا ليس عليه أمرنا فهو رد \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد : حدثنا أبو سعيد مولى بني هاشم ، حدثنا عباد بن راشد ، حدثنا الحسن ، حدثنا أبو هريرة ، إذ ذاك ونحن بالمدينة ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قال رسول الله صلى الله عليه وسلم : \" تجيء الأعمال يوم القيامة ،\u003cspan class=\"blue\"\u003e فتجيء الصلاة فتقول :\u003c/span\u003e يا رب ، أنا الصلاة .\u003cspan class=\"blue\"\u003e فيقول :\u003c/span\u003e إنك على خير .\u003cspan class=\"blue\"\u003e فتجيء الصدقة فتقول :\u003c/span\u003e يا رب ، أنا الصدقة .\u003cspan class=\"blue\"\u003e فيقول :\u003c/span\u003e إنك على خير .\u003cspan class=\"blue\"\u003e ثم يجيء الصيام فيقول :\u003c/span\u003e أي يا رب ، أنا الصيام .\u003cspan class=\"blue\"\u003e فيقول :\u003c/span\u003e إنك على خير . ثم تجيء الأعمال ،\u003cspan class=\"blue\"\u003e كل ذلك يقول الله تعالى :\u003c/span\u003e إنك على خير ،\u003cspan class=\"blue\"\u003e ثم يجيء الإسلام فيقول :\u003c/span\u003e يا رب ، أنت السلام وأنا الإسلام . فيقول الله \u003cspan class=\"reference brown\"\u003e[ تعالى ]\u003c/span\u003e : إنك على خير ، بك اليوم آخذ وبك أعطي ،\u003cspan class=\"blue\"\u003e قال الله في كتابه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يبتغ غير الإسلام دينا فلن يقبل منه وهو في الآخرة من الخاسرين )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eتفرد به أحمد .\u003cspan class=\"blue\"\u003e قال أبو عبد الرحمن عبد الله بن الإمام أحمد :\u003c/span\u003e عباد بن راشد ثقة ، ولكن الحسن لم يسمع من أبي هريرة .\u003c/p\u003e"
+}

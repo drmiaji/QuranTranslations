@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "25:45":  {
+                                 "id":  2900
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eمن هاهنا شرع تعالى في بيان الأدلة الدالة على وجوده ، وقدرته التامة على خلق الأشياء المختلفة والمتضادة ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ألم تر إلى ربك كيف مد الظل )\u003c/span\u003e ؟ قال ابن عباس ، وابن عمر ، وأبو العالية ، وأبو مالك ، ومسروق ، ومجاهد ، وسعيد بن جبير ، وإبراهيم النخعي ، والضحاك ، والحسن البصري ، وقتادة ، والسدي ،\u003cspan class=\"blue\"\u003e وغيرهم :\u003c/span\u003e هو ما بين طلوع الفجر إلى طلوع الشمس . \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو شاء لجعله ساكنا )\u003c/span\u003e أي : دائما لا يزول ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قل أرأيتم إن جعل الله عليكم الليل سرمدا إلى يوم القيامة )\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قل أرأيتم إن جعل الله عليكم النهار سرمدا إلى يوم القيامة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القصص : 71 - 72 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم جعلنا الشمس عليه دليلا )\u003c/span\u003e أي : لولا أن الشمس تطلع عليه ، لما عرف ، فإن الضد لا يعرف إلا بضده .\u003c/p\u003e\u003cp\u003eوقال قتادة ،\u003cspan class=\"blue\"\u003e والسدي :\u003c/span\u003e دليلا يتلوه ويتبعه حتى يأتي عليه كله .\u003c/p\u003e"
+}

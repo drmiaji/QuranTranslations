@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:76":  {
+                                "id":  569
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين آمنوا يقاتلون في سبيل الله والذين كفروا يقاتلون في سبيل الطاغوت )\u003c/span\u003e أي : المؤمنون يقاتلون في طاعة الله ورضوانه ، والكافرون يقاتلون في طاعة الشيطان .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم هيج تعالى المؤمنين على قتال أعدائه بقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فقاتلوا أولياء الشيطان إن كيد الشيطان كان ضعيفا )\u003c/span\u003e\u003c/p\u003e"
+}

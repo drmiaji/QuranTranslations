@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:63":  {
+                                 "id":  4033
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي : في الدنيا \u003cspan class=\"arabic qpc-hafs\"\u003e( أم زاغت عنهم الأبصار )\u003c/span\u003e يسلون أنفسهم بالمحال يقولون : أو لعلهم معنا في جهنم ولكن لم يقع بصرنا عليهم .\u003cspan class=\"blue\"\u003e فعند ذلك يعرفون أنهم في الدرجات العاليات وهو قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ونادى أصحاب الجنة أصحاب النار أن قد وجدنا ما وعدنا ربنا حقا فهل وجدتم ما وعد ربكم حقا قالوا نعم فأذن مؤذن بينهم أن لعنة الله على الظالمين )\u003c/span\u003e إلى قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( \u003cspan class=\"reference brown\"\u003e[ ونادى أصحاب الأعراف رجالا يعرفونهم بسيماهم قالوا ما أغنى عنكم جمعكم وما كنتم تستكبرون . أهؤلاء الذين أقسمتم لا ينالهم الله برحمة ]\u003c/span\u003e ادخلوا الجنة لا خوف عليكم ولا أنتم تحزنون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 44 - 49 ]\u003c/span\u003e\u003c/p\u003e"
+}

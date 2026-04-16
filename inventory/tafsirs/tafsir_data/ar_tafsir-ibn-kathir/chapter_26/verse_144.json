@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:144":  {
+                                  "id":  3076
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفدعاهم نبيهم صالح إلى الله ، عز وجل ، أن يعبدوه وحده لا شريك له ، وأن يطيعوه فيما بلغهم من الرسالة ، فأبوا عليه وكذبوه وخالفوه . فأخبرهم أنه لا يبتغي بدعوتهم أجرا منهم ، وإنما يطلب ثواب ذلك من الله ، عز وجل ،\u003cspan class=\"blue\"\u003e ثم ذكرهم آلاء الله عليهم فقال :\u003c/span\u003e\u003c/p\u003e"
+}

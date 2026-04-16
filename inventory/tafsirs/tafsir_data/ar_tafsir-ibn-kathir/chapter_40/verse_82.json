@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:82":  {
+                                 "id":  4215
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن الأمم المكذبة بالرسل في قديم الدهر ، وماذا حل بهم من العذاب الشديد ، مع شدة قواهم ، وما أثروه في الأرض ، وجمعوه من الأموال ، فما أغنى عنهم ذلك شيئا ، ولا رد عنهم ذرة من بأس الله ;\u003c/p\u003e"
+}

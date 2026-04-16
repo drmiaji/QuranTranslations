@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:206":  {
+                                 "id":  1160
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذين عند ربك لا يستكبرون عن عبادته \u003cspan class=\"reference brown\"\u003e[ ويسبحونه وله يسجدون ]\u003c/span\u003e )\u003c/span\u003e وإنما ذكرهم بهذا ليتشبه بهم في كثرة طاعتهم وعبادتهم ; ولهذا شرع لنا السجود هاهنا لما ذكر سجودهم لله ، عز وجل ،\u003cspan class=\"blue\"\u003e كما جاء في الحديث :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" ألا تصفون كما تصف الملائكة عند ربها ، يتمون الصفوف الأول ، ويتراصون في الصف \"\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذه أول سجدة في القرآن ، مما يشرع لتاليها ومستمعها السجود بالإجماع . وقد ورد في حديث رواه ابن ماجه ، عن أبي الدرداء ، عن النبي صلى الله عليه وسلم أنه عدها في سجدات القرآن\u003c/p\u003e\u003cp\u003eآخر \u003cspan class=\"reference brown\"\u003e[ تفسير ]\u003c/span\u003e سورة الأعراف ، ولله الحمد والمنة .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:13":  {
+                                 "id":  4071
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : قل يا محمد وأنت رسول الله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إني أخاف إن عصيت ربي عذاب يوم عظيم )\u003c/span\u003e ، وهو يوم القيامة . وهذا شرط ، ومعناه التعريض بغيره بطريق الأولى والأحرى ،\u003c/p\u003e"
+}

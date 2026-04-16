@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "46:13":  {
+                                 "id":  4523
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذين قالوا ربنا الله ثم استقاموا )\u003c/span\u003e تقدم تفسيرها في سورة \u003cspan class=\"red\"\u003e\" حم ، السجدة \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فلا خوف عليهم )\u003c/span\u003e أي : فيما يستقبلون ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا هم يحزنون )\u003c/span\u003e على ما خلفوا ،\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "96:17":  {
+                                 "id":  6123
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\"فليدع ناديه\"\u003c/span\u003e أي قومه وعشيرته أي ليدعهم يستنصر بهم.\u003c/p\u003e"
+}

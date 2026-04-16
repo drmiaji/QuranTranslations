@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:94":  {
+                                 "id":  3882
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eقوله هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( فأقبلوا إليه يزفون )\u003c/span\u003e : قال مجاهد وغير واحد : أي يسرعون .\u003c/p\u003e"
+}

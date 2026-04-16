@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:85":  {
+                                 "id":  1681
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقالوا له على سبيل الرفق به والشفقة عليه : \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا تالله تفتأ تذكر يوسف )\u003c/span\u003e أي : لا تفارق تذكر يوسف ، \u003cspan class=\"arabic qpc-hafs\"\u003e( حتى تكون حرضا )\u003c/span\u003e أي : ضعيف الجسم ، ضعيف القوة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أو تكون من الهالكين )\u003c/span\u003e يقولون : وإن استمر بك هذا الحال خشينا عليك الهلاك والتلف .\u003c/p\u003e"
+}

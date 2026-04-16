@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:56":  {
+                                 "id":  4114
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( أن تقول نفس يا حسرتى على ما فرطت في جنب الله )\u003c/span\u003e أي : يوم القيامة يتحسر المجرم المفرط في التوبة والإنابة ، ويود لو كان من المحسنين المخلصين المطيعين لله - عز وجل - .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن كنت لمن الساخرين )\u003c/span\u003e أي : إنما كان عملي في الدنيا عمل ساخر مستهزئ غير موقن مصدق .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "95:6":  {
+                                "id":  6104
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\"إلا الذين آمنوا وعملوا الصالحات\"\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال بعضهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم رددناه أسفل سافلين )\u003c/span\u003e أي : إلى أرذل العمر . روي هذا عن ابن عباس وعكرمة -\u003cspan class=\"blue\"\u003e حتى قال عكرمة :\u003c/span\u003e من جمع القرآن لم يرد إلى أرذل العمر . واختار ذلك ابن جرير . ولو كان هذا هو المراد لما حسن استثناء المؤمنين من ذلك ; لأن الهرم قد يصيب بعضهم ، وإنما المراد ما ذكرناه ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( والعصر إن الإنسان لفي خسر إلا الذين آمنوا وعملوا الصالحات )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ العصر : 1 - 3 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فلهم أجر غير ممنون )\u003c/span\u003e أي : غير مقطوع ، كما تقدم .\u003c/p\u003e"
+}

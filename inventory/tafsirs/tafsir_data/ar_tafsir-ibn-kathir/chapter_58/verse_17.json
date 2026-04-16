@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "58:17":  {
+                                 "id":  5121
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال تعالى \u003cspan class=\"red\"\u003e\"لن تغني عنهم أموالهم ولا أولادهم من الله شيئا\"\u003c/span\u003e أي لن يدفع ذلك عنهم بأسا إذا جاءهم \u003cspan class=\"red\"\u003e\"أولئك أصحاب النار هم فيها خالدون\"\u003c/span\u003e.\u003c/p\u003e"
+}

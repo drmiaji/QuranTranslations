@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "70:17":  {
+                                 "id":  5392
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( تدعو من أدبر وتولى وجمع فأوعى )\u003c/span\u003e أي : تدعو النار إليها أبناءها الذين خلقهم الله لها ، وقدر لهم أنهم في الدار الدنيا يعملون عملها ، فتدعوهم يوم القيامة بلسان طلق ذلق ، ثم تلتقطهم من بين أهل المحشر كما يلتقط الطير الحب . وذلك أنهم - كما قال الله ، عز وجل -\u003cspan class=\"blue\"\u003e كانوا ممن ) أدبر وتولى ) أي :\u003c/span\u003e كذب بقلبه ، وترك العمل بجوارحه )\u003c/p\u003e"
+}

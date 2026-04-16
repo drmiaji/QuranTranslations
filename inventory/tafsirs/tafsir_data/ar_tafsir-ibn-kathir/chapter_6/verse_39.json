@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "6:39":  {
+                                "id":  828
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين كذبوا بآياتنا صم وبكم في الظلمات )\u003c/span\u003e أي : مثلهم في جهلهم وقلة علمهم وعدم فهمهم كمثل أصم - وهو الذي لا يسمع - أبكم - وهو الذي لا يتكلم - وهو مع هذا في ظلام لا يبصر ، فكيف يهتدي مثل هذا إلى الطريق ، أو يخرج مما هو فيه؟ كما قال تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( مثلهم كمثل الذي استوقد نارا فلما أضاءت ما حوله ذهب الله بنورهم وتركهم في ظلمات لا يبصرون صم بكم عمي فهم لا يرجعون \u003cspan class=\"reference brown\"\u003e[ البقرة : 17 ، 18 ]\u003c/span\u003e )\u003c/span\u003e وكما قال \u003cspan class=\"reference brown\"\u003e[ تعالى ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أو كظلمات في بحر لجي يغشاه موج من فوقه موج من فوقه سحاب ظلمات بعضها فوق بعض إذا أخرج يده لم يكد يراها ومن لم يجعل الله له نورا فما له من نور )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النور : 40 ]\u003c/span\u003e ; ولهذا قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( من يشأ الله يضلله ومن يشأ يجعله على صراط مستقيم )\u003c/span\u003e أي : هو المتصرف في خلقه بما يشاء .\u003c/p\u003e"
+}

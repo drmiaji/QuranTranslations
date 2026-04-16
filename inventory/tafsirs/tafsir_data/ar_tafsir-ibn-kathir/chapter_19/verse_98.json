@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:98":  {
+                                 "id":  2348
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وكم أهلكنا قبلهم من قرن )\u003c/span\u003e أي : من أمة كفروا بآيات الله وكذبوا رسله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( هل تحس منهم من أحد أو تسمع لهم ركزا )\u003c/span\u003e أي : هل ترى منهم أحدا ، أو تسمع لهم ركزا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن عباس ، وأبو العالية ، وعكرمة ، والحسن البصري ، وسعيد بن جبير ، والضحاك ،\u003cspan class=\"blue\"\u003e وابن زيد :\u003c/span\u003e يعني صوتا .\u003c/p\u003e\u003cp\u003eوقال الحسن ،\u003cspan class=\"blue\"\u003e وقتادة :\u003c/span\u003e هل ترى عينا ، أو تسمع صوتا .\u003c/p\u003e\u003cp\u003eوالركز في أصل اللغة : هو الصوت الخفي ،\u003cspan class=\"blue\"\u003e قال الشاعر :\u003c/span\u003e\u003c/p\u003e\u003cp\u003eفتوجست ركز الأنيس فراعها عن ظهر غيب والأنيس سقامها\u003c/p\u003e\u003cp\u003eآخر تفسير سورة مريم ولله الحمد والمنة ويتلوه إن شاء الله تفسير سورة طه ولله الحمد.\u003c/p\u003e"
+}

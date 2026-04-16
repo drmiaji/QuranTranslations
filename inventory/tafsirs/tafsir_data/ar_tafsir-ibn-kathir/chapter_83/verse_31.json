@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "83:31":  {
+                                 "id":  5879
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي وإذا انقلب أى رجع هؤلاء المجرمون إلى منازلهم انقلبوا إليها فكهين أي مهما طلبوا وجدوا ومع هذا ما شكروا نعمة الله عليهم بل اشتغلوا بالقوم المؤمنين يحقرونهم ويحسدونهم.\u003c/p\u003e"
+}

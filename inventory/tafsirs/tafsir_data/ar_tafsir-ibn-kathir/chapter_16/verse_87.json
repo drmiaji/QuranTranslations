@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:87":  {
+                                 "id":  1988
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وألقوا إلى الله يومئذ السلم )\u003c/span\u003e - قال قتادة ،\u003cspan class=\"blue\"\u003e وعكرمة :\u003c/span\u003e ذلوا واستسلموا يومئذ ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e استسلموا لله جميعهم ، فلا أحد إلا سامع مطيع ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أسمع بهم وأبصر يوم يأتوننا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ مريم : 38 ]\u003c/span\u003e أي : ما أسمعهم وما أبصرهم يومئذ ! وقال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو ترى إذ المجرمون ناكسو رءوسهم عند ربهم ربنا أبصرنا وسمعنا فارجعنا نعمل صالحا إنا موقنون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ السجدة : 12 ]\u003c/span\u003e وقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( وعنت الوجوه للحي القيوم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ طه : 111 ]\u003c/span\u003e أي : خضعت وذلت واستكانت وأنابت واستسلمت .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وألقوا إلى الله يومئذ السلم وضل عنهم ما كانوا يفترون )\u003c/span\u003e أي : ذهب واضمحل ما كانوا يعبدونه افتراء على الله فلا ناصر لهم ولا معين ولا مجيز .\u003c/p\u003e"
+}

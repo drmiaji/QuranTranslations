@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "77:15":  {
+                                 "id":  5637
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي ويل لمن تأمل هذه المخلوقات الدالة على عظمة خالقها ثم بعد هذا يستمر على تكذيبه وكفره.\u003c/p\u003e"
+}

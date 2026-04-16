@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:113":  {
+                                 "id":  1067
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عما تشارط عليه فرعون والسحرة الذين استدعاهم لمعارضة موسى ،\u003cspan class=\"blue\"\u003e عليه السلام :\u003c/span\u003e إن غلبوا موسى ليثيبنهم وليعطينهم عطاء جزيلا . فوعدهم ومناهم أن يعطيهم ما أرادوا ، ويجعلنهم من جلسائه والمقربين عنده ، فلما توثقوا من فرعون لعنه الله\u003c/p\u003e"
+}

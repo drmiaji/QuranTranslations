@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:96":  {
+                                 "id":  1997
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ما عندكم ينفد )\u003c/span\u003e أي : يفرغ وينقضي ، فإنه - إلى أجل - معدود محصور مقدر متناه . \u003cspan class=\"arabic qpc-hafs\"\u003e( وما عند الله باق )\u003c/span\u003e أي : وثوابه لكم في الجنة باق لا انقطاع ولا نفاد له فإنه دائم لا يحول ولا يزول ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولنجزين الذين صبروا أجرهم بأحسن ما كانوا يعملون )\u003c/span\u003e قسم من الرب - عز وجل متلقى باللام - أنه يجازي الصابرين بأحسن أعمالهم ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e ويتجاوز عن سيئها .\u003c/p\u003e"
+}

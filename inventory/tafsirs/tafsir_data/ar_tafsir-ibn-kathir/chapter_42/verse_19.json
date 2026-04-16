@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "42:19":  {
+                                 "id":  4291
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن لطفه بخلقه في رزقه إياهم عن آخرهم ، لا ينسى أحدا منهم ، سواء في رزقه البر والفاجر ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما من دابة في الأرض إلا على الله رزقها ويعلم مستقرها ومستودعها كل في كتاب مبين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 6 ]\u003c/span\u003e ولها نظائر كثيرة .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يرزق من يشاء )\u003c/span\u003e أي : يوسع على من يشاء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو القوي العزيز )\u003c/span\u003e أي : لا يعجزه شيء .\u003c/p\u003e"
+}

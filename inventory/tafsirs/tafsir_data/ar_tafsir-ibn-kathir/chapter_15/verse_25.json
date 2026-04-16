@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:25":  {
+                                 "id":  1827
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\" وإن ربك هو يحشرهم إنه حكيم عليم \"\u003c/span\u003e فقال عون بن عبد الله وفقك الله وجزاك خيرا.\u003c/p\u003e"
+}

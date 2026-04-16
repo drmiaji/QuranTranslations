@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:57":  {
+                                 "id":  3216
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال الله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( فأنجيناه وأهله إلا امرأته قدرناها من الغابرين )\u003c/span\u003e أي : من الهالكين مع قومها ; لأنها كانت ردءا لهم على دينهم ، وعلى طريقتهم في رضاها بأفعالهم القبيحة ، فكانت تدل قومها على ضيفان لوط ، ليأتوا إليهم ، لا أنها كانت تفعل الفواحش تكرمة لنبي الله - صلى الله عليه وسلم - لا كرامة لها .\u003c/p\u003e"
+}

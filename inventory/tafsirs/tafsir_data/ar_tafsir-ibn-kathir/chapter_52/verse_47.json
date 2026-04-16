@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:47":  {
+                                 "id":  4782
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن للذين ظلموا عذابا دون ذلك )\u003c/span\u003e أي : قبل ذلك في الدار الدنيا ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولنذيقنهم من العذاب الأدنى دون العذاب الأكبر لعلهم يرجعون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ السجدة : 21 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكن أكثرهم لا يعلمون )\u003c/span\u003e أي : نعذبهم في الدنيا ، ونبتليهم فيها بالمصائب ، لعلهم يرجعون وينيبون ، فلا يفهمون ما يراد بهم ، بل إذا جلي عنهم مما كانوا فيه ، عادوا إلى أسوأ ما كانوا عليه ،\u003cspan class=\"blue\"\u003e كما جاء في بعض الأحاديث :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن المنافق إذا مرض وعوفي مثله في ذلك كمثل البعير لا يدري فيما عقلوه ولا فيما أرسلوه \"\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وفي الأثر الإلهي :\u003c/span\u003e كم أعصيك ولا تعاقبني ؟\u003cspan class=\"blue\"\u003e قال الله :\u003c/span\u003e يا عبدي ، كم أعافيك وأنت لا تدري ؟\u003c/p\u003e"
+}

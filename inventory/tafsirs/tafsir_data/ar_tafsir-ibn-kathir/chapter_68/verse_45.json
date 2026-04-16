@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "68:45":  {
+                                 "id":  5316
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وأملي لهم إن كيدي متين )\u003c/span\u003e أي : وأؤخرهم ، وأنظرهم ، وأمدهم ،\u003cspan class=\"blue\"\u003e وذلك من كيدي ومكري بهم ; ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن كيدي متين )\u003c/span\u003e أي : عظيم لمن خالف أمري ، وكذب رسلي ، واجترأ على معصيتي .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوفي الصحيحين عن رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e أنه قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن الله تعالى ليملي للظالم حتى إذا أخذه لم يفلته \"\u003c/span\u003e .\u003cspan class=\"blue\"\u003e ثم قرأ :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وكذلك أخذ ربك إذا أخذ القرى وهي ظالمة إن أخذه أليم شديد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 102 ]\u003c/span\u003e .\u003c/p\u003e"
+}

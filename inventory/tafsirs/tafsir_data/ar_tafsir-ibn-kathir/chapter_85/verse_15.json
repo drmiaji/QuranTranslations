@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "85:15":  {
+                                 "id":  5924
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ذو العرش )\u003c/span\u003e أي صاحب العرش المعظم العالي على جميع الخلائق\u003c/p\u003e\u003cp\u003eو \u003cspan class=\"arabic qpc-hafs\"\u003e( المجيد )\u003c/span\u003e فيه قراءتان الرفع على أنه صفة للرب عز وجل والجر على أنه صفة للعرش وكلاهما معنى صحيح\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "34:2":  {
+                                "id":  3608
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( يعلم ما يلج في الأرض وما يخرج منها )\u003c/span\u003e أي : يعلم عدد القطر النازل في أجزاء الأرض ، والحب المبذور والكامن فيها ،\u003cspan class=\"blue\"\u003e ويعلم ما يخرج من ذلك :\u003c/span\u003e عدده وكيفيته وصفاته ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وما ينزل من السماء )\u003c/span\u003e أي : من قطر ورزق ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وما يعرج فيها )\u003c/span\u003e أي : من الأعمال الصالحة وغير ذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الرحيم الغفور )\u003c/span\u003e أي : الرحيم بعباده فلا يعاجل عصاتهم بالعقوبة ، الغفور عن ذنوب \u003cspan class=\"reference brown\"\u003e[ عباده ]\u003c/span\u003e التائبين إليه المتوكلين عليه .\u003c/p\u003e"
+}

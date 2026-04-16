@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "28:80":  {
+                                 "id":  3332
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفلما سمع مقالتهم أهل العلم النافع قالوا لهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويلكم ثواب الله خير لمن آمن وعمل صالحا )\u003c/span\u003e أي : جزاء الله لعباده المؤمنين الصالحين في الدار الآخرة خير مما ترون .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e[ كما في الحديث الصحيح : يقول الله تعالى : أعددت لعبادي الصالحين ما لا عين رأت ، ولا أذن سمعت ، ولا خطر على قلب بشر ،\u003cspan class=\"blue\"\u003e واقرؤوا إن شئتم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فلا تعلم نفس ما أخفي لهم من قرة أعين جزاء بما كانوا يعملون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ السجدة : 17 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا يلقاها إلا الصابرون )\u003c/span\u003e : قال السدي : وما يلقى الجنة إلا الصابرون . كأنه جعل ذلك من تمام كلام الذين أوتوا العلم .\u003cspan class=\"blue\"\u003e قال ابن جرير :\u003c/span\u003e وما يلقى هذه الكلمة إلا الصابرون عن محبة الدنيا ، الراغبون في الدار الآخرة . وكأنه جعل ذلك مقطوعا من كلام أولئك ، وجعله من كلام الله عز وجل وإخباره بذلك .\u003c/p\u003e"
+}

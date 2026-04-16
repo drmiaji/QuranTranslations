@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "74:35":  {
+                                 "id":  5530
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eأي العظائم يعني النار.\u003c/p\u003e\u003cp\u003eقاله ابن عباس ومجاهد وقتادة والضحاك وغير واحد من السلف.\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:12":  {
+                                 "id":  4858
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي نبعت جميع أرجاء الأرض حتى التنانير التي هي محال النيران نبعت عيونا \u003cspan class=\"red\"\u003e\"فالتقى الماء\"\u003c/span\u003e أي من السماء والأرض \u003cspan class=\"red\"\u003e\"على أمر قد قدر\"\u003c/span\u003e أى أمر مقدر.\u003c/p\u003e"
+}

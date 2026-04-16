@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:42":  {
+                                 "id":  2525
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم ذكر تعالى نعمته على عبيده في حفظه لهم بالليل والنهار ، وكلاءته وحراسته لهم بعينه التي لا تنام ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قل من يكلؤكم بالليل والنهار من الرحمن )\u003c/span\u003e ؟\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e بدل الرحمن بمعنى غيره كما قال الشاعر\u003c/p\u003e\u003cp\u003eجارية لم تلبس المرققا ولم تذق من البقول الفستقا\u003c/p\u003e\u003cp\u003eأي : لم تذق بدل البقول الفستق .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( بل هم عن ذكر ربهم معرضون )\u003c/span\u003e أي : لا يعترفون بنعمه عليهم وإحسانه إليهم ، بل يعرضون عن آياته وآلائه\u003c/p\u003e"
+}

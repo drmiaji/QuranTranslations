@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "50:24":  {
+                                 "id":  4654
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفعند ذلك يحكم الله سبحانه تعالى ،\u003cspan class=\"blue\"\u003e في الخليقة بالعدل فيقول :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ألقيا في جهنم كل كفار عنيد )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد اختلف النحاة في قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ألقيا )\u003c/span\u003e فقال بعضهم : هي لغة لبعض العرب يخاطبون المفرد بالتثنية ،\u003cspan class=\"blue\"\u003e كما روي عن الحجاج أنه كان يقول :\u003c/span\u003e يا حرسي ، اضربا عنقه ،\u003cspan class=\"blue\"\u003e ومما أنشد ابن جرير على هذه اللغة قول الشاعر :\u003c/span\u003e\u003c/p\u003e\u003cp\u003eفإن تزجراني - يابن عفان - أنزجر وإن تتركاني أحم عرضا ممنعا\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقيل : بل هي نون التأكيد سهلت إلى الألف . وهذا بعيد ; لأن هذا إنما يكون في الوقف ، والظاهر أنها مخاطبة مع السائق والشهيد ، فالسائق أحضره إلى عرصة الحساب ، فلما أدى الشهيد عليه ، أمرهما الله تعالى بإلقائه في نار جهنم وبئس المصير .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ألقيا في جهنم كل كفار عنيد )\u003c/span\u003e أي : كثير الكفر والتكذيب بالحق ، \u003cspan class=\"arabic qpc-hafs\"\u003e( عنيد )\u003c/span\u003e : معاند للحق ، معارض له بالباطل مع علمه بذلك .\u003c/p\u003e"
+}

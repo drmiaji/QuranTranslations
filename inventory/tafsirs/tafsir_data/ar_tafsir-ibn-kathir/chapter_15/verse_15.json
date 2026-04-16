@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:15":  {
+                                 "id":  1817
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eبل قالوا : \u003cspan class=\"arabic qpc-hafs\"\u003e( سكرت أبصارنا )\u003c/span\u003e\u003c/p\u003e\u003cp\u003eقال مجاهد وابن كثير ،\u003cspan class=\"blue\"\u003e والضحاك :\u003c/span\u003e سدت أبصارنا .\u003c/p\u003e\u003cp\u003eوقال قتادة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e أخذت أبصارنا .\u003c/p\u003e\u003cp\u003eوقال العوفي عن ابن عباس : شبه علينا ، وإنما سحرنا .\u003c/p\u003e\u003cp\u003eوقال الكلبي : عميت أبصارنا .\u003c/p\u003e\u003cp\u003eوقال ابن زيد : \u003cspan class=\"arabic qpc-hafs\"\u003e( سكرت أبصارنا )\u003c/span\u003e السكران الذي لا يعقل .\u003c/p\u003e"
+}

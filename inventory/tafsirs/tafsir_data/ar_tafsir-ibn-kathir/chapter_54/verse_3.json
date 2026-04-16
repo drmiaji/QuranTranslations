@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:3":  {
+                                "id":  4849
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وكذبوا واتبعوا أهواءهم )\u003c/span\u003e أي : كذبوا بالحق إذ جاءهم ، واتبعوا ما أمرتهم به آراؤهم وأهواؤهم من جهلهم وسخافة عقلهم .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وكل أمر مستقر )\u003c/span\u003e قال قتادة : معناه : أن الخير واقع بأهل الخير ، والشر واقع بأهل الشر .\u003c/p\u003e\u003cp\u003eوقال ابن جريج : مستقر بأهله .\u003cspan class=\"blue\"\u003e وقال مجاهد :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وكل أمر مستقر )\u003c/span\u003e أي : يوم القيامة .\u003c/p\u003e\u003cp\u003eوقال السدي : \u003cspan class=\"arabic qpc-hafs\"\u003e( مستقر )\u003c/span\u003e أي : واقع .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "72:2":  {
+                                "id":  5449
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"يهدي إلى الرشد\"\u003c/span\u003e أي : إلى السداد والنجاح ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فآمنا به ولن نشرك بربنا أحدا )\u003c/span\u003e وهذا المقام شبيه بقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذ صرفنا إليك نفرا من الجن يستمعون القرآن )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأحقاف : 29 ]\u003c/span\u003e وقد قدمنا الأحاديث الواردة في ذلك بما أغنى عن إعادته هاهنا .\u003c/p\u003e"
+}

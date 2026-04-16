@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "17:49":  {
+                                 "id":  2078
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن الكفار المستبعدين وقوع المعاد القائلين استفهام إنكار منهم لذلك \u003cspan class=\"arabic qpc-hafs\"\u003e( أئذا كنا عظاما ورفاتا )\u003c/span\u003e أي ترابا قاله مجاهد\u003c/p\u003e\u003cp\u003eوقال علي بن أبي طلحة عن ابن عباس غبارا\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( أئنا لمبعوثون )\u003c/span\u003e أي يوم القيامة \u003cspan class=\"arabic qpc-hafs\"\u003e( خلقا جديدا )\u003c/span\u003e أي بعد ما بلينا وصرنا عدما لا يذكر كما أخبر عنهم في الموضع الآخر \u003cspan class=\"arabic qpc-hafs\"\u003e( يقولون أئنا لمردودون في الحافرة أئذا كنا عظاما نخرة قالوا تلك إذا كرة خاسرة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النازعات 10 12 ]\u003c/span\u003e قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وضرب لنا مثلا ونسي خلقه قال من يحيي العظام وهي رميم قل يحييها الذي أنشأها أول مرة وهو بكل خلق عليم )\u003c/span\u003e [ يس 78 ، 79 .\u003c/p\u003e"
+}

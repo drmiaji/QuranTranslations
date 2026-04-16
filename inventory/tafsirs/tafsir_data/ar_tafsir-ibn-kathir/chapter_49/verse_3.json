@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "49:3":  {
+                                "id":  4615
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم ندب الله عز وجل ، إلى خفض الصوت عنده ، وحث على ذلك ، وأرشد إليه ، ورغب فيه ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذين يغضون أصواتهم عند رسول الله أولئك الذين امتحن الله قلوبهم للتقوى )\u003c/span\u003e أي : أخلصها لها وجعلها أهلا ومحلا \u003cspan class=\"arabic qpc-hafs\"\u003e( لهم مغفرة وأجر عظيم )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد قال الإمام أحمد في كتاب الزهد : حدثنا عبد الرحمن ، حدثنا سفيان ، عن منصور ، عن مجاهد ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e كتب إلى عمر يا أمير المؤمنين ، رجل لا يشتهي المعصية ولا يعمل بها ، أفضل ، أم رجل يشتهي المعصية ولا يعمل بها ؟ فكتب عمر ،\u003cspan class=\"blue\"\u003e رضي الله عنه :\u003c/span\u003e إن الذين يشتهون المعصية ولا يعملون بها \u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك الذين امتحن الله قلوبهم للتقوى لهم مغفرة وأجر عظيم )\u003c/span\u003e .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:198":  {
+                                 "id":  1152
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن تدعوهم إلى الهدى لا يسمعوا وتراهم ينظرون إليك وهم لا يبصرون )\u003c/span\u003e كقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن تدعوهم لا يسمعوا دعاءكم \u003cspan class=\"reference brown\"\u003e[ ولو سمعوا ما استجابوا لكم ويوم القيامة يكفرون بشرككم ولا ينبئك مثل خبير ]\u003c/span\u003e )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ فاطر : 14 ]\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وتراهم ينظرون إليك وهم لا يبصرون )\u003c/span\u003e إنما قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ينظرون إليك )\u003c/span\u003e أي : يقابلونك بعيون مصورة كأنها ناظرة ، وهي جماد ; ولهذا عاملهم معاملة من يعقل ; لأنها على صور مصورة كالإنسان ، \u003cspan class=\"reference brown\"\u003e[ فقال ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وتراهم ينظرون إليك )\u003c/span\u003e فعبر عنها بضمير من يعقل .\u003c/p\u003e"
+}

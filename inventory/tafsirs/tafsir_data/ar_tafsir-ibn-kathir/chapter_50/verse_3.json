@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "50:3":  {
+                                "id":  4633
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال مخبرا عنهم في عجبهم أيضا من المعاد واستبعادهم لوقوعه : \u003cspan class=\"arabic qpc-hafs\"\u003e( أئذا متنا وكنا ترابا ذلك رجع بعيد )\u003c/span\u003e أي : يقولون : أإذا متنا وبلينا ، وتقطعت الأوصال منا ، وصرنا ترابا ، كيف يمكن الرجوع بعد ذلك إلى هذه البنية والتركيب ؟ \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلك رجع بعيد )\u003c/span\u003e أي : بعيد الوقوع ،\u003cspan class=\"blue\"\u003e ومعنى هذا :\u003c/span\u003e أنهم يعتقدون استحالته وعدم إمكانه .\u003c/p\u003e"
+}

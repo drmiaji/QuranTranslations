@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:70":  {
+                                 "id":  3229
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى مسليا لنبيه ،\u003cspan class=\"blue\"\u003e صلوات الله وسلامه عليه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تحزن عليهم )\u003c/span\u003e أي : المكذبين بما جئت به ، ولا تأسف عليهم وتذهب نفسك عليهم حسرات ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تك في ضيق مما يمكرون )\u003c/span\u003e أي : في كيدك ورد ما جئت به ، فإن الله مؤيدك وناصرك ، ومظهر دينك على من خالفه وعانده في المشارق والمغارب .\u003c/p\u003e"
+}

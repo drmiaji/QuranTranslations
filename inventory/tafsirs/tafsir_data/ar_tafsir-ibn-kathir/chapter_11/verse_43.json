@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:43":  {
+                                 "id":  1516
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال سآوي إلى جبل يعصمني من الماء )\u003c/span\u003e وقيل : إنه اتخذ له مركبا من زجاج ، وهذا من الإسرائيليات ، والله أعلم بصحته .\u003cspan class=\"blue\"\u003e والذي نص عليه القرآن أنه قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قال سآوي إلى جبل يعصمني من الماء )\u003c/span\u003e اعتقد بجهله أن الطوفان لا يبلغ إلى رءوس الجبال ، وأنه لو تعلق في رأس جبل لنجاه ذلك من الغرق ، فقال له أبوه نوح ،\u003cspan class=\"blue\"\u003e عليه السلام :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لا عاصم اليوم من أمر الله إلا من رحم )\u003c/span\u003e أي : ليس شيء يعصم اليوم من أمر الله .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e إن عاصما بمعنى معصوم ،\u003cspan class=\"blue\"\u003e كما يقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" طاعم وكاس \"\u003c/span\u003e ، بمعنى مطعوم ومكسو ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وحال بينهما الموج فكان من المغرقين )\u003c/span\u003e .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "62:6":  {
+                                "id":  5183
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل ياأيها الذين هادوا إن زعمتم أنكم أولياء لله من دون الناس فتمنوا الموت إن كنتم صادقين )\u003c/span\u003e أي : إن كنتم تزعمون أنكم على هدى ، وأن محمدا وأصحابه على ضلالة ، فادعوا بالموت على الضال من الفئتين \u003cspan class=\"arabic qpc-hafs\"\u003e( إن كنتم صادقين )\u003c/span\u003e فيما تزعمونه .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:94":  {
+                                 "id":  2577
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن يعمل من الصالحات وهو مؤمن )\u003c/span\u003e أي : قلبه مصدق ، وعمل عملا صالحا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فلا كفران لسعيه )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا لا نضيع أجر من أحسن عملا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الكهف : 30 ]\u003c/span\u003e أي : لا يكفر سعيه ، وهو عمله ، بل يشكر ،\u003cspan class=\"blue\"\u003e فلا يظلم مثقال ذرة; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنا له كاتبون )\u003c/span\u003e أي : يكتب جميع عمله ، فلا يضيع عليه منه شيء .\u003c/p\u003e"
+}

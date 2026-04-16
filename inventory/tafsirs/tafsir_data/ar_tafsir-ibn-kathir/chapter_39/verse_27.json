@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:27":  {
+                                 "id":  4085
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد ضربنا للناس في هذا القرآن من كل مثل )\u003c/span\u003e أي : بينا للناس فيه بضرب الأمثال ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لعلهم يتذكرون )\u003c/span\u003e ، فإن المثل يقرب المعنى إلى الأذهان ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ضرب لكم مثلا من أنفسكم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الروم : 28 ]\u003c/span\u003e أي : تعلمونه من أنفسكم ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وتلك الأمثال نضربها للناس وما يعقلها إلا العالمون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ العنكبوت : 43 ]\u003c/span\u003e .\u003c/p\u003e"
+}

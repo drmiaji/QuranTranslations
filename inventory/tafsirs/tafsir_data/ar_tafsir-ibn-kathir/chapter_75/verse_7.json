@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "75:7":  {
+                                "id":  5558
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقال تعالى هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( فإذا برق البصر )\u003c/span\u003e قال أبو عمرو بن العلاء : \u003cspan class=\"arabic qpc-hafs\"\u003e( برق )\u003c/span\u003e بكسر الراء ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e حار .\u003cspan class=\"blue\"\u003e وهذا الذي قاله شبيه بقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لا يرتد إليهم طرفهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ إبراهيم : 43 ]\u003c/span\u003e ، بل ينظرون من الفزع هكذا وهكذا ، لا يستقر لهم بصر على شيء ; من شدة الرعب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقرأ آخرون : \u003cspan class=\"red\"\u003e\" برق \"\u003c/span\u003e بالفتح ، وهو قريب في المعنى من الأول . والمقصود أن الأبصار تنبهر يوم القيامة وتخشع وتحار وتذل من شدة الأهوال ، ومن عظم ما تشاهده يوم القيامة من الأمور .\u003c/p\u003e"
+}

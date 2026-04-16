@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:81":  {
+                                 "id":  1445
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفعند ذلك قال موسى لما ألقوا : \u003cspan class=\"arabic qpc-hafs\"\u003e( ما جئتم به السحر إن الله سيبطله إن الله لا يصلح عمل المفسدين ويحق الله الحق بكلماته ولو كره المجرمون )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا محمد بن عمار بن الحارث ، حدثنا عبد الرحمن - يعني الدشتكي - أخبرنا أبو جعفر الرازي ، عن ليث - وهو ابن أبي سليم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e بلغني أن هؤلاء الآيات شفاء من السحر بإذن الله تعالى ، تقرأ في إناء فيه ماء ،\u003cspan class=\"blue\"\u003e ثم يصب على رأس المسحور :\u003c/span\u003e الآية التي من سورة يونس : \u003cspan class=\"arabic qpc-hafs\"\u003e( فلما ألقوا قال موسى ما جئتم به السحر إن الله سيبطله إن الله لا يصلح عمل المفسدين)\u003c/span\u003e\u003c/p\u003e"
+}

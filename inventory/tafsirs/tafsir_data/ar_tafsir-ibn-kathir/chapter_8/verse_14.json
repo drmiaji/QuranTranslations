@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "8:14":  {
+                                "id":  1174
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ذلكم فذوقوه وأن للكافرين عذاب النار )\u003c/span\u003e هذا خطاب للكفار أي : ذوقوا هذا العذاب والنكال في الدنيا ، واعلموا أيضا أن للكافرين عذاب النار في الآخرة .\u003c/p\u003e"
+}

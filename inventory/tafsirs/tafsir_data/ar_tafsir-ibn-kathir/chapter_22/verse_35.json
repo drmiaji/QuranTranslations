@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:35":  {
+                                 "id":  2630
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( الذين إذا ذكر الله وجلت قلوبهم )\u003c/span\u003e أي : خافت منه قلوبهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( والصابرين على ما أصابهم )\u003c/span\u003e أي : من المصائب .\u003c/p\u003e\u003cp\u003eقال الحسن البصري : والله لتصبرن أو لتهلكن .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( والمقيمي الصلاة )\u003c/span\u003e : قرأ الجمهور بالإضافة . السبعة ، وبقية العشرة أيضا .\u003cspan class=\"blue\"\u003e وقرأ ابن السميقع :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" والمقيمين الصلاة \"\u003c/span\u003e بالنصب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الحسن البصري : \u003cspan class=\"arabic qpc-hafs\"\u003e( والمقيمي الصلاة )\u003c/span\u003e ، وإنما حذفت النون هاهنا تخفيفا ، ولو حذفت للإضافة لوجب خفض الصلاة ، ولكن على سبيل التخفيف فنصبت .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eأي : المؤدين حق الله فيما أوجب عليهم من أداء فرائضه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومما رزقناهم ينفقون )\u003c/span\u003e أي : وينفقون ما آتاهم الله من طيب الرزق على أهليهم وأرقائهم وقراباتهم ، وفقرائهم ومحاويجهم ، ويحسنون إلى خلق الله مع محافظتهم على حدود الله . وهذه بخلاف صفات المنافقين ، فإنهم بالعكس من هذا كله ، كما تقدم تفسيره في سورة \u003cspan class=\"red\"\u003e\" براءة \"\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ فلله الحمد والمنة ]\u003c/span\u003e .\u003c/p\u003e"
+}

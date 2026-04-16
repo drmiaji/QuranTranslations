@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "67:28":  {
+                                 "id":  5269
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل )\u003c/span\u003e يا محمد لهؤلاء المشركين بالله الجاحدين لنعمه : \u003cspan class=\"arabic qpc-hafs\"\u003e( أرأيتم إن أهلكني الله ومن معي أو رحمنا فمن يجير الكافرين من عذاب أليم )\u003c/span\u003e أي : خلصوا أنفسكم ، فإنه لا منقذ لكم من الله إلا التوبة والإنابة ، والرجوع إلى دينه ، ولا ينفعكم وقوع ما تتمنون لنا من العذاب والنكال ، فسواء عذبنا الله أو رحمنا ، فلا مناص لكم من نكاله وعذابه الأليم الواقع بكم .\u003c/p\u003e"
+}

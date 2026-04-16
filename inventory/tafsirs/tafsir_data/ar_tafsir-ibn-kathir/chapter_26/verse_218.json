@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:218":  {
+                                  "id":  3150
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي يراك حين تقوم )\u003c/span\u003e أي : هو معتن بك ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( واصبر لحكم ربك فإنك بأعيننا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الطور : 48 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eقال ابن عباس : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي يراك حين تقوم )\u003c/span\u003e يعني : إلى الصلاة .\u003c/p\u003e\u003cp\u003eوقال عكرمة : يرى قيامه وركوعه وسجوده .\u003c/p\u003e\u003cp\u003eوقال الحسن : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي يراك حين تقوم )\u003c/span\u003e : إذا صليت وحدك .\u003c/p\u003e\u003cp\u003eوقال الضحاك : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي يراك حين تقوم )\u003c/span\u003e أي : من فراشك أو مجلسك .\u003c/p\u003e\u003cp\u003eوقال قتادة : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي يراك )\u003c/span\u003e : قائما وجالسا وعلى حالاتك .\u003c/p\u003e"
+}

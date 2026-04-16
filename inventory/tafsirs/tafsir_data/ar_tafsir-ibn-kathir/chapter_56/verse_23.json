@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:23":  {
+                                 "id":  5002
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وحور عين كأمثال اللؤلؤ المكنون )\u003c/span\u003e قرأ بعضهم بالرفع ،\u003cspan class=\"blue\"\u003e وتقديره :\u003c/span\u003e ولهم فيها حور عين . وقراءة الجر تحتمل معنيين ،\u003cspan class=\"blue\"\u003e أحدهما :\u003c/span\u003e أن يكون الإعراب على الإتباع بما قبله ; لقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يطوف عليهم ولدان مخلدون بأكواب وأباريق وكأس من معين لا يصدعون عنها ولا ينزفون وفاكهة مما يتخيرون ولحم طير مما يشتهون وحور عين )\u003c/span\u003e ، كما قال \u003cspan class=\"arabic qpc-hafs\"\u003e( وامسحوا برءوسكم وأرجلكم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المائدة : 6 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وكما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( عاليهم ثياب سندس خضر وإستبرق )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإنسان : 21 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e والاحتمال الثاني :\u003c/span\u003e أن يكون مما يطوف به الولدان المخلدون عليهم الحور العين ، ولكن يكون ذلك في القصور ، لا بين بعضهم بعضا ، بل في الخيام يطوف عليهم الخدام بالحور العين ، والله أعلم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كأمثال اللؤلؤ المكنون )\u003c/span\u003e أي : كأنهن اللؤلؤ الرطب في بياضه وصفائه ، كما تقدم في \u003cspan class=\"red\"\u003e\" سورة الصافات \"\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( كأنهن بيض مكنون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الصافات : 49 ]\u003c/span\u003e وقد تقدم في سورة \u003cspan class=\"red\"\u003e\" الرحمن \"\u003c/span\u003e وصفهن أيضا ;\u003c/p\u003e"
+}

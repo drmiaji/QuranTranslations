@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "50:15":  {
+                                 "id":  4645
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أفعيينا بالخلق الأول )\u003c/span\u003e أي : أفأعجزنا ابتداء الخلق حتى هم في شك من الإعادة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( بل هم في لبس من خلق جديد )\u003c/span\u003e والمعنى : أن ابتداء الخلق لم يعجزنا والإعادة أسهل منه ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي يبدأ الخلق ثم يعيده وهو أهون عليه )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الروم : 27 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وضرب لنا مثلا ونسي خلقه قال من يحيي العظام وهي رميم قل يحييها الذي أنشأها أول مرة وهو بكل خلق عليم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يس : 78 - 79 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقد تقدم في الصحيح :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" يقول الله تعالى : يؤذيني ابن آدم ،\u003cspan class=\"blue\"\u003e يقول :\u003c/span\u003e لن يعيدني كما بدأني ، وليس أول الخلق بأهون علي من إعادته \"\u003c/span\u003e .\u003c/p\u003e"
+}

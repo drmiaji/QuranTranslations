@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:163":  {
+                                 "id":  170
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن تفرده بالإلهية ، وأنه لا شريك له ولا عديل له ، بل هو الله الواحد الأحد الفرد الصمد ، الذي لا إله إلا هو وأنه الرحمن الرحيم . وقد تقدم تفسير هذين الاسمين في أول السورة . وفي الحديث عن شهر بن حوشب ، عن أسماء بنت يزيد بن السكن ،\u003cspan class=\"blue\"\u003e عن رسول الله صلى الله عليه وسلم أنه قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" اسم الله الأعظم في هاتين الآيتين : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإلهكم إله واحد لا إله إلا هو الرحمن الرحيم )\u003c/span\u003e و \u003cspan class=\"arabic qpc-hafs\"\u003e( الم الله لا إله إلا هو الحي القيوم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ آل عمران : 1 ، 2 ]\u003c/span\u003e \"\u003c/span\u003e\u003c/p\u003e"
+}

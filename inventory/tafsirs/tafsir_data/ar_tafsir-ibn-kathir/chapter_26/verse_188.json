@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:188":  {
+                                  "id":  3120
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"قال ربي أعلم بما تعملون\"\u003c/span\u003e يقول الله أعلم بكم فإن كنتم تستحقون ذلك جازاكم به وهو غير ظالم لكم وهكذا وقع بهم جزاء كما سألوا جزاء وفاقا.\u003c/p\u003e"
+}

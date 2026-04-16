@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "64:5":  {
+                                "id":  5204
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن الأمم الماضين ، وما حل بهم من العذاب والنكال ; في مخالفة الرسل والتكذيب بالحق ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ألم يأتكم نبأ الذين كفروا من قبل )\u003c/span\u003e أي : خبرهم وما كان من أمرهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فذاقوا وبال أمرهم )\u003c/span\u003e أي : وخيم تكذيبهم ورديء أفعالهم ، وهو ما حل بهم في الدنيا من العقوبة والخزي \u003cspan class=\"arabic qpc-hafs\"\u003e( ولهم عذاب أليم )\u003c/span\u003e أي : في الدار الآخرة مضاف إلى هذا الدنيوي .\u003cspan class=\"blue\"\u003e ثم علل ذلك فقال :\u003c/span\u003e\u003c/p\u003e"
+}

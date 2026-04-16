@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:32":  {
+                                 "id":  1628
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eتقول هذا معتذرة إليهن بأن هذا حقيق بأن يحب لجماله وكماله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد راودته عن نفسه فاستعصم )\u003c/span\u003e أي : فامتنع .\u003cspan class=\"blue\"\u003e قال بعضهم :\u003c/span\u003e لما رأين جماله الظاهر ، أخبرتهن بصفاته الحسنة التي تخفى عنهن ، وهي العفة مع هذا الجمال ، ثم قالت تتوعد \u003cspan class=\"arabic qpc-hafs\"\u003e( ولئن لم يفعل ما آمره ليسجنن وليكونن من الصاغرين )\u003c/span\u003e\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "2:242":  {
+                                 "id":  249
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كذلك يبين الله لكم آياته )\u003c/span\u003e أي : في إحلاله وتحريمه وفروضه وحدوده فيما أمركم به ونهاكم عنه بينه ووضحه وفسره ولم يتركه مجملا في وقت احتياجكم إليه \u003cspan class=\"arabic qpc-hafs\"\u003e( لعلكم تعقلون )\u003c/span\u003e أي : تفهمون وتتدبرون .\u003c/p\u003e"
+}

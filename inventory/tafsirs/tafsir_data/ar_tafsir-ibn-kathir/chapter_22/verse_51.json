@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:51":  {
+                                 "id":  2646
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين سعوا في آياتنا معاجزين )\u003c/span\u003e : قال مجاهد : يثبطون الناس عن متابعة النبي صلى الله عليه وسلم .\u003cspan class=\"blue\"\u003e وكذا قال عبد الله بن الزبير :\u003c/span\u003e مثبطين .\u003c/p\u003e\u003cp\u003eوقال ابن عباس : \u003cspan class=\"arabic qpc-hafs\"\u003e( معاجزين )\u003c/span\u003e : مراغمين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك أصحاب الجحيم )\u003c/span\u003e : وهي النار الحارة الموجعة الشديد عذابها ونكالها ، أجارنا الله منها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال الله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين كفروا وصدوا عن سبيل الله زدناهم عذابا فوق العذاب بما كانوا يفسدون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النحل : 88 ]\u003c/span\u003e .\u003c/p\u003e"
+}

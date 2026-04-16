@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "81:11":  {
+                                 "id":  5811
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eقال مجاهد: اجتذبت\u003c/p\u003e\u003cp\u003eوقال: السدي كشفت\u003c/p\u003e\u003cp\u003eوقال الضحاك : تنكشط فتذهب.\u003c/p\u003e"
+}

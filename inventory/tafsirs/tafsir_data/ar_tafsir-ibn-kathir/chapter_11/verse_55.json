@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:55":  {
+                                 "id":  1528
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول : إني بريء من جميع الأنداد والأصنام ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فكيدوني جميعا )\u003c/span\u003e أي : أنتم وآلهتكم إن كانت حقا ، \u003cspan class=\"reference brown\"\u003e[ ف ذروها تكيدني ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم لا تنظرون )\u003c/span\u003e أي : طرفة عين \u003cspan class=\"reference brown\"\u003e[ واحدة ]\u003c/span\u003e .\u003c/p\u003e"
+}

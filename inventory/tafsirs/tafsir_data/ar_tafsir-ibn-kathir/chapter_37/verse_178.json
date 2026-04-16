@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:178":  {
+                                  "id":  3966
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقوله \u003cspan class=\"red\"\u003e\"وتول عنهم حتى حين وأبصر فسوف يبصرون\"\u003c/span\u003e تأكيد لما تقدم من الأمر بذلك والله سبحانه وتعالى أعلم.\u003c/p\u003e"
+}

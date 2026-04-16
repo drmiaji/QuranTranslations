@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "35:29":  {
+                                 "id":  3689
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عن عباده المؤمنين الذين يتلون كتابه ويؤمنون به ويعملون بما فيه ، من إقام الصلاة ، والإنفاق مما رزقهم الله في الأوقات المشروعة ليلا ونهارا ، سرا وعلانية ، \u003cspan class=\"arabic qpc-hafs\"\u003e( يرجون تجارة لن تبور )\u003c/span\u003e أي : يرجون ثوابا عند الله لا بد من حصوله .\u003cspan class=\"blue\"\u003e كما قدمنا في أول التفسير عند فضائل القرآن أنه يقول لصاحبه :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن كل تاجر من وراء تجارته ، وإنك اليوم من وراء كل تجارة \"\u003c/span\u003e ; ولهذا قال تعالى :\u003c/p\u003e"
+}

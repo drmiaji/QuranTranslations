@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:75":  {
+                                 "id":  2670
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى أنه يختار من الملائكة رسلا فيما يشاء من شرعه وقدره ، ومن الناس لإبلاغ رسالاته ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله سميع بصير )\u003c/span\u003e أي : سميع لأقوال عباده ، بصير بهم ، عليم بمن يستحق ذلك منهم ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الله أعلم حيث يجعل رسالته )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 124 ]\u003c/span\u003e .\u003c/p\u003e"
+}

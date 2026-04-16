@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "77:10":  {
+                                 "id":  5632
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا الجبال نسفت )\u003c/span\u003e أي : ذهب بها ، فلا يبقى لها عين ولا أثر ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ويسألونك عن الجبال فقل ينسفها ربي نسفا فيذرها قاعا صفصفا لا ترى فيها عوجا ولا أمتا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ طه : 105 - 107 ]\u003c/span\u003e وقال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويوم نسير الجبال وترى الأرض بارزة وحشرناهم فلم نغادر منهم أحدا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الكهف : 47 ]\u003c/span\u003e\u003c/p\u003e"
+}

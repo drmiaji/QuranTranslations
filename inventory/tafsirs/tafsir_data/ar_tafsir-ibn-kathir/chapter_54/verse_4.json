@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:4":  {
+                                "id":  4850
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد جاءهم من الأنباء )\u003c/span\u003e أي : من الأخبار عن قصص الأمم المكذبين بالرسل ، وما حل بهم من العقاب والنكال والعذاب ، مما يتلى عليهم في هذا القرآن ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ما فيه مزدجر )\u003c/span\u003e أي : ما فيه واعظ لهم عن الشرك والتمادي على التكذيب .\u003c/p\u003e"
+}

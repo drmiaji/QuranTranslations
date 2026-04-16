@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "71:12":  {
+                                 "id":  5431
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويمددكم بأموال وبنين ويجعل لكم جنات ويجعل لكم أنهارا )\u003c/span\u003e أي : إذا تبتم إلى الله واستغفرتموه وأطعتموه ، كثر الرزق عليكم ، وأسقاكم من بركات السماء ، وأنبت لكم من بركات الأرض ، وأنبت لكم الزرع ، وأدر لكم الضرع ، وأمدكم بأموال وبنين ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e أعطاكم الأموال والأولاد ، وجعل لكم جنات فيها أنواع الثمار ، وخللها بالأنهار الجارية بينها .\u003c/p\u003e"
+}

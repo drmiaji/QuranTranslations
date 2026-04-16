@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:25":  {
+                                 "id":  3730
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إني آمنت بربكم فاسمعون )\u003c/span\u003e : قال ابن إسحاق - فيما بلغه عن ابن عباس وكعب ووهب -\u003cspan class=\"blue\"\u003e يقول لقومه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إني آمنت بربكم )\u003c/span\u003e الذي كفرتم به ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فاسمعون )\u003c/span\u003e أي : فاسمعوا قولي .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eويحتمل أن يكون خطابه للرسل بقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إني آمنت بربكم )\u003c/span\u003e أي : الذي أرسلكم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فاسمعون )\u003c/span\u003e أي : فاشهدوا لي بذلك عنده .\u003cspan class=\"blue\"\u003e وقد حكاه ابن جرير فقال :\u003c/span\u003e وقال آخرون : بل خاطب بذلك الرسل ،\u003cspan class=\"blue\"\u003e وقال لهم :\u003c/span\u003e اسمعوا قولي ، لتشهدوا لي بما أقول لكم عند ربي ، إني \u003cspan class=\"reference brown\"\u003e[ قد ]\u003c/span\u003e آمنت بربكم واتبعتكم .\u003c/p\u003e\u003cp\u003eوهذا \u003cspan class=\"reference brown\"\u003e[ القول ]\u003c/span\u003e الذي حكاه هؤلاء أظهر في المعنى ، والله أعلم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن إسحاق - فيما بلغه عن ابن عباس وكعب ووهب -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e فلما قال ذلك وثبوا عليه وثبة رجل واحد فقتلوه ، ولم يكن له أحد يمنع عنه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال قتادة : جعلوا يرجمونه بالحجارة ،\u003cspan class=\"blue\"\u003e وهو يقول :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" اللهم اهد قومي ، فإنهم لا يعلمون \"\u003c/span\u003e . فلم يزالوا به حتى أقعصوه وهو يقول كذلك ، فقتلوه ، رحمه الله .\u003c/p\u003e"
+}

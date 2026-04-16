@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "25:65":  {
+                                 "id":  2920
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين يقولون ربنا اصرف عنا عذاب جهنم إن عذابها كان غراما )\u003c/span\u003e أي : ملازما دائما ،\u003cspan class=\"blue\"\u003e كما قال الشاعر :\u003c/span\u003e\u003c/p\u003e\u003cp\u003eإن يعذب يكن غراما ، وإن يع ط جزيلا فإنه لا يبالي\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال الحسن في قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن عذابها كان غراما )\u003c/span\u003e : كل شيء يصيب ابن آدم ويزول عنه فليس بغرام ، وإنما الغرام اللازم ما دامت السماوات والأرض . وكذا قال سليمان التيمي .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال محمد بن كعب \u003cspan class=\"reference brown\"\u003e[ القرظي ]\u003c/span\u003e : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن عذابها كان غراما )\u003c/span\u003e يعني : ما نعموا في الدنيا; إن الله سأل الكفار عن النعمة فلم يردوها إليه ، فأغرمهم فأدخلهم النار .\u003c/p\u003e"
+}

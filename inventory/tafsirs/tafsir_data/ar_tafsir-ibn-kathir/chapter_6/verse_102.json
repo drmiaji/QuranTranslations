@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "6:102":  {
+                                 "id":  891
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلكم الله ربكم )\u003c/span\u003e أي : الذي خلق كل شيء ولا ولد له ولا صاحبة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لا إله إلا هو خالق كل شيء فاعبدوه )\u003c/span\u003e فاعبدوه وحده لا شريك له ، وأقروا له بالوحدانية ، وأنه لا إله إلا هو ، وأنه لا ولد له ولا والد ، ولا صاحبة له ولا نظير ولا عديل \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو على كل شيء وكيل )\u003c/span\u003e أي : حفيظ ورقيب يدبر كل ما سواه ، ويرزقهم ويكلؤهم بالليل والنهار .\u003c/p\u003e"
+}

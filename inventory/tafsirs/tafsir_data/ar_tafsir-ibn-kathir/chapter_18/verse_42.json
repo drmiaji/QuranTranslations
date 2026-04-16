@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:42":  {
+                                 "id":  2182
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأحيط بثمره )\u003c/span\u003e بأمواله ، أو بثماره على القول الآخر . والمقصود أنه وقع بهذا الكافر ما كان يحذر ، مما خوفه به المؤمن من إرسال الحسبان على جنته ، التي اغتر بها وألهته عن الله ، عز وجل \u003cspan class=\"arabic qpc-hafs\"\u003e( فأصبح يقلب كفيه على ما أنفق فيها )\u003c/span\u003e وقال قتادة : يصفق كفيه متأسفا متلهفا على الأموال التي أذهبها عليه \u003cspan class=\"arabic qpc-hafs\"\u003e( ويقول ياليتني لم أشرك بربي أحدا)\u003c/span\u003e\u003c/p\u003e"
+}

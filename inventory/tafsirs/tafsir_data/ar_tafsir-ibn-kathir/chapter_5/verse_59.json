@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:59":  {
+                                "id":  728
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : قل يا محمد لهؤلاء الذين اتخذوا دينكم هزوا ولعبا من أهل الكتاب : \u003cspan class=\"arabic qpc-hafs\"\u003e( هل تنقمون منا إلا أن آمنا بالله وما أنزل إلينا وما أنزل من قبل )\u003c/span\u003e أي : هل لكم علينا مطعن أو عيب إلا هذا؟ وهذا ليس بعيب ولا مذمة ،\u003cspan class=\"blue\"\u003e فيكون الاستثناء منقطعا كما في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما نقموا منهم إلا أن يؤمنوا بالله العزيز الحميد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البروج : 8 ]\u003c/span\u003e وكقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما نقموا إلا أن أغناهم الله ورسوله من فضله )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ التوبة : 74 ]\u003c/span\u003e وفي الحديث المتفق عليه : \u003cspan class=\"red\"\u003e\" ما ينقم ابن جميل إلا أن كان فقيرا فأغناه الله \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأن أكثركم فاسقون )\u003c/span\u003e معطوف على \u003cspan class=\"arabic qpc-hafs\"\u003e( أن آمنا بالله وما أنزل إلينا وما أنزل من قبل )\u003c/span\u003e أي : وآمنا بأن أكثركم فاسقون ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e خارجون عن الطريق المستقيم .\u003c/p\u003e"
+}

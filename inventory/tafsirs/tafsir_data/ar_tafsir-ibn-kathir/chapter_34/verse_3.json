@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "34:3":  {
+                                "id":  3609
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eهذه إحدى الآيات الثلاث التي لا رابع لهن ، مما أمر الله رسوله صلى الله عليه وسلم أن يقسم بربه العظيم على وقوع المعاد لما أنكره من أنكره من أهل الكفر والعناد ،\u003cspan class=\"blue\"\u003e فإحداهن في سورة يونس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ويستنبئونك أحق هو قل إي وربي إنه لحق وما أنتم بمعجزين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 53 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e والثانية هذه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقال الذين كفروا لا تأتينا الساعة قل بلى وربي لتأتينكم )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e والثالثة في التغابن :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( زعم الذين كفروا أن لن يبعثوا قل بلى وربي لتبعثن ثم لتنبؤن بما عملتم وذلك على الله يسير )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ التغابن : 7 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e فقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قل بلى وربي لتأتينكم )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e ثم وصفه بما يؤكد ذلك ويقرره :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( عالم الغيب لا يعزب عنه مثقال ذرة في السماوات ولا في الأرض ولا أصغر من ذلك ولا أكبر إلا في كتاب مبين )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال مجاهد وقتادة : \u003cspan class=\"arabic qpc-hafs\"\u003e( لا يعزب عنه )\u003c/span\u003e لا يغيب عنه ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e الجميع مندرج تحت علمه فلا يخفى عليه منه شيء ، فالعظام وإن تلاشت وتفرقت وتمزقت ، فهو عالم أين ذهبت وأين تفرقت ، ثم يعيدها كما بدأها أول مرة ، فإنه بكل شيء عليم .\u003c/p\u003e"
+}

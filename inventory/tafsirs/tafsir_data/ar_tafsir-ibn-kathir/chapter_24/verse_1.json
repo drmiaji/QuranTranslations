@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "24:1":  {
+                                "id":  2792
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eسورة النور وهي مدنية .\u003c/p\u003e\u003cp\u003eيقول تعالى : هذه \u003cspan class=\"arabic qpc-hafs\"\u003e( سورة أنزلناها )\u003c/span\u003e فيه تنبيه على الاعتناء بها ولا ينفي ما عداها .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وفرضناها )\u003c/span\u003e قال مجاهد وقتادة : أي بينا الحلال والحرام والأمر والنهي ، والحدود .\u003c/p\u003e\u003cp\u003eوقال البخاري : ومن قرأ \u003cspan class=\"red\"\u003e\" فرضناها \"\u003c/span\u003e يقول : فرضنا عليكم وعلى من بعدكم .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وأنزلنا فيها آيات بينات )\u003c/span\u003e أي : مفسرات واضحات ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لعلكم تذكرون )\u003c/span\u003e .\u003c/p\u003e"
+}

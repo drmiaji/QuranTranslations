@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:199":  {
+                                  "id":  3131
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى مخبرا عن شدة كفر قريش وعنادهم لهذا القرآن ; أنه لو أنزله على رجل من الأعاجم ، ممن لا يدري من العربية كلمة ، وأنزل عليه هذا الكتاب ببيانه وفصاحته ،\u003cspan class=\"blue\"\u003e لا يؤمنون به ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو نزلناه على بعض الأعجمين . فقرأه عليهم ما كانوا به مؤمنين )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كما أخبر عنهم في الآية الأخرى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو فتحنا عليهم بابا من السماء فظلوا فيه يعرجون . لقالوا إنما سكرت أبصارنا بل نحن قوم مسحورون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحجر : 14 ، 15 ]\u003c/span\u003e وقال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو أننا نزلنا إليهم الملائكة وكلمهم الموتى وحشرنا عليهم كل شيء قبلا ما كانوا ليؤمنوا إلا أن يشاء الله )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 111 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذين حقت عليهم كلمة ربك لا يؤمنون . ولو جاءتهم كل آية حتى يروا العذاب الأليم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 96 ، 97 ]\u003c/span\u003e .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "29:47":  {
+                                 "id":  3387
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن جرير : يقول الله تعالى : كما أنزلنا الكتب على من قبلك - يا محمد - من الرسل ، كذلك أنزلنا إليك هذا الكتاب .\u003c/p\u003e\u003cp\u003eوهذا الذي قاله حسن ومناسبة وارتباط جيد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فالذين آتيناهم الكتاب يؤمنون به )\u003c/span\u003e أي : الذين أخذوه فتلوه حق تلاوته من أحبارهم العلماء الأذكياء ، كعبد الله بن سلام ، وسلمان الفارسي ، وأشباههما .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن هؤلاء من يؤمن به )\u003c/span\u003e ، يعني العرب من قريش وغيرهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وما يجحد بآياتنا إلا الكافرون )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e ما يكذب بها ويجحد حقها إلا من يستر الحق بالباطل ، ويغطي ضوء الشمس بالوصائل ، وهيهات .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "8:52":  {
+                                "id":  1212
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : فعل هؤلاء المشركون المكذبون بما أرسلت به يا محمد كما فعل الأمم المكذبة قبلهم ، ففعلنا بهم ما هو دأبنا ، أي عادتنا وسنتنا في أمثالهم من المكذبين من آل فرعون ومن قبلهم من الأمم المكذبة بالرسل ، الكافرين بآيات الله . \u003cspan class=\"arabic qpc-hafs\"\u003e( فأخذهم الله بذنوبهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ أي : بسبب ذنوبهم أهلكهم ، فأخذهم أخذ عزيز مقتدر ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله قوي شديد العقاب )\u003c/span\u003e أي : لا يغلبه غالب ، ولا يفوته هارب .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:161":  {
+                                  "id":  3949
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخاطبا للمشركين \u003cspan class=\"arabic qpc-hafs\"\u003e( فإنكم وما تعبدون ما أنتم عليه بفاتنين إلا من هو صالي الجحيم )\u003c/span\u003e أي : ما ينقاد لمقالكم وما أنتم عليه من الضلالة والعبادة الباطلة من هو أضل منكم ممن ذري للنار . \u003cspan class=\"arabic qpc-hafs\"\u003e( لهم قلوب لا يفقهون بها ولهم أعين لا يبصرون بها ولهم آذان لا يسمعون بها أولئك كالأنعام بل هم أضل أولئك هم الغافلون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 179 ]\u003c/span\u003e . فهذا الضرب من الناس هو الذي ينقاد لدين الشرك والكفر والضلالة ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنكم لفي قول مختلف يؤفك عنه من أفك )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الذاريات : 8 ، 9 ]\u003c/span\u003e أي : إنما يضل به من هو مأفوك ومبطل .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:118":  {
+                                  "id":  3050
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفقال \u003cspan class=\"arabic qpc-hafs\"\u003e( رب إن قومي كذبون . فافتح بيني وبينهم فتحا ونجني ومن معي من المؤمنين )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كما قال في الآية الأخرى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فدعا ربه أني مغلوب فانتصر . ففتحنا أبواب السماء بماء منهمر . وفجرنا الأرض عيونا فالتقى الماء على أمر قد قدر . وحملناه على ذات ألواح ودسر . تجري بأعيننا جزاء لمن كان كفر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القمر : 10 - 14 ]\u003c/span\u003e .\u003c/p\u003e"
+}

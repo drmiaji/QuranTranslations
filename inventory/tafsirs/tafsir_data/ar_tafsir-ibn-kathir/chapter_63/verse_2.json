@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "63:2":  {
+                                "id":  5190
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( اتخذوا أيمانهم جنة فصدوا عن سبيل الله )\u003c/span\u003e أي : اتقوا الناس بالأيمان الكاذبة ، والحلفات الآثمة ، ليصدقوا فيما يقولون ، فاغتر بهم من لا يعرف جلية أمرهم ، فاعتقدوا أنهم مسلمون فربما اقتدى بهم فيما يفعلون وصدقهم فيما يقولون ،\u003cspan class=\"blue\"\u003e وهم من شأنهم أنهم كانوا في الباطن لا يألون الإسلام وأهله خبلا فحصل بهذا القدر ضرر كبير على كثير من الناس ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فصدوا عن سبيل الله إنهم ساء ما كانوا يعملون )\u003c/span\u003e ولهذا كان الضحاك بن مزاحم يقرؤها : \u003cspan class=\"red\"\u003e\" اتخذوا إيمانهم جنة \"\u003c/span\u003e أي : تصديقهم الظاهر جنة ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e تقية يتقون به القتل .\u003cspan class=\"blue\"\u003e والجمهور يقرؤها :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أيمانهم )\u003c/span\u003e جمع يمين .\u003c/p\u003e"
+}

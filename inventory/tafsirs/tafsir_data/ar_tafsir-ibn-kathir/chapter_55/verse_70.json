@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "55:70":  {
+                                 "id":  4971
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( فيهن خيرات حسان )\u003c/span\u003e قيل : المراد خيرات كثيرة حسنة في الجنة ، قاله قتادة .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e خيرات جمع خيرة ، وهي المرأة الصالحة الحسنة الخلق الحسنة الوجه ، قاله الجمهور . وروي مرفوعا عن أم سلمة . وفي الحديث الآخر الذي سنورده في سورة \u003cspan class=\"red\"\u003e\" الواقعة \"\u003c/span\u003e : أن الحور العين يغنين : نحن الخيرات الحسان ، خلقنا لأزواج كرام .\u003cspan class=\"blue\"\u003e ولهذا قرأ بعضهم :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" فيهن خيرات \"\u003c/span\u003e ، بالتشديد \u003cspan class=\"arabic qpc-hafs\"\u003e( حسان فبأي آلاء ربكما تكذبان )\u003c/span\u003e .\u003c/p\u003e"
+}

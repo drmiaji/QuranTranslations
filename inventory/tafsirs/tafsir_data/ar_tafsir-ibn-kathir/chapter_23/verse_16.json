@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:16":  {
+                                 "id":  2689
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ثم إنكم يوم القيامة تبعثون )\u003c/span\u003e يعني : النشأة الآخرة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم الله ينشئ النشأة الآخرة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ العنكبوت : 20 ]\u003c/span\u003e يعني : يوم المعاد ، وقيام الأرواح والأجساد ، فيحاسب الخلائق ، ويوفي كل عامل عمله ، إن خيرا فخير ، وإن شرا فشر .\u003c/p\u003e"
+}

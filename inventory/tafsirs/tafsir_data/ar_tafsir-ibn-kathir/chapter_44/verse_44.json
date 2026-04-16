@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:44":  {
+                                 "id":  4458
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( طعام الأثيم )\u003c/span\u003e والأثيم أي : في قوله وفعله ، وهو الكافر . وذكر غير واحد أنه أبو جهل ، ولا شك في دخوله في هذه الآية ، ولكن ليست خاصة به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن جرير : حدثنا محمد بن بشار ، حدثنا عبد الرحمن ، حدثنا سفيان عن الأعمش ، عن إبراهيم عن همام بن الحارث ، أن أبا الدرداء كان يقرئ رجلا \u003cspan class=\"arabic qpc-hafs\"\u003e( إن شجرة الزقوم طعام الأثيم )\u003c/span\u003e فقال : طعام اليتيم فقال أبو الدرداء قل : إن شجرة الزقوم طعام الفاجر .\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e ليس له طعام غيرها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال مجاهد : ولو وقعت منها قطرة في الأرض لأفسدت على أهل الأرض معايشهم . وقد تقدم نحوه مرفوعا .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:90":  {
+                                 "id":  2763
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( بل أتيناهم بالحق )\u003c/span\u003e ، وهو الإعلام بأنه لا إله إلا الله ، وأقمنا الأدلة الصحيحة الواضحة القاطعة على ذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنهم لكاذبون )\u003c/span\u003e أي : في عبادتهم مع الله غيره ، ولا دليل لهم على ذلك ،\u003cspan class=\"blue\"\u003e كما قال في آخر السورة :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يدع مع الله إلها آخر لا برهان له به فإنما حسابه عند ربه إنه لا يفلح الكافرون )\u003c/span\u003e ، فالمشركون لا يفعلون ذلك \u003cspan class=\"reference brown\"\u003e[ عن دليل قادهم إلى ما هم فيه من الإفك والضلال ، وإنما يفعلون ذلك ]\u003c/span\u003e اتباعا لآبائهم وأسلافهم الحيارى الجهال ،\u003cspan class=\"blue\"\u003e كما قالوا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنا وجدنا آباءنا على أمة وإنا على آثارهم مقتدون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزخرف : 23 ]\u003c/span\u003e .\u003c/p\u003e"
+}

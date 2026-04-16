@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:41":  {
+                                 "id":  3746
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : ودلالة لهم أيضا على قدرته تعالى : تسخيره البحر ليحمل السفن ، فمن ذلك - بل أوله - سفينة نوح ، عليه السلام ، التي أنجاه الله تعالى فيها بمن معه من المؤمنين ،\u003cspan class=\"blue\"\u003e الذين لم يبق على وجه الأرض من ذريةآدم غيرهم ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وآية لهم أنا حملنا ذريتهم )\u003c/span\u003e أي : آباءهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( في الفلك المشحون )\u003c/span\u003e أي : في السفينة \u003cspan class=\"reference brown\"\u003e[ الموقرة ]\u003c/span\u003e المملوءة من الأمتعة والحيوانات ، التي أمره الله أن يحمل فيها من كل زوجين اثنين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن عباس : المشحون : الموقر . وكذا قال سعيد بن جبير ، والشعبي ، وقتادة ، \u003cspan class=\"reference brown\"\u003e[ والضحاك ]\u003c/span\u003e والسدي .\u003c/p\u003e\u003cp\u003eوقال الضحاك ، وقتادة ،\u003cspan class=\"blue\"\u003e وابن زيد :\u003c/span\u003e وهي سفينة نوح ، عليه السلام .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:30":  {
+                                 "id":  1626
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى أن خبر يوسف وامرأة العزيز شاع في المدينة ، وهي مصر ، حتى تحدث الناس به ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وقال نسوة في المدينة )\u003c/span\u003e مثل نساء الأمراء \u003cspan class=\"reference brown\"\u003e[ و ]\u003c/span\u003e الكبراء ، ينكرن على امرأة العزيز ، وهو الوزير ،\u003cspan class=\"blue\"\u003e ويعبن ذلك عليها :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( امرأة العزيز تراود فتاها عن نفسه )\u003c/span\u003e أي : تحاول غلامها عن نفسه ، وتدعوه إلى نفسها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قد شغفها حبا )\u003c/span\u003e أي قد : وصل حبه إلى شغاف قلبها . وهو غلافه .\u003c/p\u003e\u003cp\u003eقال الضحاك عن ابن عباس : الشغف : الحب القاتل ، والشغف دون ذلك ،\u003cspan class=\"blue\"\u003e والشغاف :\u003c/span\u003e حجاب القلب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إنا لنراها في ضلال مبين )\u003c/span\u003e أي : في صنيعها هذا من حبها فتاها ، ومراودتها إياه عن نفسه .\u003c/p\u003e"
+}

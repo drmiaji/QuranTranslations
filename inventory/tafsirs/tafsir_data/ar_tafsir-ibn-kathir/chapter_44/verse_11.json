@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:11":  {
+                                 "id":  4425
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يغشى الناس )\u003c/span\u003e أي : يتغشاهم ويعمهم ،\u003cspan class=\"blue\"\u003e ولو كان أمرا خياليا يخص أهل مكة المشركين لما قيل فيه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يغشى الناس )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( هذا عذاب أليم )\u003c/span\u003e أي : يقال لهم ذلك تقريعا وتوبيخا ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يوم يدعون إلى نار جهنم دعا هذه النار التي كنتم بها تكذبون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الطور : 13 ، 14 ]\u003c/span\u003e ، أو يقول بعضهم لبعض ذلك .\u003c/p\u003e"
+}

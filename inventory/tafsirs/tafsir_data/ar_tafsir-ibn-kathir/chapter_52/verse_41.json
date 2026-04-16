@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:41":  {
+                                 "id":  4776
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( أم عندهم الغيب فهم يكتبون )\u003c/span\u003e أي : ليس الأمر كذلك ، فإنه لا يعلم أحد من أهل السماوات والأرض الغيب إلا الله ،\u003c/p\u003e"
+}

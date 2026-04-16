@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:66":  {
+                                 "id":  2549
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفعندها قال لهم إبراهيم لما اعترفوا بذلك : \u003cspan class=\"arabic qpc-hafs\"\u003e( أفتعبدون من دون الله ما لا ينفعكم شيئا ولا يضركم )\u003c/span\u003e أي : إذا كانت لا تنطق ، وهي لا تضر ولا تنفع ، فلم تعبدونها من دون الله .\u003c/p\u003e"
+}

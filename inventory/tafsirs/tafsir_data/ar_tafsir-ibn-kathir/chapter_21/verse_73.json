@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:73":  {
+                                 "id":  2556
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وجعلناهم أئمة )\u003c/span\u003e أي : يقتدى بهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( يهدون بأمرنا )\u003c/span\u003e أي : يدعون إلى الله بإذنه; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأوحينا إليهم فعل الخيرات وإقام الصلاة وإيتاء الزكاة )\u003c/span\u003e من باب عطف الخاص على العام ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وكانوا لنا عابدين )\u003c/span\u003e أي : فاعلين لما يأمرون الناس به .\u003c/p\u003e"
+}

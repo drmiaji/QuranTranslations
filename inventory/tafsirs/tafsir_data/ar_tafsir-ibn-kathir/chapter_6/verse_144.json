@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "6:144":  {
+                                 "id":  933
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أم كنتم شهداء إذ وصاكم الله بهذا )\u003c/span\u003e تهكم بهم فيما ابتدعوه وافتروه على الله ، من تحريم ما حرموه من ذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن أظلم ممن افترى على الله كذبا ليضل الناس بغير علم )\u003c/span\u003e أي : لا أحد أظلم منه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله لا يهدي القوم الظالمين )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوأول من دخل في هذه الآية : عمرو بن لحي بن قمعة ، فإنه أول من غير دين الأنبياء ، وأول من سيب السوائب ، ووصل الوصيلة ، وحمى الحامي ، كما ثبت ذلك في الصحيح .\u003c/p\u003e"
+}

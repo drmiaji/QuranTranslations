@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "45:7":  {
+                                "id":  4480
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويل لكل أفاك أثيم )\u003c/span\u003e أي أفاك في قوله كذاب ،\u003cspan class=\"blue\"\u003e حلاف مهين أثيم في فعله وقيله كافر بآيات الله ; ولهذا قال :\u003c/span\u003e\u003c/p\u003e"
+}

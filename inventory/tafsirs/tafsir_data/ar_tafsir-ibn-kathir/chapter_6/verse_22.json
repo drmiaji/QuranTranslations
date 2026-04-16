@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "6:22":  {
+                                "id":  811
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن المشركين : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويوم نحشرهم جميعا )\u003c/span\u003e يوم القيامة فيسألهم عن الأصنام والأنداد التي كانوا يعبدونها من دونه قائلا \u003cspan class=\"reference brown\"\u003e[ لهم ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أين شركاؤكم الذين كنتم تزعمون )\u003c/span\u003e كما قال تعالى في سورة القصص : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويوم يناديهم فيقول أين شركائي الذين كنتم تزعمون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الآية : 62 ]\u003c/span\u003e .\u003c/p\u003e"
+}

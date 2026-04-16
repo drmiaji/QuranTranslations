@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:108":  {
+                                  "id":  3040
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فاتقوا الله وأطيعون وما أسألكم عليه من أجر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ إن أجري إلا على رب العالمين ]\u003c/span\u003e ) أي : لا أطلب منكم جزاء على نصحي لكم ، بل أدخر ثواب ذلك عند الله \u003cspan class=\"arabic qpc-hafs\"\u003e( فاتقوا الله وأطيعون )\u003c/span\u003e فقد وضح لكم وبان صدقي ونصحي وأمانتي فيما بعثني به وائتمنني عليه .\u003c/p\u003e"
+}

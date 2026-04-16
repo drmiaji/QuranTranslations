@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:83":  {
+                                 "id":  4216
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوذلك لأنهم لما جاءتهم الرسل بالبينات ، والحجج القاطعات ، والبراهين الدامغات ، لم يلتفتوا إليهم ، ولا أقبلوا عليهم ، واستغنوا بما عندهم من العلم في زعمهم عما جاءتهم به الرسل .\u003c/p\u003e\u003cp\u003eقال مجاهد : قالوا : نحن أعلم منهم لن نبعث ولن نعذب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال السدي : فرحوا بما عندهم من العلم بجهالتهم ، فأتاهم من بأس الله ما لا قبل لهم به .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وحاق بهم )\u003c/span\u003e أي : أحاط بهم \u003cspan class=\"arabic qpc-hafs\"\u003e( ما كانوا به يستهزئون )\u003c/span\u003e أي : يكذبون ويستبعدون وقوعه .\u003c/p\u003e"
+}

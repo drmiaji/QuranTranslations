@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "14:45":  {
+                                 "id":  1795
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وسكنتم في مساكن الذين ظلموا أنفسهم وتبين لكم كيف فعلنا بهم وضربنا لكم الأمثال )\u003c/span\u003e أي : قد رأيتم وبلغكم ما أحللنا بالأمم المكذبة قبلكم ، ومع هذا لم يكن لكم فيهم معتبر ، ولم يكن فيما أوقعنا بهم مزدجر لكم \u003cspan class=\"arabic qpc-hafs\"\u003e( حكمة بالغة فما تغن النذر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القمر : 5 ]\u003c/span\u003e .\u003c/p\u003e"
+}

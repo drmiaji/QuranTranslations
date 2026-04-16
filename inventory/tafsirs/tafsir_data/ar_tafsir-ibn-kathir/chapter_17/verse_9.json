@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "17:9":  {
+                                "id":  2038
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيمدح تعالى كتابه العزيز الذي أنزله على رسوله محمد صلى الله عليه وسلم وهو القرآن ، بأنه يهدي لأقوم الطرق ، وأوضح السبل \u003cspan class=\"arabic qpc-hafs\"\u003e( ويبشر المؤمنين )\u003c/span\u003e به \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين يعملون الصالحات )\u003c/span\u003e على مقتضاه \u003cspan class=\"arabic qpc-hafs\"\u003e( أن لهم أجرا كبيرا )\u003c/span\u003e أي : يوم القيامة .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:33":  {
+                                 "id":  1629
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفعند ذلك استعاذ يوسف ، عليه السلام ، من شرهن وكيدهن ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( رب السجن أحب إلي مما يدعونني إليه )\u003c/span\u003e أي : من الفاحشة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإلا تصرف عني كيدهن أصب إليهن )\u003c/span\u003e أي : إن وكلتني إلى نفسي ، فليس لي من نفسي قدرة ، ولا أملك لها ضرا ولا نفعا إلا بحولك وقوتك ، أنت المستعان وعليك التكلان ، فلا تكلني إلى نفسي .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( أصب إليهن وأكن من الجاهلين)\u003c/span\u003e\u003c/p\u003e"
+}

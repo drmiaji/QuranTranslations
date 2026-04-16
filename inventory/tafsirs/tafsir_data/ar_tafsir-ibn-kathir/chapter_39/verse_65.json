@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:65":  {
+                                 "id":  4123
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد أوحي إليك وإلى الذين من قبلك لئن أشركت ليحبطن عملك ولتكونن من الخاسرين )\u003c/span\u003e\u003c/p\u003e\u003cp\u003eوهذه كقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو أشركوا لحبط عنهم ما كانوا يعملون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 88 ]\u003c/span\u003e .\u003c/p\u003e"
+}

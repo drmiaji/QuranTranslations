@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:138":  {
+                                 "id":  1092
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عما قاله جهلة بني إسرائيل لموسى ، عليه السلام ، حين جاوزوا البحر ، وقد رأوا من آيات الله وعظيم سلطانه ما رأوا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فأتوا )\u003c/span\u003e أي : فمروا \u003cspan class=\"arabic qpc-hafs\"\u003e( على قوم يعكفون على أصنام لهم )\u003c/span\u003e قال بعض المفسرين : كانوا من الكنعانيين .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e كانوا من لخم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن جريج : وكانوا يعبدون أصناما على صور البقر ، فلهذا أثار ذلك شبهة لهم في عبادتهم العجل بعد ذلك ،\u003cspan class=\"blue\"\u003e فقالوا :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يا موسى اجعل لنا إلها كما لهم آلهة قال إنكم قوم تجهلون )\u003c/span\u003e أي : تجهلون عظمة الله وجلاله ، وما يجب أن ينزه عنه من الشريك والمثيل .\u003c/p\u003e"
+}

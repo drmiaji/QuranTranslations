@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:29":  {
+                                 "id":  3188
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفجمعت عند ذلك أمراءها ووزراءها وكبراء دولتها ومملكتها ،\u003cspan class=\"blue\"\u003e ثم قالت لهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يا أيها الملأ إني ألقي إلي كتاب كريم )\u003c/span\u003e تعني بكرمه : ما رأته من عجيب أمره ، كون طائر أتى به فألقاه إليها ، ثم تولى عنها أدبا . وهذا أمر لا يقدر عليه أحد من الملوك ، ولا سبيل لهم إلى ذلك ، ثم قرأته عليهم .\u003c/p\u003e"
+}

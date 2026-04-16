@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:95":  {
+                                 "id":  3883
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوهذه القصة هاهنا مختصرة ، وفي سورة الأنبياء مبسوطة ، فإنهم لما رجعوا ما عرفوا من أول وهلة من فعل ذلك حتى كشفوا واستعلموا ، فعرفوا أن إبراهيم - عليه السلام - هو الذي فعل ذلك . فلما جاءوا ليعاتبوه أخذ في تأنيبهم وعيبهم ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أتعبدون ما تنحتون )\u003c/span\u003e ؟\u003cspan class=\"blue\"\u003e ! أي :\u003c/span\u003e أتعبدون من دون الله من الأصنام ما أنتم تنحتونها وتجعلونها بأيديكم ؟ !\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:87":  {
+                                 "id":  2227
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفي قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أما من ظلم )\u003c/span\u003e أي : من استمر على كفره وشركه بربه \u003cspan class=\"arabic qpc-hafs\"\u003e( فسوف نعذبه )\u003c/span\u003e قال قتادة : بالقتل : وقال السدي : كان يحمي لهم بقر النحاس ويضعهم فيها حتى يذوبوا .\u003cspan class=\"blue\"\u003e وقال وهب بن منبه :\u003c/span\u003e كان يسلط الظلمة ، فتدخل أفواههم وبيوتهم ، وتغشاهم من جميع جهاتهم والله أعلم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم يرد إلى ربه فيعذبه عذابا نكرا )\u003c/span\u003e أي : شديدا بليغا وجيعا أليما . وفيه إثبات المعاد والجزاء .\u003c/p\u003e"
+}

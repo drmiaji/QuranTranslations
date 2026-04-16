@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "13:37":  {
+                                 "id":  1744
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وكذلك أنزلناه حكما عربيا )\u003c/span\u003e أي : وكما أرسلنا قبلك المرسلين ، وأنزلنا عليهم الكتب من السماء ، كذلك أنزلنا عليك القرآن محكما معربا ، شرفناك به وفضلناك على من سواك بهذا الكتاب المبين الواضح الجلي الذي ) لا يأتيه الباطل من بين يديه ولا من خلفه تنزيل من حكيم حميد ) \u003cspan class=\"reference brown\"\u003e[ فصلت : 11 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولئن اتبعت أهواءهم )\u003c/span\u003e أي : آراءهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أهواءهم بعدما جاءك من العلم )\u003c/span\u003e أي : من الله تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( ما لك من الله من ولي ولا واق )\u003c/span\u003e أي : من الله تعالى . وهذا وعيد لأهل العلم أن يتبعوا سبل أهل الضلالة بعدما صاروا إليه من سلوك السنة النبوية والمحجة المحمدية ، على من جاء بها أفضل الصلاة والسلام \u003cspan class=\"reference brown\"\u003e[ والتحية والإكرام ]\u003c/span\u003e .\u003c/p\u003e"
+}

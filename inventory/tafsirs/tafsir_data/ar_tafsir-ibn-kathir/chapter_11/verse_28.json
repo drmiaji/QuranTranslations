@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:28":  {
+                                 "id":  1501
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن نوح ما رد على قومه في ذلك : \u003cspan class=\"arabic qpc-hafs\"\u003e( أرأيتم إن كنت على بينة من ربي )\u003c/span\u003e أي : على يقين وأمر جلي ، ونبوة صادقة ، وهي الرحمة العظيمة من الله به وبهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فعميت عليكم )\u003c/span\u003e أي : خفيت عليكم ، فلم تهتدوا إليها ، ولا عرفتم قدرها ، بل بادرتم إلى تكذيبها وردها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أنلزمكموها )\u003c/span\u003e أي : نغصبكم بقبولها وأنتم لها كارهون .\u003c/p\u003e"
+}

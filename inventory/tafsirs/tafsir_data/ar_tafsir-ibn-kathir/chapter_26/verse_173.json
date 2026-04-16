@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:173":  {
+                                  "id":  3105
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوأنزل الله على أولئك العذاب الذي عم جميعهم وأمطر عليهم حجارة من سجيل منضود.\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال تعالى \u003cspan class=\"red\"\u003e\"ثم دمرنا الآخرين وأمطرنا عليهم مطرا\"\u003c/span\u003e - إلى قوله - \u003cspan class=\"red\"\u003e\"وإن ربك لهو العزيز الرحيم\"\u003c/span\u003e.\u003c/p\u003e"
+}

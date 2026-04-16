@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:79":  {
+                                 "id":  2329
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كلا )\u003c/span\u003e : هي حرف ردع لما قبلها وتأكيد لما بعدها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( سنكتب ما يقول )\u003c/span\u003e أي : من طلبه ذلك وحكمه لنفسه بما تمناه ، وكفره بالله العظيم \u003cspan class=\"arabic qpc-hafs\"\u003e( ونمد له من العذاب مدا )\u003c/span\u003e أي : في الدار الآخرة ، على قوله ذلك ، وكفره بالله في الدنيا .\u003c/p\u003e"
+}

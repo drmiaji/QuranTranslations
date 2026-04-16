@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "48:13":  {
+                                 "id":  4596
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن لم يؤمن بالله ورسوله )\u003c/span\u003e أي : من لم يخلص العمل في الظاهر والباطن لله ، فإن الله تعالى سيعذبه في السعير ، وإن أظهر للناس ما يعتقدون خلاف ما هو عليه في نفس الأمر .\u003c/p\u003e"
+}

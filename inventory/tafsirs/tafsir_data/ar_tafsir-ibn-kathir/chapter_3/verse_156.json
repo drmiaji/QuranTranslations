@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:156":  {
+                                 "id":  449
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eينهى تعالى عباده المؤمنين عن مشابهة الكفار في اعتقادهم الفاسد ،\u003cspan class=\"blue\"\u003e الدال عليه قولهم عن إخوانهم الذين ماتوا في الأسفار وفي الحروب :\u003c/span\u003e لو كانوا تركوا ذلك لما أصابهم ما أصابهم .\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يا أيها الذين آمنوا لا تكونوا كالذين كفروا وقالوا لإخوانهم )\u003c/span\u003e أي : عن إخوانهم \u003cspan class=\"arabic qpc-hafs\"\u003e( إذا ضربوا في الأرض )\u003c/span\u003e أي : سافروا للتجارة ونحوها \u003cspan class=\"arabic qpc-hafs\"\u003e( أو كانوا غزى )\u003c/span\u003e أي : في الغزو \u003cspan class=\"arabic qpc-hafs\"\u003e( لو كانوا عندنا )\u003c/span\u003e أي : في البلد \u003cspan class=\"arabic qpc-hafs\"\u003e( ما ماتوا وما قتلوا )\u003c/span\u003e أي : ما ماتوا في السفر ولا قتلوا في الغزو .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ليجعل الله ذلك حسرة في قلوبهم )\u003c/span\u003e أي : خلق هذا الاعتقاد في نفوسهم ليزدادوا حسرة على موتهم وقتلهم ثم قال تعالى ردا عليهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( والله يحيي ويميت )\u003c/span\u003e أي : بيده الخلق وإليه يرجع الأمر ، ولا يحيا أحد ولا يموت إلا بمشيئته وقدره ، ولا يزاد في عمر أحد ولا ينقص منه إلا بقضائه وقدره \u003cspan class=\"arabic qpc-hafs\"\u003e( والله بما تعملون بصير )\u003c/span\u003e أي : وعلمه وبصره نافذ في جميع خلقه ، لا يخفى عليه من أمورهم شيء .\u003c/p\u003e"
+}

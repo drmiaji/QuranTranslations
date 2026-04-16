@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:54":  {
+                                 "id":  3759
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فاليوم لا تظلم نفس شيئا )\u003c/span\u003e أي : من عملها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تجزون إلا ما كنتم تعملون )\u003c/span\u003e\u003c/p\u003e"
+}

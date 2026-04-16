@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:45":  {
+                                 "id":  4829
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وأنه خلق الزوجين الذكر والأنثى من نطفة إذا تمنى )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أيحسب الإنسان أن يترك سدى ألم يك نطفة من مني يمنى ثم كان علقة فخلق فسوى فجعل منه الزوجين الذكر والأنثى أليس ذلك بقادر على أن يحيي الموتى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القيامة : 36 - 40 ]\u003c/span\u003e . .\u003c/p\u003e"
+}

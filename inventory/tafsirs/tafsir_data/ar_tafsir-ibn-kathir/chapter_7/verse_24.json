@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:24":  {
+                                "id":  978
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقيل : المراد بالخطاب في ) اهبطوا ) آدم ، وحواء ، وإبليس ، والحية . ومنهم من لم يذكر الحية ، والله أعلم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوالعمدة في العداوة آدم وإبليس; ولهذا قال تعالى في سورة \u003cspan class=\"red\"\u003e\" طه \"\u003c/span\u003e قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( اهبطا منها جميعا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الآية : 123 ]\u003c/span\u003e وحواء تبع لآدم . والحية - إن كان ذكرها صحيحا - فهي تبع لإبليس .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد ذكر المفسرون الأماكن التي هبط فيها كل منهم ، ويرجع حاصل تلك الأخبار إلى الإسرائيليات ، والله أعلم بصحتها . ولو كان في تعيين تلك البقاع فائدة تعود على المكلفين في أمر دينهم ، أو دنياهم ، لذكرها الله تعالى في كتابه أو رسوله صلى الله عليه وسلم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكم في الأرض مستقر ومتاع إلى حين )\u003c/span\u003e أي : قرار وأعمار مضروبة إلى آجال معلومة ، قد جرى بها القلم ، وأحصاها القدر ، وسطرت في الكتاب الأول .\u003cspan class=\"blue\"\u003e وقال ابن عباس :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( مستقر )\u003c/span\u003e القبور .\u003cspan class=\"blue\"\u003e وعنه :\u003c/span\u003e وجه الأرض وتحتها . رواهما ابن أبي حاتم .\u003c/p\u003e"
+}

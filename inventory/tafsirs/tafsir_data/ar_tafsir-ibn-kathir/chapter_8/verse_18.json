@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "8:18":  {
+                                "id":  1178
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلكم وأن الله موهن كيد الكافرين )\u003c/span\u003e هذه بشارة أخرى مع ما حصل من النصر : أنه أعلمهم تعالى بأنه مضعف كيد الكافرين فيما يستقبل ، مصغرا أمرهم ، وأنهم كل ما لهم في تبار ودمار ، ولله الحمد والمنة .\u003c/p\u003e"
+}

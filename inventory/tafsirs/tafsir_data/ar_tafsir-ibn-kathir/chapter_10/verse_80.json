@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:80":  {
+                                 "id":  1444
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e؛ وإنما قال لهم ذلك لأنهم اصطفوا - وقد وعدوا من فرعون بالتقريب والعطاء الجزيل - \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا ياموسى إما أن تلقي وإما أن نكون أول من ألقى قال بل ألقوا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ طه : 65 ، 66 ]\u003c/span\u003e ، فأراد موسى أن تكون البداءة منهم ، ليرى الناس ما صنعوا ، ثم يأتي بالحق بعده فيدمغ باطلهم ؛ ولهذا لما \u003cspan class=\"arabic qpc-hafs\"\u003e( ألقوا سحروا أعين الناس واسترهبوهم وجاءوا بسحر عظيم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأعراف : 116 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فأوجس في نفسه خيفة موسى قلنا لا تخف إنك أنت الأعلى وألق ما في يمينك تلقف ما صنعوا إنما صنعوا كيد ساحر ولا يفلح الساحر حيث أتى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ طه : 67 ، 69 ]\u003c/span\u003e\u003c/p\u003e"
+}

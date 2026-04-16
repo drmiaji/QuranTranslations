@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:100":  {
+                                  "id":  2001
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إنما سلطانه على الذين يتولونه )\u003c/span\u003e قال مجاهد : يطيعونه .\u003c/p\u003e\u003cp\u003eوقال آخرون : اتخذوه وليا من دون الله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( والذين هم به مشركون )\u003c/span\u003e أي : أشركوا في عبادة الله تعالى . ويحتمل أن تكون الباء سببية ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e صاروا بسبب طاعتهم للشيطان مشركين بالله تعالى .\u003c/p\u003e\u003cp\u003eوقال آخرون : معناه : أنه شركهم في الأموال والأولاد .\u003c/p\u003e"
+}

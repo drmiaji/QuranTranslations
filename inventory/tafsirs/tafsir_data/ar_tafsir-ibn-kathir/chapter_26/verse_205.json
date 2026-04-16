@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:205":  {
+                                  "id":  3137
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( أفرأيت إن متعناهم سنين ثم جاءهم ما كانوا يوعدون ما أغنى عنهم ما كانوا يمتعون )\u003c/span\u003e أي : لو أخرناهم وأنظرناهم ، وأملينا لهم برهة من الزمان وحينا من الدهر وإن طال ، ثم جاءهم أمر الله ، أي شيء يجدي عنهم ما كانوا فيه من النعم؟‍! \u003cspan class=\"arabic qpc-hafs\"\u003e( كأنهم يوم يرونها لم يلبثوا إلا عشية أو ضحاها )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النازعات : 46 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يود أحدهم لو يعمر ألف سنة وما هو بمزحزحه من العذاب أن يعمر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البقرة : 96 ]\u003c/span\u003e ،\u003c/p\u003e"
+}

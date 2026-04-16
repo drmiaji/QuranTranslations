@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:48":  {
+                                "id":  341
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى - مخبرا عن تمام بشارة الملائكة لمريم بابنها عيسى ، عليه السلام - أن الله يعلمه \u003cspan class=\"arabic qpc-hafs\"\u003e( الكتاب والحكمة )\u003c/span\u003e الظاهر أن المراد بالكتاب هاهنا الكتابة . والحكمة تقدم الكلام على تفسيرها في سورة البقرة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( والتوراة والإنجيل )\u003c/span\u003e فالتوراة : هو الكتاب الذي أنزله الله على موسى بن عمران .\u003cspan class=\"blue\"\u003e والإنجيل :\u003c/span\u003e الذي أنزله الله على عيسى عليهما السلام ، وقد كان \u003cspan class=\"reference brown\"\u003e[ عيسى ]\u003c/span\u003e عليه السلام ، يحفظ هذا وهذا .\u003c/p\u003e"
+}

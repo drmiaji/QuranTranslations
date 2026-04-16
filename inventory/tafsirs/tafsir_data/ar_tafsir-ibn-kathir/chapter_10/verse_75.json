@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:75":  {
+                                 "id":  1439
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم بعثنا )\u003c/span\u003e من بعد تلك الرسل \u003cspan class=\"arabic qpc-hafs\"\u003e( موسى وهارون إلى فرعون وملئه )\u003c/span\u003e أي : قومه . \u003cspan class=\"arabic qpc-hafs\"\u003e( بآياتنا )\u003c/span\u003e أي : حججنا وبراهيننا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فاستكبروا وكانوا قوما مجرمين )\u003c/span\u003e أي : استكبروا عن اتباع الحق والانقياد له\u003c/p\u003e"
+}

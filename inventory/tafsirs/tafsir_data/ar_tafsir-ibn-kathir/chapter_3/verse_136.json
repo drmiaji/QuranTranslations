@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:136":  {
+                                 "id":  429
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى - بعد وصفهم بما وصفهم به -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك جزاؤهم مغفرة من ربهم وجنات )\u003c/span\u003e أي : جزاؤهم على هذه الصفات مغفرة من الله وجنات \u003cspan class=\"arabic qpc-hafs\"\u003e( تجري من تحتها الأنهار )\u003c/span\u003e أي : من أنواع المشروبات \u003cspan class=\"arabic qpc-hafs\"\u003e( خالدين فيها )\u003c/span\u003e أي : ماكثين فيها \u003cspan class=\"arabic qpc-hafs\"\u003e( ونعم أجر العاملين )\u003c/span\u003e يمدح تعالى الجنة .\u003c/p\u003e"
+}

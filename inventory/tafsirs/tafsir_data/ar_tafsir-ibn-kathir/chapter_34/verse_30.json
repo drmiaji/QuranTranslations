@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "34:30":  {
+                                 "id":  3636
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل لكم ميعاد يوم لا تستأخرون عنه ساعة ولا تستقدمون )\u003c/span\u003e أي : لكم ميعاد مؤجل معدود محرر ، لا يزداد ولا ينتقص ، فإذا جاء فلا يؤخر ساعة ولا يقدم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن أجل الله إذا جاء لا يؤخر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ نوح : 4 ]\u003c/span\u003e ، وقال \u003cspan class=\"arabic qpc-hafs\"\u003e( وما نؤخره إلا لأجل معدود . يوم يأت لا تكلم نفس إلا بإذنه فمنهم شقي وسعيد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 104 ، 105 ]\u003c/span\u003e .\u003c/p\u003e"
+}

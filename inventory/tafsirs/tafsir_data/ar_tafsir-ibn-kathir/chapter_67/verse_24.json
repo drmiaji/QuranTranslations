@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "67:24":  {
+                                 "id":  5265
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قل هو الذي ذرأكم في الأرض )\u003c/span\u003e أي : بثكم ونشركم في أقطار الأرض وأرجائها ، مع اختلاف ألسنتكم في لغاتكم وألوانكم ، وحلاكم وأشكالكم وصوركم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإليه تحشرون )\u003c/span\u003e أي : تجمعون بعد هذا التفرق والشتات ، يجمعكم كما فرقكم ويعيدكم كما بدأكم .\u003c/p\u003e"
+}

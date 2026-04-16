@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:4":  {
+                                "id":  3709
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\"لمن المرسلين على صراط مستقيم\"\u003c/span\u003e أي على منهج ودين قويم وشرع مستقيم.\u003c/p\u003e"
+}

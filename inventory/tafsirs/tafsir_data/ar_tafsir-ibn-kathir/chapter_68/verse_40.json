@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "68:40":  {
+                                 "id":  5311
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( سلهم أيهم بذلك زعيم )\u003c/span\u003e ؟\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e قل لهم : من هو المتضمن المتكفل بهذا ؟\u003c/p\u003e"
+}

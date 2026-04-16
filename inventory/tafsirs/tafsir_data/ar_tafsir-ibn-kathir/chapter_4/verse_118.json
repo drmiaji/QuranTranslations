@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:118":  {
+                                 "id":  611
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( لعنه الله )\u003c/span\u003e أي : طرده وأبعده من رحمته ، وأخرجه من جواره .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( لأتخذن من عبادك نصيبا مفروضا )\u003c/span\u003e أي : معينا مقدرا معلوما .\u003cspan class=\"blue\"\u003e قال مقاتل بن حيان :\u003c/span\u003e من كل ألف تسعمائة وتسعة وتسعون إلى النار ، وواحد إلى الجنة .\u003c/p\u003e"
+}

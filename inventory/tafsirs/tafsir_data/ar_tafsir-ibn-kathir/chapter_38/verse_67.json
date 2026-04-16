@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:67":  {
+                                 "id":  4037
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\"قل هو نبأ عظيم\"\u003c/span\u003e أي خبر عظيم وشأن بليغ وهو إرسال اللّه تعالى إياي إليكم.\u003c/p\u003e"
+}

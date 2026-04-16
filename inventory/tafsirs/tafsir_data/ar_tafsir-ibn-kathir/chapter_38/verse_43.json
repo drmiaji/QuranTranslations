@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:43":  {
+                                 "id":  4013
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ووهبنا له أهله ومثلهم معهم رحمة منا وذكرى لأولي الألباب )\u003c/span\u003e قال الحسن وقتادة : أحياهم الله تعالى له بأعيانهم وزادهم مثلهم معهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( رحمة منا )\u003c/span\u003e أي : به على صبره وثباته وإنابته وتواضعه واستكانته \u003cspan class=\"arabic qpc-hafs\"\u003e( وذكرى لأولي الألباب )\u003c/span\u003e أي : لذوي العقول ليعلموا أن عاقبة الصبر الفرج والمخرج والراحة .\u003c/p\u003e"
+}

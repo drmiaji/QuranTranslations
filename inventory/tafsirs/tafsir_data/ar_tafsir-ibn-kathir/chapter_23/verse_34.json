@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:34":  {
+                                 "id":  2707
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفكذبوه وخالفوه وأبوا عن اتباعه لكونه بشرا مثلهم واستنكفوا عن اتباع رسول بشري وكذبوا بلقاء الله في القيامة وأنكروا المعاد الجثماني.\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "44:18":  {
+                                 "id":  4432
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"أن أدوا إلى عباد الله\"\u003c/span\u003e كقوله عز وجل \u003cspan class=\"red\"\u003e\"أن أرسل معنا بني إسرائيل ولا تعذبهم قد جئناك بأية من ربك والسلام على من اتبع الهدى\"\u003c/span\u003e وقوله جل وعلا \u003cspan class=\"red\"\u003e\"إني لكم رسول أمين\"\u003c/span\u003e أي مأمون على ما أبلغكموه.\u003c/p\u003e"
+}

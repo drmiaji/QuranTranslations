@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "100:5":  {
+                                 "id":  6151
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eأي توسطن ذلك المكان كلهن جمع.\u003c/p\u003e"
+}

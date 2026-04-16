@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:31":  {
+                                 "id":  4877
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إنا أرسلنا عليهم صيحة واحدة فكانوا كهشيم المحتظر )\u003c/span\u003e أي : فبادوا عن آخرهم لم تبق منهم باقية ، وخمدوا وهمدوا كما يهمد يبيس الزرع والنبات . قاله غير واحد من المفسرين . والمحتظر - قال السدي -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e هو المرعى بالصحراء حين يبس وتحرق ونسفته الريح .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن زيد : كانت العرب يجعلون حظارا على الإبل والمواشي من يبيس الشوك ،\u003cspan class=\"blue\"\u003e فهو المراد من قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( كهشيم المحتظر )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال سعيد بن جبير : \u003cspan class=\"arabic qpc-hafs\"\u003e( كهشيم المحتظر )\u003c/span\u003e : هو التراب المتناثر من الحائط . وهذا قول غريب ، والأول أقوى ، والله أعلم .\u003c/p\u003e"
+}

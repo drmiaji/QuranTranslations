@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:102":  {
+                                  "id":  2242
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال \u003cspan class=\"arabic qpc-hafs\"\u003e( أفحسب الذين كفروا أن يتخذوا عبادي من دوني أولياء )\u003c/span\u003e أي : اعتقدوا أنهم يصح لهم ذلك ، وينتفعون بذلك ؟ \u003cspan class=\"arabic qpc-hafs\"\u003e( كلا سيكفرون بعبادتهم ويكونون عليهم ضدا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ مريم : 82 ]\u003c/span\u003e ; ولهذا أخبر أنه قد أعد لهم جهنم يوم القيامة منزلا .\u003c/p\u003e"
+}

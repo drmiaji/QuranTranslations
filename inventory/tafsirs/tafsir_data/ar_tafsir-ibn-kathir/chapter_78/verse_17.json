@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "78:17":  {
+                                 "id":  5689
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن يوم الفصل ، وهو يوم القيامة ، أنه مؤقت بأجل معدود ، لا يزاد عليه ولا ينقص منه ، ولا يعلم وقته على التعيين إلا الله - عز وجل -\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما نؤخره إلا لأجل معدود )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 104 ]\u003c/span\u003e .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:7":  {
+                                "id":  3795
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله ها هنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( وحفظا )\u003c/span\u003e تقديره : وحفظناها حفظا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( من كل شيطان مارد )\u003c/span\u003e يعني : المتمرد العاتي إذا أراد أن يسترق السمع ، أتاه شهاب ثاقب فأحرقه ،\u003cspan class=\"blue\"\u003e ولهذا قال :\u003c/span\u003e\u003c/p\u003e"
+}

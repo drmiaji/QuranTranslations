@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:97":  {
+                                 "id":  1461
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الذين حقت عليهم كلمة ربك لا يؤمنون ولو جاءتهم كل آية حتى يروا العذاب الأليم )\u003c/span\u003e أي : لا يؤمنون إيمانا ينفعهم ، بل حين لا ينفع نفسا إيمانها ؛ ولهذا لما دعا موسى ، عليه السلام ،\u003cspan class=\"blue\"\u003e على فرعون وملئه قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ربنا اطمس على أموالهم واشدد على قلوبهم فلا يؤمنوا حتى يروا العذاب الأليم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 88 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو أننا نزلنا إليهم الملائكة وكلمهم الموتى وحشرنا عليهم كل شيء قبلا ما كانوا ليؤمنوا إلا أن يشاء الله ولكن أكثرهم يجهلون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 111 ]\u003c/span\u003e ثم قال تعالى :\u003c/p\u003e"
+}

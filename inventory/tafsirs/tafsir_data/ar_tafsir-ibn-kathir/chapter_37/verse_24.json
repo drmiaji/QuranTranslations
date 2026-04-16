@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:24":  {
+                                 "id":  3812
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وقفوهم إنهم مسئولون )\u003c/span\u003e أي : قفوهم حتى يسألوا عن أعمالهم وأقوالهم التي صدرت عنهم في الدار الدنيا كما قال الضحاك ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e يعني احبسوهم إنهم محاسبون .\u003cspan class=\"blue\"\u003e وقال ابن أبي حاتم :\u003c/span\u003e حدثنا أبي ، حدثنا النفيلي ،\u003cspan class=\"blue\"\u003e حدثنا المعتمر بن سليمان قال :\u003c/span\u003e سمعت ليثا يحدث عن بشر ، عن أنس بن مالك \u003cspan class=\"reference brown\"\u003e[ رضي الله عنه ]\u003c/span\u003e قال : قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أيما داع دعا إلى شيء كان موقوفا معه إلى يوم القيامة ، لا يغادره ولا يفارقه ، وإن دعا رجل رجلا \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e ثم قرأ :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقفوهم إنهم مسئولون )\u003c/span\u003e . ورواه الترمذي ، من حديث ليث بن أبي سليم . ورواه ابن جرير ، عن يعقوب بن إبراهيم ، عن معتمر ، عن ليث ، عن رجل ، عن أنس مرفوعا .\u003c/p\u003e"
+}

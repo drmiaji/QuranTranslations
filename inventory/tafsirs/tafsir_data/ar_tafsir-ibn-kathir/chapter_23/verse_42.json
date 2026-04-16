@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:42":  {
+                                 "id":  2715
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم أنشأنا من بعدهم قرونا آخرين )\u003c/span\u003e أي : أمما وخلائق\u003c/p\u003e"
+}

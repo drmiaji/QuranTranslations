@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "25:4":  {
+                                "id":  2859
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن سخافة عقول الجهلة من الكفار ،\u003cspan class=\"blue\"\u003e في قولهم عن القرآن :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن هذا إلا إفك )\u003c/span\u003e : أي : كذب ، \u003cspan class=\"arabic qpc-hafs\"\u003e( افتراه )\u003c/span\u003e يعنون النبي صلى الله عليه وسلم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأعانه عليه قوم آخرون )\u003c/span\u003e أي : واستعان على جمعه بقوم آخرين .\u003cspan class=\"blue\"\u003e قال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فقد جاءوا ظلما وزورا )\u003c/span\u003e أي : فقد افتروا هم قولا باطلا ، هم يعلمون أنه باطل ، ويعرفون كذب أنفسهم فيما يزعمون .\u003c/p\u003e"
+}

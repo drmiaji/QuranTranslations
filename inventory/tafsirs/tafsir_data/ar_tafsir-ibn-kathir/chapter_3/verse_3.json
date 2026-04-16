@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:3":  {
+                               "id":  296
+                           }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( نزل عليك الكتاب بالحق )\u003c/span\u003e يعني : نزل عليك القرآن يا محمد ) بالحق ) أي : لا شك فيه ولا ريب ، بل هو منزل من عند الله \u003cspan class=\"reference brown\"\u003e[ عز وجل ]\u003c/span\u003e أنزله بعلمه والملائكة يشهدون ، وكفى بالله شهيدا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( مصدقا لما بين يديه )\u003c/span\u003e أي : من الكتب المنزلة قبله من السماء على عباد الله الأنبياء ، فهي تصدقه بما أخبرت به وبشرت في قديم الزمان ، وهو يصدقها ، لأنه طابق ما أخبرت به وبشرت ، من الوعد من الله بإرسال محمد صلى الله عليه وسلم ، وإنزال القرآن العظيم عليه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأنزل التوراة )\u003c/span\u003e أي : على موسى بن عمران \u003cspan class=\"reference brown\"\u003e[ عليه السلام ]\u003c/span\u003e ) والإنجيل ) أي : على عيسى ابن مريم .\u003c/p\u003e"
+}

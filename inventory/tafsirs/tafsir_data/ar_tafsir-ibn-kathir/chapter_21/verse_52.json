@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:52":  {
+                                 "id":  2535
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( إذ قال لأبيه وقومه ما هذه التماثيل التي أنتم لها عاكفون )\u003c/span\u003e هذا هو الرشد الذي أوتيه من صغره ، الإنكار على قومه في عبادة الأصنام من دون الله ، عز وجل ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ما هذه التماثيل التي أنتم لها عاكفون )\u003c/span\u003e أي : معتكفون على عبادتها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن أبي حاتم : حدثنا الحسن بن محمد الصباح ، حدثنا أبو معاوية الضرير ، حدثنا سعد بن طريف ، عن الأصبغ بن نباتة ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e مر علي ، على قوم يلعبون بالشطرنج ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e ما هذه التماثيل التي أنتم لها عاكفون؟ لأن يمس أحدكم جمرا حتى يطفأ خير له من أن يمسها .\u003c/p\u003e"
+}

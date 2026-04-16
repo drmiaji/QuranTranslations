@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:20":  {
+                                 "id":  4153
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والله يقضي بالحق )\u003c/span\u003e أي : يحكم بالعدل .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الأعمش : عن سعيد بن جبير ، عن ابن عباس \u003cspan class=\"reference brown\"\u003e[ رضي الله عنهما ]\u003c/span\u003e في قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والله يقضي بالحق )\u003c/span\u003e قادر على أن يجزي بالحسنة الحسنة ، وبالسيئة السيئة \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله هو السميع البصير )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذا الذي فسر به ابن عباس في هذه الآية كقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ليجزي الذين أساءوا بما عملوا ويجزي الذين أحسنوا بالحسنى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النجم : 31 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين يدعون من دونه )\u003c/span\u003e أي : من الأصنام والأوثان والأنداد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لا يقضون بشيء )\u003c/span\u003e أي : لا يملكون شيئا ولا يحكمون بشيء \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله هو السميع البصير )\u003c/span\u003e أي : سميع لأقوال خلقه ، بصير بهم ، فيهدي من يشاء ، ويضل من يشاء ، وهو الحاكم العادل في جميع ذلك .\u003c/p\u003e"
+}

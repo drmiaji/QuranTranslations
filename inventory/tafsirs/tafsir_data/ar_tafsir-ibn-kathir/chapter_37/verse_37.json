@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:37":  {
+                                 "id":  3825
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال الله تعالى تكذيبا لهم ،\u003cspan class=\"blue\"\u003e وردا عليهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( بل جاء بالحق )\u003c/span\u003e يعني رسول الله - صلى الله عليه وسلم - جاء بالحق في جميع شرعة الله له من الإخبار والطلب ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وصدق المرسلين )\u003c/span\u003e أي : صدقهم فيما أخبروه عنه من الصفات الحميدة ، والمناهج السديدة ، وأخبر عن الله في شرعه \u003cspan class=\"reference brown\"\u003e[ وقدره ]\u003c/span\u003e وأمره كما أخبروا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ما يقال لك إلا ما قد قيل للرسل من قبلك )\u003c/span\u003e الآية \u003cspan class=\"reference brown\"\u003e[ فصلت : 43 ]\u003c/span\u003e .\u003c/p\u003e"
+}

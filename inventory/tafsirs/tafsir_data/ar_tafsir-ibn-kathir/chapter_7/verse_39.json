@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:39":  {
+                                "id":  993
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وقالت أولاهم لأخراهم )\u003c/span\u003e أي : قال المتبوعون للأتباع : \u003cspan class=\"arabic qpc-hafs\"\u003e( فما كان لكم علينا من فضل )\u003c/span\u003e قال السدي : فقد ضللتم كما ضللنا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فذوقوا العذاب بما كنتم تكسبون )\u003c/span\u003e وهذا الحال كما أخبر الله تعالى عنهم في حال محشرهم ،\u003cspan class=\"blue\"\u003e في قوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو ترى إذ الظالمون موقوفون عند ربهم يرجع بعضهم إلى بعض القول يقول الذين استضعفوا للذين استكبروا لولا أنتم لكنا مؤمنين قال الذين استكبروا للذين استضعفوا أنحن صددناكم عن الهدى بعد إذ جاءكم بل كنتم مجرمين وقال الذين استضعفوا للذين استكبروا بل مكر الليل والنهار إذ تأمروننا أن نكفر بالله ونجعل له أندادا وأسروا الندامة لما رأوا العذاب وجعلنا الأغلال في أعناق الذين كفروا هل يجزون إلا ما كانوا يعملون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ سبأ : 31 - 33 ]\u003c/span\u003e .\u003c/p\u003e"
+}

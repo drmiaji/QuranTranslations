@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:86":  {
+                                "id":  755
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم أخبر عن حال الأشقياء فقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين كفروا وكذبوا بآياتنا )\u003c/span\u003e أي : جحدوا بها وخالفوها \u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك أصحاب الجحيم )\u003c/span\u003e أي : هم أهلها والداخلون إليها .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "74:11":  {
+                                 "id":  5506
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى متوعدا لهذا الخبيث الذي أنعم الله عليه بنعم الدنيا ، فكفر بأنعم الله ، وبدلها كفرا ، وقابلها بالجحود بآيات الله والافتراء عليها ، وجعلها من قول البشر .\u003cspan class=\"blue\"\u003e وقد عدد الله عليه نعمه حيث قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ذرني ومن خلقت وحيدا )\u003c/span\u003e أي : خرج من بطن أمه وحده لا مال له ولا ولد ، ثم رزقه الله ،\u003c/p\u003e"
+}

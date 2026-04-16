@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "38:8":  {
+                                "id":  3978
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقولهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( أؤنزل عليه الذكر من بيننا )\u003c/span\u003e يعني : أنهم يستبعدون تخصيصه بإنزال القرآن عليه من بينهم كلهم كما قالوا في الآية الأخرى : \u003cspan class=\"arabic qpc-hafs\"\u003e( لولا نزل هذا القرآن على رجل من القريتين عظيم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزخرف : 31 ]\u003c/span\u003e قال الله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( أهم يقسمون رحمة ربك نحن قسمنا بينهم معيشتهم في الحياة الدنيا ورفعنا بعضهم فوق بعض درجات )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزخرف : 32 ]\u003c/span\u003e ولهذا لما قالوا هذا الذي دل على جهلهم وقلة عقلهم في استبعادهم إنزال القرآن على الرسول من بينهم ،\u003cspan class=\"blue\"\u003e قال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( بل لما يذوقوا عذاب )\u003c/span\u003e أي : إنما يقولون هذا ؛ لأنهم ما ذاقوا إلى حين قولهم ذلك عذاب الله ونقمته سيعلمون غب ما قالوا ، وما كذبوا به يوم يدعون إلى نار جهنم دعا .\u003c/p\u003e"
+}

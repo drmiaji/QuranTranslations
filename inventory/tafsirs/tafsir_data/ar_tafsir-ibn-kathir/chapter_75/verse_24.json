@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "75:24":  {
+                                 "id":  5575
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وجوه يومئذ باسرة )\u003c/span\u003e هذه وجوه الفجار تكون يوم القيامة باسرة .\u003cspan class=\"blue\"\u003e قال قتادة :\u003c/span\u003e كالحة .\u003cspan class=\"blue\"\u003e وقال السدي :\u003c/span\u003e تغير ألوانها . وقال ابن زيد \u003cspan class=\"arabic qpc-hafs\"\u003e( باسرة )\u003c/span\u003e أي : عابسة .\u003c/p\u003e"
+}

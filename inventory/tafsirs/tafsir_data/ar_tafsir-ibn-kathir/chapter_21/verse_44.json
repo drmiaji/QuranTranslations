@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:44":  {
+                                 "id":  2527
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن المشركين : إنما غرهم وحملهم على ما هم فيه من الضلال ، أنهم متعوا في الحياة الدنيا ، ونعموا وطال عليهم العمر فيما هم فيه ، فاعتقدوا أنهم على شيء .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال واعظا لهم : \u003cspan class=\"arabic qpc-hafs\"\u003e( أفلا يرون أنا نأتي الأرض ننقصها من أطرافها )\u003c/span\u003e اختلف المفسرون في معناه ، وقد أسلفناه في سورة \u003cspan class=\"red\"\u003e\" الرعد \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وأحسن ما فسر بقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد أهلكنا ما حولكم من القرى وصرفنا الآيات لعلهم يرجعون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأحقاف : 27 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقال الحسن البصري : يعني بذلك ظهور الإسلام على الكفر .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوالمعنى : أفلا يعتبرون بنصر الله لأوليائه على أعدائه ، وإهلاكه الأمم المكذبة والقرى الظالمة ،\u003cspan class=\"blue\"\u003e وإنجائه لعباده المؤمنين; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أفهم الغالبون )\u003c/span\u003e يعني : بل هم المغلوبون الأسفلون الأخسرون الأرذلون .\u003c/p\u003e"
+}

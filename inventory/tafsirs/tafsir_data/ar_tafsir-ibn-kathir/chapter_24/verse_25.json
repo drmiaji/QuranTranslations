@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "24:25":  {
+                                 "id":  2816
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يومئذ يوفيهم الله دينهم الحق )\u003c/span\u003e قال ابن عباس : \u003cspan class=\"arabic qpc-hafs\"\u003e( دينهم )\u003c/span\u003e أي : حسابهم ،\u003cspan class=\"blue\"\u003e وكل ما في القرآن ) دينهم ) أي :\u003c/span\u003e حسابهم . وكذا قال غير واحد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم إن قراءة الجمهور بنصب ) الحق ) على أنه صفة لدينهم ، وقرأ مجاهد بالرفع ، على أنه نعت الجلالة .\u003cspan class=\"blue\"\u003e وقرأها بعض السلف في مصحف أبي بن كعب :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" يومئذ يوفيهم الله الحق دينهم \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويعلمون أن الله هو الحق المبين )\u003c/span\u003e أي : وعده ووعيده وحسابه هو العدل ، الذي لا جور فيه .\u003c/p\u003e"
+}

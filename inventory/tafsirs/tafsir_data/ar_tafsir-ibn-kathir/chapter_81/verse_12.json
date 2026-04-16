@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "81:12":  {
+                                 "id":  5812
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eقال السدي: أحميت،\u003cspan class=\"blue\"\u003e وقال قتادة:\u003c/span\u003e أوقدت قال وإنما يسعرها غضب الله وخطايا بني آدم.\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:22":  {
+                                 "id":  2695
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن لكم في الأنعام لعبرة نسقيكم مما في بطونها ولكم فيها منافع كثيرة ومنها تأكلون وعليها وعلى الفلك تحملون )\u003c/span\u003e : يذكر تعالى ما جعل لخلقه في الأنعام من المنافع ، وذلك أنهم يشربون من ألبانها الخارجة من بين فرث ودم ، ويأكلون من حملانها ، ويلبسون من أصوافها وأوبارها وأشعارها ، ويركبون ظهورها ويحملونها الأحمال الثقال إلى البلاد النائية عنهم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وتحمل أثقالكم إلى بلد لم تكونوا بالغيه إلا بشق الأنفس إن ربكم لرءوف رحيم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النحل : 7 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أولم يروا أنا خلقنا لهم مما عملت أيدينا أنعاما فهم لها مالكون . وذللناها لهم فمنها ركوبهم ومنها يأكلون . ولهم فيها منافع ومشارب أفلا يشكرون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يس : 71 73 ]\u003c/span\u003e .\u003c/p\u003e"
+}

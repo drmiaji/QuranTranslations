@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:68":  {
+                                 "id":  2663
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن جادلوك فقل الله أعلم بما تعملون )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن كذبوك فقل لي عملي ولكم عملكم أنتم بريئون مما أعمل وأنا بريء مما تعملون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 41 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( الله أعلم بما تعملون )\u003c/span\u003e تهديد شديد ، ووعيد أكيد ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( هو أعلم بما تفيضون فيه كفى به شهيدا بيني وبينكم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأحقاف : 8 ]\u003c/span\u003e\u003c/p\u003e"
+}

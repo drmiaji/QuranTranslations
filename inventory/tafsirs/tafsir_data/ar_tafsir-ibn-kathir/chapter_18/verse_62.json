@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:62":  {
+                                 "id":  2202
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فلما جاوزا )\u003c/span\u003e أي المكان الذي نسيا الحوت فيه ، ونسب النسيان إليهما وإن كان يوشع هو الذي نسيه ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يخرج منهما اللؤلؤ والمرجان )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الرحمن : 22 ]\u003c/span\u003e ، وإنما يخرج من المالح في أحد القولين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eفلما ذهبا عن المكان الذي نسياه فيه مرحلة ) قال ) موسى \u003cspan class=\"arabic qpc-hafs\"\u003e( لفتاه آتنا غداءنا لقد لقينا من سفرنا هذا نصبا )\u003c/span\u003e أي : الذي جاوزا فيه المكان \u003cspan class=\"arabic qpc-hafs\"\u003e( نصبا )\u003c/span\u003e يعني : تعبا .\u003c/p\u003e"
+}

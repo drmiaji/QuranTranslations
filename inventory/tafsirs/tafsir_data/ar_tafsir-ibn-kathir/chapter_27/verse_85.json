@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:85":  {
+                                 "id":  3244
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا قال هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( ووقع القول عليهم بما ظلموا فهم لا ينطقون )\u003c/span\u003e أي : بهتوا فلم يكن لهم جواب ; لأنهم كانوا في الدار الدنيا ظلمة لأنفسهم ، وقد ردوا إلى عالم الغيب والشهادة الذي لا تخفى عليه خافية .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:13":  {
+                                "id":  506
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي : هذه الفرائض والمقادير التي جعلها الله للورثة بحسب قربهم من الميت واحتياجهم إليه وفقدهم له عند عدمه ،\u003cspan class=\"blue\"\u003e هي حدود الله فلا تعتدوها ولا تجاوزوها; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يطع الله ورسوله )\u003c/span\u003e أي : فيها ، فلم يزد بعض الورثة ولم ينقص بعضا بحيلة ووسيلة ، بل تركهم على حكم الله وفريضته وقسمته ( يدخله جنات تجري من تحتها الأنهار خالدين فيها وذلك الفوز العظيم.\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "4:54":  {
+                                "id":  547
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( أم يحسدون الناس على ما آتاهم الله من فضله )\u003c/span\u003e يعني بذلك : حسدهم النبي صلى الله عليه وسلم على ما رزقه الله من النبوة العظيمة ، ومنعهم من تصديقهم إياه حسدهم له ; لكونه من العرب وليس من بني إسرائيل .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال الطبراني : حدثنا محمد بن عبد الله الحضرمي ، حدثنا يحيى الحماني ، حدثنا قيس بن الربيع ، عن السدي ، عن عطاء ،\u003cspan class=\"blue\"\u003e عن ابن عباس قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أم يحسدون الناس )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ على ما آتاهم الله من فضله ]\u003c/span\u003e ) الآية ،\u003cspan class=\"blue\"\u003e قال ابن عباس :\u003c/span\u003e نحن الناس دون الناس ،\u003cspan class=\"blue\"\u003e قال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فقد آتينا آل إبراهيم الكتاب والحكمة وآتيناهم ملكا عظيما )\u003c/span\u003e أي : فقد جعلنا في أسباط بني إسرائيل - الذين هم من ذرية إبراهيم - النبوة ، وأنزلنا عليهم الكتب ، وحكموا فيهم بالسنن - وهي الحكمة - وجعلنا فيهم الملوك\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:39":  {
+                                 "id":  1940
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم ذكر تعالى حكمته في المعاد وقيام الأجساد يوم التناد ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ليبين لهم )\u003c/span\u003e أي : للناس \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي يختلفون فيه )\u003c/span\u003e أي : من كل شيء ، و \u003cspan class=\"arabic qpc-hafs\"\u003e( ليجزي الذين أساءوا بما عملوا ويجزي الذين أحسنوا بالحسنى )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النجم : 31 ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وليعلم الذين كفروا أنهم كانوا كاذبين )\u003c/span\u003e أي : في أيمانهم وأقسامهم : لا يبعث الله من يموت ; ولهذا يدعون يوم القيامة إلى نار جهنم دعا ،\u003cspan class=\"blue\"\u003e وتقول لهم الزبانية :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( هذه النار التي كنتم بها تكذبون أفسحر هذا أم أنتم لا تبصرون اصلوها فاصبروا أو لا تصبروا سواء عليكم إنما تجزون ما كنتم تعملون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الطور : 14 - 16 ]\u003c/span\u003e .\u003c/p\u003e"
+}

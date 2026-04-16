@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:88":  {
+                                "id":  757
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( وكلوا مما رزقكم الله حلالا )\u003c/span\u003e أي : في حال كونه حلالا طيبا \u003cspan class=\"arabic qpc-hafs\"\u003e( واتقوا الله )\u003c/span\u003e أي : في جميع أموركم ، واتبعوا طاعته ورضوانه ، واتركوا مخالفته وعصيانه \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي أنتم به مؤمنون )\u003c/span\u003e\u003c/p\u003e"
+}

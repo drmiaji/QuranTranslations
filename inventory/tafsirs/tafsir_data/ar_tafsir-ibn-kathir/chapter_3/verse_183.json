@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:183":  {
+                                 "id":  476
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين قالوا إن الله عهد إلينا ألا نؤمن لرسول حتى يأتينا بقربان تأكله النار )\u003c/span\u003e يقول تعالى تكذيبا أيضا لهؤلاء الذين زعموا أن الله عهد إليهم في كتبهم ألا يؤمنوا برسول حتى يكون من معجزاته أن من تصدق بصدقة من أمته فقبلت منه أن تنزل نار من السماء تأكلها . قاله ابن عباس والحسن وغيرهما .\u003cspan class=\"blue\"\u003e قال الله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قل قد جاءكم رسل من قبلي بالبينات )\u003c/span\u003e أي : بالحجج والبراهين \u003cspan class=\"arabic qpc-hafs\"\u003e( وبالذي قلتم )\u003c/span\u003e أي : وبنار تأكل القرابين المتقبلة \u003cspan class=\"arabic qpc-hafs\"\u003e( فلم قتلتموهم )\u003c/span\u003e أي : فلم قابلتموهم بالتكذيب والمخالفة والمعاندة وقتلتموهم \u003cspan class=\"arabic qpc-hafs\"\u003e( إن كنتم صادقين )\u003c/span\u003e أنكم تتبعون الحق وتنقادون للرسل .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:106":  {
+                                  "id":  3038
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إذ قال لهم أخوهم نوح ألا تتقون )\u003c/span\u003e أي : ألا تخافون الله في عبادتكم غيره ؟\u003c/p\u003e"
+}

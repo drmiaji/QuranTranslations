@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:186":  {
+                                 "id":  1140
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : من كتب عليه الضلالة فإنه لا يهديه أحد ، ولو نظر لنفسه فيما نظر ، فإنه لا يجزى عنه شيئا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يرد الله فتنته فلن تملك له من الله شيئا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المائدة : 41 ]\u003c/span\u003e قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل انظروا ماذا في السماوات والأرض وما تغني الآيات والنذر عن قوم لا يؤمنون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 101 ]\u003c/span\u003e\u003c/p\u003e"
+}

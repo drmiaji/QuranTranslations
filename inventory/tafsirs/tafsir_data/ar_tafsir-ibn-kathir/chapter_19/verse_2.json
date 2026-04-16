@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:2":  {
+                                "id":  2252
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ذكر رحمة ربك )\u003c/span\u003e أي : هذا ذكر رحمة الله بعبده زكريا .\u003c/p\u003e\u003cp\u003eوقرأ يحيى بن يعمر \u003cspan class=\"red\"\u003e\" ذكر رحمة ربك عبده زكريا \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eو ) زكريا ) : يمد ويقصر قراءتان مشهورتان . وكان نبيا عظيما من أنبياء بني إسرائيل .\u003cspan class=\"blue\"\u003e وفي صحيح البخاري :\u003c/span\u003e أنه كان نجارا ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e كان يأكل من عمل يديه في النجارة .\u003c/p\u003e"
+}

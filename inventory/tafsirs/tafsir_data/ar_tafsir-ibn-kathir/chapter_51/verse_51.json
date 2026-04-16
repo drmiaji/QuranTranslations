@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "51:51":  {
+                                 "id":  4726
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تجعلوا مع الله إلها آخر )\u003c/span\u003e أي : \u003cspan class=\"reference brown\"\u003e[ و ]\u003c/span\u003e لا تشركوا به شيئا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إني لكم منه نذير مبين )\u003c/span\u003e .\u003c/p\u003e"
+}

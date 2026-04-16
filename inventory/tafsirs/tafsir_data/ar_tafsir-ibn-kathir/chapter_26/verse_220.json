@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:220":  {
+                                  "id":  3152
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه هو السميع العليم )\u003c/span\u003e أي : السميع لأقوال عباده ، العليم بحركاتهم وسكناتهم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما تكون في شأن وما تتلو منه من قرآن ولا تعملون من عمل إلا كنا عليكم شهودا إذ تفيضون فيه )\u003c/span\u003e الآية . \u003cspan class=\"reference brown\"\u003e[ يونس : 61 ]\u003c/span\u003e .\u003c/p\u003e"
+}

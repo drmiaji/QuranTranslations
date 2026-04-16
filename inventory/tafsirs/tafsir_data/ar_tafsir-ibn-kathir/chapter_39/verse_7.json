@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:7":  {
+                                "id":  4065
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن نفسه تعالى : أنه الغني عما سواه من المخلوقات ،\u003cspan class=\"blue\"\u003e كما قال موسى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن تكفروا أنتم ومن في الأرض جميعا فإن الله لغني حميد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ إبراهيم : 8 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوفي صحيح مسلم : \u003cspan class=\"red\"\u003e\" يا عبادي ، لو أن أولكم وآخركم وإنسكم وجنكم ، كانوا على أفجر قلب رجل منكم ، ما نقص ذلك من ملكي شيئا \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا يرضى لعباده الكفر )\u003c/span\u003e أي : لا يحبه ولا يأمر به ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن تشكروا يرضه لكم )\u003c/span\u003e أي : يحبه منكم ويزدكم من فضله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تزر وازرة وزر أخرى )\u003c/span\u003e أي : لا تحمل نفس عن نفس شيئا ، بل كل مطالب بأمر نفسه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم إلى ربكم مرجعكم فينبئكم بما كنتم تعملون إنه عليم بذات الصدور )\u003c/span\u003e أي : فلا تخفى عليه خافية .\u003c/p\u003e"
+}

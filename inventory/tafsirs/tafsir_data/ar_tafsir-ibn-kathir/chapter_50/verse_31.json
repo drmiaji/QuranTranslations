@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "50:31":  {
+                                 "id":  4661
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأزلفت الجنة للمتقين غير بعيد )\u003c/span\u003e : قال قتادة ، وأبو مالك ،\u003cspan class=\"blue\"\u003e والسدي :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أزلفت )\u003c/span\u003e أدنيت وقربت من المتقين ، \u003cspan class=\"arabic qpc-hafs\"\u003e( غير بعيد )\u003c/span\u003e وذلك يوم القيامة ، وليس ببعيد ; لأنه واقع لا محالة ، وكل ما هو آت آت .\u003c/p\u003e"
+}

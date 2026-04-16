@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:63":  {
+                                 "id":  1659
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى عنهم إنهم رجعوا إلى أبيهم \u003cspan class=\"arabic qpc-hafs\"\u003e( قالوا ياأبانا منع منا الكيل )\u003c/span\u003e يعنون بعد هذه المرة ، إن لم ترسل معنا أخانا بنيامين ، فأرسله معنا نكتل .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقرأ بعضهم : \u003cspan class=\"reference brown\"\u003e[ يكتل ]\u003c/span\u003e بالياء ، أي يكتل هو ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنا له لحافظون )\u003c/span\u003e أي : لا تخف عليه فإنه سيرجع إليك .\u003cspan class=\"blue\"\u003e وهذا كما قالوا له في يوسف :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أرسله معنا غدا يرتع ويلعب وإنا له لحافظون )\u003c/span\u003e\u003c/p\u003e"
+}

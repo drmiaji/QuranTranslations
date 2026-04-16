@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "37:157":  {
+                                  "id":  3945
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( فأتوا بكتابكم إن كنتم صادقين )\u003c/span\u003e أي : هاتوا برهانا على ذلك يكون مستندا إلى كتاب منزل من السماء عن الله : أنه اتخذ ما تقولونه ، فإن ما تقولونه لا يمكن استناده إلى عقل ، بل لا يجوزه العقل بالكلية .\u003c/p\u003e"
+}

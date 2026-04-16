@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "12:45":  {
+                                 "id":  1641
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفعند ذلك تذكر ذلك الذي نجا من ذينك الفتيين اللذين كانا في السجن مع يوسف ، وكان الشيطان قد أنساه ما وصاه به يوسف ، من ذكر أمره للملك ،\u003cspan class=\"blue\"\u003e فعند ذلك تذكر ) بعد أمة ) أي :\u003c/span\u003e مدة ،\u003cspan class=\"blue\"\u003e وقرأ بعضهم :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" بعد أمة \"\u003c/span\u003e أي : بعد نسيان ،\u003cspan class=\"blue\"\u003e فقال للملك والذين جمعهم لذلك :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أنا أنبئكم بتأويله )\u003c/span\u003e أي : بتأويل هذا المنام ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فأرسلون )\u003c/span\u003e أي : فابعثون إلى يوسف الصديق إلى السجن .\u003cspan class=\"blue\"\u003e ومعنى الكلام :\u003c/span\u003e فبعثوا فجاء .\u003c/p\u003e"
+}

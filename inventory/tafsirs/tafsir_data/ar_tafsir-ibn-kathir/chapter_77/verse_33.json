@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "77:33":  {
+                                 "id":  5655
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( كأنه جمالة صفر )\u003c/span\u003e أي : كالإبل السود . قاله مجاهد ، والحسن ، وقتادة ، والضحاك . واختاره ابن جرير .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوعن ابن عباس ومجاهد وسعيد بن جبير : \u003cspan class=\"arabic qpc-hafs\"\u003e( جمالة صفر )\u003c/span\u003e يعني : حبال السفن . وعنه - أعني ابن عباس -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( جمالة صفر )\u003c/span\u003e قطع نحاس .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال البخاري : حدثنا عمرو بن علي ، حدثنا يحيى ، أخبرنا سفيان ،\u003cspan class=\"blue\"\u003e عن عبد الرحمن بن عابس قال :\u003c/span\u003e سمعت ابن عباس : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنها ترمي بشرر كالقصر )\u003c/span\u003e قال : كنا نعمد إلى الخشبة ثلاثة أذرع وفوق ذلك ، فنرفعه للشتاء ، فنسميه القصر ، \u003cspan class=\"arabic qpc-hafs\"\u003e( كأنه جمالة صفر )\u003c/span\u003e حبال السفن ، تجمع حتى تكون كأوساط الرجال\u003c/p\u003e"
+}

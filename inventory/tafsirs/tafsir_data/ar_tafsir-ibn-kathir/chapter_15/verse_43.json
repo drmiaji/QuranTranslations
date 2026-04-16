@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:43":  {
+                                 "id":  1845
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله \u003cspan class=\"red\"\u003e\" وإن جهنم لموعدهم أجمعين أي جهنم موعد جميع من اتبع إبليس كما قال عن القرآن \"\u003c/span\u003e ومن يكفر به من الأحزاب فالنار موعده.\u003c/p\u003e"
+}

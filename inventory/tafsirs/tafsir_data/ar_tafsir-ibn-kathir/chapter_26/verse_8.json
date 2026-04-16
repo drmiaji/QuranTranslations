@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:8":  {
+                                "id":  2940
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إن في ذلك لآية )\u003c/span\u003e أي : دلالة على قدرة الخالق للأشياء ، الذي بسط الأرض ورفع بناء السماء ، ومع هذا ما آمن أكثر الناس ، بل كذبوا به وبرسله وكتبه ، وخالفوا أمره وارتكبوا زواجره .\u003c/p\u003e"
+}

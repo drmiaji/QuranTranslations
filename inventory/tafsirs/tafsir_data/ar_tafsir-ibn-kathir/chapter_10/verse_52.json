@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:52":  {
+                                 "id":  1416
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ثم قيل للذين ظلموا ذوقوا عذاب الخلد )\u003c/span\u003e أي : يوم القيامة يقال لهم هذا ، تبكيتا وتقريعا ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يوم يدعون إلى نار جهنم دعا هذه النار التي كنتم بها تكذبون أفسحر هذا أم أنتم لا تبصرون اصلوها فاصبروا أو لا تصبروا سواء عليكم إنما تجزون ما كنتم تعملون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الطور : 13 - 16 ]\u003c/span\u003e .\u003c/p\u003e"
+}

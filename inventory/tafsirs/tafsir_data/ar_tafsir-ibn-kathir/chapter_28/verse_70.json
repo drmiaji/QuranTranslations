@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "28:70":  {
+                                 "id":  3322
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الله لا إله إلا هو )\u003c/span\u003e أي : هو المنفرد بالإلهية ، فلا معبود سواه ، كما لا رب يخلق ويختار سواه \u003cspan class=\"arabic qpc-hafs\"\u003e( له الحمد في الأولى والآخرة )\u003c/span\u003e أي : في جميع ما يفعله هو المحمود عليه ، لعدله وحكمته \u003cspan class=\"arabic qpc-hafs\"\u003e( وله الحكم )\u003c/span\u003e أي : الذي لا معقب له ، لقهره وغلبته وحكمته ورحمته ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإليه ترجعون )\u003c/span\u003e أي : جميعكم يوم القيامة فيجازي كل عامل بعمله ، من خير وشر ، ولا يخفى عليه منهم خافية في سائر الأعمال .\u003c/p\u003e"
+}

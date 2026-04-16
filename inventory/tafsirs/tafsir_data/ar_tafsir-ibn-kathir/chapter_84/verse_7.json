@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "84:7":  {
+                                "id":  5891
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eفَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ\u003c/p\u003e"
+}

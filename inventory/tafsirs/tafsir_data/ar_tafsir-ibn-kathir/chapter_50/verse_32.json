@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "50:32":  {
+                                 "id":  4662
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( هذا ما توعدون لكل أواب )\u003c/span\u003e أي : رجاع تائب مقلع ، \u003cspan class=\"arabic qpc-hafs\"\u003e( حفيظ )\u003c/span\u003e أي : يحفظ العهد فلا ينقضه و \u003cspan class=\"reference brown\"\u003e[ لا ]\u003c/span\u003e ينكثه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال عبيد بن عمير : الأواب : الحفيظ الذي لا يجلس مجلسا \u003cspan class=\"reference brown\"\u003e[ فيقوم ]\u003c/span\u003e حتى يستغفر الله عز وجل .\u003c/p\u003e"
+}

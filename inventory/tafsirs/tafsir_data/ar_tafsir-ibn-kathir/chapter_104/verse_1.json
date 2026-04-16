@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "104:1":  {
+                                 "id":  6180
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eفسير سورة ويل لكل همزة لمزة وهي مكية .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eالهماز : بالقول ،\u003cspan class=\"blue\"\u003e واللماز :\u003c/span\u003e بالفعل .\u003cspan class=\"blue\"\u003e يعني :\u003c/span\u003e يزدري بالناس وينتقص بهم .\u003cspan class=\"blue\"\u003e وقد تقدم بيان ذلك في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( هماز مشاء بنميم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القلم : 11 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن عباس : \u003cspan class=\"arabic qpc-hafs\"\u003e( همزة لمزة )\u003c/span\u003e طعان معياب .\u003cspan class=\"blue\"\u003e وقال الربيع بن أنس :\u003c/span\u003e الهمزة ، يهمزه في وجه ، واللمزة من خلفه .\u003cspan class=\"blue\"\u003e وقال قتادة :\u003c/span\u003e يهمزه ويلمزه بلسانه وعينه ، ويأكل لحوم الناس ، ويطعن عليهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال مجاهد : الهمزة : باليد والعين ،\u003cspan class=\"blue\"\u003e واللمزة :\u003c/span\u003e باللسان . وهكذا قال ابن زيد . وقال مالك ،\u003cspan class=\"blue\"\u003e عن زيد بن أسلم :\u003c/span\u003e همزة : لحوم الناس .\u003c/p\u003e\u003cp\u003eثم قال بعضهم : المراد بذلك الأخنس بن شريق . وقيل غيره .\u003cspan class=\"blue\"\u003e وقال مجاهد :\u003c/span\u003e هي عامة .\u003c/p\u003e"
+}

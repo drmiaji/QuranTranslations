@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:16":  {
+                                 "id":  2948
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"red\"\u003e\"فأتيا فرعون فقولا إنا رسول رب العالمين\"\u003c/span\u003e كقوله في الآية الأخرى \u003cspan class=\"red\"\u003e\"إنا رسولا ربك\"\u003c/span\u003e أي كل منا أرسل إليك.\u003c/p\u003e"
+}

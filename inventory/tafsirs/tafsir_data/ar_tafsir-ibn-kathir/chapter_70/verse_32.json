@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "70:32":  {
+                                 "id":  5407
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين هم لأماناتهم وعهدهم راعون )\u003c/span\u003e أي : إذا اؤتمنوا لم يخونوا ، وإذا عاهدوا لم يغدروا . وهذه صفات المؤمنين ، وضدها صفات المنافقين ،\u003cspan class=\"blue\"\u003e كما ورد في الحديث الصحيح :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" آية المنافق ثلاث : إذا حدث كذب ، وإذا وعد أخلف ، وإذا اؤتمن خان \"\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وفي رواية :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إذا حدث كذب ، وإذا عاهد غدر ، وإذا خاصم فجر \"\u003c/span\u003e .\u003c/p\u003e"
+}

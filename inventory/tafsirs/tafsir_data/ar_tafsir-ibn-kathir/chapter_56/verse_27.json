@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:27":  {
+                                 "id":  5006
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eلما ذكر تعالى مآل السابقين - وهم المقربون - عطف عليهم بذكر أصحاب اليمين - وهم الأبرار -\u003cspan class=\"blue\"\u003e كما قال ميمون بن مهران :\u003c/span\u003e أصحاب اليمين منزلة دون المقربين ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وأصحاب اليمين ما أصحاب اليمين )\u003c/span\u003e أي : أي شيء أصحاب اليمين ؟ وما حالهم ؟ وكيف مآلهم ؟ ثم فسر ذلك فقال\u003c/p\u003e"
+}

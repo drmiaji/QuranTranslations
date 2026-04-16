@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "16:127":  {
+                                  "id":  2028
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( واصبر وما صبرك إلا بالله )\u003c/span\u003e تأكيد للأمر بالصبر ، وإخبار بأن ذلك إنما ينال بمشيئة الله وإعانته ، وحوله وقوته .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تحزن عليهم )\u003c/span\u003e أي : على من خالفك ، لا تحزن عليهم ; فإن الله قدر ذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تك في ضيق )\u003c/span\u003e أي : غم \u003cspan class=\"arabic qpc-hafs\"\u003e( مما يمكرون )\u003c/span\u003e أي : مما يجهدون \u003cspan class=\"reference brown\"\u003e[ أنفسهم ]\u003c/span\u003e في عداوتك وإيصال الشر إليك ، فإن الله كافيك وناصرك ، ومؤيدك ، ومظهرك ومظفرك بهم .\u003c/p\u003e"
+}

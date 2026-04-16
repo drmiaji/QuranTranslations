@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:3":  {
+                                "id":  1805
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ذرهم يأكلوا ويتمتعوا )\u003c/span\u003e تهديد لهم شديد ، ووعيد أكيد ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قل تمتعوا فإن مصيركم إلى النار )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ إبراهيم : 30 ]\u003c/span\u003e وقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كلوا وتمتعوا قليلا إنكم مجرمون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المرسلات : 46 ]\u003c/span\u003e ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويلههم الأمل )\u003c/span\u003e أي : عن التوبة والإنابة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فسوف يعلمون )\u003c/span\u003e أي : عاقبة أمرهم .\u003c/p\u003e"
+}

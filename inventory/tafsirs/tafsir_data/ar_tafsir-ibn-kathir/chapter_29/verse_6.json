@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "29:6":  {
+                                "id":  3346
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن جاهد فإنما يجاهد لنفسه )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( من عمل صالحا فلنفسه )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ فصلت : 46 ]\u003c/span\u003e أي : من عمل صالحا فإنما يعود نفع عمله على نفسه ، فإن الله غني عن أفعال العباد ، ولو كانوا كلهم على أتقى قلب رجل \u003cspan class=\"reference brown\"\u003e[ واحد ]\u003c/span\u003e منهم ،\u003cspan class=\"blue\"\u003e ما زاد ذلك في ملكه شيئا ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن جاهد فإنما يجاهد لنفسه إن الله لغني عن العالمين )\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eقال الحسن البصري : إن الرجل ليجاهد ، وما ضرب يوما من الدهر بسيف .\u003c/p\u003e"
+}

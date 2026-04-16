@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:44":  {
+                                 "id":  5023
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( لا بارد ولا كريم )\u003c/span\u003e أي : ليس طيب الهبوب ولا حسن المنظر ،\u003cspan class=\"blue\"\u003e كما قال الحسن وقتادة :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا كريم )\u003c/span\u003e أي : ولا كريم المنظر .\u003cspan class=\"blue\"\u003e وقال الضحاك :\u003c/span\u003e كل شراب ليس بعذب فليس بكريم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن جرير : العرب تتبع هذه اللفظة في النفي ،\u003cspan class=\"blue\"\u003e فيقولون :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" هذا الطعام ليس بطيب ولا كريم ، هذا اللحم ليس بسمين ولا كريم ، وهذه الدار ليست بنظيفة ولا كريمة \"\u003c/span\u003e .\u003c/p\u003e"
+}

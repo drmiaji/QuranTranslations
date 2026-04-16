@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "100:2":  {
+                                 "id":  6148
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\"فالموريات قدحا\"\u003c/span\u003e يعني اصطكاك نعالها للصخر فتقدح منه النار.\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال أكثر هؤلاء في قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فالموريات قدحا )\u003c/span\u003e يعني : بحوافرها .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e أسعرن الحرب بين ركبانهن . قاله قتادة .\u003c/p\u003e\u003cp\u003eوعن ابن عباس ومجاهد : \u003cspan class=\"arabic qpc-hafs\"\u003e( فالموريات قدحا )\u003c/span\u003e يعني : مكر الرجال .\u003c/p\u003e\u003cp\u003eوقيل : هو إيقاد النار إذا رجعوا إلى منازلهم من الليل .\u003c/p\u003e\u003cp\u003eوقيل : المراد بذلك : نيران القبائل .\u003c/p\u003e\u003cp\u003eوقال من فسرها بالخيل : هو إيقاد النار بالمزدلفة .\u003c/p\u003e\u003cp\u003eوقال ابن جرير : والصواب الأول ; أنها الخيل حين تقدح بحوافرها .\u003c/p\u003e"
+}

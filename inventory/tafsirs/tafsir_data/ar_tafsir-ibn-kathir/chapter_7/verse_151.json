@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "7:151":  {
+                                 "id":  1105
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eفعند ذلك قال موسى : \u003cspan class=\"arabic qpc-hafs\"\u003e( رب اغفر لي ولأخي وأدخلنا في رحمتك وأنت أرحم الراحمين )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن أبي حاتم : حدثنا الحسن بن محمد بن الصباح ، حدثنا عفان ، حدثنا أبو عوانة ، عن أبي بشر ، عن سعيد بن جبير ،\u003cspan class=\"blue\"\u003e عن ابن عباس قال :\u003c/span\u003e قال النبي صلى الله عليه وسلم \u003cspan class=\"red\"\u003e\" يرحم الله موسى ، ليس المعاين كالمخبر ; أخبره ربه ، عز وجل ، أن قومه فتنوا بعده ، فلم يلق الألواح ، فلما رآهم وعاينهم ألقى الألواح \"\u003c/span\u003e\u003c/p\u003e"
+}

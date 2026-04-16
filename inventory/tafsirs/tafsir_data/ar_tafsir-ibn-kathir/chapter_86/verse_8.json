@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "86:8":  {
+                                "id":  5939
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه على رجعه لقادر )\u003c/span\u003e فيه قولان :\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eأحدهما : على رجع هذا الماء الدافق إلى مقره الذي خرج منه لقادر على ذلك . قاله مجاهد ، وعكرمة ، وغيرهما .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوالقول الثاني : إنه على رجع هذا الإنسان المخلوق من ماء دافق ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e إعادته وبعثه إلى الدار الآخرة لقادر ; لأن من قدر على البدء قدر على الإعادة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد ذكر الله ، - عز وجل - هذا الدليل في القرآن في غير ما موضع ، وهذا القول قال به الضحاك ، واختاره ابن جرير ،\u003c/p\u003e"
+}

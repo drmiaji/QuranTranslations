@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:4":  {
+                                "id":  4137
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : ما يدفع الحق ويجادل فيه بعد البيان وظهور البرهان \u003cspan class=\"arabic qpc-hafs\"\u003e( إلا الذين كفروا )\u003c/span\u003e أي : الجاحدون لآيات الله وحججه وبراهينه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فلا يغررك تقلبهم في البلاد )\u003c/span\u003e أي : في أموالهم ونعيمها وزهرتها ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لا يغرنك تقلب الذين كفروا في البلاد . متاع قليل ثم مأواهم جهنم وبئس المهاد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ آل عمران : 196 ، 197 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( نمتعهم قليلا ثم نضطرهم إلى عذاب غليظ )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ لقمان : 24 ]\u003c/span\u003e .\u003c/p\u003e"
+}

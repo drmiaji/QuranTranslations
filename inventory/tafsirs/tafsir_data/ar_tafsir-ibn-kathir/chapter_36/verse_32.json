@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:32":  {
+                                 "id":  3737
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن كل لما جميع لدينا محضرون )\u003c/span\u003e أي : وإن جميع الأمم الماضية والآتية ستحضر للحساب يوم القيام بين يدي الله ، عز وجل ، فيجازيهم بأعمالهم كلها خيرها وشرها ،\u003cspan class=\"blue\"\u003e ومعنى هذه كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن كلا لما ليوفينهم ربك أعمالهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 111 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد اختلف القراء في أداء هذا الحرف ; فمنهم من قرأ : \u003cspan class=\"red\"\u003e\" وإن كل لما \"\u003c/span\u003e بالتخفيف ، فعنده أن \u003cspan class=\"red\"\u003e\" إن \"\u003c/span\u003e للإثبات ، ومنهم من شدد \u003cspan class=\"red\"\u003e\" لما \"\u003c/span\u003e ، وجعل \u003cspan class=\"red\"\u003e\" إن \"\u003c/span\u003e نافية ، و \u003cspan class=\"red\"\u003e\" لما \"\u003c/span\u003e بمعنى \u003cspan class=\"red\"\u003e\" إلا \"\u003c/span\u003e تقديره : وما كل إلا جميع لدينا محضرون ، ومعنى القراءتين واحد ، والله أعلم .\u003c/p\u003e"
+}

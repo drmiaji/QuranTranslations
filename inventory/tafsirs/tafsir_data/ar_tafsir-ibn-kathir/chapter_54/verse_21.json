@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "54:21":  {
+                                 "id":  4867
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eأي فعاقبتهم فكيف كان عقابي لهم على كفرهم بي وتكذيبهم رسولي.\u003c/p\u003e"
+}

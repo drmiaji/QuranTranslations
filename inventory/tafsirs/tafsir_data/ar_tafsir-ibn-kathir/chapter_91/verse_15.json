@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "91:15":  {
+                                 "id":  6058
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا يخاف عقباها )\u003c/span\u003e وقرئ : \u003cspan class=\"red\"\u003e\" فلا يخاف عقباها \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن عباس : لا يخاف الله من أحد تبعة . وكذا قال مجاهد ، والحسن ، وبكر بن عبد الله المزني ، وغيرهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الضحاك والسدي : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا يخاف عقباها )\u003c/span\u003e أي : لم يخف الذي عقرها عاقبة ما صنع . والقول الأول أولى ; لدلالة السياق عليه ، والله أعلم .\u003c/p\u003e\u003cp\u003eآخر تفسير \u003cspan class=\"red\"\u003e\" والشمس وضحاها \"\u003c/span\u003e .\u003c/p\u003e"
+}

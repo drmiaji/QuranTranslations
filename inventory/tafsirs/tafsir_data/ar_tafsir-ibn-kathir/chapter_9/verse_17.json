@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:17":  {
+                                "id":  1252
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : ما ينبغي للمشركين بالله أن يعمروا مساجد الله التي بنيت على اسمه وحده لا شريك له .\u003cspan class=\"blue\"\u003e ومن قرأ :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" مسجد الله \"\u003c/span\u003e فأراد به المسجد الحرام ، أشرف المساجد في الأرض ، الذي بني من أول يوم على عبادة الله وحده لا شريك له . وأسسه خليل الرحمن هذا ، وهم شاهدون على أنفسهم بالكفر ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e بحالهم وقالهم ،\u003cspan class=\"blue\"\u003e كما قال السدي :\u003c/span\u003e لو سألت النصراني : ما دينك ؟\u003cspan class=\"blue\"\u003e لقال :\u003c/span\u003e نصراني ،\u003cspan class=\"blue\"\u003e واليهودي :\u003c/span\u003e ما دينك ؟ لقال يهودي ،\u003cspan class=\"blue\"\u003e والصابئي لقال :\u003c/span\u003e صابئي ،\u003cspan class=\"blue\"\u003e والمشرك لقال :\u003c/span\u003e مشرك .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك حبطت أعمالهم )\u003c/span\u003e أي : بشركهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وفي النار هم خالدون )\u003c/span\u003e كما قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما لهم ألا يعذبهم الله وهم يصدون عن المسجد الحرام وما كانوا أولياءه إن أولياؤه إلا المتقون ولكن أكثرهم لا يعلمون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنفال : 34 ]\u003c/span\u003e ؛\u003cspan class=\"blue\"\u003e ولهذا قال :\u003c/span\u003e\u003c/p\u003e"
+}

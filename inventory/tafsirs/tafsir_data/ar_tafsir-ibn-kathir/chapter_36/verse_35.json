@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "36:35":  {
+                                 "id":  3740
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ليأكلوا من ثمره )\u003c/span\u003e لما امتن على خلقه بإيجاد الزروع لهم عطف بذكر الثمار وتنوعها وأصنافها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما عملته أيديهم )\u003c/span\u003e أي : وما ذاك كله إلا من رحمة الله بهم ، لا بسعيهم ولا كدهم ، ولا بحولهم وقوتهم .\u003cspan class=\"blue\"\u003e قاله ابن عباس وقتادة ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أفلا يشكرون )\u003c/span\u003e ؟\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e فهلا يشكرونه على ما أنعم به عليهم من هذه النعم التي لا تعد ولا تحصى ؟ واختار ابن جرير - بل جزم به ، ولم يحك غيره إلا احتمالا - أن \u003cspan class=\"red\"\u003e\" ما \"\u003c/span\u003e في قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما عملته أيديهم )\u003c/span\u003e بمعنى : \u003cspan class=\"red\"\u003e\" الذي \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e تقديره :\u003c/span\u003e ليأكلوا من ثمره ومما عملته أيديهم ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e غرسوه ونصبوه ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e وهي كذلك في قراءة ابن مسعود \u003cspan class=\"arabic qpc-hafs\"\u003e( ليأكلوا من ثمره وما عملته أيديهم أفلا يشكرون )\u003c/span\u003e .\u003c/p\u003e"
+}

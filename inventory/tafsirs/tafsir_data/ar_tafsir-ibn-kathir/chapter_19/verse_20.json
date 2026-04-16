@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:20":  {
+                                 "id":  2270
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قالت أنى يكون لي غلام ولم يمسسني بشر ولم أك بغيا )\u003c/span\u003e أي : فتعجبت مريم من هذا وقالت : كيف يكون لي غلام ؟\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e على أي صفة يوجد هذا الغلام مني ، ولست بذات زوج ،\u003cspan class=\"blue\"\u003e ولا يتصور مني الفجور ; ولهذا قالت :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولم يمسسني بشر ولم أك بغيا )\u003c/span\u003e والبغي : هي الزانية; ولهذا جاء في الحديث : نهي عن مهر البغي .\u003c/p\u003e"
+}

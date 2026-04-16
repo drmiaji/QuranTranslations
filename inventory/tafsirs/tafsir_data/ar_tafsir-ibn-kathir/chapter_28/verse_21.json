@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "28:21":  {
+                                 "id":  3273
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eلما أخبره ذلك الرجل بما تمالأ عليه فرعون ودولته في أمره ، خرج من مصر وحده ، ولم يألف ذلك قلبه ، بل كان في رفاهية ونعمة ورئاسة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فخرج منها خائفا يترقب )\u003c/span\u003e أي : يتلفت \u003cspan class=\"arabic qpc-hafs\"\u003e( قال رب نجني من القوم الظالمين )\u003c/span\u003e أي : من فرعون وملئه . فذكروا أن الله ، سبحانه وتعالى ، بعث له ملكا على فرس ، فأرشده إلى الطريق ، فالله أعلم .\u003c/p\u003e"
+}

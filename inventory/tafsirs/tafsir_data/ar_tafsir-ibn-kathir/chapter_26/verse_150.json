@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:150":  {
+                                  "id":  3082
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( فاتقوا الله وأطيعون )\u003c/span\u003e أي : أقبلوا على عمل ما يعود نفعه عليكم في الدنيا والآخرة ، من عبادة ربكم الذي خلقكم ورزقكم لتوحدوه وتعبدوه وتسبحوه بكرة وأصيلا .\u003c/p\u003e"
+}

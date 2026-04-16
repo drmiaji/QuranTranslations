@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:86":  {
+                                 "id":  2336
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله \u003cspan class=\"red\"\u003e\"ونسوق المجرمين إلى جهنم وردا\"\u003c/span\u003e أي عطاشا.\u003c/p\u003e"
+}

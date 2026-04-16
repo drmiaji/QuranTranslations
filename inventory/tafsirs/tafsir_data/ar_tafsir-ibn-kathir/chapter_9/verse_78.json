@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:78":  {
+                                "id":  1313
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ألم يعلموا أن الله يعلم سرهم ونجواهم وأن الله علام الغيوب )\u003c/span\u003e يخبرهم تعالى أنه يعلم السر وأخفى ، وأنه أعلم بضمائرهم وإن أظهروا أنه إن حصل لهم أموال تصدقوا منها وشكروا عليها ، فإنه أعلم بهم من أنفسهم ؛ لأنه تعالى علام الغيوب ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e يعلم كل غيب وشهادة ، وكل سر ونجوى ، ويعلم ما ظهر وما بطن .\u003c/p\u003e"
+}

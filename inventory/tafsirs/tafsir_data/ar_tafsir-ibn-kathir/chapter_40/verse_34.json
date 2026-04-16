@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:34":  {
+                                 "id":  4167
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولقد جاءكم يوسف من قبل بالبينات )\u003c/span\u003e يعني : أهل مصر ، قد بعث الله فيهم رسولا من قبل موسى ، وهو يوسف - عليه السلام - كان عزيز أهل مصر ، وكان رسولا يدعو إلى الله أمته القبط ،\u003cspan class=\"blue\"\u003e فما أطاعوه تلك الساعة إلا لمجرد الوزارة والجاه الدنيوي ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فما زلتم في شك مما جاءكم به حتى إذا هلك قلتم لن يبعث الله من بعده رسولا )\u003c/span\u003e أي : يئستم فقلتم طامعين : \u003cspan class=\"arabic qpc-hafs\"\u003e( لن يبعث الله من بعده رسولا )\u003c/span\u003e وذلك لكفرهم وتكذيبهم \u003cspan class=\"arabic qpc-hafs\"\u003e( كذلك يضل الله من هو مسرف مرتاب )\u003c/span\u003e أي : كحالكم هذا .\u003c/p\u003e"
+}

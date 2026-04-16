@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:52":  {
+                                 "id":  4110
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أولم يعلموا أن الله يبسط الرزق لمن يشاء ويقدر )\u003c/span\u003e أي : يوسعه على قوم ويضيقه على آخرين ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن في ذلك لآيات لقوم يؤمنون )\u003c/span\u003e أي : لعبرا وحججا .\u003c/p\u003e"
+}

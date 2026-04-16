@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "18:100":  {
+                                  "id":  2240
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عما يفعله بالكفار يوم القيامة : إنه يعرض عليهم جهنم ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e يبرزها لهم ويظهرها ، ليروا ما فيها من العذاب والنكال قبل دخولها ، ليكون ذلك أبلغ في تعجيل الهم والحزن لهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوفي صحيح مسلم ،\u003cspan class=\"blue\"\u003e عن ابن مسعود قال :\u003c/span\u003e قال رسول الله صلى الله عليه وسلم : \" يؤتى بجهنم تقاد يوم القيامة بسبعين ألف زمام ، مع كل زمام سبعون ألف ملك يجرونها\u003c/p\u003e"
+}

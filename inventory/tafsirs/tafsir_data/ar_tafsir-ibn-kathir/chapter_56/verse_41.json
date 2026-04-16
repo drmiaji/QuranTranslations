@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "56:41":  {
+                                 "id":  5020
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eلما ذكر تعالى حال أصحاب اليمين عطف عليهم بذكر أصحاب الشمال فقال \u003cspan class=\"red\"\u003e\"وأصحاب الشمال ما أصحاب الشمال\"\u003c/span\u003e أي شيء هم فيه أصحاب الشمال؟.\u003c/p\u003e"
+}

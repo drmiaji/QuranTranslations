@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "80:21":  {
+                                 "id":  5779
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( ثم أماته فأقبره )\u003c/span\u003e أي إنه بعد خلقه له \u003cspan class=\"arabic qpc-hafs\"\u003e( أماته فأقبره )\u003c/span\u003e أي جعله ذا قبر والعرب تقول قبرت الرجل إذا ولي ذلك منه وأقبره الله وعضبت قرن الثور ، وأعضبه الله وبترت ذنب البعير وأبتره الله وطردت عني فلانا وأطرده الله ، أي جعله طريدا قال الأعشى\u003c/p\u003e\u003cp\u003eلو أسندت ميتا إلى نحرها عاش ولم ينقل إلى قابر\u003c/p\u003e"
+}

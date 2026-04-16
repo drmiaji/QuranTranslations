@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "40:23":  {
+                                 "id":  4156
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مسليا لنبيه - صلى الله عليه وسلم - في تكذيب من كذبه من قومه ، ومبشرا له بأن العاقبة والنصرة له في الدنيا والآخرة ، كما جرى لموسى بن عمران ، فإن الله تعالى أرسله بالآيات البينات ،\u003cspan class=\"blue\"\u003e والدلائل الواضحات ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( بآياتنا وسلطان مبين )\u003c/span\u003e والسلطان هو : الحجة والبرهان .\u003c/p\u003e"
+}

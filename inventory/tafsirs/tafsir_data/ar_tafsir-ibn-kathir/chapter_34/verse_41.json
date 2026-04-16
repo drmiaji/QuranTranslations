@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "34:41":  {
+                                 "id":  3647
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا تقول الملائكة : \u003cspan class=\"arabic qpc-hafs\"\u003e( سبحانك )\u003c/span\u003e أي : تعاليت وتقدست عن أن يكون معك إله \u003cspan class=\"arabic qpc-hafs\"\u003e( أنت ولينا من دونهم )\u003c/span\u003e أي : نحن عبيدك ونبرأ إليك من هؤلاء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( بل كانوا يعبدون الجن )\u003c/span\u003e يعنون : الشياطين; لأنهم هم الذين يزينون لهم عبادة الأوثان ويضلونهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أكثرهم بهم مؤمنون )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إن يدعون من دونه إلا إناثا وإن يدعون إلا شيطانا مريدا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النساء : 117 ]\u003c/span\u003e .\u003c/p\u003e"
+}

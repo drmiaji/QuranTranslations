@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "9:43":  {
+                                "id":  1278
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن أبي حاتم : حدثنا أبي ، حدثنا أبو حصين بن \u003cspan class=\"reference brown\"\u003e[ يحيى بن ]\u003c/span\u003e سليمان الرازي ، حدثنا سفيان بن عيينة ،\u003cspan class=\"blue\"\u003e عن مسعر عن عون قال :\u003c/span\u003e هل سمعتم بمعاتبة أحسن من هذا ؟\u003cspan class=\"blue\"\u003e بدأ بالعفو قبل المعاتبة فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( عفا الله عنك لم أذنت لهم )\u003c/span\u003e وكذا قال مورق العجلي وغيره .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال قتادة : عاتبه كما تسمعون ، ثم أنزل التي في سورة النور ،\u003cspan class=\"blue\"\u003e فرخص له في أن يأذن لهم إن شاء :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فإذا استأذنوك لبعض شأنهم فأذن لمن شئت منهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النور : 62 ]\u003c/span\u003e وكذا روي عن عطاء الخراساني .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال مجاهد : نزلت هذه الآية في أناس قالوا : استأذنوا رسول الله ، فإن أذن لكم فاقعدوا ، وإن لم يأذن لكم فاقعدوا .\u003c/p\u003e\u003cp\u003eولهذا قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( حتى يتبين لك الذين صدقوا )\u003c/span\u003e أي : في إبداء الأعذار ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وتعلم الكاذبين )\u003c/span\u003e\u003c/p\u003e"
+}

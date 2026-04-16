@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:35":  {
+                                "id":  328
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eامرأة عمران هذه أم مريم \u003cspan class=\"reference brown\"\u003e[ بنت عمران ]\u003c/span\u003e عليها السلام وهي حنة بنت فاقوذ ،\u003cspan class=\"blue\"\u003e قال محمد بن إسحاق :\u003c/span\u003e وكانت امرأة لا تحمل ، فرأت يوما طائرا يزق فرخه ، فاشتهت الولد ، فدعت الله ، عز وجل ، أن يهبها ولدا ، فاستجاب الله دعاءها ، فواقعها زوجها ، فحملت منه ، فلما تحققت الحمل نذرته أن يكون \u003cspan class=\"arabic qpc-hafs\"\u003e( محررا )\u003c/span\u003e أي : خالصا مفرغا للعبادة ، ولخدمة بيت المقدس ،\u003cspan class=\"blue\"\u003e فقالت :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( رب إني نذرت لك ما في بطني محررا فتقبل مني إنك أنت السميع العليم )\u003c/span\u003e أي : السميع لدعائي ، العليم بنيتي ، ولم تكن تعلم ما في بطنها أذكرا أم أنثى ؟\u003c/p\u003e"
+}

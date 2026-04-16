@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "22:74":  {
+                                 "id":  2669
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ما قدروا الله حق قدره )\u003c/span\u003e أي : ما عرفوا قدر الله وعظمته حين عبدوا معه غيره ، من هذه التي لا تقاوم الذباب لضعفها وعجزها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله لقوي عزيز )\u003c/span\u003e أي : هو القوي الذي بقدرته وقوته خلق كل شيء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي يبدأ الخلق ثم يعيده وهو أهون عليه )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الروم : 27 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن بطش ربك لشديد . إنه هو يبدئ ويعيد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البروج : 12 ، 13 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله هو الرزاق ذو القوة المتين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الذاريات : 58 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( عزيز )\u003c/span\u003e أي : قد عز كل شيء فقهره وغلبه ، فلا يمانع ولا يغالب ، لعظمته وسلطانه ، وهو الواحد القهار .\u003c/p\u003e"
+}

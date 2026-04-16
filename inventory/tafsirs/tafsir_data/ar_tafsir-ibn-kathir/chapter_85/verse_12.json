@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "85:12":  {
+                                 "id":  5921
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eأي إن بطشه وانتقامه من أعدائه الذين كذبوا رسله وخالفوا أمره لشديد عظيم قوي فإنه تعالى ذو القوة المتين الذي ما شاء كان كما يشاء في مثل لمح البصر أو هو أقرب.\u003c/p\u003e"
+}

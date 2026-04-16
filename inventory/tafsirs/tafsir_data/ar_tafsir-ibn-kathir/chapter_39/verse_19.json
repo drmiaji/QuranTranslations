@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:19":  {
+                                 "id":  4077
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : أفمن كتب الله أنه شقي تقدر تنقذه مما هو فيه من الضلال والهلاك ؟\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e لا يهديه أحد من بعد الله ; لأنه من يضلل الله فلا هادي له ، ومن يهده فلا مضل له .\u003c/p\u003e"
+}

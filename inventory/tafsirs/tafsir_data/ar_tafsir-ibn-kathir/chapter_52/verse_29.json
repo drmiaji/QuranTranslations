@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "52:29":  {
+                                 "id":  4764
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى آمرا رسوله صلوات الله وسلامه عليه ، بأن يبلغ رسالته إلى عباده ، وأن يذكرهم بما أنزل الله عليه .\u003cspan class=\"blue\"\u003e ثم نفى عنه ما يرميه به أهل البهتان والفجور فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فذكر فما أنت بنعمة ربك بكاهن ولا مجنون )\u003c/span\u003e أي : لست بحمد الله بكاهن كما تقوله الجهلة من كفار قريش .\u003cspan class=\"blue\"\u003e والكاهن :\u003c/span\u003e الذي يأتيه الرئي من الجان بالكلمة يتلقاها من خبر السماء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا مجنون )\u003c/span\u003e : وهو الذي يتخبطه الشيطان من المس .\u003c/p\u003e"
+}

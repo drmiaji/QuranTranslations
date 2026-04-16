@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "69:45":  {
+                                 "id":  5368
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( لأخذنا منه باليمين )\u003c/span\u003e قيل : معناه لانتقمنا منه باليمين ; لأنها أشد في البطش ،\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e لأخذنا منه بيمينه .\u003c/p\u003e"
+}

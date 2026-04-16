@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:149":  {
+                                  "id":  3081
+                              }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وتنحتون من الجبال بيوتا فارهين )\u003c/span\u003e قال ابن عباس ،\u003cspan class=\"blue\"\u003e وغير واحد :\u003c/span\u003e يعني : حاذقين .\u003cspan class=\"blue\"\u003e وفي رواية عنه :\u003c/span\u003e شرهين أشرين . وهو اختيار مجاهد وجماعة . ولا منافاة بينهما ; فإنهم كانوا يتخذون تلك البيوت المنحوتة في الجبال أشرا وبطرا وعبثا ، من غير حاجة إلى سكناها ، وكانوا حاذقين متقنين لنحتها ونقشها ، كما هو المشاهد من حالهم لمن رأى منازلهم ;\u003c/p\u003e"
+}

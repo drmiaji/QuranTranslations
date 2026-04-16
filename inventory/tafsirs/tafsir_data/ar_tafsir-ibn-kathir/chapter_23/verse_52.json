@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "23:52":  {
+                                 "id":  2725
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن هذه أمتكم أمة واحدة )\u003c/span\u003e أي : دينكم يا معشر الأنبياء دين واحد ، وملة واحدة ،\u003cspan class=\"blue\"\u003e وهو الدعوة إلى عبادة الله وحده لا شريك له; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وأنا ربكم فاتقون )\u003c/span\u003e ، وقد تقدم الكلام على ذلك في سورة \u003cspan class=\"red\"\u003e\" الأنبياء \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وأن قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أمة واحدة )\u003c/span\u003e منصوب على الحال .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:27":  {
+                                 "id":  4811
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى منكرا على المشركين في تسميتهم الملائكة تسمية الأنثى ، وجعلهم لها أنها بنات الله ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وجعلوا الملائكة الذين هم عباد الرحمن إناثا أشهدوا خلقهم ستكتب شهادتهم ويسألون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزخرف : 19 ]\u003c/span\u003e ; ولهذا قال :\u003c/p\u003e"
+}

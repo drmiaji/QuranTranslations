@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:64":  {
+                                 "id":  4389
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله هو ربي وربكم فاعبدوه هذا صراط مستقيم )\u003c/span\u003e أي : أنا وأنتم عبيد له ، فقراء إليه ، مشتركون في عبادته وحده لا شريك له ، \u003cspan class=\"arabic qpc-hafs\"\u003e( هذا صراط مستقيم )\u003c/span\u003e أي : هذا الذي جئتكم به هو الصراط المستقيم ، وهو عبادة الرب ، عز وجل ، وحده .\u003c/p\u003e"
+}

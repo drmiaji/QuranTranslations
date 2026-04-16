@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:72":  {
+                                 "id":  2555
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ووهبنا له إسحاق ويعقوب نافلة )\u003c/span\u003e قال عطاء ،\u003cspan class=\"blue\"\u003e ومجاهد :\u003c/span\u003e عطية .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن عباس ، وقتادة ،\u003cspan class=\"blue\"\u003e والحكم بن عيينة :\u003c/span\u003e النافلة ولد الولد ،\u003cspan class=\"blue\"\u003e يعني :\u003c/span\u003e أن يعقوب ولد إسحاق ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فبشرناها بإسحاق ومن وراء إسحاق يعقوب )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 71 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال عبد الرحمن بن زيد بن أسلم : سأل واحدا فقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( رب هب لي من الصالحين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الصافات : 100 ]\u003c/span\u003e ، فأعطاه الله إسحاق وزاده يعقوب نافلة . \u003cspan class=\"arabic qpc-hafs\"\u003e( وكلا جعلنا صالحين )\u003c/span\u003e أي : الجميع أهل خير وصلاح\u003c/p\u003e"
+}

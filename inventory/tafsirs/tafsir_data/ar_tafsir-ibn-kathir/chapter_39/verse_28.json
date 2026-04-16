@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "39:28":  {
+                                 "id":  4086
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قرءانا عربيا غير ذي عوج )\u003c/span\u003e أي : هو قرآن بلسان عربي مبين ، لا اعوجاج فيه ولا انحراف ولا لبس ، بل هو بيان ووضوح وبرهان ، وإنما جعله الله \u003cspan class=\"reference brown\"\u003e[ عز وجل ]\u003c/span\u003e كذلك ، وأنزله بذلك \u003cspan class=\"arabic qpc-hafs\"\u003e( لعلهم يتقون )\u003c/span\u003e أي : يحذرون ما فيه من الوعيد ، ويعملون بما فيه من الوعد .\u003c/p\u003e"
+}

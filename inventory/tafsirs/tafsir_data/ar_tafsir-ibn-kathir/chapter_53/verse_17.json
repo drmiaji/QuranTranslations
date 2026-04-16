@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:17":  {
+                                 "id":  4801
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ما زاغ البصر وما طغى )\u003c/span\u003e قال ابن عباس : ما ذهب يمينا ولا شمالا \u003cspan class=\"arabic qpc-hafs\"\u003e( وما طغى )\u003c/span\u003e ما جاوز ما أمر به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذه صفة عظيمة في الثبات والطاعة ، فإنه ما فعل إلا ما أمر به ، ولا سأل فوق ما أعطي .\u003cspan class=\"blue\"\u003e وما أحسن ما قال الناظم :\u003c/span\u003e\u003c/p\u003e\u003cp\u003eرأى جنة المأوى وما فوقها ، ولو     رأى غيره ما قد رآه لتاها\u003c/p\u003e"
+}

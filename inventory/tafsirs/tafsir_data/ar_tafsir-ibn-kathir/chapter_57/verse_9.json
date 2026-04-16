@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "57:9":  {
+                                "id":  5084
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( هو الذي ينزل على عبده آيات بينات )\u003c/span\u003e أي : حججا واضحات ، ودلائل باهرات ، وبراهين قاطعات ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ليخرجكم من الظلمات إلى النور )\u003c/span\u003e أي : من ظلمات الجهل والكفر والآراء المتضادة إلى نور الهدى واليقين والإيمان ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن الله بكم لرءوف رحيم )\u003c/span\u003e أي : في إنزاله الكتب وإرساله الرسل لهداية الناس ، وإزاحة العلل وإزالة الشبه .\u003c/p\u003e\u003cp\u003eولما أمرهم أولا بالإيمان والإنفاق ، ثم حثهم على الإيمان ، وبين أنه قد أزال عنهم موانعه ، حثهم أيضا على الإنفاق .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "10:53":  {
+                                 "id":  1417
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : ويستخبرونك \u003cspan class=\"arabic qpc-hafs\"\u003e( أحق هو )\u003c/span\u003e أي : المعاد والقيامة من الأجداث بعد صيرورة الأجسام ترابا . \u003cspan class=\"arabic qpc-hafs\"\u003e( قل إي وربي إنه لحق وما أنتم بمعجزين )\u003c/span\u003e أي : ليس صيرورتكم ترابا بمعجز الله عن إعادتكم كما بدأكم من العدم : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنما أمره إذا أراد شيئا أن يقول له كن فيكون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يس : 82 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذه الآية ليس لها نظير في القرآن إلا آيتان أخريان ،\u003cspan class=\"blue\"\u003e يأمر الله تعالى رسوله أن يقسم به على من أنكر المعاد في سورة سبأ :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وقال الذين كفروا لا تأتينا الساعة قل بلى وربي لتأتينكم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ سبأ : 3 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وفي التغابن :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( زعم الذين كفروا أن لن يبعثوا قل بلى وربي لتبعثن ثم لتنبؤن بما عملتم وذلك على الله يسير )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ التغابن : 7 ]\u003c/span\u003e .\u003c/p\u003e"
+}

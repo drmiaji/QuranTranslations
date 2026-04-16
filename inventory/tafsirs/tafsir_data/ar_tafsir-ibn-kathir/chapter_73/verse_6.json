@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "73:6":  {
+                                "id":  5481
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن ناشئة الليل هي أشد وطئا وأقوم قيلا )\u003c/span\u003e قال أبو إسحاق ، عن سعيد بن جبير ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e نشأ : قام بالحبشة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال عمر وابن عباس وابن الزبير : الليل كله ناشئة . وكذا قال مجاهد وغير واحد ،\u003cspan class=\"blue\"\u003e يقال :\u003c/span\u003e نشأ : إذا قام من الليل .\u003cspan class=\"blue\"\u003e وفي رواية عن مجاهد :\u003c/span\u003e بعد العشاء . وكذا قال أبو مجلز وقتادة وسالم وأبو حازم ومحمد بن المنكدر .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوالغرض أن ناشئة الليل هي : ساعاته وأوقاته ، وكل ساعة منه تسمى ناشئة ، وهي الآنات . والمقصود أن قيام الليل هو أشد مواطأة بين القلب واللسان ،\u003cspan class=\"blue\"\u003e وأجمع على التلاوة ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( هي أشد وطئا وأقوم قيلا )\u003c/span\u003e أي : أجمع للخاطر في أداء القراءة وتفهمها من قيام النهار ; لأنه وقت انتشار الناس ولغط الأصوات وأوقات المعاش .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"reference brown\"\u003e[ وقد ]\u003c/span\u003e قال الحافظ أبو يعلى الموصلي : حدثنا إبراهيم بن سعيد الجوهري ، حدثنا أبو أسامة ، حدثنا الأعمش ،\u003cspan class=\"blue\"\u003e أن أنس بن مالك قرأ هذه الآية :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن ناشئة الليل هي أشد وطئا وأصوب قيلا \"\u003c/span\u003e فقال له رجل : إنما نقرؤها \u003cspan class=\"arabic qpc-hafs\"\u003e( وأقوم قيلا )\u003c/span\u003e فقال له : إن أصوب وأقوم وأهيأ وأشباه هذا واحد .\u003c/p\u003e"
+}

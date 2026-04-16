@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:82":  {
+                                 "id":  4407
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( سبحان رب السموات والأرض رب العرش عما يصفون )\u003c/span\u003e أي : تعالى وتقدس وتنزه خالق الأشياء عن أن يكون له ولد ، فإنه فرد أحد صمد ، لا نظير له ولا كفء له ، فلا ولد له .\u003c/p\u003e"
+}

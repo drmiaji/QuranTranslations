@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "21:45":  {
+                                 "id":  2528
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل إنما أنذركم بالوحي )\u003c/span\u003e أي : إنما أنا مبلغ عن الله ما أنذركم به من العذاب والنكال ، ليس ذلك إلا عما أوحاه الله إلي ، ولكن لا يجدي هذا عمن أعمى الله بصيرته ،\u003cspan class=\"blue\"\u003e وختم على سمعه وقلبه; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا يسمع الصم الدعاء إذا ما ينذرون )\u003c/span\u003e .\u003c/p\u003e"
+}

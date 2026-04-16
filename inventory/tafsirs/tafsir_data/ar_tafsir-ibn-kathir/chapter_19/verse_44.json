@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "19:44":  {
+                                 "id":  2294
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( يا أبت لا تعبد الشيطان )\u003c/span\u003e أي : لا تطعه في عبادتك هذه الأصنام ، فإنه هو الداعي إلى ذلك ، والراضي به ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ألم أعهد إليكم يا بني آدم أن لا تعبدوا الشيطان )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يس : 60 ]\u003c/span\u003e وقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن يدعون من دونه إلا إناثا وإن يدعون إلا شيطانا مريدا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النساء : 117 ]\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الشيطان كان للرحمن عصيا )\u003c/span\u003e أي : مخالفا مستكبرا عن طاعة ربه ، فطرده وأبعده ، فلا تتبعه تصر مثله .\u003c/p\u003e"
+}

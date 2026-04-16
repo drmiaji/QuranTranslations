@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "43:17":  {
+                                 "id":  4342
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم ذكر تمام الإنكار فقال : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا بشر أحدهم بما ضرب للرحمن مثلا ظل وجهه مسودا وهو كظيم )\u003c/span\u003e أي : إذا بشر أحد هؤلاء بما جعلوه لله من البنات يأنف من ذلك غاية الأنفة ، وتعلوه كآبة من سوء ما بشر به ، ويتوارى من القوم من خجله من ذلك ،\u003cspan class=\"blue\"\u003e يقول تعالى :\u003c/span\u003e فكيف تأنفون أنتم من ذلك ، وتنسبونه إلى الله عز وجل ؟ .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "15:65":  {
+                                 "id":  1867
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيذكر تعالى عن الملائكة أنهم أمروه أن يسري بأهله بعد مضي جانب من الليل ، وأن يكون لوط - عليه السلام - يمشي وراءهم ، ليكون أحفظ لهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا كان رسول الله - صلى الله عليه وسلم - يمشي في الغزاة بما كان يكون ساقة ، يزجي الضعيف ، ويحمل المنقطع\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا يلتفت منكم أحد )\u003c/span\u003e أي : إذا سمعتم الصيحة بالقوم فلا تلتفتوا إليهم ، وذروهم فيما حل بهم من العذاب والنكال ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وامضوا حيث تؤمرون )\u003c/span\u003e كأنه كان معهم من يهديهم السبيل .\u003c/p\u003e"
+}

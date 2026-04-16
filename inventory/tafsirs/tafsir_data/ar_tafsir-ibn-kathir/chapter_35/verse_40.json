@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "35:40":  {
+                                 "id":  3700
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى لرسوله صلى الله عليه وسلم أن يقول للمشركين : \u003cspan class=\"arabic qpc-hafs\"\u003e( أرأيتم شركاءكم الذين تدعون من دون الله )\u003c/span\u003e أي : من الأصنام والأنداد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أروني ماذا خلقوا من الأرض أم لهم شرك في السماوات )\u003c/span\u003e أي : ليس لهم شيء من ذلك ، ما يملكون من قطمير .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أم آتيناهم كتابا فهم على بينة منه )\u003c/span\u003e أي : أم أنزلنا عليهم كتابا بما يقولون من الشرك والكفر ؟ ليس الأمر كذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( بل إن يعد الظالمون بعضهم بعضا إلا غرورا )\u003c/span\u003e أي : بل إنما اتبعوا في ذلك أهواءهم وآراءهم وأمانيهم التي تمنوها لأنفسهم ، وهي غرور وباطل وزور .\u003c/p\u003e"
+}

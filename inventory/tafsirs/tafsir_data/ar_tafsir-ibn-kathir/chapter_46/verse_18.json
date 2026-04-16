@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "46:18":  {
+                                 "id":  4528
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك )\u003c/span\u003e بعد قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذي قال )\u003c/span\u003e دليل على ما ذكرناه من أنه جنس يعم كل من كان كذلك .\u003c/p\u003e\u003cp\u003eوقال الحسن وقتادة : هو الكافر الفاجر العاق لوالديه ، المكذب بالبعث .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد روى الحافظ ابن عساكر في ترجمة سهل بن داود ،\u003cspan class=\"blue\"\u003e من طريق هشام بن عمار :\u003c/span\u003e حدثنا حماد بن عبد الرحمن ، حدثنا خالد بن الزبرقان الحلبي ، عن سليمان بن حبيب المحاربي ، عن أبي أمامة الباهلي ، عن النبي - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أربعة لعنهم الله من فوق عرشه ،\u003cspan class=\"blue\"\u003e وأمنت عليهم الملائكة :\u003c/span\u003e مضل المساكين -\u003cspan class=\"blue\"\u003e قال خالد :\u003c/span\u003e الذي يهوي بيده إلى المسكين فيقول : هلم أعطيك ،\u003cspan class=\"blue\"\u003e فإذا جاءه قال :\u003c/span\u003e ليس معي شيء -\u003cspan class=\"blue\"\u003e والذي يقول للمكفوف :\u003c/span\u003e اتق الدابة ، وليس بين يديه شيء . والرجل يسأل عن دار القوم فيدلونه على غيرها ، والذي يضرب الوالدين حتى يستغيثا \"\u003c/span\u003e . غريب جدا .\u003c/p\u003e"
+}

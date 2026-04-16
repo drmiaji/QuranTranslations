@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "11:36":  {
+                                 "id":  1509
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى أنه أوحى إلى نوح لما استعجل قومه نقمة الله بهم وعذابه لهم ،\u003cspan class=\"blue\"\u003e فدعا عليهم نوح دعوته التي قال الله تعالى مخبرا عنه أنه قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( رب لا تذر على الأرض من الكافرين ديارا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ نوح : 26 ]\u003c/span\u003e ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فدعا ربه أني مغلوب فانتصر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القمر : 10 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e فعند ذلك أوحى الله تعالى إليه :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( أنه لن يؤمن من قومك إلا من قد آمن )\u003c/span\u003e فلا تحزن عليهم ولا يهمنك أمرهم .\u003c/p\u003e"
+}

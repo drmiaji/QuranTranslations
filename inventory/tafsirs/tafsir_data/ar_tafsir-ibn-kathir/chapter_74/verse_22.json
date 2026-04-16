@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "74:22":  {
+                                 "id":  5517
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp\u003e\u003cspan class=\"red\"\u003e\"ثم عبس\"\u003c/span\u003e أي قبض بين عينيه وقطب \u003cspan class=\"red\"\u003e\"وبسر\"\u003c/span\u003e أي كلح وكره ومنه قول توبة بن حمير الشاعر:\u003c/p\u003e\u003cp\u003eوقد رابني منها صدود رأيته       وإعراضها عن حاجتي وبسورها.\u003c/p\u003e"
+}

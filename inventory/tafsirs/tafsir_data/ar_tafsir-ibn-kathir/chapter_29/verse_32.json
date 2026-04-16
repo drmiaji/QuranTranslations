@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "29:32":  {
+                                 "id":  3372
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( قال إن فيها لوطا قالوا نحن أعلم بمن فيها لننجينه وأهله إلا امرأته كانت من الغابرين )\u003c/span\u003e أي : من الهالكين ; لأنها كانت تمالئهم على كفرهم وبغيهم ودبرهم\u003c/p\u003e"
+}

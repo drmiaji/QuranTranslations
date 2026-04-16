@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "55:52":  {
+                                 "id":  4953
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال بعد هذا : \u003cspan class=\"arabic qpc-hafs\"\u003e( فيهما من كل فاكهة زوجان )\u003c/span\u003e أي : من جميع أنواع الثمار مما يعلمون وخير مما يعلمون ، ومما لا عين رأت ، ولا أذن سمعت ، ولا خطر على قلب بشر ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فبأي آلاء ربكما تكذبان )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال إبراهيم بن الحكم بن أبان ، عن أبيه ، عن عكرمة ،\u003cspan class=\"blue\"\u003e عن ابن عباس :\u003c/span\u003e ما في الدنيا ثمرة حلوة ولا مرة إلا وهي في الجنة حتى الحنظلة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن عباس : ليس في الدنيا مما في الآخرة إلا الأسماء ،\u003cspan class=\"blue\"\u003e يعني :\u003c/span\u003e أن بين ذلك بونا عظيما ، وفرقا بينا في التفاضل .\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "26:84":  {
+                                 "id":  3016
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( واجعل لي لسان صدق في الآخرين )\u003c/span\u003e أي : واجعل لي ذكرا جميلا بعدي أذكر به ، ويقتدى بي في الخير ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وتركنا عليه في الآخرين . سلام على إبراهيم كذلك نجزي المحسنين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الصافات : 108 - 110 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال مجاهد ،\u003cspan class=\"blue\"\u003e وقتادة :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( واجعل لي لسان صدق في الآخرين )\u003c/span\u003e يعني : الثناء الحسن .\u003cspan class=\"blue\"\u003e قال مجاهد :\u003c/span\u003e وهو كقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وآتيناه أجره في الدنيا وإنه في الآخرة لمن الصالحين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ العنكبوت : 27 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وكقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وآتيناه في الدنيا حسنة وإنه في الآخرة لمن الصالحين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النحل : 122 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eقال ليث بن أبي سليم : كل ملة تحبه وتتولاه . وكذا قال عكرمة .\u003c/p\u003e"
+}

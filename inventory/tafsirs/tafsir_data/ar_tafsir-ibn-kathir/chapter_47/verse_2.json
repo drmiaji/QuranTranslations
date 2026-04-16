@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "47:2":  {
+                                "id":  4547
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين آمنوا وعملوا الصالحات )\u003c/span\u003e أي : آمنت قلوبهم وسرائرهم ، وانقادت جوارحهم وبواطنهم وظواهرهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وآمنوا بما نزل على محمد )\u003c/span\u003e ، عطف خاص على عام ، وهو دليل على أنه شرط في صحة الإيمان بعد بعثته صلوات الله وسلامه عليه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الحق من ربهم )\u003c/span\u003e جملة معترضة حسنة ; ولهذا قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( كفر عنهم سيئاتهم وأصلح بالهم )\u003c/span\u003e قال ابن عباس : أي أمرهم .\u003cspan class=\"blue\"\u003e وقال مجاهد :\u003c/span\u003e شأنهم .\u003cspan class=\"blue\"\u003e وقال قتادة وابن زيد :\u003c/span\u003e حالهم . والكل متقارب .\u003cspan class=\"blue\"\u003e وقد جاء في حديث تشميت العاطس :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" يهديكم الله ويصلح بالكم \"\u003c/span\u003e .\u003c/p\u003e"
+}

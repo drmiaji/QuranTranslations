@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "27:83":  {
+                                 "id":  3242
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن يوم القيامة ، وحشر الظالمين المكذبين بآيات الله ورسله إلى بين يدي الله ، عز وجل ، ليسألهم عما فعلوه في الدار الدنيا ، تقريعا وتوبيخا ،\u003cspan class=\"blue\"\u003e وتصغيرا وتحقيرا فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ويوم نحشر من كل أمة فوجا )\u003c/span\u003e أي : من كل قوم وقرن فوجا ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e جماعة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ممن يكذب بآياتنا )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( احشروا الذين ظلموا وأزواجهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الصافات : 22 ]\u003c/span\u003e ، وقال تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا النفوس زوجت )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ التكوير : 7 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فهم يوزعون )\u003c/span\u003e قال ابن عباس ،\u003cspan class=\"blue\"\u003e رضي الله عنهما :\u003c/span\u003e يدفعون .\u003cspan class=\"blue\"\u003e وقال قتادة :\u003c/span\u003e وزعة ترد أولهم على آخرهم .\u003cspan class=\"blue\"\u003e وقال عبد الرحمن بن زيد بن أسلم :\u003c/span\u003e يساقون .\u003c/p\u003e"
+}

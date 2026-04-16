@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "3:40":  {
+                                "id":  333
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eفلما تحقق زكريا ، عليه السلام ، هذه البشارة أخذ يتعجب من وجود الولد منه بعد الكبر \u003cspan class=\"arabic qpc-hafs\"\u003e( قال رب أنى يكون لي غلام وقد بلغني الكبر وامرأتي عاقر قال )\u003c/span\u003e أي الملك : \u003cspan class=\"arabic qpc-hafs\"\u003e( كذلك الله يفعل ما يشاء )\u003c/span\u003e أي : هكذا أمر الله عظيم ، لا يعجزه شيء ولا يتعاظمه أمر .\u003c/p\u003e"
+}

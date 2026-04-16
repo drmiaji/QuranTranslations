@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "17:54":  {
+                                 "id":  2083
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول الله تعالى \u003cspan class=\"arabic qpc-hafs\"\u003e( ربكم أعلم بكم )\u003c/span\u003e أيها الناس من يستحق منكم الهداية ومن لا يستحق \u003cspan class=\"arabic qpc-hafs\"\u003e( إن يشأ يرحمكم )\u003c/span\u003e بأن يوفقكم لطاعته والإنابة إليه \u003cspan class=\"arabic qpc-hafs\"\u003e( أو إن يشأ يعذبكم وما أرسلناك )\u003c/span\u003e يا محمد \u003cspan class=\"arabic qpc-hafs\"\u003e( عليهم وكيلا )\u003c/span\u003e أي إنما أرسلناك نذيرا فمن أطاعك دخل الجنة ومن عصاك دخل النار\u003c/p\u003e"
+}

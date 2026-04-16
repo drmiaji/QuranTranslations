@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "5:25":  {
+                                "id":  694
+                            }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قال رب إني لا أملك إلا نفسي وأخي فافرق بيننا وبين القوم الفاسقين )\u003c/span\u003e يعني : لما نكل بنو إسرائيل عن القتال غضب عليهم موسى عليه السلام ،\u003cspan class=\"blue\"\u003e وقال داعيا عليهم :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( رب إني لا أملك إلا نفسي وأخي )\u003c/span\u003e أي : ليس أحد يطيعني منهم فيمتثل أمر الله ، ويجيب إلى ما دعوت إليه إلا أنا وأخي هارون \u003cspan class=\"arabic qpc-hafs\"\u003e( فافرق بيننا وبين القوم الفاسقين )\u003c/span\u003e قال العوفي عن ابن عباس : يعني اقض بيني وبينهم . وكذا قال علي بن أبي طلحة عن ابن عباس .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوكذا قال الضحاك : اقض بيننا وبينهم ، وافتح بيننا وبينهم ،\u003cspan class=\"blue\"\u003e وقال غيره :\u003c/span\u003e افرق : افصل بيننا وبينهم ،\u003cspan class=\"blue\"\u003e كما قال الشاعر :\u003c/span\u003e\u003c/p\u003e\u003cp\u003eيا رب فافرق بينه وبيني أشد ما فرقت بين اثنين\u003c/p\u003e"
+}

@@ -1,0 +1,16 @@
+﻿{
+    "verses":  {
+                   "53:28":  {
+                                 "id":  4812
+                             }
+               },
+    "resource_id":  14,
+    "resource_name":  "ابن كثير",
+    "language_id":  9,
+    "slug":  "ar-tafsir-ibn-kathir",
+    "translated_name":  {
+                            "name":  "Tafsir Ibn Kathir",
+                            "language_name":  "english"
+                        },
+    "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وما لهم به من علم )\u003c/span\u003e أي : ليس لهم علم صحيح يصدق ما قالوه ، بل هو كذب وزور وافتراء ، وكفر شنيع . \u003cspan class=\"arabic qpc-hafs\"\u003e( إن يتبعون إلا الظن وإن الظن لا يغني من الحق شيئا )\u003c/span\u003e أي : لا يجدي شيئا ، ولا يقوم أبدا مقام الحق . وقد ثبت في الصحيح أن رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إياكم والظن ، فإن الظن أكذب الحديث \"\u003c/span\u003e .\u003c/p\u003e"
+}
